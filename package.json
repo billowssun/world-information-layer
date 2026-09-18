@@ -1,0 +1,16 @@
+{
+  "name": "world-information-hub",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "node scripts/collect.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "refresh": "npm run collect && npm run build"
+  },
+  "dependencies": {
+    "rss-parser": "3.13.0",
+    "robots-parser": "3.0.1"
+  }
+}

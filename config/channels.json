@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "technology",
+    "name": "科技与 AI",
+    "description": "AI、互联网、软件和科研动态"
+  },
+  {
+    "slug": "consumer-tech",
+    "name": "数码家电",
+    "description": "手机、电脑、家电与消费电子"
+  },
+  {
+    "slug": "mobility",
+    "name": "汽车出行",
+    "description": "汽车、交通与出行服务"
+  },
+  {
+    "slug": "travel",
+    "name": "旅游",
+    "description": "目的地、旅行与文旅动态"
+  },
+  {
+    "slug": "local-life",
+    "name": "本地生活",
+    "description": "城市服务与社会生活"
+  },
+  {
+    "slug": "food",
+    "name": "美食食品",
+    "description": "餐饮、食品与饮食文化"
+  },
+  {
+    "slug": "home",
+    "name": "家居生活",
+    "description": "居住、家装与生活方式"
+  },
+  {
+    "slug": "education",
+    "name": "教育",
+    "description": "学校、考试与学习"
+  },
+  {
+    "slug": "career",
+    "name": "职场就业",
+    "description": "招聘、就业与职业发展"
+  },
+  {
+    "slug": "entertainment",
+    "name": "娱乐文化",
+    "description": "影视、游戏、艺术与文化"
+  },
+  {
+    "slug": "health",
+    "name": "健康",
+    "description": "公共健康与医疗行业来源链接"
+  },
+  {
+    "slug": "finance",
+    "name": "财经商业",
+    "description": "经济、企业与金融行业来源链接"
+  },
+  {
+    "slug": "sports",
+    "name": "体育",
+    "description": "赛事与体育产业"
+  }
+]

@@ -1,0 +1,56 @@
+name: Refresh and publish
+on:
+  push:
+    branches: [main]
+    paths-ignore: ["data/**", "README.md"]
+  workflow_dispatch:
+  schedule:
+    - cron: "7,37 * * * *"
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: information-hub-refresh
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - name: Collect official public feeds
+        run: npm run collect
+      - name: Persist source metadata and last good data
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh public feed metadata [skip ci]"
+            git push
+          fi
+      - name: Configure public hosting
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Render crawlable pages
+        env:
+          SITE_URL: ${{ steps.pages.outputs.base_url }}/
+        run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - name: Publish
+        id: deployment
+        uses: actions/deploy-pages@v4
+
