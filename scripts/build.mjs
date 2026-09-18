@@ -4,7 +4,9 @@ const snapshot=JSON.parse(await readFile("data/snapshot.json","utf8"));
 const sources=JSON.parse(await readFile("config/sources.json","utf8"));
 const channels=JSON.parse(await readFile("config/channels.json","utf8"));
 const site=JSON.parse(await readFile("config/site.json","utf8"));
-const base=(process.env.SITE_URL??site.siteUrl).replace(/\/+$/,"")+"/";
+const deploymentUrl=new URL(process.env.SITE_URL??site.siteUrl);
+deploymentUrl.protocol="https:";
+const base=deploymentUrl.href.replace(/\/+$/,"")+"/";
 const prefix=new URL(base).pathname;
 const items=snapshot.items;const sourceMap=new Map(sources.map(s=>[s.id,s]));
 const href=path=>prefix+path;const absolute=path=>base+path;
@@ -67,4 +69,3 @@ await output("robots.txt","User-agent: *\nAllow: /\n\nSitemap: "+absolute("sitem
 await output(".nojekyll","");
 await output("build-info.json",JSON.stringify({collectedAt:snapshot.collectedAt,records:items.length,healthySources:healthy,sourceCount:sources.length,siteUrl:base,fileCount:written.length+1},null,2));
 console.log("Rendered "+items.length+" real source records, "+channels.length+" channels, "+written.length+" files at "+base);
-
