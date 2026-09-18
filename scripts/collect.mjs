@@ -12,10 +12,10 @@ for(const source of sources.filter(s=>s.enabled)){
  try{
   const origin=new URL(source.feedUrl).origin;
   if(!robotCache.has(origin))robotCache.set(origin,await robotsFor(origin,source.allowedHosts));
-  const prior=statuses[source.id];const response=await collectSource(source,prior,robotCache.get(origin));
+  const prior=statuses[source.id];const response=await collectSource(source,prior?.contentSchema===2?prior:null,robotCache.get(origin));
   if(![200,304].includes(response.status))throw new Error("FEED_HTTP_"+response.status);
   let items=[];if(response.status===200){items=await parseFeed(response.text,source,now);if(!items.length)throw new Error("EMPTY_FEED");incoming.push(...items);}
-  statuses[source.id]={id:source.id,status:"ok",checkedAt:now,lastSuccessAt:now,etag:response.etag??prior?.etag??null,lastModified:response.lastModified??prior?.lastModified??null,discovered:items.length,failures:0,error:null};
+  statuses[source.id]={id:source.id,contentSchema:2,status:"ok",checkedAt:now,lastSuccessAt:now,etag:response.etag??prior?.etag??null,lastModified:response.lastModified??prior?.lastModified??null,discovered:items.length,failures:0,error:null};
   successes++;console.log(source.id+": "+(response.status===304?"not modified":items.length+" records"));
  }catch(e){
   const code=/^[A-Z0-9_]+$/.test(e.message)?e.message:"FETCH_OR_PARSE_FAILED";

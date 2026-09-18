@@ -1,8 +1,19 @@
 import {test} from "node:test";
 import assert from "node:assert/strict";
-import {parseFeed,mergeItems,classify,escape,safeJson,canonicalUrl} from "../src/core.mjs";
+import {parseFeed,mergeItems,classify,escape,safeJson,canonicalUrl,feedExcerpt} from "../src/core.mjs";
 import {publicIPv4} from "../src/fetch.mjs";
 const source={id:"test",channel:"technology",allowedHosts:["example.com"]};
+test("publisher excerpts are bounded, stripped and attributed; missing text is not invented",async()=>{
+ assert.equal(feedExcerpt({content:'<script>bad()</script><p>真实摘要</p>'},"标题"),"真实摘要");
+ assert.equal(Array.from(feedExcerpt({contentSnippet:"字".repeat(1000)},"标题")).length,241);
+ assert.equal(feedExcerpt({},"标题"),null);
+ const [item]=await parseFeed('<rss version="2.0"><channel><title>T</title><item><title>标题</title><link>https://example.com/a</link><description>公开订阅摘要</description></item></channel></rss>',{...source,rightsPolicy:"feed_excerpt",feedUrl:"https://example.com/feed"});
+ assert.equal(item.summary,"公开订阅摘要");assert.equal(item.summaryProvenance.sourceId,"test");
+ const [updated]=mergeItems([{...item,summary:"旧摘要"}],[item],item.firstSeenAt);
+ assert.equal(updated.version,2);assert.equal(updated.history[0].summary,"旧摘要");
+ const [combined]=mergeItems([item],[{...item,summary:null,summaryProvenance:null,sourceIds:["other"]}],item.firstSeenAt);
+ assert.equal(combined.summary,item.summary);assert.equal(combined.summaryProvenance.sourceId,"test");
+});
 test("feed records omit full text and reject off-domain or unsafe links",async()=>{
  const feed='<rss version="2.0"><channel><title>Test</title><item><title>AI芯片更新</title><link>https://example.com/item?utm_source=x</link><pubDate>Thu, 17 Sep 2026 03:00:00 GMT</pubDate><description>THIS FULL TEXT MUST NOT BE STORED</description></item><item><title>duplicate</title><link>https://example.com/item</link></item><item><title>off-site</title><link>https://evil.com/item</link></item></channel></rss>';
  const items=await parseFeed(feed,source,"2026-09-18T00:00:00Z");assert.equal(items.length,1);assert.equal(items[0].originalUrl,"https://example.com/item");
@@ -26,4 +37,3 @@ test("markup escaping and fetch network restrictions protect the public renderer
  for(const ip of ["127.0.0.1","169.254.169.254","192.168.1.1","100.64.0.1","203.0.113.1","::1"])assert.equal(publicIPv4(ip),false);
  assert.equal(publicIPv4("8.8.8.8"),true);
 });
-

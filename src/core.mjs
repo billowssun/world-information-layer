@@ -3,6 +3,12 @@ import Parser from "rss-parser";
 export function clean(text){return String(text??"").replace(/<[^>]*>/g,"").replace(/[\u0000-\u001f]/g," ").replace(/\s+/g," ").trim();}
 export function escape(text){return String(text??"").replace(/[<>&"']/g,c=>({"<":"&lt;",">":"&gt;","&":"&amp;",'"':"&quot;","'":"&#39;"}[c]));}
 export function safeJson(value){return JSON.stringify(value).replace(/</g,"\\u003c");}
+export function feedExcerpt(entry,title){
+ const raw=entry.contentSnippet??entry.summary??entry.content??entry["content:encodedSnippet"]??entry["content:encoded"]??"";
+ const text=clean(String(raw).replace(/<(script|style|iframe)\b[^>]*>[\s\S]*?<\/\1>/gi,"")).replace(/(?:查看全文|阅读全文)\s*$/g,"").trim();
+ if(!text||text===title)return null;
+ const chars=Array.from(text);return chars.slice(0,240).join("")+(chars.length>240?"…":"");
+}
 export function canonicalUrl(raw,hosts){
  const u=new URL(raw);
  if(!["http:","https:"].includes(u.protocol)||u.username||u.password||!hosts.includes(u.hostname)||(u.port&&u.port!=="443"&&u.port!=="80"))throw new Error("UNTRUSTED_LINK");
@@ -40,7 +46,8 @@ export async function parseFeed(text,source,now=new Date().toISOString()){
    const parsed=Date.parse(entry.isoDate??entry.pubDate??"");
    const sourcePublishedAt=Number.isFinite(parsed)?new Date(parsed).toISOString():null;
    const timeIssue=sourcePublishedAt && parsed>Date.parse(now)+300000?"future_date":sourcePublishedAt?null:"unknown_date";
-   items.push({id:idFor(originalUrl),title,originalUrl,sourcePublishedAt,timeIssue,channels:classify(title,source.channel),sourceIds:[source.id],firstSeenAt:now,lastSeenAt:now,updatedAt:now,version:1,history:[]});
+   const summary=source.rightsPolicy==="feed_excerpt"?feedExcerpt(entry,title):null;
+   items.push({id:idFor(originalUrl),title,originalUrl,summary,summaryProvenance:summary?{type:"publisher_feed_excerpt",sourceId:source.id,feedUrl:source.feedUrl,maxCharacters:240}:null,sourcePublishedAt,timeIssue,channels:classify(title,source.channel),sourceIds:[source.id],firstSeenAt:now,lastSeenAt:now,updatedAt:now,version:1,history:[]});
   }catch{/* off-domain, malformed, or non-web items are excluded */}
  }
  return items;
@@ -49,10 +56,11 @@ export function mergeItems(previous,incoming,now,maxItems=10000,retentionDays=90
  const map=new Map(previous.map(i=>[i.originalUrl,{...i}]));
  for(const item of incoming){
   const old=map.get(item.originalUrl);if(!old){map.set(item.originalUrl,item);continue;}
-  const changed=old.title!==item.title||old.sourcePublishedAt!==item.sourcePublishedAt;
-  map.set(item.originalUrl,{...old,...item,sourceIds:[...new Set([...old.sourceIds,...item.sourceIds])],channels:[...new Set([...old.channels,...item.channels])],firstSeenAt:old.firstSeenAt,updatedAt:changed?now:old.updatedAt,version:old.version+(changed?1:0),history:changed?[...old.history,{title:old.title,sourcePublishedAt:old.sourcePublishedAt,version:old.version,updatedAt:old.updatedAt}].slice(-10):old.history});
+  const summary=item.summary||(old.title===item.title?old.summary:null)||null;
+  const summaryProvenance=item.summary?item.summaryProvenance:summary?old.summaryProvenance:null;
+  const changed=old.title!==item.title||old.sourcePublishedAt!==item.sourcePublishedAt||(old.summary??null)!==summary;
+  map.set(item.originalUrl,{...old,...item,summary,summaryProvenance,sourceIds:[...new Set([...old.sourceIds,...item.sourceIds])],channels:[...new Set([...old.channels,...item.channels])],firstSeenAt:old.firstSeenAt,updatedAt:changed?now:old.updatedAt,version:old.version+(changed?1:0),history:changed?[...old.history,{title:old.title,summary:old.summary??null,summaryProvenance:old.summaryProvenance??null,sourcePublishedAt:old.sourcePublishedAt,version:old.version,updatedAt:old.updatedAt}].slice(-10):old.history});
  }
  const cutoff=Date.parse(now)-retentionDays*86400000;
  return [...map.values()].filter(i=>Date.parse(i.firstSeenAt)>=cutoff).sort((a,b)=>Date.parse(b.timeIssue?b.firstSeenAt:b.sourcePublishedAt??b.firstSeenAt)-Date.parse(a.timeIssue?a.firstSeenAt:a.sourcePublishedAt??a.firstSeenAt)).slice(0,maxItems);
 }
-

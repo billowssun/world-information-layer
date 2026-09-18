@@ -10,7 +10,7 @@
     ],
     "channel": "technology",
     "documentationUrl": "https://www.ithome.com/",
-    "rightsPolicy": "metadata_only",
+    "rightsPolicy": "feed_excerpt",
     "enabled": true
   },
   {
@@ -23,7 +23,7 @@
     ],
     "channel": "consumer-tech",
     "documentationUrl": "https://sspai.com/",
-    "rightsPolicy": "metadata_only",
+    "rightsPolicy": "feed_excerpt",
     "enabled": true
   },
   {
@@ -39,7 +39,7 @@
     ],
     "channel": "local-life",
     "documentationUrl": "https://www.chinanews.com.cn/rss/",
-    "rightsPolicy": "metadata_only",
+    "rightsPolicy": "feed_excerpt",
     "enabled": true
   },
   {
@@ -55,7 +55,7 @@
     ],
     "channel": "finance",
     "documentationUrl": "https://www.chinanews.com.cn/rss/",
-    "rightsPolicy": "metadata_only",
+    "rightsPolicy": "feed_excerpt",
     "enabled": true
   },
   {
@@ -71,7 +71,7 @@
     ],
     "channel": "home",
     "documentationUrl": "https://www.chinanews.com.cn/rss/",
-    "rightsPolicy": "metadata_only",
+    "rightsPolicy": "feed_excerpt",
     "enabled": true
   },
   {
@@ -87,7 +87,7 @@
     ],
     "channel": "health",
     "documentationUrl": "https://www.chinanews.com.cn/rss/",
-    "rightsPolicy": "metadata_only",
+    "rightsPolicy": "feed_excerpt",
     "enabled": true
   },
   {
@@ -103,7 +103,7 @@
     ],
     "channel": "entertainment",
     "documentationUrl": "https://www.chinanews.com.cn/rss/",
-    "rightsPolicy": "metadata_only",
+    "rightsPolicy": "feed_excerpt",
     "enabled": true
   },
   {
@@ -119,7 +119,7 @@
     ],
     "channel": "education",
     "documentationUrl": "https://www.chinanews.com.cn/rss/",
-    "rightsPolicy": "metadata_only",
+    "rightsPolicy": "feed_excerpt",
     "enabled": true
   },
   {
@@ -135,7 +135,7 @@
     ],
     "channel": "sports",
     "documentationUrl": "https://www.chinanews.com.cn/rss/",
-    "rightsPolicy": "metadata_only",
+    "rightsPolicy": "feed_excerpt",
     "enabled": true
   },
   {
@@ -151,7 +151,7 @@
     ],
     "channel": "local-life",
     "documentationUrl": "https://www.chinanews.com.cn/rss/",
-    "rightsPolicy": "metadata_only",
+    "rightsPolicy": "feed_excerpt",
     "enabled": true
   }
 ]
