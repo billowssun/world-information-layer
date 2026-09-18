@@ -1,6 +1,7 @@
 import {readFile,mkdir,writeFile,rename} from "node:fs/promises";
 import {parseFeed,mergeItems} from "../src/core.mjs";
 import {robotsFor,collectSource} from "../src/fetch.mjs";
+import {collectFulltext} from "../src/fulltext.mjs";
 const sources=JSON.parse(await readFile("config/sources.json","utf8"));
 const site=JSON.parse(await readFile("config/site.json","utf8"));
 const removed=new Set(JSON.parse(await readFile("config/removed-urls.json","utf8")));
@@ -12,6 +13,11 @@ for(const source of sources.filter(s=>s.enabled)){
  try{
   const origin=new URL(source.feedUrl).origin;
   if(!robotCache.has(origin))robotCache.set(origin,await robotsFor(origin,source.allowedHosts));
+  if(source.adapter==="govuk_fulltext"){
+   const result=await collectFulltext(source,robotCache.get(origin),now);incoming.push(...result.items);
+   statuses[source.id]={id:source.id,status:"ok",checkedAt:now,lastSuccessAt:now,discovered:result.items.length,rejected:result.rejected,contentSchema:3,failures:0,error:null};
+   successes++;console.log(source.id+": "+result.items.length+" complete bodies");continue;
+  }
   const prior=statuses[source.id];const response=await collectSource(source,prior?.contentSchema===2?prior:null,robotCache.get(origin));
   if(![200,304].includes(response.status))throw new Error("FEED_HTTP_"+response.status);
   let items=[];if(response.status===200){items=await parseFeed(response.text,source,now);if(!items.length)throw new Error("EMPTY_FEED");incoming.push(...items);}

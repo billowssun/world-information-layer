@@ -153,5 +153,21 @@
     "documentationUrl": "https://www.chinanews.com.cn/rss/",
     "rightsPolicy": "feed_excerpt",
     "enabled": true
+  },
+  {
+    "id": "govuk-fulltext",
+    "name": "GOV.UK 官方新闻（英文全文）",
+    "adapter": "govuk_fulltext",
+    "feedUrl": "https://www.gov.uk/api/search.json?filter_format=press_release&order=-public_timestamp&count=20",
+    "baseUrl": "https://www.gov.uk/",
+    "allowedHosts": [
+      "www.gov.uk"
+    ],
+    "channel": "local-life",
+    "documentationUrl": "https://www.gov.uk/help/reuse-govuk-content",
+    "rightsPolicy": "licensed_fulltext",
+    "license": "Open Government Licence v3.0",
+    "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "enabled": true
   }
 ]

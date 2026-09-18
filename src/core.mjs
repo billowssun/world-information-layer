@@ -58,7 +58,7 @@ export function mergeItems(previous,incoming,now,maxItems=10000,retentionDays=90
   const old=map.get(item.originalUrl);if(!old){map.set(item.originalUrl,item);continue;}
   const summary=item.summary||(old.title===item.title?old.summary:null)||null;
   const summaryProvenance=item.summary?item.summaryProvenance:summary?old.summaryProvenance:null;
-  const changed=old.title!==item.title||old.sourcePublishedAt!==item.sourcePublishedAt||(old.summary??null)!==summary;
+  const changed=old.title!==item.title||old.sourcePublishedAt!==item.sourcePublishedAt||(old.summary??null)!==summary||(item.bodyHash&&item.bodyHash!==old.bodyHash);
   map.set(item.originalUrl,{...old,...item,summary,summaryProvenance,sourceIds:[...new Set([...old.sourceIds,...item.sourceIds])],channels:[...new Set([...old.channels,...item.channels])],firstSeenAt:old.firstSeenAt,updatedAt:changed?now:old.updatedAt,version:old.version+(changed?1:0),history:changed?[...old.history,{title:old.title,summary:old.summary??null,summaryProvenance:old.summaryProvenance??null,sourcePublishedAt:old.sourcePublishedAt,version:old.version,updatedAt:old.updatedAt}].slice(-10):old.history});
  }
  const cutoff=Date.parse(now)-retentionDays*86400000;

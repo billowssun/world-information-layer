@@ -7,7 +7,7 @@ export function publicIPv4(address){
  const p=address.split(".").map(Number);if(p.length!==4||p.some(n=>!Number.isInteger(n)||n<0||n>255))return false;
  const [a,b,c]=p;return !(a===0||a===10||a===127||a>=224||a===169&&b===254||a===172&&b>=16&&b<=31||a===192&&b===168||a===100&&b>=64&&b<=127||a===192&&b===0||a===192&&b===88&&c===99||a===198&&(b===18||b===19)||a===198&&b===51&&c===100||a===203&&b===0&&c===113);
 }
-export async function fetchPinned(raw,hosts,headers={}){
+export async function fetchPinned(raw,hosts,headers={},kind="feed"){
  const u=new URL(raw);if(u.protocol!=="https:"||u.username||u.password||(u.port&&u.port!=="443")||!hosts.includes(u.hostname))throw new Error("FEED_URL_NOT_ALLOWED");
  const addresses=await lookup(u.hostname,{all:true,family:4});
  if(!addresses.length||addresses.some(a=>!publicIPv4(a.address)))throw new Error("NON_PUBLIC_ADDRESS");
@@ -17,7 +17,7 @@ export async function fetchPinned(raw,hosts,headers={}){
    if(![200,304,404].includes(status)){res.resume();reject(new Error("HTTP_"+status));return;}
    if(status!==200){res.resume();resolve({status,text:""});return;}
    if(res.headers["content-encoding"]&&res.headers["content-encoding"]!=="identity"){res.resume();reject(new Error("ENCODING_NOT_SUPPORTED"));return;}
-   if(!/xml|text\/plain/i.test(res.headers["content-type"]??"")){res.resume();reject(new Error("NOT_XML_OR_TEXT"));return;}
+   if(!(kind==="json"?/application\/json/i:/xml|text\/plain/i).test(res.headers["content-type"]??"")){res.resume();reject(new Error("UNEXPECTED_CONTENT_TYPE"));return;}
    const chunks=[];let size=0;
    res.on("data",chunk=>{size+=chunk.length;if(size>2_000_000)req.destroy(new Error("BODY_TOO_LARGE"));else chunks.push(chunk);});
    res.on("error",reject);res.on("end",()=>{
@@ -42,4 +42,3 @@ export async function collectSource(source,prior,robots){
  const headers={};if(prior?.etag)headers["If-None-Match"]=prior.etag;if(prior?.lastModified)headers["If-Modified-Since"]=prior.lastModified;
  return fetchPinned(source.feedUrl,source.allowedHosts,headers);
 }
-
