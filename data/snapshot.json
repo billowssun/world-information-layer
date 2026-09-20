@@ -1,8 +1,4484 @@
 {
   "schemaVersion": "1",
-  "collectedAt": "2026-09-20T04:50:48.244Z",
-  "lastSuccessfulCollectionAt": "2026-09-20T04:50:48.244Z",
+  "collectedAt": "2026-09-20T09:44:56.917Z",
+  "lastSuccessfulCollectionAt": "2026-09-20T09:44:56.917Z",
   "items": [
+    {
+      "id": "226e5f01bcfce9a80b85a101",
+      "title": "小米推出米家体脂秤 4 Pro：旗下首款充电体脂秤，续航长达 150 天",
+      "originalUrl": "https://www.ithome.com/1/004/906.htm",
+      "summary": "IT之家 9 月 20 日消息，小米推出米家体脂秤 4 Pro，将于明日在小米商城、小米有品开启众筹预约。 据介绍，该产品是米家首款充电体脂秤，体验全面升级。新品支持锂电直充，Type-C 充电，续航长达 150 天。此外，该产品交互升级，新增身体数据趋势，抱宠称重模式；双频测量，DEXA 相关性 > 0.93。 目前，官方暂未公布这款新品的更多参数信息，感兴趣的朋友可以关注IT之家后续报道。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:44:21.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8b977397d02477affe31ae6b",
+      "title": "OPPO Watch S2 手表搭载 ColorOS Watch 17：支持心率投屏到手机、一表双连主副机",
+      "originalUrl": "https://www.ithome.com/1/004/905.htm",
+      "summary": "IT之家 9 月 20 日消息，OPPO Watch S2 手表将于 9 月 22 日发布，官方今日宣布这款新品搭载最新 ColorOS Watch 17，并公布了部分互联体验。 据介绍，OPPO Watch S2 手表支持心率投屏到手机、抬腕遥控按快门等功能。 此外，OPPO Watch S2 手表还支持一表双连主副机，可支持两台安卓手机组合或安卓手机加 iOS 手机组合，不支持同时连接两台 iOS 手机。 据IT之家此前报道，OPPO Watch S2 厚 8.9mm，重…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:40:58.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6852d788cc66cd361fb02698",
+      "title": "亚运会｜男子100米仰泳徐嘉余成功卫冕",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700234.shtml",
+      "summary": "新华社东京9月20日电 在刚刚结束的爱知·名古屋亚运会男子100米仰泳比赛中，中国队选手徐嘉余成功卫冕。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:38:41.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6185556e027669f918f2d196",
+      "title": "中国选手唐钱婷夺得女子50米蛙泳冠军",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700233.shtml",
+      "summary": "中新网9月20日电(记者 朱晨曦 周昕)当地时间9月20日，在爱知·名古屋亚运会游泳项目女子50米蛙泳决赛中，中国选手、卫冕冠军唐钱婷以29秒45，夺得冠军，再次刷新预赛中创造的赛会纪录。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:38:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1c6b16ce75f6df7c57eb7cd7",
+      "title": "海南产经新观察：文旅融合不是一句口号",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700225.shtml",
+      "summary": "中新网海口9月20日电 (张月和)“文旅融合不是一句口号，而是实实在在的产品创新与业态重塑。”在民盟盟员、海南师范大学副教授贾寒看来，文化是旅游的灵魂，但文化不能只停留在博物馆里，必须通过IP化让它“沉下去、活起来”。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:34:39.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "travel",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "2e508d0b94ef3a10bf86fc9a",
+      "title": "中共中央办公厅 国务院办公厅印发《关于分类推进高校改革的意见》",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/09-20/10700232.shtml",
+      "summary": "新华社北京9月20日电#8195;近日，中共中央办公厅、国务院办公厅印发《关于分类推进高校改革的意见》(以下简称《意见》)，对分类推进高校改革作出系统部署。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:33:49.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f9f9d0414d0c7130cb13a7c2",
+      "title": "中国选手潘展乐获得男子100米自由泳冠军",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700230.shtml",
+      "summary": "中新网9月20日电(记者 朱晨曦 周昕)当地时间9月20日，在爱知·名古屋亚运会游泳项目男子100米自由泳决赛中，中国选手、世界纪录保持者潘展乐以47秒61获得冠军，另一名中国选手张展硕排名第四。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:28:23.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "df4178c0fd82f420b2c38a59",
+      "title": "一汽-大众 ID. AURA T6 纯电 SUV 上市，12.99 万 - 16.69 万元",
+      "originalUrl": "https://www.ithome.com/1/004/898.htm",
+      "summary": "IT之家 9 月 20 日消息，一汽-大众 ID. AURA T6 今日正式上市，包含四款车型，售价区间 12.99 万 - 16.69 万元： 540 Pro：12.99 万元 660 Pro：13.99 万元 660 Max 激光雷达版：14.99 万元 660 Ultra 激光雷达版：16.69 万元 IT之家获悉，新车长宽高分别为 4811/1879/1648mm，轴距 2836mm；提供云雀灰、初雪白、贝珠白、星河蓝、远山绿、烟霞紫 6 种外观颜色供选择；车身采用半…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:28:02.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f002ab6fc0f4e42ec7130c12",
+      "title": "联想极光首款磁轴键盘 GK10 RT60 即将登场",
+      "originalUrl": "https://www.ithome.com/1/004/897.htm",
+      "summary": "IT之家 9 月 20 日消息，联想服务官方微博本月 17 日表示，联想极光首款磁轴键盘 GK10 RT60 即将登场。 可以看到该键盘采用紧凑的 60% 配列，无 Fn 键区、无独立方向键，机身左侧预留了飘带固定孔位。而在软件层面，该键盘支持 Lenovo Aurora 这款灯效联动与外设控制平台。 相关阅读： 《联想将推拯救者 R9 68 磁轴电竞键盘》 《联想拯救者推出全铝机身三模磁轴键盘 R7 RT75，1299 元》",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:27:27.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8850a8c22bdf7f12546db6ac",
+      "title": "中科宇航：力箭一号近期将首次海上发射，执行一箭 3 星",
+      "originalUrl": "https://www.ithome.com/1/004/895.htm",
+      "summary": "IT之家 9 月 20 日消息，9 月 20 日，中科宇航力箭一号遥十八运载火箭 · 超智算号在东风商业航天创新试验区成功发射，中科宇航相关负责人告诉《科创板日报》记者，近期，中科宇航计划在广东附近海域实施力箭一号运载火箭的首次海上发射任务，执行“一箭 3 星”发射任务。拓宽任务适配边界，实现陆海协同的商业化发射交付。 IT之家注意到，中科宇航今年 8 月宣布，力箭一号遥十七运载火箭在中科宇航产业化基地完成总装测试工作，顺利通过出厂评审，拟于近期在广东附近海域执行“一箭 3 …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:22:52.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a320ef54e98924b85b3eae6a",
+      "title": "中新青少年津门联谊 双向文化交流架起青春友谊桥",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700204.shtml",
+      "summary": "中新网天津9月20日电 (记者 江莹)为深化中新两国青少年人文交流，搭建跨国友好交往桥梁，共青团天津市委员会联合天津市归国华侨联合会于9月18日至19日，组织30余名新西兰北帕伊丽莎白女王学校师生赴津开展参访交流活动。本次活动以研学、交流、互动为载体，双向展示中新特色文化，以青春力量推动两国文化交流走深走实。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:22:22.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8a8c59ea0711f6356be69beb",
+      "title": "怕 AI“脱离管控”，Anthropic 和埃森哲豪掷 20 亿美元搞 AI 安全评估",
+      "originalUrl": "https://www.ithome.com/1/004/894.htm",
+      "summary": "IT之家 9 月 20 日消息，人工智能实验室 Anthropic 于当地时间周五宣布，将与埃森哲（Accenture）开展合作，针对自身前沿人工智能模型开展独立评估；两家企业承诺，未来五年各自至少投入 10 亿美元（IT之家注：现汇率约合 67.18 亿元人民币），搭建开展该项工作所需的配套能力。 在这项合作落地之际，AI 研发企业正承受来自监管机构、其他企业以及研究人员越来越大的压力，各方都要求企业保证高级模型具备安全性与可靠性。 近期已经发生数起相关事件，包括部分 AI…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:20:41.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "388f785571e08d9584de8cbc",
+      "title": "湖南长沙县：多元统战力量激活乡村振兴内生动力",
+      "originalUrl": "https://www.chinanews.com.cn/txy/2026/09-20/10700202.shtml",
+      "summary": "中新网长沙9月20日电 (唐小晴 朱莎莎)红色底蕴浸润乡土，统战力量赋能振兴。近年来，湖南长沙县高桥镇深耕李维汉故居独特红色统战资源，锚定“统战教育+红色文旅促乡村振兴”发展思路，全力打造集红色研学、统战教育、农旅融合于一体的维汉同心美丽乡村示范片，以多元统战力量激活乡村振兴内生动力。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:20:20.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "cc9fcc576da1522ea93d685c",
+      "title": "亚运会 | 女子50米蛙泳唐钱婷成功卫冕",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700228.shtml",
+      "summary": "新华社东京9月20日电 在刚刚结束的爱知·名古屋亚运会女子50米蛙泳比赛中，中国队选手唐钱婷成功卫冕。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:19:42.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6c9137e4cf12087b152d5914",
+      "title": "云端之上守边关：普玛江塘的青春戍边故事",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700182.shtml",
+      "summary": "中新网北京9月20日电 题：云端之上守边关：普玛江塘的青春戍边故事",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:18:40.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "337203de2c02bc5a51cce1d3",
+      "title": "雷神推出 JQ27F320E-WB 显示器：26.5\" QHD 320Hz QD-OLED，预售价 3499 元",
+      "originalUrl": "https://www.ithome.com/1/004/893.htm",
+      "summary": "IT之家 9 月 20 日消息，雷神 (THUNDEROBOT) 现已在电商平台启动显示器新品 JQ27F320E-WB 的预售，到手价为 3499 元。 JQ27F320E-WB 基于三星显示 QD-OLED Penta Tandem 面板，覆盖 QuantumBlack 薄膜。其屏幕对角线长度 26.5 英寸，分辨率 QHD (2560×1440)，刷新率 320Hz。 其 峰值亮度可达 1300nits，静态对比度 1.5M:1，灰阶 (GtG) 响应时间 0.03ms…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:17:11.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1de4ab441ded963ebcaf46f7",
+      "title": "“阿尔泰山—天山地区考古发现与研究”国际学术研讨会召开",
+      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-20/10700181.shtml",
+      "summary": "中新网西安9月20日电 (记者 阿琳娜 梅镱泷)记者20日从丝绸之路考古合作研究中心获悉，由新疆维吾尔自治区文物局、陕西省文物局、西北大学指导，丝绸之路考古合作研究中心、哈密市文博院主办，哈密市博物馆、丝绸之路考古合作研究中心哈密分中心承办的“阿尔泰山—天山地区考古发现与研究”国际学术研讨会17日至19日在新疆哈密举办。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:16:54.000Z",
+      "timeIssue": null,
+      "channels": [
+        "entertainment",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-culture",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3c5b698250107f77d06767f7",
+      "title": "（活力中国调研行）江苏丰县：产业园串起产业链 足不出县配齐全件",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700179.shtml",
+      "summary": "中新网徐州9月20日电 题：江苏丰县：产业园串起产业链 足不出县配齐全件",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:15:56.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1c3ee3ed7c3ea5591550a335",
+      "title": "西藏拉林铁路山南站开通货运业务",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700177.shtml",
+      "summary": "中新社拉萨9月20日电 (张瑜 江飞波)9月20日，西藏自治区拉林铁路的重要中间节点——山南站正式开通货运业务，填补了拉林铁路中段货运业务的空白，进一步织密区域铁路物流网络。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:15:00.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "mobility"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9645d3b7720c92b79ceb5169",
+      "title": "（活力中国）中国县域经济的湖北样板：特色集群激活产业动能",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700176.shtml",
+      "summary": "中新社武汉9月20日电 题：中国县域经济的湖北样板：特色集群激活产业动能",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:13:16.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ff3d4c4d6a2ceef8a42364d5",
+      "title": "亚运会 | 男子100米自由泳潘展乐成功卫冕",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700227.shtml",
+      "summary": "新华社东京9月20日电 在刚刚结束的爱知·名古屋亚运会男子100米自由泳比赛中，中国队选手潘展乐成功卫冕。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:13:16.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ac0e4c66c41ab67f03291812",
+      "title": "从“资源驱动”迈向“创新驱动”：专家建言让 “流量”变 “留量”",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700160.shtml",
+      "summary": "中新网海口9月20日电 (记者 符宇群)人气与留量之间的落差，已经成为文体旅融合发展的现实考题。19日在海口举行的2026“十五五·同心聚力自贸港”三期沙龙活动上，民盟海南省委专家咨询委员会副会长、成化宣德(海南)文旅有限公司董事长焦涌作专题分享时表示，海南文体旅正处于从“资源驱动”迈向“创新驱动”的关键期，唯有让 “网红”变 “长红”、让 “流量”变 “留量”，才能留住客流、抢占先机。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:12:10.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6a8bc3215655f5ac53495480",
+      "title": "广汽自营充电桩突破 3 万根，保有量跃居车企首位",
+      "originalUrl": "https://www.ithome.com/1/004/892.htm",
+      "summary": "IT之家 9 月 20 日消息，广汽能源宣布，9 月 17 日，广汽集团旗下广汽能源自营充电桩总数突破 3 万根，保有量跃居车企第一（可统计范围内）。其中，自营超充桩达 2.1 万根。 广汽已形成“9 纵 10 横”补能网络，覆盖全国 31 个省级行政区、232 个市级行政区，其中自营充电站 2,471 座、自营充电桩 30,835 根，合作充电站超 18 万座、合作充电桩 183 万根。 官方表示，目前，广汽补能网络已实现城市核心城区 1 公里范围内必有站点，沿全国主要高速…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:12:02.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "024db4549fc1b1144d0b1b12",
+      "title": "商务部：1-8月全国网上商品和服务零售额增长4.6%",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700213.shtml",
+      "summary": "中新网9月20日电 据商务部网站消息，2026年1-8月，我国电子商务向好向新发展，融合线上线下推动消费扩容提质，数智化赋能助力产业转型升级，“丝路电商”伙伴国持续扩围，深化国际经贸合作。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:10:42.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "730dbbbdd45297eae0153558",
+      "title": "2026世界制造业大会开幕 签约投资额3634亿元",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700158.shtml",
+      "summary": "中新网合肥9月20日电 (记者 张俊)2026世界制造业大会20日在安徽省合肥市开幕。本届大会共成功签约项目790个，总投资额达3634亿元(人民币，下同)。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:10:34.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3a5779f9b566811f6aa96c23",
+      "title": "“全球首个可变形个人机器人”启元 T1 发售：人形 / 四足秒切换，19999 元起",
+      "originalUrl": "https://www.ithome.com/1/004/890.htm",
+      "summary": "IT之家 9 月 20 日消息，在今日的 2026 启元机器人全球产品发布会上，“全球首个可变形个人机器人”启元 T1 正式发售，定价 19,999 元起。 启元 T1 售价 19,999 元 启元 T1 Pro 售价 29,999 元 启元 T1 支持轮足人形与四足形态切换，宣称是“全球首个可变形个人机器人”，官方现场演示了形态切换。 启元 T1 可选五款配色，身高约 100cm，重量约 16kg，续航约 2~3 小时，搭载柔顺力控关节，支持根据路况自动切换形态，还能主动避…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:09:47.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "659cd181602d121f6af255f4",
+      "title": "预售 599 元，中兴 M3 Pro 5G 可插卡移动随身 WIFI 上架",
+      "originalUrl": "https://www.ithome.com/1/004/889.htm",
+      "summary": "IT之家 9 月 20 日消息，中兴 M3 Pro 5G 可插卡移动随身 WIFI 今日开启预售，首发 599 元，9 月 24 日 10:00 正式开售。 据介绍，该产品配备 9 根天线构成抗干扰矩阵，全频段 360° 覆盖，灵活应对复杂网络情况。5G 多频段支持 4x4 MIMO，多路信号同时收发，有效提升信道容量与传输效率。 新品搭载先进的 5G 芯片，采用八核架构与 6nm 制程工艺，实现高性能与低功耗的出色平衡。支持 3GPPR17 与 SA、NSA 双模 5G，兼…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:07:52.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3aaad4ddf6f8180aa79873af",
+      "title": "立足封关新起点 海南打造世界级国际旅游消费中心",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700157.shtml",
+      "summary": "中新网海口9月20日电 (记者 符宇群)建设国际旅游消费中心，是海南自由贸易港“三区一中心”战略定位的核心组成部分。“十五五”开局，正全面实施封关运作的海南自贸港如何加快建设国际旅游消费中心？",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:07:46.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "travel",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1cfe166fe656541b1383e31b",
+      "title": "八所海关解放西路院区消除安全隐患项目比选公告",
+      "originalUrl": "https://www.chinanews.com.cn/aseaninfo/2026/09-20/10700216.shtml",
+      "summary": "一、采购条件",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:05:46.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ef70129636e12e864bee6271",
+      "title": "“十五五”迎新机遇 专家建言海南“打造国际知名海洋文化旅游目的地”",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700155.shtml",
+      "summary": "中新网海口9月20日电 (记者 王子谦)“海洋不仅是海南得天独厚的自然底色，更是驱动区域经济发展、文化繁荣的核心引擎。”在19日海南省委统战部主办的2026“十五五·同心聚力自贸港”三期沙龙活动上，民盟海南省委会青年专委会委员、中国旅游报社宣传推广中心副主任汪超说，海南要依托得天独厚的海洋资源与深厚的文化底蕴，打造国际知名海洋文化旅游目的地。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:04:37.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "travel",
+        "entertainment",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0b7d4f9b0ff074fecefe8425",
+      "title": "海口海关缉私及业务技术用房南门通道及玻璃幕墙改造项目（第二次）比选公告",
+      "originalUrl": "https://www.chinanews.com.cn/aseaninfo/2026/09-20/10700215.shtml",
+      "summary": "一、采购条件",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:04:09.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6a295d4ee6bc1604ba65fbc9",
+      "title": "消息称丰田将首次推出增程式电动汽车，计划 2027 年 4 月在中国投产",
+      "originalUrl": "https://www.ithome.com/1/004/879.htm",
+      "summary": "IT之家 9 月 20 日消息，据日经中文网消息，丰田将于 2027 年春季在中国生产搭载发电发动机的增程式电动汽车（EREV）。 据悉，这是丰田首次推出 EREV 车型，计划 2027 年 4 月在中国投产，初期月产量为数百辆起。计划 2027 年全年产量目标为 20 万辆左右，2028 年提升到 40 万辆左右。 2025 年丰田全球销量中，纯电动汽车（BEV）约 20 万辆，插电式混合动力车（PHV）约 18 万辆。丰田计划将 EREV 产能扩大，使其成为主要电动汽车品…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T09:03:17.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b4dee1d887b86b2c466c779b",
+      "title": "贵州出台殡葬服务收费新规 明确基础项目实行政府指导价",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700156.shtml",
+      "summary": "中新网贵阳9月20日电 (记者 张伟)为进一步规范殡葬服务收费管理，切实减轻民众丧葬负担，筑牢殡葬公益属性，贵州省发展改革委、贵州省民政厅、贵州省财政厅日前联合印发《贵州省殡葬服务收费管理办法(试行)》(以下简称《办法》)，自2026年10月1日起正式施行。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:59:49.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5b35569ed1f5f209bff92f0e",
+      "title": "探访奈曼王府“草原药王”占布拉道尔吉专题展",
+      "originalUrl": "https://www.chinanews.com.cn/tp/2026/09-20/10700192.shtml",
+      "summary": "9月20日，内蒙古通辽市奈曼旗，游客在奈曼王府内，参观占布拉道尔吉所著《蒙药正典》中部分内容。中新社记者 刘文华 摄 9月20日，内蒙古通辽市奈曼旗，游客在奈曼王府内，参观后人根据史书还原的占布拉道尔吉的画像。中新社记者 刘文华 摄 9月20日，内蒙古通辽市奈曼旗，游客在奈曼王府内，参观占布拉道尔吉曾经用过的铁质医疗器械(复制品)。中新社记者 刘文华 摄 9月20日，内蒙古通辽市奈曼旗，游客在奈曼王府内，参观占布拉道尔吉雕塑。中新社记者 刘文华 摄",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:59:27.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e11c60ae795ff25ac8b595b3",
+      "title": "汪顺亚运摘铜：比赛很开心，能够在体育中获得快乐",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700211.shtml",
+      "summary": "中新网9月20日电(记者 朱晨曦)当地时间9月20日，在爱知·名古屋亚运会游泳项目男子200米个人混合泳决赛中，第五次参加亚运会的中国老将、该项目亚洲纪录保持者汪顺以1分57秒14夺得铜牌。日本选手包揽金银牌。汪顺在赛后接受采访时说，比赛中对手发挥得非常出色，自己也尽力去游了，今天比赛还是很开心的。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:59:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4f6b23206f98e51907339ec3",
+      "title": "湖北省人大教育科学文化卫生委员会原主任委员郭忠被开除党籍",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/09-20/10700210.shtml",
+      "summary": "中新网9月20日电 据湖北省纪委监委消息：经湖北省委批准，湖北省纪委监委对湖北省人大教育科学文化卫生委员会原主任委员郭忠严重违纪违法问题进行了立案审查调查。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:59:01.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "education",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "14f5a4c0802b140b03b6e223",
+      "title": "最高悬赏 10 万美元，英特尔突然关停漏洞赏金计划",
+      "originalUrl": "https://www.ithome.com/1/004/878.htm",
+      "summary": "IT之家 9 月 20 日消息，据 Notebookcheck 报道，英特尔已经暂停其运行已久的漏洞赏金计划，转而在 Intigriti 平台启用一套全新的漏洞上报机制，新体系不再提供任何现金奖励。英特尔原先的计划会为发现安全漏洞的研究人员提供最高 10 万美元（IT之家注：现汇率约合 67.2 万元人民币）的奖励；而现在英特尔在 Intigriti 平台上的项目已明确标注为负责任披露项目，取消赏金。 研究人员依旧可以提交在英特尔硬件、固件、软件以及开源项目当中发现的漏洞，但…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:59:00.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "62ab74b1c7abb19d6d4b99bf",
+      "title": "哈尔滨：打通建筑全产业链沟通壁垒 以科技匠心筑百姓安居好房子",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700205.shtml",
+      "summary": "中新网哈尔滨9月20日电 (记者 刘锡菊)20日，“凝聚行业合力、赋能产业发展” 建筑行业高质量发展工作会议在哈尔滨市召开，旨在打通该市建筑全产业链沟通壁垒，直面市场收缩、竞争加剧等行业现实挑战，共商科技赋能、市场拓展、民生安居的发展大计，为该市建筑业转型升级注入强劲动力。本次会议由哈尔滨市住建局主办，汇聚高校科研力量、各行业协会、龙头建筑企业代表。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:57:59.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "technology",
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d94a544503d78fa62e0918df",
+      "title": "莫斯科遭大规模无人机袭击 俄军打击基辅等地目标",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/09-20/10700175.shtml",
+      "summary": "中新社莫斯科9月20日电 (记者 田冰)俄罗斯首都莫斯科市市长索比亚宁20日表示，俄防空部队成功击退针对莫斯科发动的前所未有的大规模无人机袭击。俄国防部表示，当天对乌克兰境内多地目标发动打击。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:57:31.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c7e0301ed998e3fb4e024fb5",
+      "title": "线下教学中断近三年后 超50万加沙学生迎来新学年",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/09-20/10700138.shtml",
+      "summary": "中新网北京9月20日电 据巴勒斯坦通讯社报道，在因本轮巴以冲突导致线下教学中断近三年后，加沙地带超50万名学生于当地时间19日迎来新学年。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:57:05.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "education"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "16a81bba27b8bf82e9053b6f",
+      "title": "《鸣潮》将携手联想拯救者推出联名版 Y700 无极平板电脑、Y7000X 游戏笔记本",
+      "originalUrl": "https://www.ithome.com/1/004/877.htm",
+      "summary": "IT之家 9 月 20 日消息，游戏《鸣潮》(Wuthering Waves) 官方在 3.7 版本前瞻通讯中宣布将携手联想 (Lenovo) 拯救者 (Legion) 推出联名版 Y700 无极平板电脑、Y7000X 游戏笔记本电脑。 此次联名产品将进行深度定制，并以联名礼盒形式发售。其以“心”为主题，外观融入精致细腻的狐狸纹样，视觉上充满“心”的独特氛围。 IT之家了解到，《鸣潮》3.7 版本“镜锁妄世，心照红尘”将于 9 月 30 日更新。 相关阅读： 《首发 4999…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:56:49.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f261eed1e02a458a7c32d16c",
+      "title": "加拿大官员：将选择性与欧盟合作 不会直接向欧盟预算缴款",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/09-20/10700134.shtml",
+      "summary": "中新网北京9月20日电 综合消息：即将出任加拿大常驻欧盟代表的乔纳森·威尔金森当地时间19日表示，加方将“有选择地”推进同欧盟的“独特联盟”，不会直接向欧盟预算缴款，但会为部分合作项目出资。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:56:34.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9ff66d9fb12e49c568c2c22e",
+      "title": "中国选手李冰洁夺得女子1500米自由泳冠军",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700209.shtml",
+      "summary": "中新网9月20日电(记者 朱晨曦 周昕)当地时间9月20日，在爱知·名古屋亚运会游泳项目女子1500米自由泳决赛中，中国选手、卫冕冠军李冰洁以15分53秒52夺得冠军。中国选手高唯中获得第五名。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:54:54.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "74e7389e2be341689a4628d6",
+      "title": "国乒女队团体赛两连胜晋级亚运16强 孙颖莎出战两场",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700208.shtml",
+      "summary": "中新网9月20日电(记者 国璇)当地时间9月20日进行的爱知·名古屋亚运会乒乓球项目女子团体赛中，中国队以大比分3:1击败中国澳门队，以小组赛两连胜的成绩晋级16强。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:54:10.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8c3bb7587b054379c3f533f9",
+      "title": "“全球首个个人机器人”启元 Q1 发售：稚晖君打造，19999 元起",
+      "originalUrl": "https://www.ithome.com/1/004/876.htm",
+      "summary": "IT之家 9 月 20 日消息，在今日的 2026 启元机器人全球产品发布会上，启元机器人发布启元 Q1 人形机器人的正式售价： 启元 Q1 售价 19,999 元 启元 Q1 探索版售价 26,999 元 启元 Q1 定位为个人机器人，身高 88 厘米，可折叠放入背包，全身 22 个柔顺力控自由度，支持外观结构件定制，宣称是“全球首个个人机器人”。 启元 Q1 主打自定义特性，支持自定义设计互动动作、3D 打印改造外观，用户可自由调整机器人的外观造型、性格特质、动作姿态与语…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:54:06.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c510f93dda88365dbe312c44",
+      "title": "《岳飞在安徽》首发 填补岳飞文化区域研究空白",
+      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-20/10700153.shtml",
+      "summary": "中新网合肥9月20日电 (记者 张强)《岳飞在安徽》一书20日在合肥首发。该书是一部能让读者全面了解岳飞与江淮大地深厚渊源的学术文化专著。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-culture",
+        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:50:26.000Z",
+      "timeIssue": null,
+      "channels": [
+        "entertainment"
+      ],
+      "sourceIds": [
+        "chinanews-culture"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "518983fcbf221c360e1ac365",
+      "title": "陕西公布唐昭陵两批遗物修复情况：器物以各类陶俑为主",
+      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-20/10700185.shtml",
+      "summary": "中新网西安9月20日电 (记者 梅镱泷 阿琳娜)记者20日从陕西省考古研究院获悉，考古人员对1965年与2002年两次采集的唐昭陵遗物进行了统一拼对修复，器物以各类陶俑为主，包括文官俑、武士俑、奏乐俑等，还有陶鼎、陶奁、耳杯等陶器等。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-culture",
+        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:49:38.000Z",
+      "timeIssue": null,
+      "channels": [
+        "entertainment"
+      ],
+      "sourceIds": [
+        "chinanews-culture"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "664db0f7fb833636b0ce6961",
+      "title": "海南产经新观察：让黎锦苗绣“活”在数字经纬中",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700150.shtml",
+      "summary": "中新网海口9月20日电 (记者 张茜翼)一匹黎锦，经纬间藏着山海记忆；一件苗绣，针脚里连着千年情感。古老技艺如何不被“锁”进橱窗，而在数字时代重新呼吸？",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:47:46.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a1b4191aa9a7c3345b3fc392",
+      "title": "第三届中俄双边学术会议在黑河学院举办",
+      "originalUrl": "https://www.chinanews.com.cn/edu/2026/09-20/10700193.shtml",
+      "summary": "中新网黑河9月20日电 (太译彬 杨思颖)第三届中俄双边学术会议暨黑河学院第一届理工学术年会于19日在黑河学院落幕，本次会议汇聚中俄多所高校、科研院所专家，会上签署协议揭牌“中俄跨境机器人研究协同创新中心”，同步开展学术报告与圆桌研讨活动。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-edu",
+        "feedUrl": "https://www.chinanews.com.cn/rss/edu.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:47:32.000Z",
+      "timeIssue": null,
+      "channels": [
+        "education"
+      ],
+      "sourceIds": [
+        "chinanews-edu"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "57e828240078b36090f05b26",
+      "title": "济南举办第六届高层次人才招引大会 推动人才与产业“双向奔赴”",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700194.shtml",
+      "summary": "中新网济南9月20日电 (吕妍)“天下泉城聚天下英才”中国·济南第六届高层次人才招引大会9月20日在山东济南举办。本次大会邀请了驻济高校、科研院所、新型研发机构及国有企业等2000余家用人单位参会，提供3万余个优质职位，推动人才与产业“双向奔赴”。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:46:56.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "career",
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "45e25c4b7b18d35fc1347696",
+      "title": "苹果 iPhone 18 Pro 系列手机国内首销情况曝光：开售日约 32.28 万台，约为 iPhone 17 Pro 系列的 130%",
+      "originalUrl": "https://www.ithome.com/1/004/875.htm",
+      "summary": "IT之家 9 月 20 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，苹果 iPhone 18 Pro 系列手机的开售日销量（Sell out）约为 32.28 万台，约为 iPhone 17 Pro 系列的 130%。 iPhone 18 Pro 占约 44.5% iPhone 18 Pro Max 占约 55.5% 据IT之家此前报道，在 9 月 10 日的苹果 2026 年秋季发布会上，iPhone 18 Pro 系列正式发布，包括 18 Pro 和…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:46:31.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "76f0a52ff55d7fac4f9eca9b",
+      "title": "海南产经新观察：“酷酷的海南”如何走向世界？",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700195.shtml",
+      "summary": "中新网海口9月20日电 (记者 符宇群)2026年上半年，累计接待海外考察团组超50批次；成功举办“海外旅行商海南行”，吸引35个国家和地区的400多位旅行商参会，现场达成合作意向226项；赴俄罗斯、马来西亚、德国、美国等重点客源地开展推介10余批次，亮相柏林ITB、马来西亚MATTA FAIR等国际顶级展会，精准触达全球旅行商与媒体……一个个数据，勾勒出海南自贸港加速走向世界的新图景。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:46:00.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1feb393b705775946ccd585e",
+      "title": "中国男足亚运0:0战平伊朗队 吴曦：射门未进比较遗憾",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700200.shtml",
+      "summary": "中新网9月20日电(记者 金旭)爱知·名古屋亚运会男足小组赛20日进行B组第二轮比赛，中国男足0比0战平伊朗队。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:45:10.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c9ec00763398f9d440d35892",
+      "title": "惠普 HyperX 公布 Pulsefire Haste 3 标准版鼠标规格，有线款仅 44g",
+      "originalUrl": "https://www.ithome.com/1/004/874.htm",
+      "summary": "IT之家 9 月 20 日消息，HP（惠普）HyperX（极度未知）现已在其官网公布了 Pulsefire Haste 3 标准版鼠标的规格信息。 Pulsefire Haste 3 标准版的有线款三维 127.1 × 66.9 × 38.3 (mm)，基于原相 PAW3315 光学传感器，左右键搭载 100M 光学微动，支持 1kHz 回报率，质量仅 44g。该型号定价 39.99 美元（IT之家注：现汇率约合 268.7 元人民币）。 另一方面，Pulsefire Has…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:43:38.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "404aa652324085aab25eab13",
+      "title": "特斯拉 FSD（监督版）澳新上线一周年：碰撞事故率相比人工驾驶低 40%",
+      "originalUrl": "https://www.ithome.com/1/004/872.htm",
+      "summary": "IT之家 9 月 20 日消息，特斯拉的 FSD（监督版）在澳新地区正式上线已满一周年，为纪念这一里程碑，特斯拉该地区官方 X 账号公布了过去 12 个月这套系统在大洋洲道路行驶取得的详细安全结果：开启该软件行驶的车辆，平均碰撞事故相比人工驾驶降低 40%。 特斯拉于 2025 年 9 月在澳大利亚与新西兰推出了 FSD（监督版），当时这两个国家分别成为全球第五、第六个开放这套驾驶辅助系统的市场。 拆解各项安全统计数据 新公布的车队统计周期为 2025 年 9 月 17 日至…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:42:04.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d327bc8da2afa90d4928574a",
+      "title": "广东遭遇高温天气 全省最高气温超36℃",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700147.shtml",
+      "summary": "中新网广州9月20日电 (记者 王坚)19日白天到20日早晨，广东多地遭遇高温天气，其中，19日白天该省中北部的大部分市县出现了35℃左右高温，梅州蕉岭录得全省最高气温达36.6℃。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:41:46.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "52e004d228b3bba89e830379",
+      "title": "杭州余杭警方通报一起车辆撞人事故：两名伤者目前生命体征平稳",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700168.shtml",
+      "summary": "中新网9月20日电 9月20日，杭州市公安局余杭区分局在其官方微博发布警情通报称，2026年9月20日6时52分，该局接群众报警称：良渚一中外围停车场发生一起车辆撞人交通事故。接警后，该局民警迅速赶赴现场处置，并联动120将两名伤者送医救治。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:41:40.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "dffcf220a0cd32a9f3fb8c89",
+      "title": "李冰洁夺得亚运会女子1500米自由泳金牌",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700197.shtml",
+      "summary": "9月20日，名古屋亚运会女子1500米自由泳决赛，中国选手李冰洁夺得金牌。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:41:22.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d8c10a95a597b19d516ff1c4",
+      "title": "财税专家：中国税收收入与经济增长基本相匹配",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700161.shtml",
+      "summary": "中新社北京9月20日电 (记者 赵建华)中国国家税务总局20日公布的税收数据显示，今年前八个月，税务部门征收税收收入(不含海关代征进口增值税、消费税和关税、船舶吨税，未扣除出口退税)同比增长5.9%，与上半年现价GDP增速5.4%相比，略高出0.5个百分点。国家税务总局税收科学研究所所长黄立新认为，税收收入按现价计算，今年以来税收增长总体上与经济增长基本相匹配，主要有三方面因素使税收增速略快于GDP增速。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:40:38.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "54a935ef75f83b2b95280da4",
+      "title": "“绵羊绒”竟一根羊绒都没有 个别团体自创概念误导消费者",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700190.shtml",
+      "summary": "每周质量报告丨“绵羊绒”竟一根羊绒都没有 个别团体自创概念误导消费者",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:38:46.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d1d73f84fbabae41a6d1a6c3",
+      "title": "青海那棱格勒河水利枢纽进入机组调试阶段",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700146.shtml",
+      "summary": "中新网西宁9月20日电 (记者 孙睿)记者20日从青海省海西州委宣传部获悉，该州规模最大的水利工程——那棱格勒河水利枢纽已进入投产发电前机组调试阶段。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:36:35.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3752a803927f51936da1f874",
+      "title": "稚晖君发布启元 Q1 和 T1 人形机器人：外壳随心改换、人形四足秒切换，首发接入腾讯 WorkBuddy",
+      "originalUrl": "https://www.ithome.com/1/004/871.htm",
+      "summary": "IT之家 9 月 20 日消息，在今日的 2026 启元机器人全球产品发布会上，启元机器人发布启元 Q1、启元 T1 两款人形机器人。 据上纬新材料科技股份有限公司董事长、智元机器人联合创始人兼首席技术官彭志辉（稚晖君）介绍，启元 Q1 主打自定义特性，支持自定义设计互动动作、3D 打印改造外观，用户可自由调整机器人的外观造型、性格特质、动作姿态与语音音色。 启元机器人是上纬新材旗下品牌上纬启元推出的消费级人形机器人品牌，2025 年底，稚晖君宣布公司以该品牌进入个人机器人领…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:36:05.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4b5e9b5961301698650d553f",
+      "title": "别克至境 E7 全新红色内饰公布，9 月 23 日上市",
+      "originalUrl": "https://www.ithome.com/1/004/870.htm",
+      "summary": "IT之家 9 月 20 日消息，别克至境 E7 全新红色内饰“霞影绯红”官图公布，将于 9 月 23 日焕新发布。届时，至境 E7 还将推出至境绿与淡暮粉两款全新车色。 IT之家注意到，在售别克至境 E7 限时置换价为 14.99 万元起，该车长宽高为 4850×1910×1676mm，轴距 2850mm。别克至境 E7 于 9 月 16 日迎来第 3 万台整车下线。 智能安全方面，在售别克至境 E7 搭载 Momenta R6 强化学习大模型，覆盖高速、城区、泊车等场景。被…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:36:02.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3a48b3d1a1e8cdf789650c41",
+      "title": "华为王超：2026 年马上会量产每度电 12 公里的纯电车型，明年探索每度电 14 公里",
+      "originalUrl": "https://www.ithome.com/1/004/869.htm",
+      "summary": "IT之家 9 月 20 日消息，据汽车之家消息，华为数字能源技术有限公司副总裁、华为数字能源智能电动产品线总裁王超昨日（9 月 19 日）在第二十二届中国汽车产业发展（泰达）国际论坛发表演讲。 2023 年，当我们认识到电机效率是最主要因素时，首发了 CLTC 效率 92% 的总成。2024 年具备了每度电 10 公里的 Ready 能力，2025 年具备了每度电 12 公里的技术 Ready 能力。 2026 年，马上会量产每度电 12 公里的纯电车型；2027 年，将朝着…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:35:31.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7fdd6a1afe786a78a42f41b1",
+      "title": "“侨联五洲·海外侨胞邢台行”暨宠物产业链博会对接交流活动举办",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700144.shtml",
+      "summary": "中新网邢台9月20日电 (赵丹媚 邢璐)9月17日至19日，由河北省国际华商联合会指导，邢台市归国华侨联合会、南和区人民政府、河北省宠物产业协会主办的“侨联五洲·海外侨胞邢台行”暨宠物产业链博会对接交流活动在河北邢台举办。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:32:17.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "fbdc29f7973bec85a1b55715",
+      "title": "“敲碎”异常交易，守护“指尖”出行",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700180.shtml",
+      "summary": "9月19日，据中国铁路微信号发布的消息，自9月23日中秋国庆假期运输火车票开售以来，为营造公平公正购票环境，铁路12306持续识别遏制恶意抢票行为，已拒绝出票133.1万张。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:30:21.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "01e56a2fce1cdba0935c7cec",
+      "title": "中国选手汪顺夺得亚运会男子200米个人混合泳铜牌",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700178.shtml",
+      "summary": "中新网9月20日电(记者 朱晨曦 周昕)当地时间9月20日，在爱知·名古屋亚运会游泳项目男子200米个人混合泳决赛中，第五次参加亚运会的中国老将、该项目亚洲纪录保持者汪顺以1分57秒14夺得铜牌。日本选手包揽金银牌。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:29:45.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1a5105831ec7d6328f76a175",
+      "title": "中国电动汽车缘何走俏澳大利亚？",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700060.shtml",
+      "summary": "中新社悉尼9月20日电 题：中国电动汽车缘何走俏澳大利亚？",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:22:49.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "mobility"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3143ac59fb3ae79ca816bf5a",
+      "title": "捷途旅行者 7 将于 9 月 23 日开启预售，提供燃油、插混两种动力",
+      "originalUrl": "https://www.ithome.com/1/004/858.htm",
+      "summary": "IT之家 9 月 20 日消息，捷途汽车今日宣布，捷途旅行者 7 将于 9 月 23 日正式开启预售，在前期已开放小订的基础上进一步推进上市节奏。新车延续旅行者家族硬派方盒子造型，前脸换装全新圆形大灯，同时提供燃油与插电混动两种动力版本。 设计层面，捷途旅行者 7 在保留经典轮廓的同时对细节作出了调整。车头采用复古圆形日行灯，灯组内部辅以横向贯穿式灯带，品牌字母标识上移至发动机舱盖，前保险杠改为与车身同色涂装，并取消了此前的黑色塑料包围，整体观感更简洁、精致。车侧延续悬浮式车…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:22:32.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "travel"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c4a04910fd452b9839ddcc7e",
+      "title": "中国男足亚运队门将李昊：尽全力帮助球队零失球",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700170.shtml",
+      "summary": "中新网9月20日电(记者 金旭)爱知·名古屋亚运会男足小组赛20日进行B组第二轮比赛，中国男足0:0战平伊朗队。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:20:51.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "30aa46d115c5959598d6ce98",
+      "title": "中国小将于子迪夺得亚运会女子200米蝶泳冠军",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700169.shtml",
+      "summary": "中新网9月20日电(记者 朱晨曦 周昕)当地时间9月20日，在爱知·名古屋亚运会游泳项目女子200米蝶泳决赛中，首次参加亚运会的13岁中国小将于子迪以2分05秒08刷新赛会纪录夺冠。这是中国游泳队在本届亚运会上获得的首枚金牌。另一名中国选手常墨涵以2分08秒44获得银牌。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:20:35.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "479de8391c6b6733b988c2b3",
+      "title": "海光 9 月 22 日发布 1000 系列 CPU 处理器，面向物理应用领域",
+      "originalUrl": "https://www.ithome.com/1/004/850.htm",
+      "summary": "IT之家 9 月 20 日消息，海光信息 (HYGON) 今日宣布将于 9 月 22 日在中国广东深圳发布 1000 系列 CPU 处理器。 该活动的口号为“向前，再向前”“让算力，抵达物理世界”，显示海光 1000 系列 CPU 处理器主要面向物理世界应用领域。 IT之家注意到，海光此前已推出了 7000、5000、3000 三个 CPU 处理器系列，分别为面向数据中心的高性能产品、面向行业客户的主流中端产品、面向多场景的高性价比产品。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:19:07.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "31ed9b61d425485b63c5a938",
+      "title": "景迈山：一座世界遗产的“三年之养”",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700167.shtml",
+      "summary": "何以中国·千年茶道｜景迈山：一座世界遗产的“三年之养”",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:18:30.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "81cee36c9b0d7de3eb323763",
+      "title": "丰田将投放 40 万台自研轮式人形机器人“ELEY”，副社长称机器人并非用来取代人类",
+      "originalUrl": "https://www.ithome.com/1/004/841.htm",
+      "summary": "IT之家 9 月 20 日消息，据日经中文网报道，丰田将在工厂引入 40 万台人形机器人，打造机器人与人类工人协同作业的生产环境。 这款人形机器人名为“ELEY”，重 50 千克，依靠电池或电源线供电；它依靠车轮移动，而非双足行走。 ▲ 图源丰田官网 丰田及集团各公司计划 2028 年以后，每年投入 1 万亿日元（IT之家注：现汇率约合 427.28 亿元人民币），推进全球工厂的改造与重建。配合工厂升级，丰田将引进 15 万台，集团各公司引进 25 万台机器人。 据介绍，EL…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:15:10.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "effe71db917ed6f6fd467a15",
+      "title": "台青在福建“山海之境”用艺术与陪伴温暖乡村",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700100.shtml",
+      "summary": "中新社福建平潭9月20日电 题：台青在福建“山海之境”用艺术与陪伴温暖乡村",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:15:08.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d63e9a402d02462302cf143f",
+      "title": "小米 18 Pro 真机实拍图曝光，9 月 23 日发布",
+      "originalUrl": "https://www.ithome.com/1/004/840.htm",
+      "summary": "IT之家 9 月 20 日消息，博主 @数码闲聊站 今日曝光小米 18 Pro 真机实拍图，提供黑 / 白 / 粉 / 蓝四款配色。 该博主提到，新机 Pro 版搭载骁龙 8E6（IT之家注：第六代骁龙 8 至尊版处理器），Pro Max 是骁龙 8EE6（第六代骁龙 8 超级至尊版处理器），全系有大马达，Pro Max 比大更大；另外从 2 亿大底潜望镜的开孔看，这代也有长焦微距。 据此前官方公布消息，小米 18 Pro 系列手机官宣搭载 2nm 旗舰移动平台，徕卡双 2 …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:13:15.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "39a43d7cc0f683ecc2294713",
+      "title": "借助泄露资源，《GTA 6》早期概念地图已可在《GTA 5》中体验",
+      "originalUrl": "https://www.ithome.com/1/004/836.htm",
+      "summary": "IT之家 9 月 20 日消息，从多次延期到数次泄露，即将推出的 Rockstar 旗下作品《GTA 6》在正式发售前就已经让玩家们体验了不少“波折”。 这次泄密事件始发于 Rockstar 印度工作室，也是最令 Rockstar 感到棘手的一次；泄密者声称自己手握一份可以直接运行的《GTA 6》游戏版本。而如今，这家公司又遭遇了一起安全泄露事故：一份大小 192GB 的文件遭到外泄，里面包含大量《GTA 6》的早期资源素材。 IT之家注意到，此前已经发生过一次 200GB …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:10:44.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "61024ceee2cf1713e38d6ecb",
+      "title": "粤桂协作“四个共享”产业共创成果亮相大湾区",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700099.shtml",
+      "summary": "中新网广州9月20日电(许青青 李彤欣)2026粤桂协作·媒体＋“四个共享”产业共创暨宁明特色产品走进大湾区活动19日在广州塔广场举行，来自广东江门新会与来自广西崇左宁明的特色农产品同台亮相，陈皮咖啡香、茶香、八角香在空气中交织，一幅“粤桂协作、山海产业共创”的热闹图景徐徐展开。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:10:28.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a47aa0118be99a3f262dc653",
+      "title": "于子迪夺得亚运会女子200米蝶泳金牌",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700159.shtml",
+      "summary": "9月20日，名古屋亚运会女子200米蝶泳决赛，中国选手于子迪夺得金牌。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:08:58.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c2883de36f00f0f61d50509c",
+      "title": "海南推出超百项旅文体活动 邀游客游海岛、赏演艺、观赛事",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700098.shtml",
+      "summary": "中新网海口9月20日电 (记者 张茜翼)中秋、国庆长假将至，海南旅游市场提前“热”起来。据去哪儿数据，截至目前，提前预订2026年中秋国庆出行的海南机票订单同比增长两成，提前预订海南酒店量同比翻番。飞猪平台数据显示，假期海南酒店预订量同比增长近70%。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:08:24.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "travel",
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5887694b85fe7d5520ca5c34",
+      "title": "从城市会客厅到国际音乐剧窗口 北京天桥演艺区打造立体生态集群",
+      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-20/10700097.shtml",
+      "summary": "中新网北京9月20日电 (记者 徐婧)天桥艺术中心持续引入佳作，成为北京观众音乐剧观演“首选”；天桥印象博物馆深挖历史底蕴，讲述老北京市井风情；“天桥一号”汇聚各类演艺要素，建设立体产业园区……从剧目创制到场景消费，位于北京西城的天桥演艺区正在形成演艺生态集群。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-culture",
+        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:06:22.000Z",
+      "timeIssue": null,
+      "channels": [
+        "entertainment"
+      ],
+      "sourceIds": [
+        "chinanews-culture"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5064b180d19c60b3f614dd19",
+      "title": "AI软色情 身心硬危害",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700152.shtml",
+      "summary": "当大模型绘图、AI角色扮演、微短剧、虚拟陪伴聊天走入青少年的数字生活，传统直白露骨的色情内容正在被暧昧话术、擦边人设、性暗示剧情、二次元情欲形象所替代，凭借低成本批量生成、千人千面精准迎合、隐蔽绕过平台审核的特点，披上娱乐、解压、情感陪伴的外衣悄然扩散，成为伤害未成年人的新型数字陷阱。《中国互联网络发展状况统计报告》显示，我国生成式人工智能用户规模达6.02亿人，19岁及以下用户占比26.4%，为各年龄组占比最高的群体，青少年已经成为生成式人工智能的核心使用人群。大量青少年在…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:04:42.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "technology"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8f323aa8c280c83b6f643bf8",
+      "title": "海南环岛高铁试点“自行车随身行”解锁环岛新玩法",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700096.shtml",
+      "summary": "中新网海口9月20日电 (黄晴铮 李瑾 资明兴)海南环岛高铁于9月20日起推出“自行车随身行”服务。旅客通过铁路12306APP线上完成预约付费后，即可携带自行车搭乘高铁，畅享“高铁+骑行”的环岛出行新体验。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:04:32.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7f937ce02db20b15decb31b3",
+      "title": "中秋临近节日氛围渐浓 各地特色活动抢先看",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700151.shtml",
+      "summary": "临近中秋佳节，节日氛围渐浓。在北京、江苏等地举办多种活动，将文旅与消费结合起来，让人们提前感受节日氛围。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:04:30.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "df254fb52661a6f8b98280f0",
+      "title": "鹤岗“五花山”观赏期9月20日开启 5条赏秋旅游线路迎“双节”",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700095.shtml",
+      "summary": "中新网鹤岗9月20日电 (杨思颖)9月20日，黑龙江鹤岗举办“五花山色宝藏鹤岗”中秋国庆文旅产品供给和促消费新闻发布会，会上宣布当地“五花山”观赏期自9月20日正式开启，同步对外发布秋日游览线路、中秋与国庆假日文体活动及系列惠民消费举措。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:03:16.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "travel"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9e094c97fb5e365ab41a3e75",
+      "title": "运河通到家门口 渔家吃上“旅游饭”",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700149.shtml",
+      "summary": "何以中国·运河之光｜运河通到家门口 渔家吃上“旅游饭”",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:01:56.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "travel"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5a81f7944774badc81a7e605",
+      "title": "五省村歌庆丰收 重庆黔江：唱喜乐 聚人心 兴文化",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700094.shtml",
+      "summary": "中新网重庆9月20日电 (罗永皓)“唱的是喜乐，聚的是人心，兴的是文化。”19日，2026中国农民丰收节村歌大赛西部大区赛及颁奖展演在重庆市黔江区举行。黔江区委书记罗成一语道出村歌温润乡土、赋能乡村的力量。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T08:01:09.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8f61648fff5bc2f4e4747b20",
+      "title": "中国男足0:0战平伊朗队",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700145.shtml",
+      "summary": "中新网9月20日电(记者 金旭)爱知·名古屋亚运会男足小组赛20日进行B组第二轮比赛，中国男足0:0战平伊朗队。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:59:53.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "aaaeadfa571a2cb36ffb37b8",
+      "title": "“中国洋浦港”船籍港船舶总运力突破900万载重吨",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700093.shtml",
+      "summary": "中新网海南洋浦9月20日电 (李嘉欣)9月20日，海南国际船舶登记管理局举行“中国洋浦港”籍“远海龙门”轮发证仪式。该轮成功入籍，标志着“中国洋浦港”籍船舶总运力历史性突破900万载重吨，创下船籍港建设全新里程碑，助力海南自贸港航运产业高质量发展再上新台阶。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:59:29.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f4a0138c6226f25c96a16b93",
+      "title": "第22届长沙国际车展12月启幕 打响中部年度车市收官战",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700108.shtml",
+      "summary": "中新网长沙9月20日电 (龚倩)作为中部车市年度压轴大戏，第二十二届长沙国际汽车博览会将于12月9日至14日在长沙国际会展中心启幕。组委会20日对外透露，今年的展会集结海量新车、前沿汽车科技，叠加多重惠民购车福利，将打造年末高含金量汽车消费盛会。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:58:53.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6a7e47ee1f5df775d26a39e0",
+      "title": "台湾摩友在渝打卡摩博会 点赞重庆摩托车产业",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700092.shtml",
+      "summary": "中新网重庆9月20日电 (梁钦卿)“期待大陆产摩托车能早日进入台湾市场。”19日在重庆开幕的第二十四届中国国际摩托车博览会(下称“摩博会”)上，来自台湾的陈文仁在试驾多款宗申集团的摩托车后称，如今大陆把不少汽车领域的前沿技术应用到摩托车产品上，令人“大开眼界”。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:58:31.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8544748152284ac66c4780b5",
+      "title": "OPPO Find X10 系列配件公布：含新国标移动电源，9 月 22 日全球首发",
+      "originalUrl": "https://www.ithome.com/1/004/832.htm",
+      "summary": "IT之家 9 月 20 日消息，OPPO Find X10 系列配件公布，OPPO 新国标移动电源、小方瓶充电器、磁吸壳等，9 月 22 日 19:00 全球首发 33W 口袋充 10000 冰川能量卡 80W 随行充 15000 67W 随行充 20000 80W 小方瓶 Mini 磁吸保护壳 IT之家注意到，OPPO Find X10 系列新机定档 9 月 22 日全球首发，其中 Pro Max 版首批搭载天玑 9600 Pro 旗舰芯片、 8000mAh 冰川电池，关于…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:58:19.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1f0515fb4fe295d3b4562b7b",
+      "title": "成都发布“放心吃、放心购、放心游”举措 中秋国庆将办400余场活动",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700109.shtml",
+      "summary": "中新网成都9月20日电 (轩瑾婉)20日，成都市人民政府新闻办公室召开“在成都，放心吃、放心购、放心游”新闻发布会，围绕食品安全、消费服务、旅游环境等方面介绍中秋国庆期间相关保障举措，进一步营造安全放心的消费环境和舒心安心的旅游环境。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:57:05.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5e263f4a70eb2472ca9f6a08",
+      "title": "东风人形机器人将于今年 10 月份进入工厂：主要面向生产制造领域，进行分拣、质检等工作",
+      "originalUrl": "https://www.ithome.com/1/004/831.htm",
+      "summary": "IT之家 9 月 20 日消息，据第一财经消息，东风汽车智能化技术首席总工程师张振林表示，东风人形机器人将于今年 10 月份进入工厂，主要面向生产制造领域，进行分拣、质检等工作。今年年底，东风人形机器人将进行小批量、小点位的试制，计划在明年年底能力与真人持平。 此外，该公司自主研发的机器狗将比人形机器人更快投入 4S 店导购等场景。张振林认为，车企研发具身智能产品能够实现与汽车大模型等多个领域进行复用，加速商业化量产效率。同时，未来具身智能产品的形态也不仅限于人形机器人或机器…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:56:52.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "108805a9ae095cd1116e3c20",
+      "title": "在烟火街巷邂逅健康市集 浙江永康解锁生育友好新图景",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700090.shtml",
+      "summary": "中新网金华9月20日电(张煜欢)9月的浙江金华永康，晚风里已带着丝丝凉意，在大司巷特色文化街区，随着红灯笼次第亮起，一场热闹非凡的健康市集在此展开。砂锅里的药膳咕嘟作响，艾草的温热气息飘散开来，市民漫步街巷，看科普展演、尝养生茶饮、找专家问诊，孩子们攥着《健康寻宝护照》在闯关营前蹦跳着排起长队。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:56:51.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "health"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0f897c1f1fe374808753417a",
+      "title": "瑶山种菜种出大产业 湖南江华打造粤港澳优质 “菜篮子”",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700111.shtml",
+      "summary": "中新网永州9月20日电 (杨丁香 贺青青)今年上半年，湖南江华瑶族自治县蔬菜种植面积达8.19万亩、产量11.29万吨，同比分别增长1.1%、4.9%，新增供港澳蔬菜基地1个，全县“二品一标”认证农产品增至33个。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:56:27.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ff0d653fb7ae78806eb0aaa9",
+      "title": "“数”“绿”双向赋能 新疆乌苏传统制造低碳转型提质效",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700112.shtml",
+      "summary": "中新网新疆乌苏9月20日电 (袁鹏冲)“以数赋能 向绿而行”数字化绿色化协同转型经验新疆行参访团，19日走进塔城地区的乌苏工业园区某水泥公司，实地了解传统高耗能产业数字化、绿色化协同转型实践成效。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:54:11.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "36d40af5557f2874cd34ceb3",
+      "title": "北京林业大学首期“星火馆科学营”举办",
+      "originalUrl": "https://www.chinanews.com.cn/edu/2026/09-20/10700085.shtml",
+      "summary": "中新网北京9月20日电 (记者 陈溯)记者20日从北京林业大学获悉，北京林业大学主办的首期“星火科学营”(常态营)于9月19日正式结营。来自北京大学附属中学石景山学校和首都师范大学附属中学朝阳学校的60名高中生营员走进绿色学府，完成为期三天的科学营之旅。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-edu",
+        "feedUrl": "https://www.chinanews.com.cn/rss/edu.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:53:41.000Z",
+      "timeIssue": null,
+      "channels": [
+        "education"
+      ],
+      "sourceIds": [
+        "chinanews-edu"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "205808bb30a95fc0df7acce0",
+      "title": "产业链“数”“绿”升级 新疆乌苏棉花产业解锁转型新势能",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700120.shtml",
+      "summary": "中新网新疆乌苏9月20日电 (袁鹏冲)“以数赋能 向绿而行”数字化绿色化协同转型经验新疆行参访团19日走进塔城地区乌苏市，实地探访当地棉纺织加工、农机装备制造企业，了解产业数字化、绿色化协同转型成效。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:52:52.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4e6fbbe6f06590fba7fb1496",
+      "title": "2026年中华龙狮大赛（陕西三原站）鸣锣 海内外龙狮队伍同台竞技",
+      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-20/10700082.shtml",
+      "summary": "中新网陕西咸阳9月20日电 (记者 张一辰)2026年中华龙狮大赛(陕西三原站)19日在咸阳市三原县城隍庙广场鸣锣开赛，这是该项国家级品牌赛事首次落地陕西。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-culture",
+        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:51:30.000Z",
+      "timeIssue": null,
+      "channels": [
+        "entertainment"
+      ],
+      "sourceIds": [
+        "chinanews-culture"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d3ec1bc049743e565622a4b1",
+      "title": "2026中国网球菁英团体邀请赛西安站举行",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700121.shtml",
+      "summary": "中新网西安9月20日电 (记者 张一辰)2026中国网球菁英团体邀请赛西安站19日举行。作为该项邀请赛的最后一个分站赛，本次赛事吸引了来自高校、机关、企业等不同领域的网球爱好者逾二百人参与。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:51:08.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7d1c9ee50894d2d4f1098119",
+      "title": "从“造车”到“造人”：安徽制造的“链式生长”",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700080.shtml",
+      "summary": "中新网合肥9月20日电 (记者 张强)2026世界制造业大会9月20日在合肥开幕。记者在提前探馆时，仅在机器人与具身智能展区，由17款安徽本土人形机器人组成的“机器人天团”受关注。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:50:46.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "05a62a8ba99efa9c675e13cf",
+      "title": "如何让开学季“过客”变为城市游“常客”？",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700142.shtml",
+      "summary": "“送学游”走红背后是越来越多家庭更注重情感仪式",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:50:26.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6def01df909b9da79de34077",
+      "title": "不靠海、不沿边，长沙何以成为对外开放高地？",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700079.shtml",
+      "summary": "中新网长沙9月20日电 (冯军)日前，长沙海关发布了今年前8个月外贸数据：长沙进出口总额2080.5亿元，同比增长11.6%，占全省的53.2%；机电产品出口1339.9亿元，增长9.6%，占出口比重提升至60.2%；汽车、工程机械出口分别增长30.7%、25.1%。不靠海、不沿边，长沙何以稳稳撑起湖南外贸“半壁江山”？",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:50:10.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "44ddfca4013ef69764fa83a8",
+      "title": "山东深化医疗服务改革 织牢民众就医保障网",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700124.shtml",
+      "summary": "中新网济南9月20日电 (刘驰原)医疗工作关乎民生福祉，是构建和谐社会的重要基石。近年来，山东各地坚持以人为本，在深化医保服务改革、提升医疗保障水平上持续发力，切实织密民众“健康守护网”。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:48:12.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "health"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ee70f1f6dd39013e102491d4",
+      "title": "师姐联动贝姐：《剑星》与《猎天使魔女》游戏免费联动更新预告，11 月 5 日推出",
+      "originalUrl": "https://www.ithome.com/1/004/830.htm",
+      "summary": "IT之家 9 月 20 日消息，《剑星》与《猎天使魔女》的免费联动更新预告今天在东京电玩展 2026 公布，本次更新将于日本时间 11 月 6 日 00:00（北京时间 11 月 5 日 23:00）上线。 据介绍，本次联动将为《剑星》女主角“师姐”（伊芙）带来 4 套“贝姐”（蓓优妮塔）服装，分别为“Bayonetta”“Nun”“Jeanne”和“Black Tresses”，IT之家附预告视频如下： 据悉，《剑星》提供了一个半开放世界舞台供玩家探索，游戏主线故事流程长达…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:47:50.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ec9ba96379b9a1d843b3a5a0",
+      "title": "第五届中国（四川）国际熊猫消费节将启动 拟发放消费券超6亿元",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700135.shtml",
+      "summary": "中新网成都9月20日电 (袁牟知博)四川省人民政府新闻办公室20日举行新闻发布会，介绍第五届中国(四川)国际熊猫消费节(下称消费节)有关情况。据悉，本届消费节将于9月22日至11月30日举行，将推出“票根惠民”主题活动，发放“蜀里安逸”商贸服务消费券超6亿元，聚焦10类智能化产品实施地方自主补贴。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:47:16.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "af416401ace7b2a07f71ed9a",
+      "title": "特朗普要给“人工智能”改名：超 18 万人投票，“卓越智能”票数暂领先",
+      "originalUrl": "https://www.ithome.com/1/004/829.htm",
+      "summary": "IT之家 9 月 20 日消息，据 Techcrunch 报道，美国总统唐纳德 · 特朗普（Donald Trump）依旧以他标志性的方式回应了近期围绕人工智能安全展开的讨论。他宣称，各界对于 AI 风险的这些担忧，不过是“激进左翼民主党人长期炮制的一系列骗局之一，其目的就是毁掉我们的国家”。 当地时间周六，特朗普先是在自己的社交平台 Truth Social 上发文谈及人工智能。他写道：“很多人认为，‘人工智能’这个叫法本身并不准确，用来指代 AI 这件事，措辞也很蹩脚。”…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:46:36.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d06f657a18df451e8e4f8b93",
+      "title": "我国制造业高端化转型加速",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700141.shtml",
+      "summary": "央视网消息(新闻联播)：今年以来，我国制造业持续加快转型升级，高端化、智能化、绿色化步伐提速，推动工业经济不断提质向新。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:46:34.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b8b3aad461bd6ae6f6e5ac1c",
+      "title": "ARC 公布 Android 掌机 X1：高通骁龙 G2 Gen 2，7\" FHD 120HZ LCD 屏幕",
+      "originalUrl": "https://www.ithome.com/1/004/828.htm",
+      "summary": "IT之家 9 月 20 日消息，印度品牌 ARC 近日正式公布了其 Android 掌机产品 ARC X1。其基于高通骁龙 G2 Gen 2 游戏平台，运行基于 AOSP 的游戏体验优化发行版 OwlOS。 ARC X1 配备 8GB LPDDR5X-8533 内存、128GB UFS 3.1 存储，可通过 microSD 扩展至多 1TB 存储；搭载 7\" 1920×1080 120Hz 的 500+nits 亮度 LTPS TFT LCD 屏幕。 其搭载后进上排的涡轮风扇…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:46:09.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "fe13bec10abc7d598d52551e",
+      "title": "（乡村行·看振兴）海南屯昌：百年五形桩“打”开新天地",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700136.shtml",
+      "summary": "中新网海南屯昌9月20日电 (记者 王晓斌)海南省屯昌县新兴镇坡陈村是海南远近闻名的“武术村”。记者近日探访发现，这个“武术村”通过成立文旅公司，把武术搬上了国内外舞台。过去，坡陈村的“大马五形桩”是村民强身健体的“看家本领”；如今，这套传承百余年的拳法在国内外“打”开新天地，让村民吃上了“武家饭”。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:46:06.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f8f28edb5b3e278427025872",
+      "title": "李刘畅夺得亚运会现代五项男子个人赛金牌",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700140.shtml",
+      "summary": "9月20日，名古屋亚运会现代五项男子个人赛，李刘畅获得金牌。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:44:02.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b2a0c02116fb3e339c6c2050",
+      "title": "中国拟到2030年全面建立统一规范高效的经营主体准入退出制度",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700063.shtml",
+      "summary": "中新社北京9月20日电 (记者 刘亮)中国国家市场监管总局副局长束为20日表示，到2030年，中国统一规范高效的经营主体准入退出制度全面建立。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:44:00.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f0dda3e28766911cacb53a36",
+      "title": "广东公安严打涉企网络谣言并出台五项措施",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700132.shtml",
+      "summary": "中新网广州9月20日电 (记者 方伟彬)广东省公安厅20日发布消息，今年以来，该厅聚焦涉企网络造谣传谣、恶意抹黑等乱象，启动专项整治，出台五项精准措施。全省侦办涉企网络谣言案件56起，查处违法人员57名，处置违规账号、群组1108个。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:42:30.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "dcb3d4d054afd9a0bf77e44e",
+      "title": "小鹏 Mona M03“海风蓝”、L03“汽水橙”官方改色上线，定制车膜 2990 元起",
+      "originalUrl": "https://www.ithome.com/1/004/827.htm",
+      "summary": "IT之家 9 月 20 日消息，小鹏汽车今日宣布，M03「海风蓝」× L03「汽水橙」官方改色全新上线。 据介绍，官方定制车膜 2990 元起，支持积分兑换，覆盖 100+ 丰富色系，可在小鹏 App 商城购买。 IT之家附小鹏 Mona M03“海风蓝”、L03“汽水橙”改色官图如下： 延伸阅读 小鹏 MONA M03 于 2024 年 8 月正式上市，是 MONA 系列的首款车型，定位纯电掀背轿车。2026 款官方指导价为 11.98 万至 15.18 万元，共推出 6 …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:41:52.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7b254d117858262cc299013f",
+      "title": "中国加快引导市场竞争从“拼价格”转向“拼质量”",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700061.shtml",
+      "summary": "中新社北京9月20日电 (记者 刘亮)中国国家市场监管总局副局长束为20日在北京介绍，“十五五”时期，市场监管部门将加快引导市场竞争从“拼价格”转向“拼质量”的良性轨道。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:40:44.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "2bd51a727f9a666df44d6e16",
+      "title": "不沿边不靠海，河南驻马店“十五五”如何下好陆港型枢纽这盘棋？",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700126.shtml",
+      "summary": "中新网郑州9月20日电 (张楠)不沿边不靠海，地处“豫州之腹地、天下之最中”的河南驻马店何以在“十五五”开局之际亮出了一张“王牌”——陆港型国家物流枢纽。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:40:14.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "018bb7c4918a33823761237e",
+      "title": "小米平板 9 系列兼容苹果生态，可作为 Mac 电脑无线副屏使用",
+      "originalUrl": "https://www.ithome.com/1/004/826.htm",
+      "summary": "IT之家 9 月 20 日消息，小米今日预热，小米平板 9 系列兼容苹果生态，可作为 Mac 电脑无线副屏使用，支持文件、图片，一键互传，信息无缝流转。 IT之家注意到，小米平板 9 采用 11.2 英寸设计，提供冰桃粉、云杉绿、黑、银四种配色；平板 9 Pro 采用 12.5 英寸大屏，兼顾生产力与便携，提供云杉绿、黑、银三种配色。新品支持 3.2K 分辨率、144Hz 刷新率、DC 调光，三重莱茵护眼认证，Pro 亮度最高 1000nits，标准版亮度最高 800nits…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:37:11.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a89207f33ea71bce0220174f",
+      "title": "北京力争到2030年营商环境整体水平位居全球前列",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700055.shtml",
+      "summary": "中新社北京9月20日电 (记者 吕少威)根据20日发布的《北京市“十五五”时期优化营商环境规划》(下称规划)，北京力争到2030年，国际一流营商环境建设全面深化，人才近悦远来、企业活力迸发、创新开放包容、产业生态繁荣、城市宜居宜业，营商环境整体水平位居全球前列。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:36:12.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6a909b6f777ced9e73de0862",
+      "title": "谷歌高管称亚洲 AI 普及速度被低估，两年走完云计算十多年历程",
+      "originalUrl": "https://www.ithome.com/1/004/824.htm",
+      "summary": "IT之家 9 月 20 日消息，据日经亚洲今日报道，谷歌亚太及日本地区 AI 业务总经理哈沙 · 孔杜里（Harsha Konduri）表示，亚洲的 AI 普及速度远超外界预估。AI 大约在两年时间内迅速普及，而云计算进入企业日常运营用了十多年。 孔杜里表示，外界称亚洲 AI 普及率低于其他市场的判断不符现实。他认为，亚洲可能是谷歌云业务增长最快的地区。在他接触的多个公司中，亚洲为 AI 业务贡献的收入已经位居全球第二，部分业务接近北美。 不过亚洲企业在采用 AI 时态度更谨…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:34:06.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3e2b7251d9af226ab00ee35e",
+      "title": "婴幼儿配方食品标签标识问答",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700119.shtml",
+      "summary": "1、婴幼儿配方食品的生产日期和保质期应如何标示？",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:33:41.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "food"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "fa6a6e0c23fa1c273202ae42",
+      "title": "抖音生活服务召开自助餐面包甜点行业峰会，两大品类入驻商家同比增长均超3成",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10700117.shtml",
+      "summary": "9月17日，抖音生活服务自助餐面包甜点行业峰会在杭州举行。峰会以“聚势同行·焙增无界”为主题，邀请平台业务负责人、内容创作者与自助餐、烘焙及甜品商家共聚，围绕品类趋势、内容营销、货架经营与服务体验等层面，探讨自助餐和面包甜点两大品类在当下的经营特色与增长趋势。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:33:21.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a35701c0443b570a6c1d2ece",
+      "title": "澳总理阿尔巴尼斯：苹果库克盛赞澳大利亚社交媒体监管“世界领先”",
+      "originalUrl": "https://www.ithome.com/1/004/823.htm",
+      "summary": "IT之家 9 月 20 日消息，据路透社报道，澳大利亚总理安东尼 · 阿尔巴尼斯（Anthony Albanese）于当地时间周日表示，苹果执行主席蒂姆 · 库克（Tim Cook）认为澳大利亚政府率先推出的社交媒体管控措施堪称“世界领先（world-leading）”。此前阿尔巴尼斯前往苹果美国总部，与库克举行了会面。 “今天上午蒂姆 · 库克抽出了很长时间和我们交流。他认为我们在社交媒体监管方面开展的工作走在了世界前列。”阿尔巴尼斯在位于加利福尼亚州的苹果总部 Apple…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:29:41.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "de920b4be47942a51fe64340",
+      "title": "小米米家冰箱 271L 三门全域离子净化开售：中门宽幅变温，1599 元",
+      "originalUrl": "https://www.ithome.com/1/004/822.htm",
+      "summary": "IT之家 9 月 20 日消息，小米米家冰箱 271L 三门全域离子净化现已开售，官方建议零售价 1799 元，电商平台标价 1599 元，国补到手价 1359.15 元。 这款冰箱定位小型家用电冰箱，占地面积仅约 0.34 平方米，适合租房、宿舍、小户型使用；总容积 271L，其中冷藏室 151L、冷冻食品储藏室 85L、变温室 35L；中门支持宽幅变温，-20°C~5°C 每度可调。 这款冰箱搭载银离子抗菌净味模块，抗菌率达 99.99%；采用 360° 循环风冷技术，无…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:28:49.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d197da81d7a19dbdcdcd3a7a",
+      "title": "小米米家冰箱 256L 三门新品开售：360 度循环风冷，首发 1299 元",
+      "originalUrl": "https://www.ithome.com/1/004/821.htm",
+      "summary": "IT之家 9 月 20 日消息，小米今日宣布米家冰箱 256L 三门新品开售，支持 360 度循环风冷、新一级能效，首发价 1,299 元。 据介绍，该产品占地仅约 0.34 平方米，随心放置轻松适应公寓、Loft 等多种户型，延续米家冰箱家族化的设计语言，配备星锻银金属面板，可贴冰箱贴。 冷藏室、变温室、冷冻食品储藏室三区独立控温，灵活调节。10 格分储空间，不同食材分门别类存储。其中冷藏室容积 136L，冷冻食品储藏室容积 85L，变温室容积 35L，支持-20°C~5°…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:27:32.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e244e5c9291d891ed032659f",
+      "title": "（文化中国行·校馆弦歌）AI赋能科研亦温润人心 华东理工大学图书馆为理工教育装上人文之锚",
+      "originalUrl": "https://www.chinanews.com.cn/edu/2026/09-20/10700032.shtml",
+      "summary": "中新网上海9月20日电 (许婧 张洪艺)秋日午后，华东理工大学徐汇校区图书馆明德书房内，一场Web of Science AI科研工具专项培训开讲，校内教师与科睿唯安专家共探AI赋能科研的全新路径，助力学科建设、成果评估和科研战略布局实现智能化、精准化升级。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-edu",
+        "feedUrl": "https://www.chinanews.com.cn/rss/edu.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:26:03.000Z",
+      "timeIssue": null,
+      "channels": [
+        "education",
+        "technology",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "chinanews-edu"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4d4da8a563362609901a1e20",
+      "title": "Retroid Pocket 公布 Duo 双屏 Android 掌机 Lite Plus 版，搭载跃龙 Q-7790",
+      "originalUrl": "https://www.ithome.com/1/004/820.htm",
+      "summary": "IT之家 9 月 20 日消息，Retroid Pocket 近日公布了其双屏 Android 掌机 Duo 的 Lite Plus 版本。 这一变体与 Duo Lite 共享机身设计，依旧搭载 5.5\" 1920×1080 60Hz LCD 上屏、4.2\" 960×720 60Hz LCD 下屏；但处理器从高通跃龙 QCS6125 升级至 Duo 标准版同款的跃龙 Q-7790；配备 8GB 内存、128GB 存储。 Retroid Pocket Duo Lite Plus…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:24:49.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "96b62f62b5733638f08c230f",
+      "title": "消息称联想寻求出售卢森堡国际银行 90% 股权，估值或达 25 亿欧元",
+      "originalUrl": "https://www.ithome.com/1/004/818.htm",
+      "summary": "IT之家 9 月 20 日消息，据《金融时报》今日报道，联想控股正寻求出售卢森堡国际银行（Banque Internationale à Luxembourg）90% 股权，首轮报价预计将在本月底前后提交，估值可能达到 25 亿欧元（IT之家注：现汇率约合 192.54 亿元人民币）或更高。 据知情人士透露，该笔交易将由高盛协助，目前已有欧洲和中东机构对卢森堡国际银行表达初步兴趣，相关谈判仍处于早期阶段，当前无法确认最终是否达成交易。 据悉，联想控股 2017 年从卡塔尔王室…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:20:34.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "finance"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8ee035bd4627331eb7b31622",
+      "title": "消息称 Anthropic 拟于 IPO 前推出新 AI 模型，以应对 OpenAI GPT-6 Astra 竞争压力",
+      "originalUrl": "https://www.ithome.com/1/004/817.htm",
+      "summary": "IT之家 9 月 20 日消息，据路透社报道，三位消息人士透露，Anthropic 正考虑推出一款全新人工智能模型，以此应对 OpenAI 发布 GPT‑6 Astra 之后的强劲发展势头。此事发生在该公司筹备 IPO（首次公开募股）前夕；就在此前，其首席执行官还呼吁整个 AI 行业放缓技术迭代的脚步。 消息人士称，此番计划发布新模型，意在直面来自直接竞争对手的竞争压力。而在此之前，Anthropic 首席执行官达里奥 · 阿莫代伊（Dario Amodei）已经向全球 AI…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:20:27.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "dc016cfb50e76efb91920275",
+      "title": "深光影像 AF 18mm F2.2 LE APS-C 相机镜头开售：首发富士 X 卡口，698 元",
+      "originalUrl": "https://www.ithome.com/1/004/816.htm",
+      "summary": "IT之家 9 月 20 日消息，深光影像今日宣布，AF 18mm F2.2 LE APS-C 相机镜头今日开售，首发富士 X 卡口，商品页面显示后续将推出 E、Z、M43 卡口，售价 698 元。 这款镜头采用金属镜身，重约 122g，尺寸为 29.5mm × 66mm，最近对焦距离 0.18m；光学结构为 6 组 8 片，搭载 1 枚 ED 低色散镜片、4 枚高折射率镜片，采用 9 枚光圈叶片设计，搭载 STM 静音马达。 IT之家附这款镜头详细参数： 京东 SGIMAGE…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:15:04.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a622219dc7b3c15c8fc10a75",
+      "title": "小米 18 Pro 系列黑白双色官图公布，9 月 23 日发布",
+      "originalUrl": "https://www.ithome.com/1/004/814.htm",
+      "summary": "IT之家 9 月 20 日消息，小米 18 Pro 系列黑白双色官图今日公布，新机将于 9 月 23 日晚 7 点发布。 IT之家注意到，官方此前已经公布全新配色「星河蓝」。新机搭载全新百变背屏，纯平一体式设计，全新大微弧四曲中框，屏幕边框窄至 0.99mm。 此外，小米 18 Pro 系列手机官宣搭载 2nm 旗舰移动平台，徕卡双 2 亿超清影像系统，新一代超级像素屏幕，全新 M11 发光体系，32% 超高硅小米金沙江电池。其中小米 18 Pro 搭载 7000mAh 金沙…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:09:54.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "04abbcf7909f824404ed7654",
+      "title": "斯诺克国际锦标赛资格赛收官：中国军团16人闯关成功",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700065.shtml",
+      "summary": "中新社英国莱斯特9月20日电 当地时间19日，2026年斯诺克国际锦标赛资格赛在英国莱斯特展开最后一个比赛日的较量。中国军团当日10人出战取得五胜五负，常冰玉、斯佳辉、吕昊天、袁思俊和徐思5人晋级。至此本届资格赛阶段收官，中国军团28人登场，16人闯关成功。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:09:00.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f79b7aa16334ba8cca92947e",
+      "title": "荣耀上架 MagicBook Pro 16 2025“极客版”笔电，搭载 3K 护眼屏",
+      "originalUrl": "https://www.ithome.com/1/004/813.htm",
+      "summary": "IT之家 9 月 20 日消息，荣耀 (HONOR) 现已在电商平台上架 MagicBook Pro 16 2025“极客版”笔记本电脑。其可选星辰灰、云霓色外观，明日 12:00 开启预约。 这一版本预计搭载英特尔酷睿 Ultra 5 处理器（部分位置提到“第 2 代英特尔酷睿 Ultra”，但也有位置提到 \"Intel Core Ultra 5 125H\"），配套 3072×1920 165Hz 的 100% DCI-P3 色域 IPS 屏幕，拥有 16GB 内存和 51…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:05:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0f61477ccaefbb760c720d7a",
+      "title": "我国新一代同步辐射光源直线加速器在合肥成功出束",
+      "originalUrl": "https://www.ithome.com/1/004/811.htm",
+      "summary": "IT之家 9 月 20 日消息，据新华社报道，9 月 20 日，随着启动键摁下，坐落于安徽合肥未来大科学城的合肥先进光源（HALF）直线加速器成功实现出束，标志着这一国家重大科技基础设施项目建设迈出关键一步。 “光源”是大科学装置“同步辐射光源”的简称，HALF 是基于衍射极限储存环技术的第四代低能量区（2.2 千兆电子伏特）同步辐射装置。今年 6 月 23 日，HALF 园区正式启用。从高空俯瞰，这座装置的整体外形宛如一只凝望苍穹的“大眼睛”。这只能够洞悉物质微观结构的“灵…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:00:43.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "40cdefa11fef45e9f0d66af9",
+      "title": "工信部副部长辛国斌：大力发展开源基座模型和垂类模型，深入推进 AI+ 制造",
+      "originalUrl": "https://www.ithome.com/1/004/810.htm",
+      "summary": "IT之家 9 月 20 日消息，据财联社消息，2026 世界制造业大会今日开幕，工业和信息化部副部长辛国斌在开幕式致辞中表示，工信部将以新一代智能制造为主攻方向，不断提升制造业创新力、竞争力、综合实力，塑造中国制造新优势。 辛国斌在致辞中提出四点主张，IT之家附详情如下： 一是要提升产业创新体系效能。加强原始创新和关键核心技术攻关，强化企业科技创新主体地位，优化产业创新平台布局建设，推动更多科技创新转化为现实生产力。 二是促进先进制造业扩容提质，统筹推进传统产业转型升级、新型…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:00:15.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "894ecfaff441dab18edccdaa",
+      "title": "觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记",
+      "originalUrl": "https://sspai.com/post/114495",
+      "summary": "这是一趟水陆空三栖的旅行——在万象的街头巷尾无意间推门而入点了一份炸五花肉套饭，味道香上了头发根；在万荣连跳两天水，最高的 8 米跳台跳下来砸得屁股很疼，各种户外活动性价比拉满；琅勃拉邦的慢生活，从清晨薄雾中的布施开始到日落时分反射着金光的湄公河结束。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "sspai",
+        "feedUrl": "https://sspai.com/feed",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T07:00:00.000Z",
+      "timeIssue": null,
+      "channels": [
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "sspai"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ba25dd3c84b8e67abc67590a",
+      "title": "黑龙江省流动科普设施边疆行联合行动在黑河启动",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700038.shtml",
+      "summary": "中新网黑河9月20日电(记者 赵宇航)9月19日，黑龙江省流动科普设施边疆行联合行动启动仪式在黑河市举行。黑龙江省各市(地)科协负责人、科普工作者代表，以及中俄两国160余名中小学生代表参加活动。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:57:41.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "cc56fb71d560ca4134acd5da",
+      "title": "市场监管总局：“十五五”时期将加快推动《电子商务法》的修改，推动增加比例罚、暂停相关业务等处罚类型",
+      "originalUrl": "https://www.ithome.com/1/004/809.htm",
+      "summary": "IT之家 9 月 20 日消息，国务院新闻办公室于 2026 年 9 月 20 日（星期日）上午 10 时举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期推动市场监管高质量发展有关情况。 会上介绍，平台经济连着千行百业、千家万户。关于推动平台经济创新和健康发展，这就要求进一步加强监管，促进平台企业与平台内的经营者、劳动者共赢发展。围绕这个目标要求，“十五五”时期将重点抓好三个方面的工作。IT之家整理如下： 一是在法律制度上进一步明确各类主体责任义务。市场监管总…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:57:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "314146d32c2fa23773062d43",
+      "title": "特斯拉北美推送 FSD v14.3.10 更新：保留自动避险功能，Cybertruck 新增 V2H 车到家供电",
+      "originalUrl": "https://www.ithome.com/1/004/808.htm",
+      "summary": "IT之家 9 月 20 日消息，特斯拉正在北美推送版本号为 2026.27.10 的车机软件更新，搭载 FSD v14.3.10（监督版）驾驶辅助系统。更新说明保留了自动避险功能，同时新增 Cybertruck 借助 Powerwall 实现车到家供电（Vehicle‑to‑Home）的支持。 IT之家注意到，FSD 的更新要点和此前的 v14.3.9 版本内容一致，包含强化学习训练效果提升、视觉编码器升级，以及特斯拉基于 MLIR 重写模块以实现更快系统响应。自动避险功能依…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:53:56.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8e2aa9dcebb08c7bfcf1ddd1",
+      "title": "中国少数民族摄影师记录镜头下的“多彩记忆”",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700048.shtml",
+      "summary": "中新社山西平遥9月20日电 (记者 胡健)第26届平遥国际摄影大展于19日至23日在位于山西晋中的平遥古城举办，第六届“故乡的路”中国少数民族摄影师奖作品展于此间开展，来自新疆、西藏、四川、吉林、广西、贵州等多个省份的少数民族摄影师携近百幅作品参展。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:52:29.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "40861078ba66fcd9632ddab6",
+      "title": "AOC AGP327UZD 叠曜版显示器开售：31.5 英寸 4K 240Hz 双模，6499 元",
+      "originalUrl": "https://www.ithome.com/1/004/807.htm",
+      "summary": "IT之家 9 月 20 日消息，AOC AGP327UZD 叠曜版显示器现已开售，原价 6999 元，领券到手价 6499 元。 相较原版 AGP327UZD，叠曜版升级至 LG Display 的 Primary RGB Tandem 2.0 技术四层 R-B-G-B WOLED 面板，相比传统三层结构亮度效率提升约 20%，色彩容量提升约 25%，色彩亮度提升约 40%，抗反光性能提升约 15%。 这款显示器拥有 1,850,000:1 静态对比度，通过 VESA Dis…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:52:27.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b6e4db53f6caade6c547c443",
+      "title": "教育部宁夏高等研究院2025级研究生开启科研实践",
+      "originalUrl": "https://www.chinanews.com.cn/edu/2026/09-20/10700047.shtml",
+      "summary": "中新网银川9月20日电 (记者 杨迪)9月20日，教育部宁夏高等研究院2025级校企联合培养研究生科研实践活动启动仪式暨开学典礼在银川举行。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-edu",
+        "feedUrl": "https://www.chinanews.com.cn/rss/edu.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:50:47.000Z",
+      "timeIssue": null,
+      "channels": [
+        "education",
+        "technology"
+      ],
+      "sourceIds": [
+        "chinanews-edu"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c0f9daa07ae6d1f1a12d7862",
+      "title": "粤超八强赛收官 广州队晋级四强",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700043.shtml",
+      "summary": "中新网广州9月20日电 (记者 张璐)2026年冠旭电子cleer·广东省城市足球超级联赛(简称“粤超”)八强赛19日晚收官，广州队坐镇主场以1:0战胜茂名队，以两回合总比分3:1淘汰对手，晋级四强。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:49:41.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b89b6d54f04966e274070639",
+      "title": "2026广州黄埔国际网球公开赛男双冠军出炉",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700041.shtml",
+      "summary": "中新网广州9月20日电 (记者 王坚)广开人才·2026广州黄埔国际网球公开赛暨国际男子职业网球挑战赛正在激烈进行中。19日，该赛事迎来第7个比赛日，在备受瞩目的男双决赛中，2号种子组合布莱克·贝尔登/阿尔琼·卡德险胜对手，成功夺得本届赛事男双冠军。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:48:26.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4dbb7111693b0786edf5b289",
+      "title": "重庆北碚守护“生态绿肺”：治水还清波，治山披绿装",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700034.shtml",
+      "summary": "中新网重庆9月20日电 题：重庆北碚守护“生态绿肺”：治水还清波，治山披绿装",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:47:32.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d0454587a64c4222489b568f",
+      "title": "消息称一加 16 手机将支持 180FPS 超高帧运行《原神》，号称实现“DLSS4 同代”游戏体验",
+      "originalUrl": "https://www.ithome.com/1/004/806.htm",
+      "summary": "IT之家 9 月 20 日消息，微博博主 @数码闲聊站 今日在微博发文称，“加加 16”（一加 16）手机可以跑 180FPS 超高帧率《原神》。 该博主宣称，该机将搭载新一代「风驰游戏内核」，与高通深度合作，基于 SM8975 （预计为骁龙 8 Elite Gen6 Pro）打造独占 GPU 黑科技，首次在移动端实现了“DLSS4 同代”游戏体验，性能释放“恐怖如斯”，原神能裸机直接跑满 180FPS。 后续有用户在评论区表示：“真有人整天玩原神吗？”，博主回应称：“如果你…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:46:15.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "fc4d00f0f8c720c1ee96ec71",
+      "title": "（长征胜利90周年）甘肃南梁：红色热土承烽火 光影新语传初心",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-20/10700017.shtml",
+      "summary": "中新网甘肃庆阳9月20日电 题：甘肃南梁：红色热土承烽火 光影新语传初心",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:45:40.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "19e5e5ef9a0e24fcd9314fdf",
+      "title": "2026年陕西省体能大赛佛坪站举行 以赛为媒促体旅融合发展",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700019.shtml",
+      "summary": "中新网陕西汉中9月20日电 (记者 张一辰)2026年陕西省体能大赛首站比赛19日在陕西佛坪县体育场开赛。来自全省的近2000名体能运动爱好者在秦岭南麓的青山绿水间同台竞技，沉浸式体验一场兼具专业性、趣味性与全民性的体能盛会。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:44:52.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0148e9359ec4b3bc54dd7ad8",
+      "title": "原创大师剧《朱南孙》沪上首演：让大医精神可感可知、可学可传",
+      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-20/10700016.shtml",
+      "summary": "中新网上海9月20日电(记者 陈静)19日晚，上海中医药大学建校70周年系列活动之一，原创大师剧《朱南孙》首演。在首演仪式上，国医大师朱南孙铜像揭幕，今后将落户岳阳医院院史馆。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-culture",
+        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:41:42.000Z",
+      "timeIssue": null,
+      "channels": [
+        "entertainment"
+      ],
+      "sourceIds": [
+        "chinanews-culture"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "964fd094c83ac1e0ba97cbc6",
+      "title": "订金 5 万美元，新一代特斯拉 Roadster 重新开放预订",
+      "originalUrl": "https://www.ithome.com/1/004/804.htm",
+      "summary": "IT之家 9 月 20 日消息，新一代特斯拉 Roadster 终于再度回到公众视野。历经多年的坊间猜测与一拖再拖，特斯拉已经在官网上正式重启了这款品牌迄今定价最高车型的预订通道。 就在此次开放预订的几周之后，特斯拉将于 10 月 1 日在得克萨斯州韦科正式发布这款车。距离概念车于 2017 年首次亮相已经过去了将近十年，这款旗舰跑车将迎来一次全新的正式发布活动。外界预计，售价、整车参数以及量产目标将成为本次发布会的核心议题。 5 万美元的预订门槛 想要锁定排队名额，需要支付…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:41:14.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ba611f47bc0e0aded16f60dc",
+      "title": "中国选手童心获得女子太极拳太极剑全能金牌",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700021.shtml",
+      "summary": "中新网9月20日电(记者 李志全)当地时间9月20日，在爱知·名古屋亚运会武术女子太极拳太极剑全能决赛中，中国选手童心以总成绩19.553分获得冠军。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:38:58.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b0b5aee31830d7e56cb03bc9",
+      "title": "沃尔沃 S90 汽车被曝“腰斩式”降价，部分门店 22 万全款落地",
+      "originalUrl": "https://www.ithome.com/1/004/803.htm",
+      "summary": "IT之家 9 月 20 日消息，据蓝鲸新闻 9 月 19 日报道，沃尔沃汽车官网仍将 S90 的起售价标在 40.69 万元的高位，但走进线下 4S 店，这款中大型豪华旗舰轿车的实际成交价早已跌破 23 万元大关。 报道称从多家沃尔沃 4S 店了解到，目前 S90 叠加厂家补贴、置换补贴及门店优惠后，线上最低报价为 22.99 万元，裸车价已来到 20 万出头，部分门店全款落地价甚至可控制在 22 万元以内，较 40.69 万元的入门指导价降幅逼近 50%，堪称“腰斩式”降价…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:36:59.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "daae99ae22cc6a0861a706bb",
+      "title": "Keychron G9 HE 鼠标曝光：磁光微动 + PAW3955 + nRF54LM20A 性能三角",
+      "originalUrl": "https://www.ithome.com/1/004/802.htm",
+      "summary": "IT之家 9 月 20 日消息，电竞外设数据站点 EloShapes 近日披露了 Keychron（渴创）尚未发布的鼠标新品 G9 HE 的规格信息。Keychron 也通过社媒互动确认了这一披露。 G9 HE 采用中尺寸对称模具，三维 118×61.3×39 (mm)，质量 42g；其搭载 MagOptic 100M 磁光微动、原相 PAW3955 传感器、Nordic nRF54LM20A SoC 主控性能三角，搭配光学滚轮编码器，支持 8kHz 回报率。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:34:16.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "636da362080c892023cc5aa6",
+      "title": "如何爱牙？中国首部系统聚焦牙齿与口腔医学科学纪录片深度解读",
+      "originalUrl": "https://www.chinanews.com.cn/life/2026/09-20/10700013.shtml",
+      "summary": "中新网北京9月20日电 (记者 孙自法)2026年9月20日是中国第38个“全国爱牙日”，中国首部系统聚焦牙齿与口腔医学的科学纪录片《从“齿”健康》，在“全国爱牙日”到来之际由中央广播电视总台央视纪录频道(CCTV-9)推出。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-life",
+        "feedUrl": "https://www.chinanews.com.cn/rss/life.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:33:02.000Z",
+      "timeIssue": null,
+      "channels": [
+        "home",
+        "health"
+      ],
+      "sourceIds": [
+        "chinanews-life"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b17e0d8e47a27e6f65c57bb5",
+      "title": "雷神首款 AI 移动工作站 AI Master M7000 明日开售：锐龙 AI Max+ 395 处理器，1.99 万元",
+      "originalUrl": "https://www.ithome.com/1/004/801.htm",
+      "summary": "IT之家 9 月 20 日消息，雷神官方今天宣布，雷神首款人工智能移动工作站 AI Master M7000 将于明日 10:00 开售，号称可运行 120B 参数的端侧 AI 大模型，适配创作、开发、科研、涉密四大领域，首发 + 国补价格 1.99 万元。 据介绍，该机将搭载 AMD 锐龙 AI Max+ 395 处理器，拥有 64GB 内存以及 AI 固态硬盘，预装 Herdsman（IT之家注：牧马人本地推理引擎），支持开箱即用。 据IT之家此前报道，该笔记本拥有 16…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:32:55.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1fb51e8e29f264cb83ae7641",
+      "title": "童心夺得亚运会武术女子全能比赛金牌",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10700010.shtml",
+      "summary": "9月20日，名古屋亚运会武术女子全能比赛，中国队选手童心获得金牌！",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:27:25.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "441b939ea706d032e91423b5",
+      "title": "刷新中国旅行车交付速度：领克 07GT 汽车万台交付达成，上市指导价 15.78 万元起",
+      "originalUrl": "https://www.ithome.com/1/004/794.htm",
+      "summary": "IT之家 9 月 20 日消息，领克汽车官方今日宣布，领克 07GT 汽车万台交付达成，刷新了中国旅行车交付速度。 IT之家注意到，领克 07GT 于 7 月 23 日上市，指导价 15.78 万元起、限时价 14.58 万元起，上市 27 分钟大定破万。该车是领克家族首款旅行车，拥有同级唯一 MRC 悬架、标配千里浩瀚 H5 驾驶辅助系统（Ultra 版可加 1 万元选装 H7 方案），尺寸为 4846 (4866)×1900×1485mm、轴距 2843mm。 四驱性能 …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:26:32.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility",
+        "travel"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7fd9db72f6caeffe1f844ec8",
+      "title": "安克移动影院 X1 Pro 投影仪上架：自带滚轮拉杆便于移动，4800 CVIA 亮度，28999 元",
+      "originalUrl": "https://www.ithome.com/1/004/786.htm",
+      "summary": "IT之家 9 月 20 日消息，安克现已在京东上架一款安克移动影院 X1 Pro 投影仪，该产品主要适用于露营等场景，自带滚轮拉杆可实现自由移动，定价为 28999 元。 京东 ANKER 安克移动影院 X1 Pro 投影仪 28999 元直达链接 该投影仪尺寸为 435×343×761mm。整机重量（包含音箱和麦克风）为 32.8kg，设备配备了航空级伸缩拉杆和全地形静音滚轮，方便移动。同时拥有智能环境感应系统，支持 25° 自动角度调节，屏幕自动避障、实时自动对焦和屏幕自…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:23:02.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "440a9c84baa27445f01a0938",
+      "title": "利奥博德推出全铝合金机械键盘 AKLCHEMIE：三模全配列，1350 元起",
+      "originalUrl": "https://www.ithome.com/1/004/785.htm",
+      "summary": "IT之家 9 月 20 日消息，外设品牌 Leopold（利奥博德）近日在国行渠道上架了机械键盘新品 AKLCHEMIE (FC900ALH)。该型号采用全配列设计，支持三模五设备连接，售价 1350 元起。 AKLCHEMIE 拥有 CNC + 阳极氧化工艺全铝机身，内部则是 Top Mount 固定结构，搭载铝合金定位板。其采用 QMK 固件，支持 VIA 改键；拥有北向热插拔轴座。 该键盘搭载力度 45gf 的 Leopold 线性或静音线性轴体开关；键帽为 1.5mm…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:22:28.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "2841ff342999acf664bda19e",
+      "title": "卢伟冰：真正意义上的 AI 手机，离走进我们生活，还有不少距离",
+      "originalUrl": "https://www.ithome.com/1/004/782.htm",
+      "summary": "IT之家 9 月 20 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今日发文，详细介绍了小米 18 Pro 系列手机的升级点，他表示：“这是小米数字旗舰系列，升级幅度最大的一次。” 卢伟冰提到，近年来，全行业都在聊 AI 手机，但目前看，真正意义上的 AI 手机，距离走进我们的生活，还有不少距离。 他表示，还需要整个 AI 和手机行业的共同努力。这一次，小米也走出了关键的一步，从系统软件到芯片硬件，从影像到大模型应用，小米 18 Pro 系列就是小米用 …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:20:39.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7fee79228116948410191655",
+      "title": "全新吉利银河 E5 官图发布，9 月 23 日亮相",
+      "originalUrl": "https://www.ithome.com/1/004/777.htm",
+      "summary": "IT之家 9 月 20 日消息，吉利汽车今日发布全新吉利银河 E5 官图，新车将于 9 月 23 日正式亮相，搭载全栈 800V 高压平台，支持峰值 6C 超充，配备新一代神盾短刀电池。 从官方公布的图片可以看到，该车延续了吉利在售车型的设计语言，采用封闭式前脸，配备造型较为犀利的灯组。该车前包围相比旧款进行调整，突出前唇，车顶配备激光雷达。 据IT之家了解，新车长宽高为 4636/1920/1670mm，轴距 2750mm，车身长度和宽度较现款提升，不再采用隐藏式门把手设计…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:19:30.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0b35dcceb1f4e84152156e54",
+      "title": "小米 18 Pro 系列手机「星河蓝」配色亮相：纯平一体式设计背屏、0.99mm 窄边屏，9 月 23 日发布",
+      "originalUrl": "https://www.ithome.com/1/004/770.htm",
+      "summary": "IT之家 9 月 20 日消息，小米手机官方刚刚发布了小米 18 Pro 系列手机的官图。 据介绍，全新小米 18 Pro 系列手机配备全新百变背屏，辅以纯平一体式设计；采用大微弧四曲中框，手感提升；搭载 0.99mm 窄边屏幕，视野更清爽。 新机还有全新「星河蓝」配色，主打精致、优雅，官方宣称灵感源自宇宙深处静谧的星云与夜空，细密碎闪如揉碎的星尘，展现微观银河幻境。 据IT之家今日早些时候报道，小米 18 Pro 系列手机将搭载 2nm 旗舰移动平台、徕卡双 2 亿超清影像…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:15:22.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d0b82e7a4efe9cfdb1850c47",
+      "title": "不少黑科技将至：曝各家手机厂商会上更多狠活拔高骁龙 8 Elite Gen5 处理器性能上限",
+      "originalUrl": "https://www.ithome.com/1/004/747.htm",
+      "summary": "IT之家 9 月 20 日消息，博主 @数码闲聊站 今日发文透露，今年子系品牌（IT之家注：如 REDMI、iQOO、一加等）N-1 迭代线新机，骁龙 8 Elite Gen5 处理器依然是主流选择。 博主表示，各家厂商会上更多狠活拔高这个平台的性能上限，也有不少黑科技呈现。他透露，摸到了某个子系性能旗舰手机，会上个很厉害的黑科技，能让骁龙 8 Elite Gen5 处理器的性能直升一档。结合评论区讨论来看，博主此次提到的这款子系性能旗舰手机为一加 Ace 7。 有网友询问，…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:06:20.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "780fb01276c113a95c3111a4",
+      "title": "更大的换热面积：机械大师公布 KLEIN 系列双冷排 AIO 液冷",
+      "originalUrl": "https://www.ithome.com/1/004/746.htm",
+      "summary": "IT之家 9 月 20 日消息，方糖机械大师 (Mechanic Master) 现已在其官网公布了“3D 结构分体水冷”KLEIN AIO。 与传统 PC AIO 液冷散热器多数仅配备一组冷排不同的是，KLEIN AIO 现有的三款产品 (K240+120, K360+120, K360+360) 均拥有 2 组冷排，这带来了更大的换热面积。 K240+120、K360+120 支持机箱顶部 + 后方安装位，K360+360 在设计上则应占据机箱顶部和主板旁（右侧前方）的安…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T06:05:46.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e5a96035c9a04a087c276565",
+      "title": "全国千余名跑者齐聚秦岭 推动全民健身从城市走向山野",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10699993.shtml",
+      "summary": "中新网陕西汉中9月20日电 (记者 张一辰)2026年陕西省山地越野跑分站赛9月19日在汉中市略阳县五龙洞国家森林公园鸣枪开赛。来自全国各地千余名越野跑爱好者齐聚秦岭，共赴一场运动与自然交融的健身盛会。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T05:58:47.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7844869a3c5216cd9e82334a",
+      "title": "2026广东工会“工BA”职工篮球联赛收官 中山队获得总冠军",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10699955.shtml",
+      "summary": "中新网广州9月20日电 (记者 张璐)2026广东工会“工BA”职工篮球联赛(简称“赛事”)总决赛暨闭幕式19日晚在广州体育学院亚运篮球馆落下帷幕。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T05:53:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "2e69a319200d74c4915026d6",
+      "title": "西南当代现实主义题材雕塑创作巡展亮相内蒙古美术馆",
+      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-20/10699969.shtml",
+      "summary": "中新网呼和浩特9月20日电 “文心世相：西南当代现实主义题材雕塑创作巡展”日前在内蒙古美术馆开幕，92位创作者的104件(组)优秀作品共同展出，集中呈现西南地区近十年现实主义雕塑的创作成果。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-culture",
+        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T05:52:07.000Z",
+      "timeIssue": null,
+      "channels": [
+        "entertainment"
+      ],
+      "sourceIds": [
+        "chinanews-culture"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0e8244cc786be8652654a336",
+      "title": "2026年全国定向锦标赛在伊春市丰林县开幕",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10699921.shtml",
+      "summary": "中新网伊春9月20日电(刘璐 兰胜宇)9月19日，2026年全国定向锦标赛在伊春市丰林县开幕。本次赛事吸引了来自全国各地的千余名运动员参赛，在茫茫林海间展开智力与体力的较量，于奔跑中领略小兴安岭的秋日胜景。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T05:51:01.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e35dd37278e62da23dd76942",
+      "title": "林诗栋：第一场比赛还在适应状态 私底下会向“头哥”请教经验",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10699985.shtml",
+      "summary": "中新网9月20日电(记者 国璇 徐朋朋)当地时间9月20日进行的爱知·名古屋亚运会乒乓球项目男子团体小组赛中，中国队由林诗栋、温瑞博和黄友政出战，最终以大比分3:0轻取中国澳门队。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T05:47:35.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "217f01b3853afb7928ec66ba",
+      "title": "2026第十四届环鄱阳湖国际自行车大赛在江西崇义开赛",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10699920.shtml",
+      "summary": "中新网江西崇义9月20日电 (记者 刘力鑫)2026第十四届环鄱阳湖国际自行车大赛(下简称“环鄱赛”)19日晚在江西赣州崇义县举行开赛仪式，本届赛事共有来自41个国家和地区的21支车队参赛。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T05:46:25.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "24bb2bb598bdb9b46ee68fd9",
+      "title": "投资人现场对接学生项目 东南大学“周六见”双创路演启动",
+      "originalUrl": "https://www.chinanews.com.cn/edu/2026/09-20/10699951.shtml",
+      "summary": "中新网南京9月20日电 (孙艳 徐珊珊)企业代表及投资人到场，学生项目登台路演，东南大学首期“周六见”东大学生双创项目路演活动19日在九龙湖创新生态圈路演厅举办，面向青年创客的常态化双创路演平台正式发布。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-edu",
+        "feedUrl": "https://www.chinanews.com.cn/rss/edu.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T05:38:10.000Z",
+      "timeIssue": null,
+      "channels": [
+        "education",
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-edu"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0d5b1e8c81a8e55876bcf21a",
+      "title": "2026年全国女子排球锦标赛在广东佛山开赛",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10699943.shtml",
+      "summary": "中新网佛山9月20日电 (记者 张璐)正野杯·2026年全国女子排球锦标赛(以下简称“赛事”)19日在广东省佛山市顺德德胜体育中心拉开战幕，吸引了来自全国各地的14支女排劲旅、数百名运动员在赛场上展开激烈角逐。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T05:27:36.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "83e64b8cf345bb8f123cdd9d",
+      "title": "视频｜2026亚运会，我上场！",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-20/10699862.shtml",
+      "summary": "视频：2026亚运会，我上场！来源：央视新闻客户端",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T05:26:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5a105144c9b54d881185383f",
+      "title": "秦腔表演艺术家李爱琴逝世 享年87岁",
+      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-20/10699908.shtml",
+      "summary": "中新网西安9月20日电 秦腔表演艺术家李爱琴于9月19日与世长辞，享年87岁。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-culture",
+        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T05:05:06.000Z",
+      "timeIssue": null,
+      "channels": [
+        "entertainment"
+      ],
+      "sourceIds": [
+        "chinanews-culture"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "11b7e7b66cc6a658a36a1552",
+      "title": "“《红星照耀中国》——一本红色译著的诞生”展在宁波开幕",
+      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-20/10699896.shtml",
+      "summary": "中新网宁波9月20日电(林波)9月19日，“《红星照耀中国》——一本红色译著的诞生”展览在浙江宁波图书馆开幕，展出16套珍贵的原版书籍。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-culture",
+        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-20T04:49:43.000Z",
+      "timeIssue": null,
+      "channels": [
+        "entertainment"
+      ],
+      "sourceIds": [
+        "chinanews-culture"
+      ],
+      "firstSeenAt": "2026-09-20T09:44:56.917Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
+      "updatedAt": "2026-09-20T09:44:56.917Z",
+      "version": 1,
+      "history": []
+    },
     {
       "id": "e27b2f64d2e47019631f8c38",
       "title": "“追梦中华·侨见辽宁行”2026海外华文媒体采访活动沈阳城市推介会举行",
@@ -116,8 +4592,8 @@
       "summary": "中新网西安9月20日电 (记者 杨英琦)第十三届丝绸之路国际电影节·埃及电影周启动仪式19日在西安举办。恰逢中埃建交70周年，作为本届电影节重要的中外人文交流活动，埃及电影周以光影为桥梁、以电影为媒介，推动中埃影视艺术互学互鉴、文化情感相知相融。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-culture",
+        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-20T04:41:05.000Z",
@@ -131,7 +4607,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-20T04:50:48.244Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-20T04:50:48.244Z",
       "version": 1,
       "history": []
@@ -1478,7 +5954,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-20T04:50:48.244Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-20T04:50:48.244Z",
       "version": 1,
       "history": []
@@ -1553,7 +6029,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-20T04:50:48.244Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-20T04:50:48.244Z",
       "version": 1,
       "history": []
@@ -2290,7 +6766,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-20T04:50:48.244Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-20T04:50:48.244Z",
       "version": 1,
       "history": []
@@ -3326,7 +7802,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-20T04:50:48.244Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-20T04:50:48.244Z",
       "version": 1,
       "history": []
@@ -3484,7 +7960,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-20T00:06:24.786Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-20T00:06:24.786Z",
       "version": 1,
       "history": []
@@ -4016,7 +8492,7 @@
         "sourceVersion": "a6f0c422-9beb-4044-bdf7-e258c62fbd18"
       },
       "firstSeenAt": "2026-09-20T00:06:24.786Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-20T00:06:24.786Z",
       "version": 1,
       "history": []
@@ -4421,7 +8897,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-19T16:46:12.591Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T16:46:12.591Z",
       "version": 1,
       "history": []
@@ -4887,7 +9363,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-19T16:46:12.591Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T16:46:12.591Z",
       "version": 1,
       "history": []
@@ -4990,7 +9466,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-19T16:46:12.591Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T16:46:12.591Z",
       "version": 1,
       "history": []
@@ -5130,8 +9606,8 @@
       "summary": "秋高气爽，运动健身风尚为城乡带来活力；各地“城超”“村超”火热开展，体育消费持续升温；亚运备战紧锣密鼓，我国体育健儿全力冲刺……“十五五”开局之年，新时代体育事业蓬勃发展的鲜活画卷正徐徐铺展。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-edu",
+        "feedUrl": "https://www.chinanews.com.cn/rss/edu.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-19T13:34:03.000Z",
@@ -5146,7 +9622,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-19T16:46:12.591Z",
-      "lastSeenAt": "2026-09-19T19:17:48.779Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T16:46:12.591Z",
       "version": 1,
       "history": []
@@ -5680,7 +10156,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-19T13:22:19.734Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T13:22:19.734Z",
       "version": 1,
       "history": []
@@ -5889,7 +10365,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-19T13:22:19.734Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T13:22:19.734Z",
       "version": 1,
       "history": []
@@ -5969,7 +10445,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-19T13:22:19.734Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T13:22:19.734Z",
       "version": 1,
       "history": []
@@ -6150,7 +10626,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-19T13:22:19.734Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T13:22:19.734Z",
       "version": 1,
       "history": []
@@ -6377,7 +10853,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-19T13:22:19.734Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T13:22:19.734Z",
       "version": 1,
       "history": []
@@ -6631,7 +11107,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-19T13:22:19.734Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T13:22:19.734Z",
       "version": 1,
       "history": []
@@ -6761,7 +11237,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-19T13:22:19.734Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T13:22:19.734Z",
       "version": 1,
       "history": []
@@ -6812,7 +11288,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-19T13:22:19.734Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T13:22:19.734Z",
       "version": 1,
       "history": []
@@ -6837,7 +11313,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-19T13:22:19.734Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T13:22:19.734Z",
       "version": 1,
       "history": []
@@ -7089,7 +11565,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-19T13:22:19.734Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T13:22:19.734Z",
       "version": 1,
       "history": []
@@ -7317,7 +11793,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-19T13:22:19.734Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T13:22:19.734Z",
       "version": 1,
       "history": []
@@ -7343,7 +11819,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-19T13:22:19.734Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T13:22:19.734Z",
       "version": 1,
       "history": []
@@ -7394,7 +11870,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-19T13:22:19.734Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T13:22:19.734Z",
       "version": 1,
       "history": []
@@ -7597,7 +12073,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-19T13:22:19.734Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T13:22:19.734Z",
       "version": 1,
       "history": []
@@ -7928,7 +12404,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-19T13:22:19.734Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T13:22:19.734Z",
       "version": 1,
       "history": []
@@ -7953,7 +12429,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-19T13:22:19.734Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T13:22:19.734Z",
       "version": 1,
       "history": []
@@ -8132,7 +12608,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-19T13:22:19.734Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T13:22:19.734Z",
       "version": 1,
       "history": []
@@ -8647,7 +13123,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-19T09:25:48.559Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T09:25:48.559Z",
       "version": 1,
       "history": []
@@ -9246,7 +13722,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-19T09:25:48.559Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T09:25:48.559Z",
       "version": 1,
       "history": []
@@ -9325,7 +13801,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-19T09:25:48.559Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T09:25:48.559Z",
       "version": 1,
       "history": []
@@ -9402,7 +13878,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-19T09:25:48.559Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T09:25:48.559Z",
       "version": 1,
       "history": []
@@ -10367,7 +14843,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-19T09:25:48.559Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T09:25:48.559Z",
       "version": 1,
       "history": []
@@ -10492,7 +14968,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-19T09:25:48.559Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T09:25:48.559Z",
       "version": 1,
       "history": []
@@ -11155,7 +15631,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-19T09:25:48.559Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T09:25:48.559Z",
       "version": 1,
       "history": []
@@ -11383,7 +15859,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T04:59:18.594Z",
       "version": 1,
       "history": []
@@ -12005,7 +16481,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T04:59:18.594Z",
       "version": 1,
       "history": []
@@ -12526,7 +17002,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T13:22:19.734Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T04:59:18.594Z",
       "version": 1,
       "history": []
@@ -13344,7 +17820,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T04:59:18.594Z",
       "version": 1,
       "history": []
@@ -13496,7 +17972,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T04:59:18.594Z",
       "version": 1,
       "history": []
@@ -13698,7 +18174,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T13:22:19.734Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-19T04:59:18.594Z",
       "version": 1,
       "history": []
@@ -15005,7 +19481,7 @@
         "sourceVersion": "32e1c5bc-d631-4c15-869f-3614ae5a0d44"
       },
       "firstSeenAt": "2026-09-18T16:19:58.290Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T16:19:58.290Z",
       "version": 1,
       "history": []
@@ -15123,7 +19599,7 @@
         "sourceVersion": "ed624bb1-1f06-4e3c-8445-37e11c71f614"
       },
       "firstSeenAt": "2026-09-18T16:19:58.290Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T16:19:58.290Z",
       "version": 1,
       "history": []
@@ -16681,7 +21157,7 @@
         "sourceVersion": "07830994-4f4f-4027-a144-89bbae14a8cc"
       },
       "firstSeenAt": "2026-09-18T16:19:58.290Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T16:19:58.290Z",
       "version": 1,
       "history": []
@@ -17232,7 +21708,7 @@
         "sourceVersion": "00f1ceab-ff3d-47ee-8caa-60cf97dfd26a"
       },
       "firstSeenAt": "2026-09-18T16:19:58.290Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T16:19:58.290Z",
       "version": 1,
       "history": []
@@ -17731,7 +22207,7 @@
         "sourceVersion": "0d9c73eb-0343-44da-9580-d9545f49fda1"
       },
       "firstSeenAt": "2026-09-18T16:19:58.290Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T16:19:58.290Z",
       "version": 1,
       "history": []
@@ -18356,7 +22832,7 @@
         "sourceVersion": "4f7eaa94-05f2-4765-a50c-f025b128a14f"
       },
       "firstSeenAt": "2026-09-18T11:48:34.784Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T16:19:58.290Z",
       "version": 2,
       "history": [
@@ -18989,7 +23465,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-18T11:48:34.784Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T11:48:34.784Z",
       "version": 1,
       "history": []
@@ -19665,7 +24141,7 @@
         "sourceVersion": "d8288393-e9a4-4b0e-8823-a9f41bb576ce"
       },
       "firstSeenAt": "2026-09-18T11:48:34.784Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T11:48:34.784Z",
       "version": 1,
       "history": []
@@ -19785,7 +24261,7 @@
         "sourceVersion": "8b937b69-e6e6-4668-b3bc-4fbd7e0c1be1"
       },
       "firstSeenAt": "2026-09-18T11:48:34.784Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T11:48:34.784Z",
       "version": 1,
       "history": []
@@ -20219,7 +24695,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-18T11:48:34.784Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T11:48:34.784Z",
       "version": 1,
       "history": []
@@ -21027,7 +25503,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-18T11:48:34.784Z",
-      "lastSeenAt": "2026-09-19T13:22:19.734Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T11:48:34.784Z",
       "version": 1,
       "history": []
@@ -21584,7 +26060,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-18T11:48:34.784Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T11:48:34.784Z",
       "version": 1,
       "history": []
@@ -21609,7 +26085,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-18T11:48:34.784Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T11:48:34.784Z",
       "version": 1,
       "history": []
@@ -22942,7 +27418,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-18T06:36:27.296Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T06:36:27.296Z",
       "version": 1,
       "history": []
@@ -23678,7 +28154,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-18T06:36:27.296Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T06:36:27.296Z",
       "version": 1,
       "history": []
@@ -23753,7 +28229,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-18T06:36:27.296Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T06:36:27.296Z",
       "version": 1,
       "history": []
@@ -23803,7 +28279,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-18T06:36:27.296Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T06:36:27.296Z",
       "version": 1,
       "history": []
@@ -24054,7 +28530,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-18T06:36:27.296Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T06:36:27.296Z",
       "version": 1,
       "history": []
@@ -24692,7 +29168,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-18T06:36:27.296Z",
-      "lastSeenAt": "2026-09-19T13:22:19.734Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T06:36:27.296Z",
       "version": 1,
       "history": []
@@ -26431,7 +30907,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-18T01:27:32.948Z",
-      "lastSeenAt": "2026-09-19T13:22:19.734Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:34:39.612Z",
       "version": 2,
       "history": [
@@ -26832,7 +31308,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-18T01:27:32.948Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:34:39.612Z",
       "version": 2,
       "history": [
@@ -28504,7 +32980,7 @@
         "sourceVersion": "5931e2b6-b673-47f8-ac6c-2048f03c611c"
       },
       "firstSeenAt": "2026-09-18T01:45:11.571Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:45:11.571Z",
       "version": 1,
       "history": []
@@ -28546,7 +33022,7 @@
         "sourceVersion": "350a04c6-c898-4fad-91c1-dd7a398da0a1"
       },
       "firstSeenAt": "2026-09-18T01:45:11.571Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:45:11.571Z",
       "version": 1,
       "history": []
@@ -29139,7 +33615,7 @@
         "sourceVersion": "7ec22480-51a1-4cff-b807-4f46d562b6ee"
       },
       "firstSeenAt": "2026-09-18T01:45:11.571Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:45:11.571Z",
       "version": 1,
       "history": []
@@ -30941,7 +35417,7 @@
         "sourceVersion": "5d4d6785-3dcb-4e18-8310-31484937198a"
       },
       "firstSeenAt": "2026-09-18T01:45:11.571Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T16:19:58.290Z",
       "version": 2,
       "history": [
@@ -31064,7 +35540,7 @@
         "sourceVersion": "23d343ce-8432-4bc1-8d8f-2a75e0b1c3f0"
       },
       "firstSeenAt": "2026-09-18T01:45:11.571Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:45:11.571Z",
       "version": 1,
       "history": []
@@ -31175,7 +35651,7 @@
         "sourceVersion": "49bd9e07-7276-4ec7-8555-999b9e3ca489"
       },
       "firstSeenAt": "2026-09-18T01:45:11.571Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:45:11.571Z",
       "version": 1,
       "history": []
@@ -31217,7 +35693,7 @@
         "sourceVersion": "3501f0be-47fb-4173-b336-55db4f3279b3"
       },
       "firstSeenAt": "2026-09-18T01:45:11.571Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:45:11.571Z",
       "version": 1,
       "history": []
@@ -31259,7 +35735,7 @@
         "sourceVersion": "4a9f0cd3-fccf-4e9a-a5e7-336a93e1f66e"
       },
       "firstSeenAt": "2026-09-18T01:45:11.571Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:45:11.571Z",
       "version": 1,
       "history": []
@@ -31277,7 +35753,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-18T01:27:32.948Z",
-      "lastSeenAt": "2026-09-19T13:22:19.734Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:34:39.612Z",
       "version": 2,
       "history": [
@@ -31347,7 +35823,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-18T01:27:32.948Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:34:39.612Z",
       "version": 2,
       "history": [
@@ -31440,7 +35916,7 @@
         "sourceVersion": "25b36221-cda4-47e7-9311-75c465bccd33"
       },
       "firstSeenAt": "2026-09-18T01:45:11.571Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:45:11.571Z",
       "version": 1,
       "history": []
@@ -31937,7 +36413,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-18T01:27:32.948Z",
-      "lastSeenAt": "2026-09-19T13:22:19.734Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:34:39.612Z",
       "version": 2,
       "history": [
@@ -31971,7 +36447,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-18T01:27:32.948Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:34:39.612Z",
       "version": 2,
       "history": [
@@ -32059,7 +36535,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-18T01:27:32.948Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:34:39.612Z",
       "version": 2,
       "history": [
@@ -33083,7 +37559,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-18T01:27:32.948Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:34:39.612Z",
       "version": 2,
       "history": [
@@ -33612,7 +38088,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-18T01:27:32.948Z",
-      "lastSeenAt": "2026-09-19T16:46:12.591Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:34:39.612Z",
       "version": 2,
       "history": [
@@ -33714,7 +38190,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-18T01:27:32.948Z",
-      "lastSeenAt": "2026-09-19T13:22:19.734Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:34:39.612Z",
       "version": 2,
       "history": [
@@ -33748,7 +38224,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-18T01:27:32.948Z",
-      "lastSeenAt": "2026-09-19T13:22:19.734Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:34:39.612Z",
       "version": 2,
       "history": [
@@ -33840,7 +38316,7 @@
         "sourceVersion": "32852f6a-9410-4d4d-a3db-712da80c0dac"
       },
       "firstSeenAt": "2026-09-18T01:45:11.571Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T01:45:11.571Z",
       "version": 1,
       "history": []
@@ -34467,7 +38943,7 @@
         "sourceVersion": "aee74976-f516-46bf-b51f-2df28356ca51"
       },
       "firstSeenAt": "2026-09-18T16:19:58.290Z",
-      "lastSeenAt": "2026-09-20T04:50:48.244Z",
+      "lastSeenAt": "2026-09-20T09:44:56.917Z",
       "updatedAt": "2026-09-18T16:19:58.290Z",
       "version": 1,
       "history": []
@@ -35226,8 +39702,8 @@
       "id": "ithome",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-20T04:50:48.244Z",
-      "lastSuccessAt": "2026-09-20T04:50:48.244Z",
+      "checkedAt": "2026-09-20T09:44:56.917Z",
+      "lastSuccessAt": "2026-09-20T09:44:56.917Z",
       "etag": null,
       "lastModified": null,
       "discovered": 60,
@@ -35238,8 +39714,8 @@
       "id": "sspai",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-20T04:50:48.244Z",
-      "lastSuccessAt": "2026-09-20T04:50:48.244Z",
+      "checkedAt": "2026-09-20T09:44:56.917Z",
+      "lastSuccessAt": "2026-09-20T09:44:56.917Z",
       "etag": null,
       "lastModified": null,
       "discovered": 10,
@@ -35250,10 +39726,10 @@
       "id": "chinanews-society",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-20T04:50:48.244Z",
-      "lastSuccessAt": "2026-09-20T04:50:48.244Z",
-      "etag": "\"6aaf649d-3eb0\"",
-      "lastModified": "Sun, 20 Sep 2026 04:44:13 GMT",
+      "checkedAt": "2026-09-20T09:44:56.917Z",
+      "lastSuccessAt": "2026-09-20T09:44:56.917Z",
+      "etag": "\"6aafa5e4-3fd5\"",
+      "lastModified": "Sun, 20 Sep 2026 09:22:44 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -35262,10 +39738,10 @@
       "id": "chinanews-finance",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-20T04:50:48.244Z",
-      "lastSuccessAt": "2026-09-20T04:50:48.244Z",
-      "etag": "\"6aaf629c-3d8b\"",
-      "lastModified": "Sun, 20 Sep 2026 04:35:40 GMT",
+      "checkedAt": "2026-09-20T09:44:56.917Z",
+      "lastSuccessAt": "2026-09-20T09:44:56.917Z",
+      "etag": "\"6aafa8c1-42f3\"",
+      "lastModified": "Sun, 20 Sep 2026 09:34:57 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -35274,11 +39750,11 @@
       "id": "chinanews-life",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-20T04:50:48.244Z",
-      "lastSuccessAt": "2026-09-20T04:50:48.244Z",
-      "etag": "\"6aae665a-140c\"",
-      "lastModified": "Sat, 19 Sep 2026 10:39:22 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-09-20T09:44:56.917Z",
+      "lastSuccessAt": "2026-09-20T09:44:56.917Z",
+      "etag": "\"6aaf9105-13f7\"",
+      "lastModified": "Sun, 20 Sep 2026 07:53:41 GMT",
+      "discovered": 10,
       "failures": 0,
       "error": null
     },
@@ -35286,8 +39762,8 @@
       "id": "chinanews-jk",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-20T04:50:48.244Z",
-      "lastSuccessAt": "2026-09-20T04:50:48.244Z",
+      "checkedAt": "2026-09-20T09:44:56.917Z",
+      "lastSuccessAt": "2026-09-20T09:44:56.917Z",
       "etag": "\"69aa3e2a-2832\"",
       "lastModified": "Fri, 06 Mar 2026 02:38:34 GMT",
       "discovered": 0,
@@ -35298,10 +39774,10 @@
       "id": "chinanews-culture",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-20T04:50:48.244Z",
-      "lastSuccessAt": "2026-09-20T04:50:48.244Z",
-      "etag": "\"6aaf63ec-3eea\"",
-      "lastModified": "Sun, 20 Sep 2026 04:41:16 GMT",
+      "checkedAt": "2026-09-20T09:44:56.917Z",
+      "lastSuccessAt": "2026-09-20T09:44:56.917Z",
+      "etag": "\"6aafa4aa-4025\"",
+      "lastModified": "Sun, 20 Sep 2026 09:17:30 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -35310,11 +39786,11 @@
       "id": "chinanews-edu",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-20T04:50:48.244Z",
-      "lastSuccessAt": "2026-09-20T04:50:48.244Z",
-      "etag": "\"6aae8f94-3287\"",
-      "lastModified": "Sat, 19 Sep 2026 13:35:16 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-09-20T09:44:56.917Z",
+      "lastSuccessAt": "2026-09-20T09:44:56.917Z",
+      "etag": "\"6aafa8c3-3875\"",
+      "lastModified": "Sun, 20 Sep 2026 09:34:59 GMT",
+      "discovered": 28,
       "failures": 0,
       "error": null
     },
@@ -35322,10 +39798,10 @@
       "id": "chinanews-sports",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-20T04:50:48.244Z",
-      "lastSuccessAt": "2026-09-20T04:50:48.244Z",
-      "etag": "\"6aaf6283-3965\"",
-      "lastModified": "Sun, 20 Sep 2026 04:35:15 GMT",
+      "checkedAt": "2026-09-20T09:44:56.917Z",
+      "lastSuccessAt": "2026-09-20T09:44:56.917Z",
+      "etag": "\"6aafaae9-3825\"",
+      "lastModified": "Sun, 20 Sep 2026 09:44:09 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -35334,10 +39810,10 @@
       "id": "chinanews-scroll-news",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-20T04:50:48.244Z",
-      "lastSuccessAt": "2026-09-20T04:50:48.244Z",
-      "etag": "\"6aaf64ed-3ab9\"",
-      "lastModified": "Sun, 20 Sep 2026 04:45:33 GMT",
+      "checkedAt": "2026-09-20T09:44:56.917Z",
+      "lastSuccessAt": "2026-09-20T09:44:56.917Z",
+      "etag": "\"6aafaa9b-3f48\"",
+      "lastModified": "Sun, 20 Sep 2026 09:42:51 GMT",
       "discovered": 29,
       "failures": 0,
       "error": null
@@ -35345,8 +39821,8 @@
     "govuk-fulltext": {
       "id": "govuk-fulltext",
       "status": "ok",
-      "checkedAt": "2026-09-20T04:50:48.244Z",
-      "lastSuccessAt": "2026-09-20T04:50:48.244Z",
+      "checkedAt": "2026-09-20T09:44:56.917Z",
+      "lastSuccessAt": "2026-09-20T09:44:56.917Z",
       "discovered": 20,
       "rejected": 0,
       "contentSchema": 3,
