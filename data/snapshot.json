@@ -1,8 +1,936 @@
 {
   "schemaVersion": "1",
-  "collectedAt": "2026-09-22T21:14:02.673Z",
-  "lastSuccessfulCollectionAt": "2026-09-22T21:14:02.673Z",
+  "collectedAt": "2026-09-22T23:47:12.923Z",
+  "lastSuccessfulCollectionAt": "2026-09-22T23:47:12.923Z",
   "items": [
+    {
+      "id": "f89029c7008df8e730f33e1d",
+      "title": "50项食品安全新国标发布——全链条守护百姓“舌尖上的安全”",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/09-23/10701933.shtml",
+      "summary": "光明日报记者 金振娅 光明日报通讯员 蒋于浩",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T23:38:58.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "food"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ef40dd1f7679d087e54fac0e",
+      "title": "协助挂号、陪同问诊、代办缴费……陪诊服务真实体验如何？",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-23/10701932.shtml",
+      "summary": "陪诊新业态越来越靠谱",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T23:36:26.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "bd1aca7cec359f3dd60e7e2f",
+      "title": "英国警方逮捕两名涉嫌策划恐袭的男子",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/09-23/10701931.shtml",
+      "summary": "中新网9月23日电 综合英国媒体22日报道，据英国警方消息，两名男子因涉嫌策划针对曼彻斯特犹太社区的恐怖袭击被捕。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T23:36:22.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4961b8456c6b31af085fb88d",
+      "title": "京东方：玻璃基封装载板试验线全线拉通，24 层产品已送客户验证",
+      "originalUrl": "https://www.ithome.com/1/006/028.htm",
+      "summary": "IT之家 9 月 23 日消息，京东方 A 昨日发布投资者关系活动记录表公告，京东方董事长陈炎顺表示，公司玻璃基封装载板试验线已全线拉通，24 层产品已经带给客户去验证了。 京东方 SVP、传感器及解决方案业务董事长兼 CEO 徐晓光表示，目前公司已经完成 24 层、尺寸超过 100×100 毫米玻璃基封装载板产品产出，并已在厂内完成相关可靠性测试。 IT之家获悉，京东方目前正与客户进行芯片上代后的电性能测试，将载板与真实 CPU、GPU 芯片封装后放入服务器运行。 对于后续…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T23:35:18.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "08a3891f0579bdd277b71312",
+      "title": "苹果推送 macOS 27.2 首个公测版：新增 16 段条形音量 / 亮度滑块",
+      "originalUrl": "https://www.ithome.com/1/006/027.htm",
+      "summary": "IT之家 9 月 23 日消息，科技媒体 9to5Mac 昨日（9 月 22 日）发布博文，报道称苹果公司推送 macOS 27.2 Golden Gate 首个公测版，内部开发版本号为 26B5091g。 在更新内容方面，macOS 27.2 首个公测版扩展 Siri AI 的语言支持，从最初的英语外，扩展支持法语、日语、韩语、葡萄牙语和西班牙语五种新语言。 界面上，首个公测版还引入全新音量与亮度滑块，采用“液态玻璃”（Liquid Glass）设计风格，16 段条形设计，…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T23:34:59.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "538cf905006c1c85ce05de63",
+      "title": "寒暑平分处 肺脾共养时",
+      "originalUrl": "https://www.chinanews.com.cn/jk/2026/09-23/10701930.shtml",
+      "summary": "秋分时节煲一锅山药党参猪肺汤——",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T23:33:45.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9347565b4e6babbca0117528",
+      "title": "面对各类自然灾害 如何守护自身生产生活安全？",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-23/10701929.shtml",
+      "summary": "面对自然灾害 如何守护生产生活安全？",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T23:23:23.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "df0151eba4244c96a56551da",
+      "title": "买净水器前，先看清这五件事",
+      "originalUrl": "https://www.chinanews.com.cn/life/2026/09-23/10701928.shtml",
+      "summary": "买净水器前，先看清这五件事(消费新知)",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T23:20:47.000Z",
+      "timeIssue": null,
+      "channels": [
+        "home",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-life",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "876867771c3aee1248977ae9",
+      "title": "李飞飞谈 AI 安全：不能只让开发者评估自己的系统",
+      "originalUrl": "https://www.ithome.com/1/006/026.htm",
+      "summary": "北京时间 9 月 23 日，据彭博社报道，AI 先锋李飞飞呼吁由独立机构和公共部门对 AI 进行更多监督。她认为，对于能力日益强大的 AI 系统，其安全评估不应完全交由开发这些系统的公司负责。 作为斯坦福大学教授、World Labs 联合创始人，李飞飞周二表示，尽管 AI 公司的内部研究人员可以评估单个模型的能力和安全性，但这无法替代由政府、行业和学术机构共同制定的更广泛标准。 “我仍然认为，由独立机构以及学术界等公共部门制定基准非常重要。同时，行业和政府也应该共同承担责任…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T23:19:32.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "74effd93c7dc8fad3d9e9300",
+      "title": "苹果为 iPhone、iPad、Mac 等扩展 RAW 支持：含松下、富士、奥之心、飞思，兼容相机总数达 562 款",
+      "originalUrl": "https://www.ithome.com/1/006/025.htm",
+      "summary": "IT之家 9 月 23 日消息，苹果更新官方支持文档，为 iPhone、iPad、Mac 和 Vision Pro 新增 11 款数码相机的 RAW 格式支持（IT之家注：RAW 是相机传感器原始数据文件），支持机型总数由此增至 562 款。 此次新增机型来自富士、奥之心（OM SYSTEM）、松下和飞思（Phase One）。 其中，富士包括 FinePix F600EXR、FinePix HS20EXR 和 XF1；奥之心为 OM SYSTEM PEN；松下为 LUMIX…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T23:13:48.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "cb0e7c6cd7ba3c2ea57caeb0",
+      "title": "雷蛇推出灰鲭鲨 X 游戏音箱：7.1 环绕声、10 灯区幻彩底光，799 元",
+      "originalUrl": "https://www.ithome.com/1/006/024.htm",
+      "summary": "IT之家 9 月 23 日消息，雷蛇昨晚宣布推出灰鲭鲨 X 游戏音箱，现已开始预约，售价 799 元。 灰鲭鲨 X 配备一对定制调校的 2.75 英寸全频驱动单元，单元额定功率可达 30W，峰值 45W；专为桌面场景打造，采用 40° 倾斜扬声器设计，音箱发声角度经过精细调校，能够将声音定向投射至人耳；搭载虚拟 7.1 环绕声技术，可营造拟真的 3D 声场。 灰鲭鲨 X 的音箱配备 10 灯区幻彩底光，通过雷云可以自定义约 1680 万种颜色和多种灯光效果，可与超过 300 …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T23:10:49.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9b061766fae48e587d93dac8",
+      "title": "特朗普在联大发言 预测美伊或在中期选举后达成协议",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/09-23/10701927.shtml",
+      "summary": "中新网9月23日电 据路透社报道，第81届联合国大会一般性辩论22日在纽约联合国总部开幕。美国总统特朗普在开幕当天讲话中警告称，如果不能达成结束冲突的协议，可迅速“摧毁”伊朗。但同时，他预测美国政府将在11月美国国会中期选举后与伊朗达成结束冲突的协议。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T23:09:54.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "25a151fc5a4fa13088acb413",
+      "title": "微软推送 Win11 26H1 九月可选更新：任务栏可四边贴靠 / 开始菜单支持“小”尺寸",
+      "originalUrl": "https://www.ithome.com/1/006/023.htm",
+      "summary": "IT之家 9 月 23 日消息，微软今天（9 月 23 日）面向 Windows 11 26H1 推送可选累积预览更新 KB5124006，用户安装后版本号升至 Build 28000.3086。 IT之家附上更新日志内容如下： 一、任务栏 新增任务栏自定义选项，适配不同使用习惯，充分利用屏幕空间。 支持自定义任务栏屏幕位置：路径：设置 → 个性化 → 任务栏 → 任务栏行为，可将任务栏放置在底部、顶部、左侧、右侧。切换位置后，悬浮提示、菜单、动画效果会跟随任务栏；小图标、“…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T23:02:56.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1269328d537a5deddc2d7ebe",
+      "title": "苹果 iOS 27.2 Beta 2 针对“摇一摇”广告新增国行特供功能：可限制 App 获取运动数据，目前仅国区账号可见",
+      "originalUrl": "https://www.ithome.com/1/006/022.htm",
+      "summary": "IT之家 9 月 23 日消息，经大量用户反馈，苹果在 iOS 27.2 Beta 2 中针对中国区用户新增了一项“Restrict Motion Data”（暂未提供翻译）设置选项（位于“设置-隐私与安全-运动与健身”中）。 开启后，用户可以选择需要限制的 App。被加入名单的 App 将无法获取加速度计、陀螺仪等运动传感器数据的权限。同时，这也导致部分 App 在失去传感器数据后可能出现闪退等异常。 从功能表现来看，该选项可能被用于限制部分 App 利用设备运动传感器触发…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T23:01:04.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a12c3efd5712c12c5f09bd01",
+      "title": "New plan for Britain’s first Workplace Health System",
+      "originalUrl": "https://www.gov.uk/government/news/new-plan-for-britains-first-workplace-health-system",
+      "sourcePublishedAt": "2026-09-23T00:01:04+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "In his latest update, Sir Charlie Mayfield sets out the work being done with employers, providers and those with lived experience to deliver Britain’s first Workplace Health System. Around 300,000 people with a health condition leave work e",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>In his latest update, Sir Charlie Mayfield sets out the work being done with employers, providers and those with lived experience to deliver Britain’s first Workplace Health System. </p>\n\n<p>Around 300,000 people with a health condition leave work every year.</p>\n\n<p>But much of this is preventable. Someone absent for four to six weeks has a 96 percent chance of returning. After a year, fewer than half do. </p>\n\n<p>Since 2019, the number of working-age people out of work due to ill health has risen by 800,000, with a total cost to the economy of around £212 billion a year.</p>\n\n<p>The new plan aims to build better, more inclusive workplaces and better workplace health provision to prevent ill health conditions from escalating and to support people in work with health conditions or disabilities, to achieve more successful returns after absences from work.</p>\n\n<p>It brings together employers, the NHS, local authorities and other support services to ensure people don’t fall out of work unnecessarily and companies have better data on workplace health and inclusion to drive change.</p>\n\n<p>Eleven regional Vanguards, including nine Mayoral Strategic Authorities, Cornwall Council, Hull City Council and Worcestershire City Council, and more than 200 Vanguard organisations are already building and testing the new system with employers, unions and disabled people across all four nations of the UK.</p>\n\n<p>Examples include: </p>\n\n<ul>\n  <li>Liverpool City Region testing draft return-to-work plans developed with employers.</li>\n  <li>Hull City Council, in partnership with provider Latus, creating the Hull Resilience Hub, a buyer’s pool letting local SMEs access occupational health services at the same prices as large corporates.</li>\n  <li>South Yorkshire Mayoral Combined Authority will be trialling independent case workers sitting part-time within businesses to support employees with health concerns.</li>\n</ul>\n\n<h3>Sir Charlie Mayfield, author of the Keep Britain Working Review and Co-Chair of the Keep Britain Working programme, said:</h3>\n\n<blockquote>\n  <p>Britain has spent too long treating economic inactivity as a welfare problem. It is not.</p>\n</blockquote>\n\n<blockquote>\n  <p>Instead, it’s one of the largest and most attainable growth opportunities this country has.</p>\n</blockquote>\n\n<blockquote>\n  <p>We’ve had a National Health Service for almost 80 years. We’ve never had a Workplace Health System. That is why the same people appear on the welfare bill, on NHS waiting lists and in the productivity figures without anyone being able to join them up.</p>\n</blockquote>\n\n<blockquote>\n  <p>It’s also why we are missing the best moments to help people. The new Workplace Health System would change that.</p>\n</blockquote>\n\n<blockquote>\n  <p>Ten months of building and testing with employers, mayors, providers, unions and disabled people have made us even clearer about what needs to change and more confident that a new system that helps to drive economic growth is within reach.</p>\n</blockquote>\n\n<blockquote>\n  <p>The task now is to build it.</p>\n</blockquote>\n\n<p>An employer standard is being developed with the British Standards Institution, alongside affordable support for smaller firms through pooled buying and insurance routes, so good workplace health support is not just available to big companies.</p>\n\n<p>Sir Charlie’s work sits within a £3.5 billion employment support package. WorkWell, backed by £259 million will support up to 250,000 people to stay in or return to work. Connect to Work will reach 300,000 sick or disabled people with tailored support. Over 1,000 full-time Pathways to Work advisers are already in place across Britain.</p>\n\n<h3>Work and Pensions Secretary Pat McFadden said:</h3>\n\n<blockquote>\n  <p>Too many people fall out of work because of a health problem that could have been caught earlier, and too many employers have no way of knowing whether they are getting this right.</p>\n</blockquote>\n\n<blockquote>\n  <p>This programme is working hand in hand with employers, mayors and local leaders to change that, so that good workplace health support is not just for big companies and it delivers growth across every postcode.</p>\n</blockquote>\n\n<p>Alongside this, the programme is also focusing on intelligence. Few employers can currently tell how well they keep staff with health conditions in work, or whether people are still in work six months on. Fewer still have the insights that could fuel their prevention efforts. A new employer data project and work and health prototype are being developed this autumn aims to address these gaps.</p>\n\n<p>Over the next year the programme will continue to work with BSI to develop a standard  and test and refine employer commitments with the Vanguard to build the evidence on what works.</p>\n\n<h3>Minister of State for Work and Health Ally McGovern, said:</h3>\n\n<blockquote>\n  <p>Anyone can find themself with an illness that could stop them working.\n <br />\nGetting help quickly rather than waiting for the problem to get worse is the right way to support good health and a strong economy.</p>\n</blockquote>\n\n<p>The government is also committed to further steps to bring about effective and sustainable welfare reform, and this will be guided by the Milburn and Timms reviews, which are due to conclude later this year.</p>\n\n<h3>Tracy Brabin, Mayor of West Yorkshire, said:</h3>\n\n<blockquote>\n  <p>Too many people are being written off from good work when the right support could help them thrive.</p>\n</blockquote>\n\n<blockquote>\n  <p>Through our Healthy Working Life programme, we’re bringing together health services, employment support and employers, so people can get the help they need at the right time rather than being bounced between disconnected services.</p>\n</blockquote>\n\n<blockquote>\n  <p>Supporting people with health conditions and disabilities to access good work isn’t just the right thing to do - it’s key to unlocking talent and building a healthier, wealthier West Yorkshire.</p>\n</blockquote>\n\n<h3>Oliver Coppard, Mayor of South Yorkshire, said: </h3>\n\n<blockquote>\n  <p>I want South Yorkshire to become the healthiest region in the country, a place where everyone has the chance to work, support their families and pursue their dreams. At the moment, all too many people don’t have that chance because of poor health.\n <br />\nOur trial will help us work alongside employers, employees and health experts to find practical ways of supporting people to stay well, stay in work, or return to work when they’re ready.\n <br />\nBy testing new ideas and listening to the voices of both working people and employers, we can help create healthier workplaces where people and businesses can get on, contribute to our communities and our economy, and help us build the South Yorkshire we all want to see.</p>\n</blockquote>\n\n<h3>Bev Craig, Mayor of Greater Manchester, said: </h3>\n\n<blockquote>\n  <p>Greater Manchester has long championed the link between good work, good health and economic prosperity. Through our Live Well approach, Good Employment Charter and Get Greater Manchester Working plan, we’re focused on helping more people stay in work, particularly when they’re facing health or other challenges. We welcome the focus on prevention and look forward to working with partners to put effective solutions into practice.</p>\n</blockquote>\n\n<h3>Helen Godwin, Mayor of the West of England, said:</h3>\n\n<blockquote>\n  <p>Creating a Workplace Health System approach will bring organisations together to work better to provide the right support, at the right time, to help keep more people in work.</p>\n</blockquote>\n\n<blockquote>\n  <p>We know that the longer people are off work, the harder it can be to return. This is why early personalised support is so important, particularly for long-term sickness and poor mental health. In partnership with local councils, Integrated Care Boards, the government, and community organisations, in the West we’ll build a more joined‑up, preventative system that helps people sooner.</p>\n</blockquote>\n\n<blockquote>\n  <p>The West of England is already the country’s fastest-growing regional economy. Through our new Skills Strategy, our ambition is to also have the highest employment rate in the UK.  We’re working with employers to enable them to find and retain the talent and workforce they need to thrive, while making it easier for residents of all ages to access training, advice and pathways into work.</p>\n</blockquote>\n\n<h3>Richard Parker, Mayor of the West Midlands, said: </h3>\n\n<blockquote>\n  <p>Too many people across the West Midlands want to work and get on in life, but are being held back by barriers that they should be getting help to overcome.</p>\n</blockquote>\n\n<blockquote>\n  <p>Good work is about more than a pay packet. It brings security, independence, and pride, and when people are locked out of work, we’re also missing out on their skills and talent.</p>\n</blockquote>\n\n<blockquote>\n  <p>West Midlands Works is about changing that. By working alongside the Keep Britain Working programme and employers, we can give people the right support to get into work, stay in work and build a better future for themselves and their families.</p>\n</blockquote>\n\n<h3>Steve Rotheram, Mayor of the Liverpool City Region, said:</h3>\n\n<blockquote>\n  <p>People shouldn’t be written off because they develop a health condition – and businesses shouldn’t have to lose good, experienced workers because the right support wasn’t there soon enough.</p>\n</blockquote>\n\n<blockquote>\n  <p>In the Liverpool City Region, we’re proud to be playing our part in helping to test practical ways of changing that; stepping in earlier, working directly with employers and making it easier for people to stay in work or return when they’re ready. That matters just as much for a small business employing ten people as it does for a company employing thousands.</p>\n</blockquote>\n\n<blockquote>\n  <p>If we can get this right, the prize is huge: more people able to keep the security and independence that comes with work, businesses holding on to the skills they need, and a stronger, more productive economy as a result. It’s the kind of common sense reform that can make a real difference to people’s lives.</p>\n</blockquote>\n\n<h3>Alistair Cochrane, Chief Executive of Royal Mail, said: </h3>\n\n<blockquote>\n  <p>Royal Mail is proud to support Keep Britain Working to help more people stay in and return to work.</p>\n</blockquote>\n\n<blockquote>\n  <p>We are already applying learnings from the programme to strengthen support for our employees’ wellbeing, particularly those at risk of musculoskeletal and mental health conditions, which are the leading causes of sick absence in our business.</p>\n</blockquote>\n\n<blockquote>\n  <p>We are introducing practical measures such as upskilling managers on mental health, removing barriers for employees seeking help with their health, and making it as easy as possible to return after long-term sick leave.</p>\n</blockquote>\n\n<h3>Anne Hayes, Director of Standards Development, BSI, said: </h3>\n\n<blockquote>\n  <p>We support the KBW review’s conclusion that supporting more people into work represents an economic opportunity for the UK.</p>\n</blockquote>\n\n<blockquote>\n  <p>Our research has found that employers play a critical role in this, with nearly half of staff who are not confident raising health concerns with their employer having left a role or taken extended leave as a result.</p>\n</blockquote>\n\n<blockquote>\n  <p>The standard we are developing with KBW will be a vital tool to help employers work effectively to build workplace cultures rooted in trust so that individuals and organisations alike can flourish.</p>\n</blockquote>\n\n<h3>John Foster, Chief Policy and Campaigns Officer, CBI:</h3>\n\n<blockquote>\n  <p>The progress of the Keep Britain Working Review shows what can be achieved when government and business work together to turn ambition into practical action.</p>\n</blockquote>\n\n<blockquote>\n  <p>Making affordability a key test is particularly important at a time when cost pressures are constraining firms’ ability to hire and invest. Bringing down the wider cost of doing business will help give employers the confidence and headroom to create jobs, invest in their people and play their full part in delivering this shared ambition.</p>\n</blockquote>\n\n<h3>Jack Latus, CEO of Latus Group, said: </h3>\n\n<blockquote>\n  <p>Every person who leaves work because of ill health is a loss to their employer, their local economy and the public finances.</p>\n</blockquote>\n\n<blockquote>\n  <p>Too often, someone develops a health condition and slowly drifts away from their job with isolation and long silent periods on a fit note making things worse.</p>\n</blockquote>\n\n<blockquote>\n  <p>Prevention has to happen where people spend their working lives.</p>\n</blockquote>\n\n<blockquote>\n  <p>Good workplace health support means acting early, staying in touch, and working together on a return before a health problem becomes a lost job.</p>\n</blockquote>\n\n<blockquote>\n  <p>In Hull, the Resilience Hub is giving local SMEs that support and Latus are delighted to be part of the Keep Britain Working movement, working to explore how earlier insights from employees can better support them, and at the right time.</p>\n</blockquote>\n\n<h3>Kate Thompson, executive director of people and organisational development at Northumbria Healthcare NHS Foundation Trust, said: </h3>\n\n<blockquote>\n  <p>We want to be a leading employer for staff health and wellbeing and are delighted to be part of the Keep Britain Working movement.</p>\n</blockquote>\n\n<blockquote>\n  <p>Our staff health needs assessment, which brings together demographic information and survey questions, provides real insights into our varied workforce.</p>\n</blockquote>\n\n<blockquote>\n  <p>It has already helped focus our preventative and proactive work where it’s most needed, including projects on musculoskeletal conditions and financial wellbeing. The next stage is to make the data readily available to the right people, so they can identify health and wellbeing priorities for their teams.</p>\n</blockquote>\n\n<blockquote>\n  <p>Staff health and wellbeing is part of our overall focus on staff satisfaction, as we know that happy, healthy staff provide better patient care. It also helps us to reduce sickness absence, improve productivity and drive value for public money.</p>\n</blockquote>\n\n<h2>Additional information</h2>\n\n<ol>\n  <li>Keep Britain Working is an independent review turned delivery programme tackling health-related economic inactivity and promoting healthy, inclusive workplaces. It is co-chaired by Sir Charlie Mayfield, alongside the three Secretaries of State. Read more at <a href=\"https://gov.uk/government/collections/keep-britain-working\">Keep Britain Working - GOV.UK</a>.</li>\n  <li>Read the report <a href=\"https://www.gov.uk/government/publications/keep-britain-working-review-update-a-national-growth-opportunity-september-2026\">A National Growth Opportunity - GOV.UK</a>.</li>\n  <li>Around 300,000 people with a health condition leave work every year. Someone absent for four to six weeks has a 96% chance of returning. After a year, fewer than half do. </li>\n  <li>Preventing a modest share of that avoidable loss, and narrowing the employment gap experienced by disabled people, is enough to move the national numbers. A one percent increase in participation that would mean c.330,000 more people in work, which is equivalent to the productive capacity of a city the size of Cardiff.</li>\n  <li>List of Regional Vanguards:</li>\n</ol>\n\n<ul>\n  <li>Cornwall Council </li>\n  <li>East Midlands </li>\n  <li>Greater London Authority </li>\n  <li>Greater Manchester </li>\n  <li>Liverpool City Region Combined Authority </li>\n  <li>North East Combined Mayoral Authority </li>\n  <li>South Yorkshire Combined Mayoral Authority </li>\n  <li>West Midlands Combined Mayoral Authority </li>\n  <li>West of England Combined Mayoral Authority </li>\n  <li>West Yorkshire Combined Mayoral Authority </li>\n  <li>Worcestershire County Council</li>\n</ul>\n</div>",
+      "bodyText": "In his latest update, Sir Charlie Mayfield sets out the work being done with employers, providers and those with lived experience to deliver Britain’s first Workplace Health System. \n\nAround 300,000 people with a health condition leave work every year.\n\nBut much of this is preventable. Someone absent for four to six weeks has a 96 percent chance of returning. After a year, fewer than half do. \n\nSince 2019, the number of working-age people out of work due to ill health has risen by 800,000, with a total cost to the economy of around £212 billion a year.\n\nThe new plan aims to build better, more inclusive workplaces and better workplace health provision to prevent ill health conditions from escalating and to support people in work with health conditions or disabilities, to achieve more successful returns after absences from work.\n\nIt brings together employers, the NHS, local authorities and other support services to ensure people don’t fall out of work unnecessarily and companies have better data on workplace health and inclusion to drive change.\n\nEleven regional Vanguards, including nine Mayoral Strategic Authorities, Cornwall Council, Hull City Council and Worcestershire City Council, and more than 200 Vanguard organisations are already building and testing the new system with employers, unions and disabled people across all four nations of the UK.\n\nExamples include: \n\n\n  Liverpool City Region testing draft return-to-work plans developed with employers.\n  Hull City Council, in partnership with provider Latus, creating the Hull Resilience Hub, a buyer’s pool letting local SMEs access occupational health services at the same prices as large corporates.\n  South Yorkshire Mayoral Combined Authority will be trialling independent case workers sitting part-time within businesses to support employees with health concerns.\n\n\nSir Charlie Mayfield, author of the Keep Britain Working Review and Co-Chair of the Keep Britain Working programme, said:\n\n\n  Britain has spent too long treating economic inactivity as a welfare problem. It is not.\n\n\n\n  Instead, it’s one of the largest and most attainable growth opportunities this country has.\n\n\n\n  We’ve had a National Health Service for almost 80 years. We’ve never had a Workplace Health System. That is why the same people appear on the welfare bill, on NHS waiting lists and in the productivity figures without anyone being able to join them up.\n\n\n\n  It’s also why we are missing the best moments to help people. The new Workplace Health System would change that.\n\n\n\n  Ten months of building and testing with employers, mayors, providers, unions and disabled people have made us even clearer about what needs to change and more confident that a new system that helps to drive economic growth is within reach.\n\n\n\n  The task now is to build it.\n\n\nAn employer standard is being developed with the British Standards Institution, alongside affordable support for smaller firms through pooled buying and insurance routes, so good workplace health support is not just available to big companies.\n\nSir Charlie’s work sits within a £3.5 billion employment support package. WorkWell, backed by £259 million will support up to 250,000 people to stay in or return to work. Connect to Work will reach 300,000 sick or disabled people with tailored support. Over 1,000 full-time Pathways to Work advisers are already in place across Britain.\n\nWork and Pensions Secretary Pat McFadden said:\n\n\n  Too many people fall out of work because of a health problem that could have been caught earlier, and too many employers have no way of knowing whether they are getting this right.\n\n\n\n  This programme is working hand in hand with employers, mayors and local leaders to change that, so that good workplace health support is not just for big companies and it delivers growth across every postcode.\n\n\nAlongside this, the programme is also focusing on intelligence. Few employers can currently tell how well they keep staff with health conditions in work, or whether people are still in work six months on. Fewer still have the insights that could fuel their prevention efforts. A new employer data project and work and health prototype are being developed this autumn aims to address these gaps.\n\nOver the next year the programme will continue to work with BSI to develop a standard  and test and refine employer commitments with the Vanguard to build the evidence on what works.\n\nMinister of State for Work and Health Ally McGovern, said:\n\n\n  Anyone can find themself with an illness that could stop them working.\n \nGetting help quickly rather than waiting for the problem to get worse is the right way to support good health and a strong economy.\n\n\nThe government is also committed to further steps to bring about effective and sustainable welfare reform, and this will be guided by the Milburn and Timms reviews, which are due to conclude later this year.\n\nTracy Brabin, Mayor of West Yorkshire, said:\n\n\n  Too many people are being written off from good work when the right support could help them thrive.\n\n\n\n  Through our Healthy Working Life programme, we’re bringing together health services, employment support and employers, so people can get the help they need at the right time rather than being bounced between disconnected services.\n\n\n\n  Supporting people with health conditions and disabilities to access good work isn’t just the right thing to do - it’s key to unlocking talent and building a healthier, wealthier West Yorkshire.\n\n\nOliver Coppard, Mayor of South Yorkshire, said: \n\n\n  I want South Yorkshire to become the healthiest region in the country, a place where everyone has the chance to work, support their families and pursue their dreams. At the moment, all too many people don’t have that chance because of poor health.\n \nOur trial will help us work alongside employers, employees and health experts to find practical ways of supporting people to stay well, stay in work, or return to work when they’re ready.\n \nBy testing new ideas and listening to the voices of both working people and employers, we can help create healthier workplaces where people and businesses can get on, contribute to our communities and our economy, and help us build the South Yorkshire we all want to see.\n\n\nBev Craig, Mayor of Greater Manchester, said: \n\n\n  Greater Manchester has long championed the link between good work, good health and economic prosperity. Through our Live Well approach, Good Employment Charter and Get Greater Manchester Working plan, we’re focused on helping more people stay in work, particularly when they’re facing health or other challenges. We welcome the focus on prevention and look forward to working with partners to put effective solutions into practice.\n\n\nHelen Godwin, Mayor of the West of England, said:\n\n\n  Creating a Workplace Health System approach will bring organisations together to work better to provide the right support, at the right time, to help keep more people in work.\n\n\n\n  We know that the longer people are off work, the harder it can be to return. This is why early personalised support is so important, particularly for long-term sickness and poor mental health. In partnership with local councils, Integrated Care Boards, the government, and community organisations, in the West we’ll build a more joined‑up, preventative system that helps people sooner.\n\n\n\n  The West of England is already the country’s fastest-growing regional economy. Through our new Skills Strategy, our ambition is to also have the highest employment rate in the UK.  We’re working with employers to enable them to find and retain the talent and workforce they need to thrive, while making it easier for residents of all ages to access training, advice and pathways into work.\n\n\nRichard Parker, Mayor of the West Midlands, said: \n\n\n  Too many people across the West Midlands want to work and get on in life, but are being held back by barriers that they should be getting help to overcome.\n\n\n\n  Good work is about more than a pay packet. It brings security, independence, and pride, and when people are locked out of work, we’re also missing out on their skills and talent.\n\n\n\n  West Midlands Works is about changing that. By working alongside the Keep Britain Working programme and employers, we can give people the right support to get into work, stay in work and build a better future for themselves and their families.\n\n\nSteve Rotheram, Mayor of the Liverpool City Region, said:\n\n\n  People shouldn’t be written off because they develop a health condition – and businesses shouldn’t have to lose good, experienced workers because the right support wasn’t there soon enough.\n\n\n\n  In the Liverpool City Region, we’re proud to be playing our part in helping to test practical ways of changing that; stepping in earlier, working directly with employers and making it easier for people to stay in work or return when they’re ready. That matters just as much for a small business employing ten people as it does for a company employing thousands.\n\n\n\n  If we can get this right, the prize is huge: more people able to keep the security and independence that comes with work, businesses holding on to the skills they need, and a stronger, more productive economy as a result. It’s the kind of common sense reform that can make a real difference to people’s lives.\n\n\nAlistair Cochrane, Chief Executive of Royal Mail, said: \n\n\n  Royal Mail is proud to support Keep Britain Working to help more people stay in and return to work.\n\n\n\n  We are already applying learnings from the programme to strengthen support for our employees’ wellbeing, particularly those at risk of musculoskeletal and mental health conditions, which are the leading causes of sick absence in our business.\n\n\n\n  We are introducing practical measures such as upskilling managers on mental health, removing barriers for employees seeking help with their health, and making it as easy as possible to return after long-term sick leave.\n\n\nAnne Hayes, Director of Standards Development, BSI, said: \n\n\n  We support the KBW review’s conclusion that supporting more people into work represents an economic opportunity for the UK.\n\n\n\n  Our research has found that employers play a critical role in this, with nearly half of staff who are not confident raising health concerns with their employer having left a role or taken extended leave as a result.\n\n\n\n  The standard we are developing with KBW will be a vital tool to help employers work effectively to build workplace cultures rooted in trust so that individuals and organisations alike can flourish.\n\n\nJohn Foster, Chief Policy and Campaigns Officer, CBI:\n\n\n  The progress of the Keep Britain Working Review shows what can be achieved when government and business work together to turn ambition into practical action.\n\n\n\n  Making affordability a key test is particularly important at a time when cost pressures are constraining firms’ ability to hire and invest. Bringing down the wider cost of doing business will help give employers the confidence and headroom to create jobs, invest in their people and play their full part in delivering this shared ambition.\n\n\nJack Latus, CEO of Latus Group, said: \n\n\n  Every person who leaves work because of ill health is a loss to their employer, their local economy and the public finances.\n\n\n\n  Too often, someone develops a health condition and slowly drifts away from their job with isolation and long silent periods on a fit note making things worse.\n\n\n\n  Prevention has to happen where people spend their working lives.\n\n\n\n  Good workplace health support means acting early, staying in touch, and working together on a return before a health problem becomes a lost job.\n\n\n\n  In Hull, the Resilience Hub is giving local SMEs that support and Latus are delighted to be part of the Keep Britain Working movement, working to explore how earlier insights from employees can better support them, and at the right time.\n\n\nKate Thompson, executive director of people and organisational development at Northumbria Healthcare NHS Foundation Trust, said: \n\n\n  We want to be a leading employer for staff health and wellbeing and are delighted to be part of the Keep Britain Working movement.\n\n\n\n  Our staff health needs assessment, which brings together demographic information and survey questions, provides real insights into our varied workforce.\n\n\n\n  It has already helped focus our preventative and proactive work where it’s most needed, including projects on musculoskeletal conditions and financial wellbeing. The next stage is to make the data readily available to the right people, so they can identify health and wellbeing priorities for their teams.\n\n\n\n  Staff health and wellbeing is part of our overall focus on staff satisfaction, as we know that happy, healthy staff provide better patient care. It also helps us to reduce sickness absence, improve productivity and drive value for public money.\n\n\nAdditional information\n\n\n  Keep Britain Working is an independent review turned delivery programme tackling health-related economic inactivity and promoting healthy, inclusive workplaces. It is co-chaired by Sir Charlie Mayfield, alongside the three Secretaries of State. Read more at Keep Britain Working - GOV.UK.\n  Read the report A National Growth Opportunity - GOV.UK.\n  Around 300,000 people with a health condition leave work every year. Someone absent for four to six weeks has a 96% chance of returning. After a year, fewer than half do. \n  Preventing a modest share of that avoidable loss, and narrowing the employment gap experienced by disabled people, is enough to move the national numbers. A one percent increase in participation that would mean c.330,000 more people in work, which is equivalent to the productive capacity of a city the size of Cardiff.\n  List of Regional Vanguards:\n\n\n\n  Cornwall Council \n  East Midlands \n  Greater London Authority \n  Greater Manchester \n  Liverpool City Region Combined Authority \n  North East Combined Mayoral Authority \n  South Yorkshire Combined Mayoral Authority \n  West Midlands Combined Mayoral Authority \n  West of England Combined Mayoral Authority \n  West Yorkshire Combined Mayoral Authority \n  Worcestershire County Council\n\n",
+      "bodyHash": "f303c0d4bcd4ab7631b48410696f86c9dbaf6315f3fc9625a6cec55bc96f4317",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/new-plan-for-britains-first-workplace-health-system",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Department for Work and Pensions"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-09-23T00:01:04+01:00",
+        "sourceVersion": "21fde53a-a3f7-4617-aba4-5556f93e6b22"
+      },
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a86e4abd70de8cc5afd9400f",
+      "title": "Families set to save money through new and upgraded heat networks",
+      "originalUrl": "https://www.gov.uk/government/news/families-set-to-save-money-through-new-and-upgraded-heat-networks",
+      "sourcePublishedAt": "2026-09-23T00:01:04+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "Families set to save on bills as more than 750,000 homes to get clean, cheaper heating £90 million investment to build networks, repairing faults and reducing waste Government backs mega heat project under and alongside the River Thames unl",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><div>\n  <ul>\n    <li>\n      <p>Families set to save on bills as more than 750,000 homes to get clean, cheaper heating </p>\n    </li>\n    <li>\n      <p>£90 million investment to build networks, repairing faults and reducing waste </p>\n    </li>\n    <li>\n      <p>Government backs mega heat project under and alongside the River Thames unlocking £5 billion investment and up to 2,000 high-quality jobs </p>\n    </li>\n  </ul>\n</div>\n\n<p>Families are set to save on their energy bills as more than 750,000 homes will benefit from cheaper, cleaner heating.  </p>\n\n<p>Heat networks are a way of heating multiple buildings from a central source – such as taking excess heat generated from a data centre, or from a factory – via a network of pipes carrying hot water which provide communities with low-cost and efficient heat.   </p>\n\n<p>Residents will benefit from cheaper heating and improved efficiency through brand new low-carbon heating and repairs to faulty pipes, backed by £90 million in government funding, creating more than 2,000 jobs across all projects.  </p>\n\n<p>In London, a mega heat project under and alongside the River Thames will supply 650,000 homes with clean heat, with the potential to benefit over a million residents.   </p>\n\n<p>Backed by £41 million, it will initially transport hot water 25 kilometres each day by electric barges down the River Thames and then via a specially constructed tunnel underneath the river, heating homes and businesses across the city along the route.   </p>\n\n<p>The project, subject to planning consent, will help unlock around £5 billion of investment in London’s local heat networks and support skilled jobs in tunnelling, engineering and river transport.  </p>\n\n<p>This is the first of its kind in the UK, designed to make the capital less reliant on gas, with matching systems having operated for decades in cities like Copenhagen, Amsterdam, Vienna and Berlin. </p>\n\n<p>While in Bradford, 255 homes, a hospital and seven schools and colleges will benefit from cleaner heating and lower bills thanks to an extension of the original heat network in the city, funded by a £9.7 million award. </p>\n\n<p>Minister for Local Energy and Jobs Martin McCluskey said: </p>\n\n<blockquote>\n  <p>Clean power and clean heat benefits communities across our country. Building the infrastructure to deliver it is reindustrialising the UK and rolling out cutting-edge energy technology so families can benefit from lower bills, good jobs and energy security. </p>\n\n  <p>And for those already using heat networks, we are upgrading inefficient systems to make sure people get the high-quality, low-cost, reliable heating they deserve.</p>\n</blockquote>\n\n<p>Other heat networks receiving multi-million-pound investment include: </p>\n\n<ul>\n  <li>\n    <p>Solihull – £3.9 million to extend the existing heat network which serves council buildings, a leisure centre, a theatre and a college, to more buildings across the town. </p>\n  </li>\n  <li>\n    <p>Bexley and Greenwich (London) – £11.5 million to help develop what could be the largest heat network in the UK, serving up to 100,000 homes when fully built. </p>\n  </li>\n  <li>\n    <p>Marble Arch (London) – £11.4 million to develop a system serving offices, homes, hotels and business around Oxford Street using water-source heat pumps taking energy from the London Chalk Aquifer, creating 200 jobs. </p>\n  </li>\n</ul>\n\n<p>As well as building new low-carbon heat networks, the government has committed £13.3 million to upgrade 76 inefficient heat networks across England and Wales. </p>\n\n<p>Improvements will include replacing leaky pipes, insulating pipework to reduce heat loss and replacing interface units in homes – allowing residents to have better control of their heating so they can lower their bills. Projects include: </p>\n\n<ul>\n  <li>\n    <p>Manchester – £1 million to improve the heating system for 130 residents living in Cornwall Court in Gorton and Cundiff Court in Levenshulme.  </p>\n  </li>\n  <li>\n    <p>London – £5.5 million to upgrade the systems serving 1,143 residents at Prospect House in Bermondsey and the Packington Estate heat network in Islington. </p>\n  </li>\n  <li>\n    <p>Wales – £374,900 to improve the inefficient and outdated systems at Eschol Court in Newport and Victoria Court in Abergavenny, benefitting the 62 connected residents. </p>\n  </li>\n</ul>\n\n<p>Meghan Newman, Policy Manager at ADE: Heat Networks said:  </p>\n\n<blockquote>\n  <p>This funding is a clear signal that heat networks matter.\nTo hit our climate goals, we must be just as focused on fixing inefficient legacy systems as we are on building the smart networks of the future.</p>\n\n  <p>That’s how we cut bills and deliver results for consumers.</p>\n</blockquote>\n\n<h3>Case study: </h3>\n\n<h3>Vega Building, Brighton </h3>\n\n<p>Residents in Southern Housing Group’s Vega Building in Brighton are now saving £438 a year on their heating and hot water bills, following improvements made to the heat network serving the building. </p>\n\n<p>The system had been operating at 35% efficiency, meaning residents in the 40 homes in the building saw energy bills rise in 2022, as global gas prices increased. </p>\n\n<p>However, following a £200,000 grant through the Heat Network Efficiency Scheme, improvements were made in 2024 to the heat network’s engine room, pipework insulation, and new thermostatic radiator valves, with heat interface units also installed. </p>\n\n<p>This led to the building using 50% less gas, leading to lower bills and improved comfort levels. </p>\n\n<h3>Notes to editors: </h3>\n\n<p>All new infrastructure projects are required to apply for planning consent. Government funding decisions are separate from planning decisions, which will be taken purely on the facts of each individual case through the well-established planning process. </p>\n\n<p>Full list of HNES projects is here: <a href=\"https://hnes.uk/our-thoughts/hnes-helps-heat-network-residents-to-say-goodbye-to-cold-flats-unpredictable-bills-and-endless-engineer-callouts\">https://hnes.uk/our-thoughts/hnes-helps-heat-network-residents-to-say-goodbye-to-cold-flats-unpredictable-bills-and-endless-engineer-callouts</a> </p>\n\n<p>Full list of GHNF projects is here: <a href=\"https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftp-heatnetworks.org%2Flandmark-investment-backs-strategic-heat-infrastructure-for-london&amp;data=05%7C02%7CMatthew.Harris%40energysecurity.gov.uk%7Cea840c58b17046085fe508df17f36ced%7Ccbac700502c143ebb497e6492d1b2dd8%7C0%7C0%7C639256006535576283%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=Jx5HoZRDEhPAF2zZVA6N9lNr2NyXW0LPg78KR3X9kEw%3D&amp;reserved=0\">https://tp-heatnetworks.org/landmark-investment-backs-strategic-heat-infrastructure-for-london</a></p>\n</div>",
+      "bodyText": "\n  \n    \n      Families set to save on bills as more than 750,000 homes to get clean, cheaper heating \n    \n    \n      £90 million investment to build networks, repairing faults and reducing waste \n    \n    \n      Government backs mega heat project under and alongside the River Thames unlocking £5 billion investment and up to 2,000 high-quality jobs \n    \n  \n\n\nFamilies are set to save on their energy bills as more than 750,000 homes will benefit from cheaper, cleaner heating.  \n\nHeat networks are a way of heating multiple buildings from a central source – such as taking excess heat generated from a data centre, or from a factory – via a network of pipes carrying hot water which provide communities with low-cost and efficient heat.   \n\nResidents will benefit from cheaper heating and improved efficiency through brand new low-carbon heating and repairs to faulty pipes, backed by £90 million in government funding, creating more than 2,000 jobs across all projects.  \n\nIn London, a mega heat project under and alongside the River Thames will supply 650,000 homes with clean heat, with the potential to benefit over a million residents.   \n\nBacked by £41 million, it will initially transport hot water 25 kilometres each day by electric barges down the River Thames and then via a specially constructed tunnel underneath the river, heating homes and businesses across the city along the route.   \n\nThe project, subject to planning consent, will help unlock around £5 billion of investment in London’s local heat networks and support skilled jobs in tunnelling, engineering and river transport.  \n\nThis is the first of its kind in the UK, designed to make the capital less reliant on gas, with matching systems having operated for decades in cities like Copenhagen, Amsterdam, Vienna and Berlin. \n\nWhile in Bradford, 255 homes, a hospital and seven schools and colleges will benefit from cleaner heating and lower bills thanks to an extension of the original heat network in the city, funded by a £9.7 million award. \n\nMinister for Local Energy and Jobs Martin McCluskey said: \n\n\n  Clean power and clean heat benefits communities across our country. Building the infrastructure to deliver it is reindustrialising the UK and rolling out cutting-edge energy technology so families can benefit from lower bills, good jobs and energy security. \n\n  And for those already using heat networks, we are upgrading inefficient systems to make sure people get the high-quality, low-cost, reliable heating they deserve.\n\n\nOther heat networks receiving multi-million-pound investment include: \n\n\n  \n    Solihull – £3.9 million to extend the existing heat network which serves council buildings, a leisure centre, a theatre and a college, to more buildings across the town. \n  \n  \n    Bexley and Greenwich (London) – £11.5 million to help develop what could be the largest heat network in the UK, serving up to 100,000 homes when fully built. \n  \n  \n    Marble Arch (London) – £11.4 million to develop a system serving offices, homes, hotels and business around Oxford Street using water-source heat pumps taking energy from the London Chalk Aquifer, creating 200 jobs. \n  \n\n\nAs well as building new low-carbon heat networks, the government has committed £13.3 million to upgrade 76 inefficient heat networks across England and Wales. \n\nImprovements will include replacing leaky pipes, insulating pipework to reduce heat loss and replacing interface units in homes – allowing residents to have better control of their heating so they can lower their bills. Projects include: \n\n\n  \n    Manchester – £1 million to improve the heating system for 130 residents living in Cornwall Court in Gorton and Cundiff Court in Levenshulme.  \n  \n  \n    London – £5.5 million to upgrade the systems serving 1,143 residents at Prospect House in Bermondsey and the Packington Estate heat network in Islington. \n  \n  \n    Wales – £374,900 to improve the inefficient and outdated systems at Eschol Court in Newport and Victoria Court in Abergavenny, benefitting the 62 connected residents. \n  \n\n\nMeghan Newman, Policy Manager at ADE: Heat Networks said:  \n\n\n  This funding is a clear signal that heat networks matter.\nTo hit our climate goals, we must be just as focused on fixing inefficient legacy systems as we are on building the smart networks of the future.\n\n  That’s how we cut bills and deliver results for consumers.\n\n\nCase study: \n\nVega Building, Brighton \n\nResidents in Southern Housing Group’s Vega Building in Brighton are now saving £438 a year on their heating and hot water bills, following improvements made to the heat network serving the building. \n\nThe system had been operating at 35% efficiency, meaning residents in the 40 homes in the building saw energy bills rise in 2022, as global gas prices increased. \n\nHowever, following a £200,000 grant through the Heat Network Efficiency Scheme, improvements were made in 2024 to the heat network’s engine room, pipework insulation, and new thermostatic radiator valves, with heat interface units also installed. \n\nThis led to the building using 50% less gas, leading to lower bills and improved comfort levels. \n\nNotes to editors: \n\nAll new infrastructure projects are required to apply for planning consent. Government funding decisions are separate from planning decisions, which will be taken purely on the facts of each individual case through the well-established planning process. \n\nFull list of HNES projects is here: https://hnes.uk/our-thoughts/hnes-helps-heat-network-residents-to-say-goodbye-to-cold-flats-unpredictable-bills-and-endless-engineer-callouts \n\nFull list of GHNF projects is here: https://tp-heatnetworks.org/landmark-investment-backs-strategic-heat-infrastructure-for-london\n",
+      "bodyHash": "70d74d704a583af0d74ff369f910061eab74e20e4c2b041caf18f520ea56b27e",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/families-set-to-save-money-through-new-and-upgraded-heat-networks",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Department for Energy Security and Net Zero"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-09-23T00:01:04+01:00",
+        "sourceVersion": "525be861-4248-4ffd-a2c2-062047190617"
+      },
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "05a438a1119d43b24b1b4324",
+      "title": "特朗普：美国官员与伊朗代表举行了一场“非常好的”会谈",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/09-23/10701925.shtml",
+      "summary": "中新网9月23日电 综合外媒报道，美国总统特朗普22日透露，伊朗官员在联合国大会期间与美国总统特使威特科夫举行了一场“非常好的”会谈，长达三小时。他表示，双方将在不久的将来再次会晤。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T22:53:21.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3fc61030aa10d537ec23e668",
+      "title": "微软推送 9 月 Win11 24H2/25H2 可选更新：支持 Emoji 17 等",
+      "originalUrl": "https://www.ithome.com/1/006/021.htm",
+      "summary": "IT之家 9 月 23 日消息，微软昨日（9 月 22 日）发布博文，面向 Windows 11 24H2 和 25H2 系统，推送 9 月可选更新 KB5124010，用户安装后版本号升至 26100.9550 和 26200.9550。 更新内容方面，包含功能调整、稳定性修复和兼容性改进。微软官方提醒 24H2 家庭版及专业版用户，将于 2026 年 10 月 13 日结束支持；企业版和教育版支持持续至 2027 年 10 月 12 日。 IT之家附上更新日志如下： 一、…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T22:48:51.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "87e4d6598dda11af1fc57764",
+      "title": "华为仓颉编程语言 1.2.0 版本发布，增强跨平台、编译器和工具链能力",
+      "originalUrl": "https://www.ithome.com/1/006/020.htm",
+      "summary": "IT之家 9 月 23 日消息，华为仓颉编程语言昨日发布 1.2.0 版本，本版本为 STS 版本，版本号 1.2.0，维护周期 6 个月；STS 1.1.x 版本计划 2026.10.30 停止维护。 相比 1.1.3 版本，本版本主要增强跨平台，编译器和工具链能力。 跨平台新增 Android 23 (API 23) aarch64 支持、iOS LTO 支持、跨语言互操作（ObjC / Java）增强。 优化编译器稳定性与性能：修复 broken 声明重载排除、cons…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T22:46:57.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "20dc23a06622f330a0ef6437",
+      "title": "9月23日新闻早报",
+      "originalUrl": "https://www.chinanews.com.cn/iframe/2026/09-23/10701924.shtml",
+      "summary": null,
+      "summaryProvenance": null,
+      "sourcePublishedAt": "2026-09-22T22:42:24.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6ea5509e97af8a148812156a",
+      "title": "2799 元起，华为 WATCH 6 系列鸿蒙 AI 手表今日开售",
+      "originalUrl": "https://www.ithome.com/1/006/019.htm",
+      "summary": "IT之家 9 月 23 日消息，华为 WATCH 6 系列鸿蒙 AI 手表今日 10:08 正式开售，售价 2799 元起。IT之家汇总如下： 华为 WATCH 6 42mm 版：2799 元起（国补价 2379.15 元起） 46mm 版：2899 元起（国补价 2464.15 元起） 华为 WATCH 6 Pro 43mm 版：3499 元起（国补价 2999 元起） 46mm 版：3599 元起（国补价 3099 元起） 华为 WATCH 6 46mm 版本提供天青蓝、…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T22:41:29.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "163e496e251772e0b96a9057",
+      "title": "拓展 Apple Watch 新版图：消息称苹果正酝酿无屏健康追踪手环",
+      "originalUrl": "https://www.ithome.com/1/006/018.htm",
+      "summary": "IT之家 9 月 23 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今天（9 月 23 日）发布博文，报道称苹果公司正在开发一款无屏幕健康与健身追踪器，产品形态接近 Whoop 的腕戴设备。 定位方面，消息称该产品没有屏幕，主要追踪运动恢复和身体数据，在上市后预估将会和 Whoop 产品竞争。古尔曼认为该产品若推出，意味着苹果将进入以轻量化腕戴设备为主的健康追踪品类。 苹果现有穿戴产品以 Apple Watch 为核心，覆盖心率监测、运动记录、睡眠追踪等健康功能…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T22:30:38.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech",
+        "health"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6def62afe348be6ddafd56a2",
+      "title": "伊朗外长与美特使在纽约会晤",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/09-23/10701923.shtml",
+      "summary": "当地时间22日，伊朗外长阿拉格齐与美国总统特使威特科夫在第81届联合国大会会议期间于纽约举行会晤。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T22:28:55.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "df20336b0983e4768d636e27",
+      "title": "反向海淘兴起，外国游客的“中国购物清单”越来越长",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-23/10701922.shtml",
+      "summary": "在江苏昆山大渔湾的一家大疆门店里，来自美国的音乐经纪人詹姆斯·尹打开背包，向中青报·中青网记者展示刚刚入手的“战利品”：无人机、手持云台、无线麦克风、运动相机配件……",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T22:19:27.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "travel",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ae5a2f9c940bd7ed438dfce0",
+      "title": "消息称苹果搁置研发 AI 吊坠，曾设想以摄像头拓展 Siri 能力",
+      "originalUrl": "https://www.ithome.com/1/006/017.htm",
+      "summary": "IT之家 9 月 23 日消息，彭博社的马克 · 古尔曼（Mark Gurman）昨日（9 月 22 日）发布博文，报道称苹果曾在研发一款配备摄像头的人工智能可穿戴设备，产品形态类似挂坠，可佩戴在颈部、夹在衣物上，或固定于身体其他部位。不过，该项目目前已被推迟，苹果暂未公布后续上市计划。 IT之家附上相关截图如下： 定位方面，消息称在苹果最初的计划中，这款设备被设想为一种“始终在线”的视觉感知终端，让 AI 更贴近用户的日常环境，在免手操作的情况下提供识别、记录和辅助服务。 …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T22:19:25.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e4049ba9ba8bda932e50c165",
+      "title": "交通运输格局重塑，西南地区向海图强按下加速键",
+      "originalUrl": "https://www.chinanews.com.cn/aseaninfo/2026/09-23/10701921.shtml",
+      "summary": "平陆运河开辟通往东盟地区最短、最经济、最便捷的水运通道",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T22:16:49.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "mobility"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3bd65b6ec975c73089c917fc",
+      "title": "中疾控提示：手足口病进入高发期，这样预防别大意",
+      "originalUrl": "https://www.chinanews.com.cn/jk/2026/09-23/10701920.shtml",
+      "summary": "中国疾控中心发布提示——",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T22:15:21.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9026458ca3e495fc8e68ad3f",
+      "title": "全英华侨华人庆祝新中国成立77周年",
+      "originalUrl": "https://www.chinanews.com.cn/hr/2026/09-23/10701919.shtml",
+      "summary": "中新社伦敦9月22日电 (记者 欧阳开宇)中国驻英国大使郑泽光21日应邀出席全英华侨华人举办的庆祝中华人民共和国成立77周年庆典。庆典筹委会主委吴莉莉、伦敦华埠商会主席邓柱廷、英国中国商会会长方文建、全英各地近百家侨团负责人等各界人士500多人参加。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T22:07:50.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a6f52be06f70171034f30346",
+      "title": "全球首列搭载具身智能技术地铁列车在德国柏林发布",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-23/10701918.shtml",
+      "summary": "中新社柏林9月22日电 (记者 马秀秀)一列搭载具身智能技术的绿智融合数字地铁列车22日在德国柏林发布。中国中车方面称，这是全球首次将具身智能技术应用于地铁列车。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T22:07:30.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "mobility",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ff3e7cedceed3c7bcec572d7",
+      "title": "第81届联大一般性辩论开幕",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/09-23/10701917.shtml",
+      "summary": "中新社联合国9月22日电 (记者 王帆)第81届联合国大会一般性辩论22日在纽约联合国总部开幕。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T22:07:16.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "05abf4369754222a811319b7",
+      "title": "“超级”在哪里？高通第六代骁龙 8 超级至尊版 / 至尊版芯片规格对比",
+      "originalUrl": "https://www.ithome.com/1/006/016.htm",
+      "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，高通正式宣布推出第六代骁龙 8 超级至尊版和第六代骁龙 8 至尊版两款芯片。 IT之家查询高通官网规格资料，附上两款芯片的差异如下： 项目第六代骁龙 8 至尊版 Snapdragon 8 Elite Gen 6第六代骁龙 8 超级至尊版 Snapdragon 8 Elite Extreme Gen 6 CPU定制 Oryon CPU，64 位…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T22:07:09.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ab7719eeb28c1c648e4ba80a",
+      "title": "高通 CEO 安蒙：智能体时代并不是让 AI 替我们包办一切，而是让技术变得更实用",
+      "originalUrl": "https://www.ithome.com/1/006/015.htm",
+      "summary": "IT之家 9 月 23 日消息，在北京时间 9 月 23 日凌晨的 2026 高通骁龙峰会现场，高通公司宣布推出第六代骁龙 8 超级至尊版移动平台和第六代骁龙 8 至尊版移动平台，官方表示这是“全球最快移动 CPU”。 高通公司总裁兼 CEO 安蒙（Cristiano Amon）谈到了关于 AI 时代的思考，他表示智能体时代已经到来。推理成为关键，边缘侧将发挥重要作用，而骁龙正是面向智能体时代的处理器。 安蒙表示：“智能体时代所承诺的，并不是让 AI 替我们包办一切，而是让技…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T21:52:58.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "06ddfe603e2c997c769d60c8",
+      "title": "全球最快移动 CPU：高通官宣小米、vivo、红魔、REDMI 等率先适配第六代骁龙 8 超级至尊版",
+      "originalUrl": "https://www.ithome.com/1/006/014.htm",
+      "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，高通宣布小米、vivo、红魔、REDMI、OPPO 等（按官方新闻稿排序）手机品牌将率先适配第六代骁龙 8 超级至尊版 / 至尊版芯片。 高通官方表示小米、vivo、红魔、REDMI、OPPO、一加、Motorola、iQOO、荣耀等（按照官方新闻稿排序）全球领先 OEM 厂商和智能手机品牌，将率先在其旗舰产品中采用第六代骁龙 8 超级至尊版…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T21:43:35.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c61dd6d60962cabd8500dd6c",
+      "title": "红魔 12 Pro+ 手机官宣搭载高通第六代骁龙 8 超级至尊版芯片，号称“迄今为止手感最好的红魔旗舰”",
+      "originalUrl": "https://www.ithome.com/1/006/013.htm",
+      "summary": "IT之家 9 月 23 日 2026 高通骁龙峰会现场报道，高通公司宣布推出第六代骁龙 8 超级至尊版移动平台和第六代骁龙 8 至尊版移动平台，官方表示这是“全球最快移动 CPU”。 中兴通讯股份有限公司终端事业部总裁、努比亚技术有限公司总裁倪飞表示：“红魔致力于为全球手游玩家提供极致的游戏体验。第六代骁龙 8 超级至尊版凭借出色的速度、能效和先进的技术，为新一代移动游戏体验提供强劲支持。与高通技术公司的持续合作，将助力我们在即将推出的红魔 12Pro+ 上，为玩家带来更迅捷…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T21:18:46.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "88141b2fff666dd6948d5f7b",
+      "title": "手游画质将迎新突破，高通第六代骁龙 8 超级至尊版强化支持虚幻引擎 5",
+      "originalUrl": "https://www.ithome.com/1/006/012.htm",
+      "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，高通公司宣布在其第六代骁龙 8 超级至尊版芯片上，强化支持虚幻引擎 5（Unreal Engine 5）支持。 高通为了提升 AI 渲染、超级分辨率与帧生成效果，为第六代骁龙 8 超级至尊版芯片的 Adreno GPU 配备了专用 Adreno Matrix Cores，并推出 Adreno Neural Fusion 技术。IT之家附上相关…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T21:18:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
+      "version": 1,
+      "history": []
+    },
     {
       "id": "4bf60a47e996519b3bdd1830",
       "title": "高通第六代骁龙 8 超级至尊版升级封装方案：峰值性能输出更持久",
@@ -23,7 +951,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T21:14:02.673Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T21:14:02.673Z",
       "version": 1,
       "history": []
@@ -48,7 +976,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T21:14:02.673Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T21:14:02.673Z",
       "version": 1,
       "history": []
@@ -73,7 +1001,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T21:14:02.673Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T21:14:02.673Z",
       "version": 1,
       "history": []
@@ -98,7 +1026,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T21:14:02.673Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T21:14:02.673Z",
       "version": 1,
       "history": []
@@ -123,7 +1051,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T21:14:02.673Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T21:14:02.673Z",
       "version": 1,
       "history": []
@@ -149,7 +1077,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T21:14:02.673Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T21:14:02.673Z",
       "version": 1,
       "history": []
@@ -175,7 +1103,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T21:14:02.673Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T21:14:02.673Z",
       "version": 1,
       "history": []
@@ -200,7 +1128,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T21:14:02.673Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T21:14:02.673Z",
       "version": 1,
       "history": []
@@ -226,7 +1154,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T21:14:02.673Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T21:14:02.673Z",
       "version": 1,
       "history": []
@@ -252,7 +1180,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T21:14:02.673Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T21:14:02.673Z",
       "version": 1,
       "history": []
@@ -277,7 +1205,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T21:14:02.673Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T21:14:02.673Z",
       "version": 1,
       "history": []
@@ -302,7 +1230,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T21:14:02.673Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T21:14:02.673Z",
       "version": 1,
       "history": []
@@ -327,7 +1255,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T21:14:02.673Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T21:14:02.673Z",
       "version": 1,
       "history": []
@@ -352,7 +1280,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T21:14:02.673Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T21:14:02.673Z",
       "version": 1,
       "history": []
@@ -377,7 +1305,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T21:14:02.673Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T21:14:02.673Z",
       "version": 1,
       "history": []
@@ -403,7 +1331,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -428,7 +1356,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -456,7 +1384,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -484,7 +1412,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -509,7 +1437,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -536,7 +1464,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -563,7 +1491,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -588,7 +1516,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -615,7 +1543,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -642,7 +1570,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -669,7 +1597,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -696,7 +1624,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -723,7 +1651,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -748,8 +1676,35 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4b1a46ef1802a374780048f7",
+      "title": "做月饼、话团圆：老挝留学生在川体验中秋民俗",
+      "originalUrl": "http://www.chinanews.com.cn/shipin/cns-d/2026/09-22/news1069844.shtml",
+      "summary": "中秋佳节将至，9月22日，四川商务职业学院组织中外学子开展“沉浸式中秋民俗体验”主题交流活动。老挝留学生与中国学生携手制月饼、话团圆，在互动中感受中华优秀传统文化的魅力。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T15:59:32.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "food",
+        "education"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-22T23:47:12.923Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
+      "updatedAt": "2026-09-22T23:47:12.923Z",
       "version": 1,
       "history": []
     },
@@ -773,7 +1728,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -798,7 +1753,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -824,7 +1779,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -849,7 +1804,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -874,7 +1829,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -899,7 +1854,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -924,7 +1879,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -949,7 +1904,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -974,7 +1929,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -999,7 +1954,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1024,7 +1979,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1050,7 +2005,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1075,7 +2030,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1102,7 +2057,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1228,7 +2183,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1328,7 +2283,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1378,7 +2333,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1492,8 +2447,8 @@
       "summary": "【欧洲专线】中德汽车业界海口话“共赢”：国际合作至关重要",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-22T14:38:30.000Z",
@@ -1508,7 +2463,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1553,7 +2508,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1578,7 +2533,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1604,7 +2559,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1616,8 +2571,8 @@
       "summary": "中新网北京9月22日电 (记者 孙自法)以“行者，新世界”为主题的格致论道第133期近日举行，来自人工智能、基础科学、国际象棋、海洋生态、植物与稀土、喜剧创作、合成生物学等不同领域的8位专家学者分别登台开讲。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-22T14:22:37.000Z",
@@ -1631,7 +2586,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1643,8 +2598,8 @@
       "summary": "中新网泉州9月22日电 (记者 闫旭 通讯员 周敏 陈棠寅)9月22日，一列满载22个集装箱涤纶丝化纤产品的白货专列从福建泉州黄塘铁路货场驶出，直达广东三水西站。这是福建首次开行华南地区白货专列，为东南沿海化纤产业与华南地区轻工制造业的经贸往来增添新的高效物流通道。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-22T14:22:25.000Z",
@@ -1658,7 +2613,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1670,8 +2625,8 @@
       "summary": "中新网南宁9月22日电 (林浩)9月22日，广西壮族自治区森林防灭火指挥部副指挥长、广西壮族自治区应急管理厅厅长周长青介绍，每年9月10日至次年5月10日为广西重点森林防火期。当前，广西已全面进入重点森林防火期，将以练兵强实战，全面提升森林火灾应急处置能力。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-22T14:22:07.000Z",
@@ -1684,7 +2639,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1709,7 +2664,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1734,7 +2689,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1759,7 +2714,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1809,7 +2764,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1834,7 +2789,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1885,7 +2840,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1936,7 +2891,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1961,7 +2916,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1986,7 +2941,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2011,7 +2966,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2037,7 +2992,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2087,7 +3042,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2113,7 +3068,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2138,7 +3093,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2163,7 +3118,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2188,7 +3143,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2213,7 +3168,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2238,7 +3193,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2263,7 +3218,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2288,7 +3243,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2313,7 +3268,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2338,7 +3293,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2364,7 +3319,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2390,7 +3345,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2416,7 +3371,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2441,7 +3396,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2466,7 +3421,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2491,7 +3446,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2517,7 +3472,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2542,7 +3497,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2567,7 +3522,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2593,7 +3548,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2619,7 +3574,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2644,7 +3599,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2669,7 +3624,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2695,7 +3650,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2721,7 +3676,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2772,7 +3727,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2823,7 +3778,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2848,7 +3803,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2873,7 +3828,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2899,7 +3854,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -3051,7 +4006,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3262,7 +4217,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3288,7 +4243,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3363,7 +4318,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3391,7 +4346,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3418,7 +4373,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3623,7 +4578,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3650,7 +4605,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3703,7 +4658,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3730,7 +4685,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3758,7 +4713,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3784,7 +4739,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3913,7 +4868,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3991,7 +4946,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4018,7 +4973,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4044,7 +4999,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4096,7 +5051,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4146,7 +5101,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4197,7 +5152,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4248,7 +5203,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4450,7 +5405,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4500,7 +5455,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4525,7 +5480,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4551,7 +5506,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4578,7 +5533,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4629,7 +5584,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4654,7 +5609,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4679,7 +5634,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4705,7 +5660,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4730,7 +5685,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4780,7 +5735,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4883,7 +5838,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4908,7 +5863,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -4985,7 +5940,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -5036,7 +5991,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -5086,7 +6041,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -5991,7 +6946,7 @@
         "sourceVersion": "954c8385-b3b0-486f-ba0a-45d1b2f45080"
       },
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -6415,7 +7370,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -6634,7 +7589,7 @@
         "sourceVersion": "8c547be9-3f6e-4efe-b1e1-ac6fdf4b974f"
       },
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -6903,7 +7858,7 @@
         "sourceVersion": "6cd4898c-b05b-4dc1-b60c-ac25b3c27619"
       },
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -7030,7 +7985,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -7181,7 +8136,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -7326,7 +8281,7 @@
         "sourceVersion": "e519b0d3-e61c-422e-b2a4-8648cf0e093a"
       },
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -7492,7 +8447,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -7584,7 +8539,7 @@
         "sourceVersion": "def1baa5-dcda-4edb-b3d3-9ef65375da69"
       },
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -7676,7 +8631,7 @@
         "sourceVersion": "983bb1f8-0859-482d-bdcd-b4e96bb66538"
       },
       "firstSeenAt": "2026-09-22T07:39:34.959Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T07:39:34.959Z",
       "version": 1,
       "history": []
@@ -8496,7 +9451,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T07:39:34.959Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T07:39:34.959Z",
       "version": 1,
       "history": []
@@ -8858,7 +9813,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T07:39:34.959Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T07:39:34.959Z",
       "version": 1,
       "history": []
@@ -8883,7 +9838,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-22T07:39:34.959Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T07:39:34.959Z",
       "version": 1,
       "history": []
@@ -9067,7 +10022,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T07:39:34.959Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T07:39:34.959Z",
       "version": 1,
       "history": []
@@ -9371,7 +10326,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T07:39:34.959Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T07:39:34.959Z",
       "version": 1,
       "history": []
@@ -9474,7 +10429,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T07:39:34.959Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T07:39:34.959Z",
       "version": 1,
       "history": []
@@ -10140,7 +11095,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-22T07:39:34.959Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T07:39:34.959Z",
       "version": 1,
       "history": []
@@ -10957,7 +11912,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-22T07:39:34.959Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T07:39:34.959Z",
       "version": 1,
       "history": []
@@ -12231,7 +13186,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T01:49:20.085Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T01:49:20.085Z",
       "version": 1,
       "history": []
@@ -12301,7 +13256,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-22T01:49:20.085Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T01:49:20.085Z",
       "version": 1,
       "history": []
@@ -13160,7 +14115,7 @@
         "sourceVersion": "7f158f8b-5ad5-4124-ab56-e20b7f3537d7"
       },
       "firstSeenAt": "2026-09-21T23:13:52.034Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 2,
       "history": [
@@ -13612,7 +14567,7 @@
         "sourceVersion": "5d3e27b4-be50-47db-a25e-0a8471ec8dc6"
       },
       "firstSeenAt": "2026-09-21T23:13:52.034Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-21T23:13:52.034Z",
       "version": 1,
       "history": []
@@ -15108,7 +16063,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -16212,7 +17167,7 @@
         "sourceVersion": "d2f741c1-a60e-472f-b181-7763a49e54b7"
       },
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -16517,7 +17472,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -17437,7 +18392,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -18832,7 +19787,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -19281,7 +20236,7 @@
         "sourceVersion": "8a767e22-1205-4d00-b3f2-f28d6c6e7efa"
       },
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -19549,7 +20504,7 @@
         "sourceVersion": "6bd591ec-452c-4700-bfe7-4458fda619f8"
       },
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 2,
       "history": [
@@ -19628,7 +20583,7 @@
         "sourceVersion": "53831127-61af-442d-bf4f-a857c9927d08"
       },
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -19653,7 +20608,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -19695,7 +20650,7 @@
         "sourceVersion": "6c46913c-40c0-4587-abde-256a8223c234"
       },
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -19838,7 +20793,7 @@
         "sourceVersion": "7d796ae1-acc0-4338-b05a-4e70c7dae630"
       },
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -21587,7 +22542,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-21T07:09:57.775Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-21T07:09:57.775Z",
       "version": 1,
       "history": []
@@ -22454,7 +23409,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-21T07:09:57.775Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-21T07:09:57.775Z",
       "version": 1,
       "history": []
@@ -25376,7 +26331,7 @@
         "sourceVersion": "92f6e24c-436f-44ae-ba4a-b2318484b31e"
       },
       "firstSeenAt": "2026-09-20T23:11:31.714Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 2,
       "history": [
@@ -25735,7 +26690,7 @@
         "sourceVersion": "015dac43-250c-4447-be6c-fcfdf79d898e"
       },
       "firstSeenAt": "2026-09-20T17:38:58.182Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-20T17:38:58.182Z",
       "version": 1,
       "history": []
@@ -34629,7 +35584,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-20T09:44:56.917Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-20T09:44:56.917Z",
       "version": 1,
       "history": []
@@ -39179,7 +40134,7 @@
         "sourceVersion": "a6f0c422-9beb-4044-bdf7-e258c62fbd18"
       },
       "firstSeenAt": "2026-09-20T00:06:24.786Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-20T00:06:24.786Z",
       "version": 1,
       "history": []
@@ -47703,7 +48658,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-19T04:59:18.594Z",
       "version": 1,
       "history": []
@@ -48875,7 +49830,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-19T04:59:18.594Z",
       "version": 1,
       "history": []
@@ -50182,7 +51137,7 @@
         "sourceVersion": "32e1c5bc-d631-4c15-869f-3614ae5a0d44"
       },
       "firstSeenAt": "2026-09-18T16:19:58.290Z",
-      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T23:47:12.923Z",
       "updatedAt": "2026-09-18T16:19:58.290Z",
       "version": 1,
       "history": []
@@ -70415,8 +71370,8 @@
       "id": "ithome",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T21:14:02.673Z",
-      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
+      "checkedAt": "2026-09-22T23:47:12.923Z",
+      "lastSuccessAt": "2026-09-22T23:47:12.923Z",
       "etag": null,
       "lastModified": null,
       "discovered": 60,
@@ -70427,8 +71382,8 @@
       "id": "sspai",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T21:14:02.673Z",
-      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
+      "checkedAt": "2026-09-22T23:47:12.923Z",
+      "lastSuccessAt": "2026-09-22T23:47:12.923Z",
       "etag": null,
       "lastModified": null,
       "discovered": 10,
@@ -70439,11 +71394,11 @@
       "id": "chinanews-society",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T21:14:02.673Z",
-      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
-      "etag": "\"6ab28f4a-4520\"",
-      "lastModified": "Tue, 22 Sep 2026 14:23:06 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-09-22T23:47:12.923Z",
+      "lastSuccessAt": "2026-09-22T23:47:12.923Z",
+      "etag": "\"6ab30e22-439e\"",
+      "lastModified": "Tue, 22 Sep 2026 23:24:18 GMT",
+      "discovered": 30,
       "failures": 0,
       "error": null
     },
@@ -70451,11 +71406,11 @@
       "id": "chinanews-finance",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T21:14:02.673Z",
-      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
-      "etag": "\"6ab2ac2b-43f0\"",
-      "lastModified": "Tue, 22 Sep 2026 16:26:19 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-09-22T23:47:12.923Z",
+      "lastSuccessAt": "2026-09-22T23:47:12.923Z",
+      "etag": "\"6ab31101-4331\"",
+      "lastModified": "Tue, 22 Sep 2026 23:36:33 GMT",
+      "discovered": 30,
       "failures": 0,
       "error": null
     },
@@ -70463,11 +71418,11 @@
       "id": "chinanews-life",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T21:14:02.673Z",
-      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
-      "etag": "\"6ab2ae70-1043\"",
-      "lastModified": "Tue, 22 Sep 2026 16:36:00 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-09-22T23:47:12.923Z",
+      "lastSuccessAt": "2026-09-22T23:47:12.923Z",
+      "etag": "\"6ab30d5b-115b\"",
+      "lastModified": "Tue, 22 Sep 2026 23:20:59 GMT",
+      "discovered": 8,
       "failures": 0,
       "error": null
     },
@@ -70475,8 +71430,8 @@
       "id": "chinanews-jk",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T21:14:02.673Z",
-      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
+      "checkedAt": "2026-09-22T23:47:12.923Z",
+      "lastSuccessAt": "2026-09-22T23:47:12.923Z",
       "etag": "\"69aa3e2a-2832\"",
       "lastModified": "Fri, 06 Mar 2026 02:38:34 GMT",
       "discovered": 0,
@@ -70487,11 +71442,11 @@
       "id": "chinanews-culture",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T21:14:02.673Z",
-      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
-      "etag": "\"6ab2a802-40f7\"",
-      "lastModified": "Tue, 22 Sep 2026 16:08:34 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-09-22T23:47:12.923Z",
+      "lastSuccessAt": "2026-09-22T23:47:12.923Z",
+      "etag": "\"6ab304f6-40f7\"",
+      "lastModified": "Tue, 22 Sep 2026 22:45:10 GMT",
+      "discovered": 30,
       "failures": 0,
       "error": null
     },
@@ -70499,8 +71454,8 @@
       "id": "chinanews-edu",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T21:14:02.673Z",
-      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
+      "checkedAt": "2026-09-22T23:47:12.923Z",
+      "lastSuccessAt": "2026-09-22T23:47:12.923Z",
       "etag": "\"6ab27c1a-390a\"",
       "lastModified": "Tue, 22 Sep 2026 13:01:14 GMT",
       "discovered": 0,
@@ -70511,8 +71466,8 @@
       "id": "chinanews-sports",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T21:14:02.673Z",
-      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
+      "checkedAt": "2026-09-22T23:47:12.923Z",
+      "lastSuccessAt": "2026-09-22T23:47:12.923Z",
       "etag": "\"6ab2a793-38c9\"",
       "lastModified": "Tue, 22 Sep 2026 16:06:43 GMT",
       "discovered": 0,
@@ -70523,10 +71478,10 @@
       "id": "chinanews-scroll-news",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T21:14:02.673Z",
-      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
-      "etag": "\"6ab2c8da-4457\"",
-      "lastModified": "Tue, 22 Sep 2026 18:28:42 GMT",
+      "checkedAt": "2026-09-22T23:47:12.923Z",
+      "lastSuccessAt": "2026-09-22T23:47:12.923Z",
+      "etag": "\"6ab312e1-404e\"",
+      "lastModified": "Tue, 22 Sep 2026 23:44:33 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -70534,8 +71489,8 @@
     "govuk-fulltext": {
       "id": "govuk-fulltext",
       "status": "ok",
-      "checkedAt": "2026-09-22T21:14:02.673Z",
-      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
+      "checkedAt": "2026-09-22T23:47:12.923Z",
+      "lastSuccessAt": "2026-09-22T23:47:12.923Z",
       "discovered": 20,
       "rejected": 0,
       "contentSchema": 3,
