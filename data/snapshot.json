@@ -1,8 +1,387 @@
 {
   "schemaVersion": "1",
-  "collectedAt": "2026-09-22T17:44:48.611Z",
-  "lastSuccessfulCollectionAt": "2026-09-22T17:44:48.611Z",
+  "collectedAt": "2026-09-22T21:14:02.673Z",
+  "lastSuccessfulCollectionAt": "2026-09-22T21:14:02.673Z",
   "items": [
+    {
+      "id": "4bf60a47e996519b3bdd1830",
+      "title": "高通第六代骁龙 8 超级至尊版升级封装方案：峰值性能输出更持久",
+      "originalUrl": "https://www.ithome.com/1/006/011.htm",
+      "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，高通公司宣布在其第六代骁龙 8 超级至尊版芯片上，采用了全新的 Offset Package-on-Package（偏移式堆叠封装）方案。 IT之家查询公开资料，主流手机芯片采用 Package-on-Package (PoP) 封装技术，通常将 DRAM 内存芯片直接垂直堆叠在 SoC（系统级芯片）正上方。 这种封装方式可以节省主板空间，但…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T21:03:35.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "updatedAt": "2026-09-22T21:14:02.673Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "cb06b3bc6d3066784ce24a35",
+      "title": "摩托罗拉 Signature 27 旗舰真机首秀，搭载高通第六代骁龙 8 超级至尊版芯片",
+      "originalUrl": "https://www.ithome.com/1/006/010.htm",
+      "summary": "IT之家 9 月 23 日消息，在北京时间 9 月 23 日凌晨的 2026 高通骁龙峰会现场，高通公司宣布推出第六代骁龙 8 超级至尊版移动平台和第六代骁龙 8 至尊版移动平台，官方表示这是“全球最快移动 CPU”。 摩托罗拉移动全球产品营销负责人兼执行总监 Nicole Hagen 宣布：“摩托罗拉很高兴进一步拓展与高通技术公司的合作，并首次在旗舰产品系列中采用第六代骁龙 8 超级至尊版。这一重要里程碑将帮助我们为全球消费者带来更强大的终端侧 AI 能力、更出色的性能以及…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T21:02:46.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "updatedAt": "2026-09-22T21:14:02.673Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7d091f63e15bb726ab23bf53",
+      "title": "高通第六代骁龙 8 超级至尊版芯片一图看懂：2nm 工艺、CPU 行业首超 5GHz",
+      "originalUrl": "https://www.ithome.com/1/006/009.htm",
+      "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，高通公司宣布推出第六代骁龙 8 超级至尊版移动平台和第六代骁龙 8 至尊版移动平台，官方表示这是“全球最快移动 CPU”。 IT之家在峰会现场获得了关于两款新旗舰处理器的第一手最新消息，并为大家带来第六代骁龙 8 超级至尊版芯片一图看懂内容： 第六代骁龙 8 超级至尊版定位为其性能最强的移动平台之一，重点提升终端侧人工智能、移动游戏和影像处理…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T20:47:12.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "updatedAt": "2026-09-22T21:14:02.673Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "589c3e07cf9336284b68ea3f",
+      "title": "预填充吞吐超 330 Token/s：高通携手阶跃等为第六代骁龙 8 超级至尊版端侧适配 300 亿参数 AI 模型",
+      "originalUrl": "https://www.ithome.com/1/006/008.htm",
+      "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，高通宣布携手阶跃、无量火及江波龙，基于第六代骁龙 8 超级至尊版移动平台，端侧适配与推理优化阶跃 StepEdge-Omni 30B-MoE 模型，并现场演示相关智能体助手。 该模型拥有 300 亿参数，依托混合专家架构，仅根据任务需要激活部分专家模块，以降低计算量和内存带宽需求。 合作方通过推理引擎、异构调度及存储方案优化，让模型运行内存需…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T20:40:27.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "updatedAt": "2026-09-22T21:14:02.673Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a2688b887654622eac7bf0b3",
+      "title": "vivo 宣布 iQOO 16、iQOO Pad Ultra 首批搭载高通第六代骁龙 8 超级至尊版处理器",
+      "originalUrl": "https://www.ithome.com/1/006/007.htm",
+      "summary": "IT之家 9 月 23 日消息，在今日的 2026 骁龙峰会上，vivo 宣布 iQOO 16、iQOO Pad Ultra 将首批搭载高通第六代骁龙 8 超级至尊版处理器。 vivo 高级副总裁、首席技术官施玉坚表示：“多年来，vivo 与高通技术公司保持紧密合作，共同推动移动技术创新。全新发布的第六代骁龙 8 超级至尊版，代表着移动计算领域的又一次重大飞跃。我们即将发布的 iQOO16、iQOO Pad Ultra，将首批搭载第六代骁龙 8 超级至尊版，为酷客带来更出色的…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T20:39:14.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "updatedAt": "2026-09-22T21:14:02.673Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8659d00db9cff3f8984e1d84",
+      "title": "小米曾学忠在 2026 高通骁龙峰会首秀小米 18 Pro 真机",
+      "originalUrl": "https://www.ithome.com/1/006/006.htm",
+      "summary": "IT之家 9 月 23 日消息，在今日的 2026 高通骁龙峰会上，小米集团高级副总裁、国际部总裁曾学忠宣布，小米将全球首发第六代骁龙 8 超级至尊版和第六代骁龙 8 至尊版处理器，首发机型为小米 18 Pro 系列。 IT之家在峰会现场获悉，曾学忠直接掏出了小米 18 Pro 系列真机，面向全球观众展示了即将发布的新机。 小米 18 Pro 系列已定档北京时间 9 月 23 日 19:00 在国内发布，此外，小米 18 Pro 系列将于年内登陆全球市场。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T20:32:59.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "updatedAt": "2026-09-22T21:14:02.673Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b2b53364915db66bc9bf7ca7",
+      "title": "小米 18 Pro 系列手机官宣全球首发高通第六代骁龙 8 超级至尊版和第六代骁龙 8 至尊版处理器",
+      "originalUrl": "https://www.ithome.com/1/006/005.htm",
+      "summary": "IT之家 9 月 23 日消息，在今日的 2026 骁龙峰会上，小米集团高级副总裁、国际部总裁曾学忠宣布，小米将全球首发第六代骁龙 8 超级至尊版和第六代骁龙 8 至尊版处理器，首发机型为小米 18 Pro 系列。 小米集团合伙人、总裁、手机部总裁、小米品牌总经理卢伟冰表示：“小米始终致力于在旗舰产品组合中为消费者带来突破性的创新，高通技术公司全新多旗舰策略让我们能够更加灵活地实现这一目标。通过在即将推出的终端中采用第六代骁龙 8 超级至尊版和第六代骁龙 8 至尊版，小米能够…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T20:26:40.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "updatedAt": "2026-09-22T21:14:02.673Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d5b917c52fdad65837f662d0",
+      "title": "全球最快移动 CPU：高通发布第六代骁龙 8 超级至尊版芯片，CPU 行业首超 5GHz、GPU 性能提升 44%",
+      "originalUrl": "https://www.ithome.com/1/006/004.htm",
+      "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，高通公司宣布推出第六代骁龙 8 超级至尊版移动平台和第六代骁龙 8 至尊版移动平台，官方表示这是“全球最快移动 CPU”。 高通称两款产品面向“智能体人工智能”时代的移动终端需求，主要应用于下一代旗舰智能手机。 IT之家援引博文介绍，第六代骁龙 8 超级至尊版定位为其性能最强的移动平台之一，重点提升终端侧人工智能、移动游戏和影像处理能力。 其…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T20:14:43.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "updatedAt": "2026-09-22T21:14:02.673Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "622d5c6d89eba039d7daca7b",
+      "title": "高通骁龙芯片将整合 HBC 架构：手机本地运行 AI 更快、更省电",
+      "originalUrl": "https://www.ithome.com/1/006/003.htm",
+      "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，IT之家带来前方现场报道，高通宣布将会向骁龙芯片下放 HBC 技术。 IT之家注：HBC 全称为 High Bandwidth Compute，直译为“高带宽计算”，于 2026 年 6 月召开的投资者日上公开，最初面向数据中心产品，在本次活动中宣布未来将会应用于骁龙芯片。 该架构是一种近内存计算（near-memory computing）…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T19:56:20.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "updatedAt": "2026-09-22T21:14:02.673Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a809b61ca635a8303f3d3677",
+      "title": "阿里千问平板 Qwen Book 现身 2026 骁龙峰会，定位原生 AI 智能体电脑",
+      "originalUrl": "https://www.ithome.com/1/006/002.htm",
+      "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，IT之家带来前方现场报道，在活动的宣传视频中，高通展示了阿里千问平板 Qwen Book。 根据目前曝光的细节，Qwen Book 是一款智能体原生电脑，外观方面更接近于平板，项目仍处于早期阶段，主要侧重于办公室工作，集成 Qwen3.8-Max 和 Qwen3.8-Flash。 IT之家此前报道，这款产品确定名称为 QwenBook，宣传语…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T19:39:12.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "updatedAt": "2026-09-22T21:14:02.673Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "06acc321c70c0d282c21e3e1",
+      "title": "OpenAI 发布 GPT-6 Sol 和 Luna 模型，API 价格大降 50%",
+      "originalUrl": "https://www.ithome.com/1/006/001.htm",
+      "summary": "IT之家 9 月 23 日消息，OpenAI 今日发布 GPT-6 系列模型的最新成员 GPT-6 Sol 和 GPT-6 Luna。 OpenAI 官方表示，两款模型采用与 GPT-6 Astra 类似的方法进行训练，将 Astra 在专业工作、事实性、编码、计算机使用和对齐等方面最先进的性能带入更快、更经济的模型。 GPT-6 Sol 和 Luna 模型的 API 价格相比 GPT-5.6 促销价降低 50%。不过 OpenAI 官方也表示，GPT-6 Astra 依然是…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T19:25:16.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "updatedAt": "2026-09-22T21:14:02.673Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3b0b6616f468c239ba8e9dcb",
+      "title": "高通宣布全球 Snapdragon Insider 项目成员数量突破 2300 万",
+      "originalUrl": "https://www.ithome.com/1/006/000.htm",
+      "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，IT之家带来前方现场报道，在活动演讲中，高通公布宣布全球 Snapdragon Insider 项目成员数量突破 2300 万；全球 Snapdragon Creators 数量突破 4.05 亿。 Snapdragon Insiders 是高通围绕骁龙平台运营的社区与内容计划，其作用包括： 向成员提供新品、技术和活动的优先资讯，以及与品牌互…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T19:17:35.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "updatedAt": "2026-09-22T21:14:02.673Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "903e5505faeeabb546f6fee1",
+      "title": "美国纳斯达克综合指数周二盘中再创历史新高：科技股回暖 / 油价回落等因素驱动",
+      "originalUrl": "https://www.ithome.com/1/005/999.htm",
+      "summary": "IT之家 9 月 23 日消息，美国纳斯达克综合指数（Nasdaq Composite）于美国当地时间周二（9 月 22 日）盘中再度刷新历史高位，其中科技股强势反弹叠加油价回落提振市场风险偏好，成为推动指数突破的关键力量。 IT之家发稿前，美国当地时间 9 月 22 日纳斯达克综合指数盘中最高触及 27,272.72 点，超越此前于 6 月 1 日创下的盘中纪录 27,190.21 点。 伴随着纳斯达克综合指数上涨，道琼斯工业平均指数与标普 500 指数亦同步走高，分别上涨…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T18:55:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "updatedAt": "2026-09-22T21:14:02.673Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "085ca0d5ebfecbbfb6b9c3a6",
+      "title": "Anthropic 发布 Claude Opus 5.5 模型：性能媲美 Fable 5.1，运行成本比 Opus 5 低 40%",
+      "originalUrl": "https://www.ithome.com/1/005/998.htm",
+      "summary": "IT之家 9 月 23 日消息，Anthropic 今日正式发布了 Claude Opus 5.5 模型，这是其全新 Claude 5.5 家族的首个模型，宣称在大多数工作上表现可媲美 Claude Fable 5.1，运行成本比 Opus 5 低 40%。 IT之家从 Anthropic 公告获悉，具体来看，Claude Opus 5.5 模型有以下提升： 性能方面，Opus 5.5 比 Opus 5 有了很大提升，官方宣传早期测试者在最复杂的工作中看到性能大幅提升。一名测…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T18:55:08.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "updatedAt": "2026-09-22T21:14:02.673Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e18d57b9f0c925b81aea88fb",
+      "title": "IT之家受邀前往夏威夷：2026 高通骁龙峰会开幕，骁龙 8 Elite Gen 6 旗舰芯马上揭晓",
+      "originalUrl": "https://www.ithome.com/1/005/997.htm",
+      "summary": "IT之家 9 月 23 日消息，2026 高通骁龙峰会于当地时间 9 月 22 日至 24 日在美国夏威夷举行（北京时间 9 月 23 日凌晨 3 点开幕），IT之家受邀前往峰会现场，为大家带来第一手现场报道。 夏威夷茂宜岛时间 9 月 21 日，全球媒体陆续抵达。海景会场、标志性的 Snapdragon 打卡点，海岛的暖阳和骁龙红色看起来很配哦。 今年骁龙峰会的小礼品也很有夏威夷特色，包括贝壳项链、手链，以及印有骁龙 Logo 的黑色水杯。 向窗外望去，夏威夷茂宜岛的景色美…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-22T18:34:40.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-22T21:14:02.673Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
+      "updatedAt": "2026-09-22T21:14:02.673Z",
+      "version": 1,
+      "history": []
+    },
     {
       "id": "2524da2aae84249c173f0c3d",
       "title": "苹果 Beats 360 快速上手：Beats 首款能换耳罩的头戴式耳机，耳目一新，眼也一新",
@@ -24,7 +403,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -49,7 +428,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -77,7 +456,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -105,7 +484,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -130,7 +509,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -157,7 +536,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -184,7 +563,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -209,7 +588,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -236,7 +615,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -263,7 +642,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -290,7 +669,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -317,7 +696,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -344,7 +723,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -369,7 +748,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -394,7 +773,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -419,7 +798,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -445,7 +824,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -470,7 +849,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -495,7 +874,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -520,7 +899,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -545,7 +924,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -570,7 +949,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -595,7 +974,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -620,7 +999,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -645,7 +1024,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -671,7 +1050,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -696,7 +1075,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -723,7 +1102,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -749,7 +1128,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -774,7 +1153,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -799,7 +1178,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -824,7 +1203,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -849,7 +1228,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -874,7 +1253,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -899,7 +1278,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -924,7 +1303,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -949,7 +1328,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -974,7 +1353,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -999,7 +1378,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1024,7 +1403,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1049,7 +1428,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1076,7 +1455,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1101,7 +1480,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1129,7 +1508,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1149,7 +1528,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1174,7 +1553,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1199,7 +1578,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1225,7 +1604,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1252,7 +1631,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1279,7 +1658,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1305,7 +1684,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1557,7 +1936,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1582,7 +1961,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1734,7 +2113,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -1884,7 +2263,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2138,7 +2517,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2214,7 +2593,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2367,7 +2746,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2393,7 +2772,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2418,7 +2797,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2494,7 +2873,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -2546,7 +2925,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -2571,7 +2950,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -2618,7 +2997,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -2645,7 +3024,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -2831,7 +3210,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3115,7 +3494,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3141,7 +3520,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3166,7 +3545,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3191,7 +3570,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3217,7 +3596,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3431,7 +3810,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3456,7 +3835,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3506,7 +3885,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3559,7 +3938,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -3585,7 +3964,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -5612,7 +5991,7 @@
         "sourceVersion": "954c8385-b3b0-486f-ba0a-45d1b2f45080"
       },
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -6255,7 +6634,7 @@
         "sourceVersion": "8c547be9-3f6e-4efe-b1e1-ac6fdf4b974f"
       },
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -6524,7 +6903,7 @@
         "sourceVersion": "6cd4898c-b05b-4dc1-b60c-ac25b3c27619"
       },
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -6947,7 +7326,7 @@
         "sourceVersion": "e519b0d3-e61c-422e-b2a4-8648cf0e093a"
       },
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -7113,7 +7492,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -7205,7 +7584,7 @@
         "sourceVersion": "def1baa5-dcda-4edb-b3d3-9ef65375da69"
       },
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -7297,7 +7676,7 @@
         "sourceVersion": "983bb1f8-0859-482d-bdcd-b4e96bb66538"
       },
       "firstSeenAt": "2026-09-22T07:39:34.959Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T07:39:34.959Z",
       "version": 1,
       "history": []
@@ -8504,7 +8883,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-22T07:39:34.959Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T07:39:34.959Z",
       "version": 1,
       "history": []
@@ -10578,7 +10957,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-22T07:39:34.959Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T07:39:34.959Z",
       "version": 1,
       "history": []
@@ -11922,7 +12301,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-22T01:49:20.085Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T01:49:20.085Z",
       "version": 1,
       "history": []
@@ -12781,7 +13160,7 @@
         "sourceVersion": "7f158f8b-5ad5-4124-ab56-e20b7f3537d7"
       },
       "firstSeenAt": "2026-09-21T23:13:52.034Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 2,
       "history": [
@@ -13233,7 +13612,7 @@
         "sourceVersion": "5d3e27b4-be50-47db-a25e-0a8471ec8dc6"
       },
       "firstSeenAt": "2026-09-21T23:13:52.034Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-21T23:13:52.034Z",
       "version": 1,
       "history": []
@@ -15833,7 +16212,7 @@
         "sourceVersion": "d2f741c1-a60e-472f-b181-7763a49e54b7"
       },
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -16138,7 +16517,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -18453,7 +18832,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -18902,7 +19281,7 @@
         "sourceVersion": "8a767e22-1205-4d00-b3f2-f28d6c6e7efa"
       },
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -19170,7 +19549,7 @@
         "sourceVersion": "6bd591ec-452c-4700-bfe7-4458fda619f8"
       },
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 2,
       "history": [
@@ -19249,7 +19628,7 @@
         "sourceVersion": "53831127-61af-442d-bf4f-a857c9927d08"
       },
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -19274,7 +19653,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -19316,7 +19695,7 @@
         "sourceVersion": "6c46913c-40c0-4587-abde-256a8223c234"
       },
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -19459,7 +19838,7 @@
         "sourceVersion": "7d796ae1-acc0-4338-b05a-4e70c7dae630"
       },
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -21208,7 +21587,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-21T07:09:57.775Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-21T07:09:57.775Z",
       "version": 1,
       "history": []
@@ -22075,7 +22454,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-21T07:09:57.775Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-21T07:09:57.775Z",
       "version": 1,
       "history": []
@@ -24997,7 +25376,7 @@
         "sourceVersion": "92f6e24c-436f-44ae-ba4a-b2318484b31e"
       },
       "firstSeenAt": "2026-09-20T23:11:31.714Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 2,
       "history": [
@@ -25356,7 +25735,7 @@
         "sourceVersion": "015dac43-250c-4447-be6c-fcfdf79d898e"
       },
       "firstSeenAt": "2026-09-20T17:38:58.182Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-20T17:38:58.182Z",
       "version": 1,
       "history": []
@@ -38800,7 +39179,7 @@
         "sourceVersion": "a6f0c422-9beb-4044-bdf7-e258c62fbd18"
       },
       "firstSeenAt": "2026-09-20T00:06:24.786Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-20T00:06:24.786Z",
       "version": 1,
       "history": []
@@ -49803,7 +50182,7 @@
         "sourceVersion": "32e1c5bc-d631-4c15-869f-3614ae5a0d44"
       },
       "firstSeenAt": "2026-09-18T16:19:58.290Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-18T16:19:58.290Z",
       "version": 1,
       "history": []
@@ -49921,7 +50300,7 @@
         "sourceVersion": "ed624bb1-1f06-4e3c-8445-37e11c71f614"
       },
       "firstSeenAt": "2026-09-18T16:19:58.290Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-18T16:19:58.290Z",
       "version": 1,
       "history": []
@@ -69277,7 +69656,7 @@
         "sourceVersion": "aee74976-f516-46bf-b51f-2df28356ca51"
       },
       "firstSeenAt": "2026-09-18T16:19:58.290Z",
-      "lastSeenAt": "2026-09-22T17:44:48.611Z",
+      "lastSeenAt": "2026-09-22T21:14:02.673Z",
       "updatedAt": "2026-09-18T16:19:58.290Z",
       "version": 1,
       "history": []
@@ -70036,8 +70415,8 @@
       "id": "ithome",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T17:44:48.611Z",
-      "lastSuccessAt": "2026-09-22T17:44:48.611Z",
+      "checkedAt": "2026-09-22T21:14:02.673Z",
+      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
       "etag": null,
       "lastModified": null,
       "discovered": 60,
@@ -70048,8 +70427,8 @@
       "id": "sspai",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T17:44:48.611Z",
-      "lastSuccessAt": "2026-09-22T17:44:48.611Z",
+      "checkedAt": "2026-09-22T21:14:02.673Z",
+      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
       "etag": null,
       "lastModified": null,
       "discovered": 10,
@@ -70060,11 +70439,11 @@
       "id": "chinanews-society",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T17:44:48.611Z",
-      "lastSuccessAt": "2026-09-22T17:44:48.611Z",
+      "checkedAt": "2026-09-22T21:14:02.673Z",
+      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
       "etag": "\"6ab28f4a-4520\"",
       "lastModified": "Tue, 22 Sep 2026 14:23:06 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -70072,11 +70451,11 @@
       "id": "chinanews-finance",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T17:44:48.611Z",
-      "lastSuccessAt": "2026-09-22T17:44:48.611Z",
+      "checkedAt": "2026-09-22T21:14:02.673Z",
+      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
       "etag": "\"6ab2ac2b-43f0\"",
       "lastModified": "Tue, 22 Sep 2026 16:26:19 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -70084,11 +70463,11 @@
       "id": "chinanews-life",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T17:44:48.611Z",
-      "lastSuccessAt": "2026-09-22T17:44:48.611Z",
+      "checkedAt": "2026-09-22T21:14:02.673Z",
+      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
       "etag": "\"6ab2ae70-1043\"",
       "lastModified": "Tue, 22 Sep 2026 16:36:00 GMT",
-      "discovered": 7,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -70096,8 +70475,8 @@
       "id": "chinanews-jk",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T17:44:48.611Z",
-      "lastSuccessAt": "2026-09-22T17:44:48.611Z",
+      "checkedAt": "2026-09-22T21:14:02.673Z",
+      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
       "etag": "\"69aa3e2a-2832\"",
       "lastModified": "Fri, 06 Mar 2026 02:38:34 GMT",
       "discovered": 0,
@@ -70108,11 +70487,11 @@
       "id": "chinanews-culture",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T17:44:48.611Z",
-      "lastSuccessAt": "2026-09-22T17:44:48.611Z",
+      "checkedAt": "2026-09-22T21:14:02.673Z",
+      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
       "etag": "\"6ab2a802-40f7\"",
       "lastModified": "Tue, 22 Sep 2026 16:08:34 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -70120,8 +70499,8 @@
       "id": "chinanews-edu",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T17:44:48.611Z",
-      "lastSuccessAt": "2026-09-22T17:44:48.611Z",
+      "checkedAt": "2026-09-22T21:14:02.673Z",
+      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
       "etag": "\"6ab27c1a-390a\"",
       "lastModified": "Tue, 22 Sep 2026 13:01:14 GMT",
       "discovered": 0,
@@ -70132,11 +70511,11 @@
       "id": "chinanews-sports",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T17:44:48.611Z",
-      "lastSuccessAt": "2026-09-22T17:44:48.611Z",
+      "checkedAt": "2026-09-22T21:14:02.673Z",
+      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
       "etag": "\"6ab2a793-38c9\"",
       "lastModified": "Tue, 22 Sep 2026 16:06:43 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -70144,10 +70523,10 @@
       "id": "chinanews-scroll-news",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-22T17:44:48.611Z",
-      "lastSuccessAt": "2026-09-22T17:44:48.611Z",
-      "etag": "\"6ab2af6f-4457\"",
-      "lastModified": "Tue, 22 Sep 2026 16:40:15 GMT",
+      "checkedAt": "2026-09-22T21:14:02.673Z",
+      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
+      "etag": "\"6ab2c8da-4457\"",
+      "lastModified": "Tue, 22 Sep 2026 18:28:42 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -70155,8 +70534,8 @@
     "govuk-fulltext": {
       "id": "govuk-fulltext",
       "status": "ok",
-      "checkedAt": "2026-09-22T17:44:48.611Z",
-      "lastSuccessAt": "2026-09-22T17:44:48.611Z",
+      "checkedAt": "2026-09-22T21:14:02.673Z",
+      "lastSuccessAt": "2026-09-22T21:14:02.673Z",
       "discovered": 20,
       "rejected": 0,
       "contentSchema": 3,
