@@ -1,8 +1,395 @@
 {
   "schemaVersion": "1",
-  "collectedAt": "2026-09-24T20:27:45.851Z",
-  "lastSuccessfulCollectionAt": "2026-09-24T20:27:45.851Z",
+  "collectedAt": "2026-09-24T23:25:00.008Z",
+  "lastSuccessfulCollectionAt": "2026-09-24T23:25:00.008Z",
   "items": [
+    {
+      "id": "23e93937cf1eb644bf4d907e",
+      "title": "消息称 2026 年京东 11.11 双十一活动 10 月 12 日开启，新增“超级服务日”",
+      "originalUrl": "https://www.ithome.com/1/007/052.htm",
+      "summary": "IT之家 9 月 25 日消息，据亿邦动力消息，今年京东“双 11”将于 10 月 12 日正式开启。 从整体节奏来看，京东双 11 将设置月黑风高盛典、超级秒杀日、超级直播日、超级补贴日等 IP 活动，并新增“超级服务日”。 10 月 12 日晚 8 点，京东双 11“月黑风高盛典”将率先启动。京东双 11 还将推出“官方直降”“跨店满减”“低价热卖”等促销玩法。 据IT之家此前报道，2025 年的京东 11.11 双十一活动于 10 月 9 日晚 8 点正式开始。今年开启…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T23:23:35.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T23:25:00.008Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
+      "updatedAt": "2026-09-24T23:25:00.008Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "87394bf4d25e897fa3622ac8",
+      "title": "英伟达黄仁勋：AI 不会必然消灭某个职业，“10 年内 AI 毁灭人类”更是无稽之谈",
+      "originalUrl": "https://www.ithome.com/1/007/051.htm",
+      "summary": "IT之家 9 月 25 日消息，在接受《纽约时报》采访时，英伟达首席执行官黄仁勋认为，当前行业和民众对 AI 的恐慌情绪已经过头了，并认为当前 AI 不一定会替代职业，但会首先替代任务。 黄仁勋把工作拆分为任务（例如写代码、整理资料和回复客户等）和目的（诊断疾病、解决工程问题、服务客户等），并认为 AI 通常先自动化具体任务，不会必然消灭整个职业。 例如，软件智能体可能大量生成代码，但软件工程师仍需要理解需求、设计系统、权衡风险、验证结果，并把技术连接到真实问题上。 黄仁勋以…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T23:17:34.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "career"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T23:25:00.008Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
+      "updatedAt": "2026-09-24T23:25:00.008Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8026b2462b2c0c7ad857b73b",
+      "title": "马克龙：法国正在尽一切努力避免燃油短缺",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/09-25/10703549.shtml",
+      "summary": "中新社巴黎9月24日电 (记者 李洋)法国总统马克龙当地时间24日晚表示，法国正在尽一切努力避免燃油短缺。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T23:02:53.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T23:25:00.008Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
+      "updatedAt": "2026-09-24T23:25:00.008Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "481a126d5dccd26746501ead",
+      "title": "Summer savings scheme helped families cut costs with over 14 million free bus journeys",
+      "originalUrl": "https://www.gov.uk/government/news/summer-savings-scheme-helped-families-cut-costs-with-over-14-million-free-bus-journeys",
+      "sourcePublishedAt": "2026-09-25T00:01:02+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "millions of under-16s used buses across England for free in August, enjoying days out to parks, museums and beaches Great British Summer Savings Scheme gave families room to breathe, alongside cost-cutting offers and discounts all part of w",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><div>\n  <ul>\n    <li>millions of under-16s used buses across England for free in August, enjoying days out to parks, museums and beaches</li>\n    <li>Great British Summer Savings Scheme gave families room to breathe, alongside cost-cutting offers and discounts</li>\n    <li>all part of wider government commitment to transform bus services across the country, with the £2 bus fare cap starting from January next year</li>\n  </ul>\n</div>\n\n<p>Over 14.5 million children used the bus for free this summer, thanks to the government’s Great British Summer Savings Scheme, according to new figures.</p>\n\n<p>Thanks to the Scheme’s Summer Bus Fare Offer, millions of children aged between 5 and 15 across England enjoyed free journeys during their holidays.</p>\n\n<p>Kids were able to travel to beaches, national parks and other fun days out for absolutely nothing, all while helping give their families more room to breathe. Bus companies across the country have reported major increases in passengers, according to figures from the Confederation of Passenger Transport and participating operators.</p>\n\n<p>With child fares typically costing up to £2, families were able to save on the cost of travel on all participating buses from 1 August until 31 August 2026.</p>\n\n<p>Buses and Local Transport Minister, Simon Lightwood, said:</p>\n\n<blockquote>\n  <p>Whether it’s a trip to the seaside, a park or a museum, it’s great to see that millions of children used the bus for free this summer.</p>\n\n  <p>The Great British Summer Savings Scheme has given families room to breathe from the cost-of-living squeeze. We’re getting passengers back on the bus, transforming services across the country, from capping fares at £2 from next year to 24/7 bus services for disabled passengers.</p>\n</blockquote>\n\n<p>Graham Vidler, Chief Executive of the Confederation of Passenger Transport, said:</p>\n\n<blockquote>\n  <p>Our members are proud to have delivered over 14 million free child journeys this summer – equivalent to two for every young person in England. Millions of children and their families have explored their local area and experienced the freedom of travelling by bus.</p>\n\n  <p>As we head into autumn, the nation’s buses are still there to get children to school and for customers to continue exploring, with great value ticketing options available up and down the country.</p>\n</blockquote>\n\n<p>Lydia Horbury, Chief Executive of Bus Users UK, said:</p>\n\n<blockquote>\n  <p>This is a fantastic result. Free bus travel has helped families make the most of the summer, while giving millions of young people the freedom to get out, explore and enjoy everything their local communities have to offer.</p>\n\n  <p>This September’s Catch the Bus Month is all about challenging outdated perceptions and encouraging people to give the bus a go. These figures show what’s possible when we break down barriers and make bus travel an affordable, convenient and genuinely attractive choice.</p>\n\n  <p>When young people discover for themselves what the bus can offer, those experiences can help turn bus travel into a habit for life. That’s good news for passengers, communities and the future of sustainable travel.</p>\n</blockquote>\n\n<p>Whether it’s the north-east, the East Midlands or the south-west, the free bus fares have helped more young people travel by bus across the country.</p>\n\n<p>One bus service in the north-east recorded 710% more child passengers compared to the previous summer. The Bee Network in Greater Manchester had nearly 1.7 million children on their buses this summer, 748,000 more than at the same time last year, while buses in the East Midlands nearly doubled their passengers.</p>\n\n<p>The success of the scheme forms part of the government’s wider work to make bus travel more affordable and accessible, including the £2 bus fare cap, which will be introduced in January 2027 and giving disabled pass holders free bus travel 24 hours a day.</p>\n\n<div>\n    <p>Roads media enquiries</p>\n\n\n    <div>\n\n\n        <p>\n          Media enquiries 0300 7777 878\n        </p>\n        <p>\n          Switchboard 0300 330 3000\n        </p>\n    </div>\n\n\n</div>\n\n</div>",
+      "bodyText": "\n  \n    millions of under-16s used buses across England for free in August, enjoying days out to parks, museums and beaches\n    Great British Summer Savings Scheme gave families room to breathe, alongside cost-cutting offers and discounts\n    all part of wider government commitment to transform bus services across the country, with the £2 bus fare cap starting from January next year\n  \n\n\nOver 14.5 million children used the bus for free this summer, thanks to the government’s Great British Summer Savings Scheme, according to new figures.\n\nThanks to the Scheme’s Summer Bus Fare Offer, millions of children aged between 5 and 15 across England enjoyed free journeys during their holidays.\n\nKids were able to travel to beaches, national parks and other fun days out for absolutely nothing, all while helping give their families more room to breathe. Bus companies across the country have reported major increases in passengers, according to figures from the Confederation of Passenger Transport and participating operators.\n\nWith child fares typically costing up to £2, families were able to save on the cost of travel on all participating buses from 1 August until 31 August 2026.\n\nBuses and Local Transport Minister, Simon Lightwood, said:\n\n\n  Whether it’s a trip to the seaside, a park or a museum, it’s great to see that millions of children used the bus for free this summer.\n\n  The Great British Summer Savings Scheme has given families room to breathe from the cost-of-living squeeze. We’re getting passengers back on the bus, transforming services across the country, from capping fares at £2 from next year to 24/7 bus services for disabled passengers.\n\n\nGraham Vidler, Chief Executive of the Confederation of Passenger Transport, said:\n\n\n  Our members are proud to have delivered over 14 million free child journeys this summer – equivalent to two for every young person in England. Millions of children and their families have explored their local area and experienced the freedom of travelling by bus.\n\n  As we head into autumn, the nation’s buses are still there to get children to school and for customers to continue exploring, with great value ticketing options available up and down the country.\n\n\nLydia Horbury, Chief Executive of Bus Users UK, said:\n\n\n  This is a fantastic result. Free bus travel has helped families make the most of the summer, while giving millions of young people the freedom to get out, explore and enjoy everything their local communities have to offer.\n\n  This September’s Catch the Bus Month is all about challenging outdated perceptions and encouraging people to give the bus a go. These figures show what’s possible when we break down barriers and make bus travel an affordable, convenient and genuinely attractive choice.\n\n  When young people discover for themselves what the bus can offer, those experiences can help turn bus travel into a habit for life. That’s good news for passengers, communities and the future of sustainable travel.\n\n\nWhether it’s the north-east, the East Midlands or the south-west, the free bus fares have helped more young people travel by bus across the country.\n\nOne bus service in the north-east recorded 710% more child passengers compared to the previous summer. The Bee Network in Greater Manchester had nearly 1.7 million children on their buses this summer, 748,000 more than at the same time last year, while buses in the East Midlands nearly doubled their passengers.\n\nThe success of the scheme forms part of the government’s wider work to make bus travel more affordable and accessible, including the £2 bus fare cap, which will be introduced in January 2027 and giving disabled pass holders free bus travel 24 hours a day.\n\n\n    Roads media enquiries\n\n\n    \n\n\n        \n          Media enquiries 0300 7777 878\n        \n        \n          Switchboard 0300 330 3000\n        \n    \n\n\n\n\n",
+      "bodyHash": "ef11c448572a6439c0be9d8b5de125fe93b41b89060698a965fee2733f1ea7b0",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/summer-savings-scheme-helped-families-cut-costs-with-over-14-million-free-bus-journeys",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Department for Transport"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-09-25T00:01:02+01:00",
+        "sourceVersion": "1373c5f7-9987-4c87-acae-bb4bdd2d57ad"
+      },
+      "firstSeenAt": "2026-09-24T23:25:00.008Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
+      "updatedAt": "2026-09-24T23:25:00.008Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "dcd0a03883a559fd4c0fd27e",
+      "title": "Government’s digital employment tools help thousands take the next step into work",
+      "originalUrl": "https://www.gov.uk/government/news/governments-digital-employment-tools-help-thousands-take-the-next-step-into-work",
+      "sourcePublishedAt": "2026-09-25T00:01:02+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "Around 20,000 people have used DWP’s Work Hub CV builder since launch in June Thousands receiving personalised job support through platform’s AI-powered Work Assistant Part of Government action to harness technology, expand opportunity and ",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><div>\n  <ul>\n    <li>\n      <p>Around 20,000 people have used DWP’s Work Hub CV builder since launch in June </p>\n    </li>\n    <li>\n      <p>Thousands receiving personalised job support through platform’s AI-powered Work Assistant </p>\n    </li>\n    <li>\n      <p>Part of Government action to harness technology, expand opportunity and boost growth in every postcode</p>\n    </li>\n  </ul>\n</div>\n\n<p>Tens of thousands of jobseekers have already benefited from the Government’s new digital employment support tools, helping people build CVs, prepare for interviews and take the next step into work.</p>\n\n<p>The Department for Work and Pensions’ (DWP) Work Hub, launched this summer, is bringing employment support into people’s pockets through a range of free digital services that can be accessed anytime, anywhere from a phone, tablet or computer. </p>\n\n<p>Envisioned as a “jobcentre in your pocket” and designed as a new universal service, Work Hub is available to help anyone get into work and get on at work. The free digital platform offers practical tools to build CVs optimised for online recruitment platforms, as well as help to search and apply for jobs, prepare for interviews and identify training opportunities. </p>\n\n<p>Since its launch in June, around 20,000 people have used the Work Hub’s “Build a CV” tool, which helps users turn their skills, experience and achievements into a professional CV tailored to the roles they want.</p>\n\n<p>Some 16,000 people have also used the platform’s AI Work Assistant, which provides personalised guidance on job searches, applications, interview preparation and career development. </p>\n\n<p>The figures show how Government continues to modernise public services and utilise technology to break down barriers to opportunity by giving more people access to practical employment support, while supporting the to boost living standards and drive growth in every part of the country.</p>\n\n<p>The announcement supports the Government’s wider ambition to ramp up opportunity and tackle economic inactivity, including through our £2.5 billion package to create almost one million work and training opportunities for young people.  </p>\n\n<h3>Minister for Innovation, Fraud and Data, Lilian Greenwood MP, said: </h3>\n\n<blockquote>\n  <p>The world of work is changing, so the support we provide must change with it, and the Work Hub is innovation at its finest.</p>\n</blockquote>\n\n<blockquote>\n  <p>In just a few months, around 20,000 people have already used our CV tools to showcase their skills and take important steps towards finding work.</p>\n</blockquote>\n\n<blockquote>\n  <p>This tool is one of the ways we’re making sure no one is left behind and I would encourage any jobseeker yet to try it, to give it a go.</p>\n</blockquote>\n\n<p>The Work Hub sits alongside the department’s wider programme to modernise its services for customers, including by joining up employment and careers advice and offering people support in their community.</p>\n\n<p>Work Coaches continue to provide tailored, face-to-face support through Jobcentres, with the digital tools offering an additional way for people to access advice and guidance.</p>\n\n<p>One Work Coach already seeing the benefits is Lance, from Bognor Regis who supports works with young people looking for work. He has started using the AI Work Assistant as part of appointments to support conversations around career aspirations, skills development, and job searching. He feels that the tool can empower many young people, especially those who lack confidence or feel unsure.  </p>\n\n<h3>Lance said: </h3>\n\n<blockquote>\n  <p>The AI Work Assistant is a valuable tool that complements the support we already provide.</p>\n</blockquote>\n\n<blockquote>\n  <p>It acts as an additional resource that can help generate ideas, explore career pathways, identify transferable skills, and support meaningful coaching conversations. I’ve especially noticed how this has opened up opportunities for young people.</p>\n</blockquote>\n\n<p>The Work Hub is also helping jobseekers overcome practical barriers to finding employment.</p>\n\n<p>Jobseeker, Hugh, had extensive experience and a strong set of skills but struggled to get responses from employers because his CV format was not suited to modern recruitment processes. </p>\n\n<p>After being introduced to the Work Hub CV Builder by DWP recruitment consultant, Ian, Hugh passed application sifts and within a few weeks was successfully offered a job.  </p>\n\n<h3>Hugh said: </h3>\n\n<blockquote>\n  <p>Before, I was struggling to get a response from the employer, let alone a job. However, upon using the CV builder I saw the response I received increase significantly.</p>\n</blockquote>\n\n<blockquote>\n  <p>It allowed me to convey my skills and experience more effectively, helping me secure a much-needed job after many unsuccessful attempts beforehand.</p>\n</blockquote>\n\n<p>The service also supports employers by providing a dedicated space to advertise vacancies, access recruitment advice and connect with local labour markets, helping employers find the talent they need to grow their businesses. </p>\n\n<h3>Shazia Ejaz, Recruitment and Employment Confederation (REC) Director of Campaigns, said:</h3>\n\n<blockquote>\n  <p>We absolutely support the use of technology to make hiring faster and fairer and thereby achieve a job market that is as accessible as possible to the widest range of people. We must keep finding innovative ways to ensure the talent pipeline keeps producing the right candidates and workers given the shortages of labour and skills in parts of our labour market.</p>\n</blockquote>\n\n<blockquote>\n  <p>Embracing technology within safeguards is the right approach to get more people into work and to grow the economy.</p>\n</blockquote>\n\n<h2>Additional information:</h2>\n\n<ul>\n  <li>\n    <p>The Work Hub ‘Build a CV’ tool can be used by everyone- DWP customer or not.  </p>\n  </li>\n  <li>\n    <p>It launched as a pilot in June 2026 and is being continually developed based on user feedback and performance data. </p>\n  </li>\n  <li>\n    <p>Important guardrails are in place to help ensure the appropriateness of the AI responses and keep it focused on providing employment support. </p>\n  </li>\n  <li>\n    <p>This does not replace career support in job centres, and requirements for people in the Intensive Work Search group for Universal Credit are unchanged.</p>\n  </li>\n</ul>\n\n</div>",
+      "bodyText": "\n  \n    \n      Around 20,000 people have used DWP’s Work Hub CV builder since launch in June \n    \n    \n      Thousands receiving personalised job support through platform’s AI-powered Work Assistant \n    \n    \n      Part of Government action to harness technology, expand opportunity and boost growth in every postcode\n    \n  \n\n\nTens of thousands of jobseekers have already benefited from the Government’s new digital employment support tools, helping people build CVs, prepare for interviews and take the next step into work.\n\nThe Department for Work and Pensions’ (DWP) Work Hub, launched this summer, is bringing employment support into people’s pockets through a range of free digital services that can be accessed anytime, anywhere from a phone, tablet or computer. \n\nEnvisioned as a “jobcentre in your pocket” and designed as a new universal service, Work Hub is available to help anyone get into work and get on at work. The free digital platform offers practical tools to build CVs optimised for online recruitment platforms, as well as help to search and apply for jobs, prepare for interviews and identify training opportunities. \n\nSince its launch in June, around 20,000 people have used the Work Hub’s “Build a CV” tool, which helps users turn their skills, experience and achievements into a professional CV tailored to the roles they want.\n\nSome 16,000 people have also used the platform’s AI Work Assistant, which provides personalised guidance on job searches, applications, interview preparation and career development. \n\nThe figures show how Government continues to modernise public services and utilise technology to break down barriers to opportunity by giving more people access to practical employment support, while supporting the to boost living standards and drive growth in every part of the country.\n\nThe announcement supports the Government’s wider ambition to ramp up opportunity and tackle economic inactivity, including through our £2.5 billion package to create almost one million work and training opportunities for young people.  \n\nMinister for Innovation, Fraud and Data, Lilian Greenwood MP, said: \n\n\n  The world of work is changing, so the support we provide must change with it, and the Work Hub is innovation at its finest.\n\n\n\n  In just a few months, around 20,000 people have already used our CV tools to showcase their skills and take important steps towards finding work.\n\n\n\n  This tool is one of the ways we’re making sure no one is left behind and I would encourage any jobseeker yet to try it, to give it a go.\n\n\nThe Work Hub sits alongside the department’s wider programme to modernise its services for customers, including by joining up employment and careers advice and offering people support in their community.\n\nWork Coaches continue to provide tailored, face-to-face support through Jobcentres, with the digital tools offering an additional way for people to access advice and guidance.\n\nOne Work Coach already seeing the benefits is Lance, from Bognor Regis who supports works with young people looking for work. He has started using the AI Work Assistant as part of appointments to support conversations around career aspirations, skills development, and job searching. He feels that the tool can empower many young people, especially those who lack confidence or feel unsure.  \n\nLance said: \n\n\n  The AI Work Assistant is a valuable tool that complements the support we already provide.\n\n\n\n  It acts as an additional resource that can help generate ideas, explore career pathways, identify transferable skills, and support meaningful coaching conversations. I’ve especially noticed how this has opened up opportunities for young people.\n\n\nThe Work Hub is also helping jobseekers overcome practical barriers to finding employment.\n\nJobseeker, Hugh, had extensive experience and a strong set of skills but struggled to get responses from employers because his CV format was not suited to modern recruitment processes. \n\nAfter being introduced to the Work Hub CV Builder by DWP recruitment consultant, Ian, Hugh passed application sifts and within a few weeks was successfully offered a job.  \n\nHugh said: \n\n\n  Before, I was struggling to get a response from the employer, let alone a job. However, upon using the CV builder I saw the response I received increase significantly.\n\n\n\n  It allowed me to convey my skills and experience more effectively, helping me secure a much-needed job after many unsuccessful attempts beforehand.\n\n\nThe service also supports employers by providing a dedicated space to advertise vacancies, access recruitment advice and connect with local labour markets, helping employers find the talent they need to grow their businesses. \n\nShazia Ejaz, Recruitment and Employment Confederation (REC) Director of Campaigns, said:\n\n\n  We absolutely support the use of technology to make hiring faster and fairer and thereby achieve a job market that is as accessible as possible to the widest range of people. We must keep finding innovative ways to ensure the talent pipeline keeps producing the right candidates and workers given the shortages of labour and skills in parts of our labour market.\n\n\n\n  Embracing technology within safeguards is the right approach to get more people into work and to grow the economy.\n\n\nAdditional information:\n\n\n  \n    The Work Hub ‘Build a CV’ tool can be used by everyone- DWP customer or not.  \n  \n  \n    It launched as a pilot in June 2026 and is being continually developed based on user feedback and performance data. \n  \n  \n    Important guardrails are in place to help ensure the appropriateness of the AI responses and keep it focused on providing employment support. \n  \n  \n    This does not replace career support in job centres, and requirements for people in the Intensive Work Search group for Universal Credit are unchanged.\n  \n\n\n",
+      "bodyHash": "36089a1e05845ae840d93a7c967c9d84bab2b00cdc9760be4743cd9613e98576",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/governments-digital-employment-tools-help-thousands-take-the-next-step-into-work",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Department for Work and Pensions"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-09-25T00:01:02+01:00",
+        "sourceVersion": "a63dc740-d497-4c69-8e97-5210fa385747"
+      },
+      "firstSeenAt": "2026-09-24T23:25:00.008Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
+      "updatedAt": "2026-09-24T23:25:00.008Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "20ce019fe5f8df55012681da",
+      "title": "9月25日早报",
+      "originalUrl": "https://www.chinanews.com.cn/iframe/2026/09-25/10703550.shtml",
+      "summary": null,
+      "summaryProvenance": null,
+      "sourcePublishedAt": "2026-09-24T22:57:42.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T23:25:00.008Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
+      "updatedAt": "2026-09-24T23:25:00.008Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "13682cd77bbe96efb6804d68",
+      "title": "高通押注 AI 生态：一套软件栈通吃所有设备，编程语言 Mojo 将原生支持 Win11",
+      "originalUrl": "https://www.ithome.com/1/007/050.htm",
+      "summary": "IT之家 9 月 25 日现场消息，在夏威夷举办的 2026 骁龙峰会第二日活动中，高通技术公司先进 AI 软件与平台执行副总裁克里斯 · 拉特纳（Chris Lattner）发表主题演讲，称 AI 行业的竞争正逐渐从“拼芯片”转向“拼生态”。 在本次主题演讲中，拉特纳指出 AI 软件往往深度绑定特定硬件：换一家公司芯片，开发者可能就要重新适配、优化和调试。 拉特纳在演讲提出 Modular 平台，目标是让在 GPU、NPU 和数据中心 ASIC 等不同架构上运行同一套 AI…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T22:52:28.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T23:25:00.008Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
+      "updatedAt": "2026-09-24T23:25:00.008Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "083c8c59b84b0e47e0f85304",
+      "title": "长安启源 Q06 上市 24 小时累计订单突破 3.5 万台，限时权益价 13.59 万元起",
+      "originalUrl": "https://www.ithome.com/1/007/049.htm",
+      "summary": "IT之家 9 月 25 日消息，长安汽车昨晚宣布，长安启源 Q06 上市 24 小时，累计订单突破 35000 台。 据IT之家此前报道，长安启源 Q06 于 9 月 23 日上市，提供纯电与增程两种动力选择，官方指导价 13.99-16.99 万元。 602 越享型：官方指导价 13.99 万元，上市权益价 13.59 万元 602 智享型：官方指导价 14.99 万元，上市权益价 14.59 万元 700 智享型：官方指导价 15.99 万元，上市权益价 15.59 万元…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T22:47:37.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T23:25:00.008Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
+      "updatedAt": "2026-09-24T23:25:00.008Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7593a915f7fc66ba9621642f",
+      "title": "彭丽媛同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/09-25/10703548.shtml",
+      "summary": "中新社华盛顿9月24日电 当地时间9月24日中午，中国国家主席习近平夫人彭丽媛在华盛顿同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T22:27:14.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T23:25:00.008Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
+      "updatedAt": "2026-09-24T23:25:00.008Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8ec0238c84884de7679a2432",
+      "title": "习近平同美国总统特朗普会谈",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/09-25/10703547.shtml",
+      "summary": "中新社华盛顿9月24日电 (记者 郭金超 黄钰钦 郭超凯)当地时间9月24日上午，中国国家主席习近平同美国总统特朗普在白宫举行会谈。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T22:25:50.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T23:25:00.008Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
+      "updatedAt": "2026-09-24T23:25:00.008Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ec6e7d8165cbfb741fd0685f",
+      "title": "习近平出席美国总统特朗普在白宫举行的欢迎仪式",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/09-25/10703546.shtml",
+      "summary": "中新社华盛顿9月24日电 (记者 郭金超 郭超凯 黄钰钦)当地时间9月24日上午，美国总统特朗普在白宫举行隆重仪式，热烈欢迎中国国家主席习近平对美国进行国事访问。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T22:22:06.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T23:25:00.008Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
+      "updatedAt": "2026-09-24T23:25:00.008Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1516d5b45178816ce0689a84",
+      "title": "（爱知·名古屋亚运会）国乒男团无缘九连冠 女团实现六连冠",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-25/10703545.shtml",
+      "summary": "中新社日本名古屋9月25日电 (记者 国璇)当地时间24日进行的爱知·名古屋亚运会乒乓球团体决赛中，国乒男团以大比分2:3不敌东道主日本队，获得亚军，无缘该项目亚运会九连冠。国乒女团以3:0力克日本队，实现亚运会乒乓球女团六连冠。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T20:58:55.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T23:25:00.008Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
+      "updatedAt": "2026-09-24T23:25:00.008Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f0ebcb7278331068750e8cd1",
+      "title": "（爱知·名古屋亚运会）综合消息：张展硕加冕“六金王” 中国羽毛球女团时隔12年摘金",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-25/10703544.shtml",
+      "summary": "中新社日本名古屋9月25日电 当地时间24日，爱知·名古屋亚运会共产生55枚金牌。游泳赛场，张展硕当日连夺两金，加冕“六金王”。羽毛球赛场，中国女团3:0横扫东道主日本队，时隔12年再夺亚运会女团金牌。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T20:50:10.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T23:25:00.008Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
+      "updatedAt": "2026-09-24T23:25:00.008Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d7158f950aa0970709c60d39",
+      "title": "（爱知·名古屋亚运会）中国游泳队再添4枚金牌",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-25/10703543.shtml",
+      "summary": "中新社东京9月25日电 (记者 朱晨曦)爱知·名古屋亚运会游泳比赛24日在东京水上运动中心继续进行，决出7枚金牌，中国游泳队再夺4金3铜。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T20:47:54.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T23:25:00.008Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
+      "updatedAt": "2026-09-24T23:25:00.008Z",
+      "version": 1,
+      "history": []
+    },
     {
       "id": "86c2133e73e6c6574599d72f",
       "title": "今年中秋“十五的月亮十七圆” 最佳赏月时段→",
@@ -24,7 +411,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T20:27:45.851Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T20:27:45.851Z",
       "version": 1,
       "history": []
@@ -51,7 +438,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T20:27:45.851Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T20:27:45.851Z",
       "version": 1,
       "history": []
@@ -76,7 +463,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T20:27:45.851Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T20:27:45.851Z",
       "version": 1,
       "history": []
@@ -96,7 +483,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T20:27:45.851Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T20:27:45.851Z",
       "version": 1,
       "history": []
@@ -122,7 +509,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T20:27:45.851Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T20:27:45.851Z",
       "version": 1,
       "history": []
@@ -147,7 +534,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T20:27:45.851Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T20:27:45.851Z",
       "version": 1,
       "history": []
@@ -167,7 +554,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T20:27:45.851Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T20:27:45.851Z",
       "version": 1,
       "history": []
@@ -192,7 +579,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T20:27:45.851Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T20:27:45.851Z",
       "version": 1,
       "history": []
@@ -217,7 +604,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T20:27:45.851Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T20:27:45.851Z",
       "version": 1,
       "history": []
@@ -242,7 +629,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T20:27:45.851Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T20:27:45.851Z",
       "version": 1,
       "history": []
@@ -267,7 +654,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T20:27:45.851Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T20:27:45.851Z",
       "version": 1,
       "history": []
@@ -292,7 +679,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T20:27:45.851Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T20:27:45.851Z",
       "version": 1,
       "history": []
@@ -313,7 +700,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T20:27:45.851Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T20:27:45.851Z",
       "version": 1,
       "history": []
@@ -338,7 +725,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -380,7 +767,7 @@
         "sourceVersion": "a2b74b7d-fa9a-4da7-b05d-e0c4ade80d96"
       },
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T20:27:45.851Z",
       "version": 2,
       "history": [
@@ -419,7 +806,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -446,7 +833,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -472,7 +859,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -499,7 +886,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -526,7 +913,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -553,7 +940,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -580,7 +967,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -605,7 +992,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -632,7 +1019,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -652,7 +1039,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -677,7 +1064,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -765,7 +1152,7 @@
         "sourceVersion": "6a848982-7129-41db-a632-e75cddecc02a"
       },
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -791,7 +1178,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -833,7 +1220,7 @@
         "sourceVersion": "4678c6de-32a1-4ee2-ba78-c8fb31ee7cea"
       },
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -875,7 +1262,7 @@
         "sourceVersion": "784e59f9-e79e-4d7f-b7d2-63849533b699"
       },
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -914,8 +1301,8 @@
       "summary": "中新网9月24日电 (记者 金旭)在当地时间24日进行的爱知·名古屋亚运会男子吊环项目决赛中，中国选手兰星宇以14.933 分夺得冠军，实现亚运会两连冠。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-24T15:23:26.000Z",
@@ -929,7 +1316,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -941,8 +1328,8 @@
       "summary": "中新网9月24日电 (记者 金旭)当地时间24日，在爱知·名古屋亚运会体操女子高低杠决赛中，中国选手邱祺缘以15.100分夺得金牌。她在赛后表示，这枚金牌是最好的中秋礼物。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-24T15:21:38.000Z",
@@ -956,7 +1343,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -993,8 +1380,8 @@
       "summary": "中新网9月24日电 (记者 国璇 徐朋朋)当地时间24日晚进行的爱知·名古屋亚运会乒乓球女团决赛中，由孙颖莎、王曼昱和蒯曼组成的中国队以大比分3:0击败东道主日本队，成功卫冕，实现亚运会该项目六连冠。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-24T15:19:24.000Z",
@@ -1008,7 +1395,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -1034,7 +1421,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -1162,7 +1549,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -1241,7 +1628,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -1320,7 +1707,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -1475,7 +1862,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -1577,7 +1964,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -1627,7 +2014,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -1652,7 +2039,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -1832,7 +2219,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -1882,7 +2269,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -1933,7 +2320,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -2034,7 +2421,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -2135,7 +2522,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -2210,7 +2597,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -2335,7 +2722,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -2386,7 +2773,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -2512,7 +2899,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -2621,7 +3008,7 @@
         "sourceVersion": "ce5b5b77-6fc8-406b-9ecc-760f2039716f"
       },
       "firstSeenAt": "2026-09-24T20:27:45.851Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T20:27:45.851Z",
       "version": 1,
       "history": []
@@ -2724,7 +3111,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -2749,7 +3136,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -2774,7 +3161,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -2850,7 +3237,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -2876,7 +3263,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -2901,7 +3288,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -2927,7 +3314,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -2953,7 +3340,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -2978,7 +3365,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -3003,7 +3390,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -3046,7 +3433,7 @@
         "sourceVersion": "371985cd-fd4c-4a2d-803b-8144b51ad515"
       },
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -3071,7 +3458,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -3123,7 +3510,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -3148,7 +3535,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -3174,7 +3561,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -3199,7 +3586,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -3225,7 +3612,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -3250,7 +3637,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -3276,7 +3663,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -3301,7 +3688,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -3352,7 +3739,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -3403,7 +3790,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -3479,7 +3866,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -3505,7 +3892,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -3531,7 +3918,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -3557,7 +3944,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -3812,7 +4199,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -4042,7 +4429,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -4092,7 +4479,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -4143,7 +4530,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -4195,7 +4582,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -4220,7 +4607,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -4245,7 +4632,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -4270,7 +4657,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -4296,7 +4683,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -4347,7 +4734,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -4373,7 +4760,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -4614,7 +5001,7 @@
         "sourceVersion": "91ba863e-6003-41f2-b1b3-18a8fc525e5f"
       },
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -4773,7 +5160,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -4824,7 +5211,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -4849,7 +5236,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -5020,7 +5407,7 @@
         "sourceVersion": "0d72b0d8-9730-4ad3-9c70-74a1296fbf49"
       },
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -5063,7 +5450,7 @@
         "sourceVersion": "93d851ba-37b8-4856-b663-b213f61e69f0"
       },
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -5115,7 +5502,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -5192,7 +5579,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -5245,7 +5632,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -5270,7 +5657,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -5295,7 +5682,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -5364,7 +5751,7 @@
         "sourceVersion": "df26b7dd-7bca-46d4-bb4a-0071ca546b21"
       },
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 2,
       "history": [
@@ -5403,7 +5790,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -5658,7 +6045,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -5834,7 +6221,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -5961,7 +6348,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -5987,7 +6374,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -6038,7 +6425,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -6164,7 +6551,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -6316,7 +6703,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -6367,7 +6754,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -6393,7 +6780,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -6445,7 +6832,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -6496,7 +6883,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -6521,7 +6908,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T17:04:46.957Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -6564,7 +6951,7 @@
         "sourceVersion": "dfcd49b9-16c5-49ab-8a14-e59bdaabab63"
       },
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -6589,7 +6976,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -6938,7 +7325,7 @@
         "sourceVersion": "8fd2ded3-c4d3-4c20-a398-924f0c1be584"
       },
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -6989,7 +7376,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -7282,7 +7669,7 @@
         "sourceVersion": "e877a2e0-5ede-4643-b067-55fbb4d38776"
       },
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -8036,7 +8423,7 @@
         "sourceVersion": "6ec7559b-2643-47b7-908c-6559bedac31b"
       },
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -8153,7 +8540,7 @@
         "sourceVersion": "3db74085-96ed-444a-8776-afb8665a84d4"
       },
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -8400,7 +8787,7 @@
         "sourceVersion": "e3457989-ad4b-41ff-9801-e61a6fe38a3e"
       },
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -8580,7 +8967,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -9190,7 +9577,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
@@ -10696,7 +11083,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-24T06:06:49.335Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T06:06:49.335Z",
       "version": 1,
       "history": []
@@ -13558,7 +13945,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-24T06:06:49.335Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T06:06:49.335Z",
       "version": 1,
       "history": []
@@ -14424,7 +14811,7 @@
         "sourceVersion": "bf7d71ab-df5a-448c-a9d6-d739c49df486"
       },
       "firstSeenAt": "2026-09-24T00:51:19.877Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T00:51:19.877Z",
       "version": 1,
       "history": []
@@ -21251,7 +21638,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -23204,7 +23591,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -27259,7 +27646,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-23T04:38:33.802Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-23T04:38:33.802Z",
       "version": 1,
       "history": []
@@ -31806,7 +32193,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -37035,7 +37422,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -98868,7 +99255,7 @@
         "sourceVersion": "5e180748-1cbe-4aec-9b65-8f27dcdb8bfc"
       },
       "firstSeenAt": "2026-09-24T17:04:46.957Z",
-      "lastSeenAt": "2026-09-24T20:27:45.851Z",
+      "lastSeenAt": "2026-09-24T23:25:00.008Z",
       "updatedAt": "2026-09-24T17:04:46.957Z",
       "version": 1,
       "history": []
@@ -100014,8 +100401,8 @@
       "id": "ithome",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-24T20:27:45.851Z",
-      "lastSuccessAt": "2026-09-24T20:27:45.851Z",
+      "checkedAt": "2026-09-24T23:25:00.008Z",
+      "lastSuccessAt": "2026-09-24T23:25:00.008Z",
       "etag": null,
       "lastModified": null,
       "discovered": 60,
@@ -100026,8 +100413,8 @@
       "id": "sspai",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-24T20:27:45.851Z",
-      "lastSuccessAt": "2026-09-24T20:27:45.851Z",
+      "checkedAt": "2026-09-24T23:25:00.008Z",
+      "lastSuccessAt": "2026-09-24T23:25:00.008Z",
       "etag": null,
       "lastModified": null,
       "discovered": 10,
@@ -100038,11 +100425,11 @@
       "id": "chinanews-society",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-24T20:27:45.851Z",
-      "lastSuccessAt": "2026-09-24T20:27:45.851Z",
+      "checkedAt": "2026-09-24T23:25:00.008Z",
+      "lastSuccessAt": "2026-09-24T23:25:00.008Z",
       "etag": "\"6ab56b4e-458b\"",
       "lastModified": "Thu, 24 Sep 2026 18:26:22 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -100050,8 +100437,8 @@
       "id": "chinanews-finance",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-24T20:27:45.851Z",
-      "lastSuccessAt": "2026-09-24T20:27:45.851Z",
+      "checkedAt": "2026-09-24T23:25:00.008Z",
+      "lastSuccessAt": "2026-09-24T23:25:00.008Z",
       "etag": "\"6ab53de5-442f\"",
       "lastModified": "Thu, 24 Sep 2026 15:12:37 GMT",
       "discovered": 0,
@@ -100062,8 +100449,8 @@
       "id": "chinanews-life",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-24T20:27:45.851Z",
-      "lastSuccessAt": "2026-09-24T20:27:45.851Z",
+      "checkedAt": "2026-09-24T23:25:00.008Z",
+      "lastSuccessAt": "2026-09-24T23:25:00.008Z",
       "etag": "\"6ab53c2c-1429\"",
       "lastModified": "Thu, 24 Sep 2026 15:05:16 GMT",
       "discovered": 0,
@@ -100074,8 +100461,8 @@
       "id": "chinanews-jk",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-24T20:27:45.851Z",
-      "lastSuccessAt": "2026-09-24T20:27:45.851Z",
+      "checkedAt": "2026-09-24T23:25:00.008Z",
+      "lastSuccessAt": "2026-09-24T23:25:00.008Z",
       "etag": "\"69aa3e2a-2832\"",
       "lastModified": "Fri, 06 Mar 2026 02:38:34 GMT",
       "discovered": 0,
@@ -100086,8 +100473,8 @@
       "id": "chinanews-culture",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-24T20:27:45.851Z",
-      "lastSuccessAt": "2026-09-24T20:27:45.851Z",
+      "checkedAt": "2026-09-24T23:25:00.008Z",
+      "lastSuccessAt": "2026-09-24T23:25:00.008Z",
       "etag": "\"6ab54a54-3fef\"",
       "lastModified": "Thu, 24 Sep 2026 16:05:40 GMT",
       "discovered": 0,
@@ -100098,8 +100485,8 @@
       "id": "chinanews-edu",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-24T20:27:45.851Z",
-      "lastSuccessAt": "2026-09-24T20:27:45.851Z",
+      "checkedAt": "2026-09-24T23:25:00.008Z",
+      "lastSuccessAt": "2026-09-24T23:25:00.008Z",
       "etag": "\"6ab53da6-3da8\"",
       "lastModified": "Thu, 24 Sep 2026 15:11:34 GMT",
       "discovered": 0,
@@ -100110,11 +100497,11 @@
       "id": "chinanews-sports",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-24T20:27:45.851Z",
-      "lastSuccessAt": "2026-09-24T20:27:45.851Z",
-      "etag": "\"6ab54985-39c9\"",
-      "lastModified": "Thu, 24 Sep 2026 16:02:13 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-09-24T23:25:00.008Z",
+      "lastSuccessAt": "2026-09-24T23:25:00.008Z",
+      "etag": "\"6ab59003-3a2f\"",
+      "lastModified": "Thu, 24 Sep 2026 21:02:59 GMT",
+      "discovered": 30,
       "failures": 0,
       "error": null
     },
@@ -100122,10 +100509,10 @@
       "id": "chinanews-scroll-news",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-24T20:27:45.851Z",
-      "lastSuccessAt": "2026-09-24T20:27:45.851Z",
-      "etag": "\"6ab56b4c-351d\"",
-      "lastModified": "Thu, 24 Sep 2026 18:26:20 GMT",
+      "checkedAt": "2026-09-24T23:25:00.008Z",
+      "lastSuccessAt": "2026-09-24T23:25:00.008Z",
+      "etag": "\"6ab5ac2c-34e0\"",
+      "lastModified": "Thu, 24 Sep 2026 23:03:08 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -100133,8 +100520,8 @@
     "govuk-fulltext": {
       "id": "govuk-fulltext",
       "status": "ok",
-      "checkedAt": "2026-09-24T20:27:45.851Z",
-      "lastSuccessAt": "2026-09-24T20:27:45.851Z",
+      "checkedAt": "2026-09-24T23:25:00.008Z",
+      "lastSuccessAt": "2026-09-24T23:25:00.008Z",
       "discovered": 20,
       "rejected": 0,
       "contentSchema": 3,
