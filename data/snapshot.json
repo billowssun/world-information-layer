@@ -1,8 +1,1753 @@
 {
   "schemaVersion": "1",
-  "collectedAt": "2026-09-23T22:14:31.176Z",
-  "lastSuccessfulCollectionAt": "2026-09-23T22:14:31.176Z",
+  "collectedAt": "2026-09-24T00:51:19.877Z",
+  "lastSuccessfulCollectionAt": "2026-09-24T00:51:19.877Z",
   "items": [
+    {
+      "id": "bbe4900111c07dff71ba4fd5",
+      "title": "全新华为 FreeBuds Neo 开启预售，售价 699 元",
+      "originalUrl": "https://www.ithome.com/1/006/540.htm",
+      "summary": "IT之家 9 月 24 日消息，华为本月初在海外发布了 FreeBuds Neo 耳机，官方售价为 129 欧元（IT之家注：现汇率约合 987.9 元人民币），首发优惠价 109 欧元（现汇率约合 834.7 元人民币）。 今日，华为 FreeBuds Neo 国行版本正式开启预售，售价 699 元，提供星河银、星云粉、零度白、星空黑四种配色可选。 华为 FreeBuds Neo 搭载专为抑制中高频噪声设计的双通道系统，能够有效过滤风噪与周围环境的交谈杂音，在全频段内平均可…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:47:51.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b23a8153bb5faefb5889f48b",
+      "title": "罗技 G 带来 TKL 磁轴键盘 PRO X2 RAPID，集成 OLED 竖屏",
+      "originalUrl": "https://www.ithome.com/1/006/539.htm",
+      "summary": "IT之家 9 月 24 日消息，Logitech G（罗技 G）在当地时间 23 日启动的 PLAY 2026 趣玩日活动上发布了一系列外设产品，本篇聚焦于其中的键盘产品线。 ▲ PRO X2 RAPID 罗技 G 时隔 2 年推出新款器件磁轴键盘 PRO X2 RAPID。这一型号依旧采用 80% (TKL) 配列，右上方集成 OLED 屏幕单元，定价 7,290 新台币（IT之家注：现汇率约合 1,542 元人民币）。 其内部为 6 层声学阻尼结构，搭载定制 KS-20 …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:44:27.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4e9e49421cdcb3dece8e0fff",
+      "title": "中外专家学者共聚2026北京文化论坛探讨“文化遗产系统性保护”",
+      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-24/10702725.shtml",
+      "summary": "中新网北京9月24日电 (记者 应妮 徐皇冠)23日，2026北京文化论坛“文化遗产系统性保护”平行论坛在京举办。来自23个国家和地区的120余位嘉宾，聚焦文化遗产保护传承的新理念、新趋势，共话“文化遗产系统性保护”的方法路径与实践探索。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:41:28.000Z",
+      "timeIssue": null,
+      "channels": [
+        "entertainment",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-culture",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "2d49ce8150007eaf4c5c73af",
+      "title": "Meta 首款轻量化 VR 眼镜发布：约 100g 重、同类首款 IMAX Enhanced 认证，售 1299.99 美元",
+      "originalUrl": "https://www.ithome.com/1/006/537.htm",
+      "summary": "IT之家 9 月 24 日消息，Meta 今日在 Connect 大会上发布了旗下首款轻量化 VR 眼镜，类似于古尔曼曾经描述的那款轻量化的 Vision Pro（疑似被砍），名字就叫 Meta VR Glasses。 这款 VR 眼镜重约 100 克（约为 Meta Quest 3 的五分之一），支持 3D 电影、沉浸式体育赛事、游戏和多屏办公，并集成了 Meta AI 智能体。 Meta VR Glasses 由眼镜本体和独立计算盒组成。眼镜负责显示和传感器，而计算、存储…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:39:04.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6fa4fc292e7608c7e1be7642",
+      "title": "苹果 256GB M6 版 Mac mini SSD 性能测试：较 M4 版顺序写入快 48.9%、读取快 15%",
+      "originalUrl": "https://www.ithome.com/1/006/536.htm",
+      "summary": "IT之家 9 月 24 日消息，科技媒体 AAPL Ch 昨日（9 月 23 日）发布博文，测试指出 256GB 版苹果 M6 Mac mini 采用单颗 NAND 板载 SSD，实测顺序写入 3000.2MB/s、顺序读取 3216.8MB/s。 顺序读取 3216.8MB/s 顺序写入 3000.2MB/s 该媒体测试聚焦 256GB 版本，使用 Blackmagic Disk Speed Test 软件测试，测试文件容量为 1GB。 Mac mini (M6) 256G…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:38:39.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3923e4faffe135bfab9eb9ce",
+      "title": "收获、烘干、储运、加工……秋收来了AI助手",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-24/10702746.shtml",
+      "summary": "各地在粮食收获、烘干、储运、加工等环节应用智能装备——",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:34:46.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "technology",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c36cd8eca6b1fa529d2f0a3e",
+      "title": "华为 MatePad Air Z 系列平板官宣今日 10:08 预售，2999 元起",
+      "originalUrl": "https://www.ithome.com/1/006/535.htm",
+      "summary": "IT之家 9 月 24 日消息，华为今日官宣平板 Air 系列家族实力更新 —— 华为 MatePad Air Z 闪亮登场，9 月 24 日 10:08 正式预售，2999 元起，9 月 29 日 10:08 正式开售，提供珊瑚橙、海岛蓝、星云粉、深空灰、皓月银配色。 IT之家附具体价格如下： 华为 MatePad Air Z 8GB+256G 版 3699 元 8GB+256G / 柔光版 4299 元 12GB+256GB 版 4399 元 12GB+256G / 柔光…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:34:43.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "db61d1ef35c03a89a7b0a657",
+      "title": "2026年“中国农民丰收节”新疆主场活动在阿克苏开幕",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-24/10702726.shtml",
+      "summary": "中新网新疆温宿9月24日电 (张家伟)2026年“中国农民丰收节”新疆主场活动23日在新疆阿克苏地区温宿县开幕。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:34:24.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ef2c2e85cb213295f68ae40a",
+      "title": "从“书斋”走进“生活” 海南推进社科成果转化和普及",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/09-24/10702737.shtml",
+      "summary": "中新网海口9月24日电 (记者 张茜翼)哲学社会科学如何从“书斋”走向“生活”？记者23日从海南省新闻办公室举办的“开局起步‘十五五’”系列主题新闻发布会获悉，海南将通过打造哲学社会科学名报名刊名栏、推进社科成果转化应用、完善哲学社会科学普及网络，让社科成果更好服务决策、惠及大众。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:32:06.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1a24f67fdde6264090a8724e",
+      "title": "太空互联网离我们还有多远？“在轨AI”把算力搬上天",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/09-24/10702744.shtml",
+      "summary": "太空算力，“联”是关键",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:29:02.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "technology"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7b3de1dd1bdacd27c22ad981",
+      "title": "2026年中国农民丰收节西藏主场活动在阿里启幕",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-24/10702733.shtml",
+      "summary": "中新网拉萨9月24日电(记者 贡桑拉姆)9月23日，2026年中国农民丰收节西藏主场活动在阿里地区噶尔县加木村开幕。本次活动以“雪域丰收绘新卷 象雄振兴启新程”为主题，立足阿里高海拔牧区特色与象雄文化底蕴，以农牧民为主体，通过成果展示、农技推广、产销对接、便民服务等系列活动，集中展示西藏高原农牧业发展与乡村振兴成果。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:27:22.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "957a6bfa80382551a0c3bae8",
+      "title": "2026云南民企百强榜揭晓 规模有进效益回升",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-24/10702730.shtml",
+      "summary": "中新网昆明9月24日电 (时文枝)23日，云南省工商联(总商会)在昆明发布2026云南省民营企业100强榜单。今年云南百强民营企业入围门槛达11.7亿元，营收总额为4868.79亿元，较上年分别增长2.26%和6.98%。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:26:35.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1acdc70e48ded1a933c85d77",
+      "title": "罗永浩评小米 18 Fold “如果能接受 D 型屏，确实做得非常漂亮”，强调无商业利益合作",
+      "originalUrl": "https://www.ithome.com/1/006/533.htm",
+      "summary": "IT之家 9 月 24 日消息，罗永浩昨晚发文评小米 18 Fold：“如果能接受 D 型屏，小米 18 Fold 确实做得非常漂亮，尤其是酒红色的版本，细节没得挑，让人爱不释手。” 他谈到，酒红色做阳极氧化有一个其他颜色没有的特点，就是拿在手里旋转时，色温色相会有细微的波动变化。比如在一个特定角度下，边框呈现暖的酒红，与之衔接的 C 角或 R 角则呈现冷的酒红，这时候看上去就会很不和谐，像是颜色做错了。 他透露，自己当年做酒红色机型的时候，这个问题就没有得到百分之百的完美解…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:26:10.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech",
+        "finance"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "bbddc5ea2b3f35b6daf33b0c",
+      "title": "中国驻济州总领事馆举办国庆77周年招待会",
+      "originalUrl": "https://www.chinanews.com.cn/hr/2026/09-24/10702722.shtml",
+      "summary": "中新网首尔9月24日电 据中国驻济州总领事馆消息，当地时间9月22日，中国驻济州总领事馆举办庆祝中华人民共和国成立77周年招待会。各界代表、中资机构、侨学界代表等300多人出席。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:24:57.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5c7bb0a9394e75bef745ed70",
+      "title": "假期将至 杭州铁路公安处多举措迎客流高峰",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-24/10702731.shtml",
+      "summary": "中新网杭州9月24日电 (钱晨菲)2026年中秋节、国庆节即将到来，探亲返乡、旅游出行客流增多，铁路将迎来新一轮客流高峰。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:24:19.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "mobility"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1f76a10171f408732d654d01",
+      "title": "秘鲁驻华大使：自由贸易是实现经济社会发展的重要“引擎”",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-24/10702735.shtml",
+      "summary": "中新网北京9月24日电 (记者 官逸伦)“我们不认为贸易、合作是零和博弈。”秘鲁驻华大使卡洛斯·巴斯克斯23日在北京发表演讲并接受媒体采访，称实践证明，对秘鲁等新兴经济体而言，“自由贸易是实现经济社会发展最为重要的引擎之一”。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:23:17.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e75dfa14f6dd7a157867b464",
+      "title": "罗技 G 正式推出 PRO X3 SUPERSTRIKE 鼠标：优化平衡，135hr 续航",
+      "originalUrl": "https://www.ithome.com/1/006/532.htm",
+      "summary": "IT之家 9 月 24 日消息，Logitech G（罗技 G）在当地时间 23 日启动的 PLAY 2026 趣玩日活动上发布了一系列外设产品，本篇聚焦于其中的鼠标产品线。 此次发布会上的明星角色显然是 PRO X3 SUPERSTRIKE 鼠标。这一型号在继承上代 PRO X2 SUPERSTRIKE 的 HITS 触觉感应触发系统的同时进行了多项优化，售价 6,390 新台币（IT之家注：现汇率约合 1,351 元人民币）。 其整体模具得到优化，更轻盈、操控更平衡；搭载…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:23:02.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "24dd83c73d038119c863029f",
+      "title": "中方将在非洲和上合组织成员国分别再建10个鲁班工坊",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/09-24/10702742.shtml",
+      "summary": "中新社北京9月23日电 (记者 曾玥)中国国务院新闻办公室23日在北京举行“开局起步‘十五五’”系列主题新闻发布会。中国教育部新闻发言人、副部长王光彦在会上介绍，中方将在非洲和上合组织成员国分别再建设10个鲁班工坊，推动鲁班工坊提质升级。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:22:51.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b8b1ab71186505009d57a064",
+      "title": "“十五五”时期浙江绍兴将冲刺万亿之城",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-24/10702741.shtml",
+      "summary": "中新网绍兴9月24日电(项菁)“在2027年绍兴全市地区生产总值突破1万亿元的基础上，到2030年，地区生产总值达到1.25万亿元左右，人均地区生产总值达到发达经济体水平。”",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:22:37.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b2860a4dc3e2dc9425015090",
+      "title": "Meta 推出 349 美元无摄像头的雷朋 Audio 智能眼镜：43g 重 + 12 小时续航，还有女星 Lisa 联名眼镜等新品",
+      "originalUrl": "https://www.ithome.com/1/006/531.htm",
+      "summary": "IT之家 9 月 24 日消息，Meta 今日在 Connect 大会上发布了新一代 Ray-Ban Meta Audio 智能眼镜，并推出新一代 Ray-Ban Meta（Gen 3）及多款 Meta AI 眼镜。 同时，Meta 宣布将个人 AI 智能体 Muse 引入 AI 眼镜，用户无需拿出手机即可通过语音等方式使用相关功能。 正如其名，Ray-Ban Meta Audio 是 Meta 首款音频眼镜，重约 43 克，支持听歌、播客、通话以及免提使用 AI 助手。单次…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:19:41.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "067a516e00880778bc79de07",
+      "title": "广西启动金秋住房消费季活动 发起“好房子”品质保障倡议",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-24/10702739.shtml",
+      "summary": "中新网南宁9月24日电 (林浩 黄诗谊)9月23日，广西壮族自治区住房和城乡建设厅厅长龙杏华表示，为进一步降低民众购房成本，实现更高水平住有所居，广西将安排超财政资金实施购房补贴，并提供高校毕业生安居专项支持，部分房企也将提供专属购房优惠券，助力城市“引人、聚人、留人”。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:17:31.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "home",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5151625ddce968907a7e10f5",
+      "title": "微软 12 月 16 日停用 3 款 Microsoft 365 配套应用，个人用户需自行卸载",
+      "originalUrl": "https://www.ithome.com/1/006/530.htm",
+      "summary": "IT之家 9 月 24 日消息，科技媒体 Windows Latest 今天（9 月 24 日）发布博文，报道称微软宣布将于 2026 年 12 月 16 日停用 Calendar、People 和 Files 这三款 Microsoft 365 配套应用。 微软于 2025 年面向符合条件的 Microsoft 365 或 Office 365 许可证用户，通过 Microsoft 365 Apps 更新，强制推送上述 3 款配套应用程序，分别负责管理日历、组织联系人以及文…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:16:54.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "75123679137781228996b8ce",
+      "title": "法国国家自然历史博物馆建馆400周年纪念展开幕",
+      "originalUrl": "http://www.chinanews.com.cn/tp/hd2011/2026/09-24/1205581.shtml",
+      "summary": null,
+      "summaryProvenance": null,
+      "sourcePublishedAt": "2026-09-24T00:16:15.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3e7b5de58f35e981215f9755",
+      "title": "从纽约到昆明，中国第一座血库如何为抗战前线“输血”",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-24/10702727.shtml",
+      "summary": "中新网昆明9月24日电 题：从纽约到昆明，中国第一座血库如何为抗战前线“输血”",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:16:03.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c6be2231a47dbab16a8e2ac0",
+      "title": "国际癌病防控慈善基金会在港成立 提供近万个免费筛查名额",
+      "originalUrl": "https://www.chinanews.com.cn/ydyl/2026/09-24/10702728.shtml",
+      "summary": "中新网香港9月24日电 (张语洽)国际癌病防控慈善基金会23日在香港宣布成立。该基金会将为香港癌症高危人士提供5000个至10000个免费癌症筛查资助名额，并与共建“一带一路”国家和地区共享防癌经验及知识。“香港癌病防控大行动”与“‘一带一路’抗癌工程”亦于当日同步启动。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:14:35.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7f417b955b2f44c4a785203a",
+      "title": "超25万人报名跑2027重庆马拉松 创历年新高",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-24/10702734.shtml",
+      "summary": "中新网重庆9月24日电(记者 肖江川)记者23日从2027重庆马拉松组委会获悉，该赛事预报名人数超25万人，创历年重庆马拉松全马项目预报名新高。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:14:01.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "43ecb031c5f34b2c389e4383",
+      "title": "广西贵港携手钦州港启动江海联运港港联动",
+      "originalUrl": "https://www.chinanews.com.cn/aseaninfo/2026/09-24/10702732.shtml",
+      "summary": "中新网贵港9月24日电 (黄艳梅 徐智坚 黄远会)记者23日从广西贵港市有关部门获悉，贵港·钦州港江海联运港港联动启动仪式近日在北部湾港钦州自动化集装箱码头大榄坪南作业区举行。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:13:15.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "11d149c46e2829e5066f9b6f",
+      "title": "福建泉州发布打造国家入境旅游重点城市行动计划",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-24/10702729.shtml",
+      "summary": "中新网泉州9月24日电 (记者 孙虹)让泉州走向世界，让世界重返刺桐。在23日召开的2026年泉州市文旅经济发展大会上，世界遗产城市福建泉州正式发布打造国家入境旅游重点城市行动计划，以“一个核心目标、两份政策赋能、三项国际推广、四大全球协作”的工作体系，全方位激活入境旅游发展动能。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:12:37.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "travel",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "dac43f6d14db72824640794f",
+      "title": "新华图讯丨习近平抵达华盛顿对美国进行国事访问",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/09-24/10702721.shtml",
+      "summary": "当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，应美国总统特朗普邀请，对美国进行国事访问。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:08:40.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "934b027c7b20cee0167e9c6f",
+      "title": "微软调整 Win11 策略：PDF、图片恢复自动预览，HTML 文件仍需额外确认",
+      "originalUrl": "https://www.ithome.com/1/006/529.htm",
+      "summary": "IT之家 9 月 24 日消息，据 Neowin 今日报道，微软在 Windows 11 最新预览版本（KB5124010）中恢复了文件资源管理器对已下载文件的自动预览功能，但 HTML 文件仍需要额外确认后才能显示。 微软此前曾于 2025 年 10 月通过 KB5070960 调整文件资源管理器行为，禁止预览带有“来自 Web 的标记”（Mark of the Web）的文件。这一机制用于识别从互联网获取的文件，因此当时受影响的是所有带有该标记的文件类型。 此次限制调整与…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:05:58.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3a99f7f9b4333d47d362ddf5",
+      "title": "习近平抵达华盛顿对美国进行国事访问",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/09-24/10702720.shtml",
+      "summary": "新华社华盛顿9月23日电(记者杨依军#8195;宿亮)当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，应美国总统特朗普邀请，对美国进行国事访问。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:04:08.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "41a2ad5ed18ea89684df7108",
+      "title": "报告称全球零售消费品行业加速智能化升级",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-24/10702723.shtml",
+      "summary": "中新网北京9月24日电 (记者 张素)近日发布的一份报告认为，生成式人工智能(AI)迅速融入消费者购物旅程，企业正加大对数字化技术的预算投入，全球零售消费品行业加速智能化升级。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-24T00:03:58.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5c9611dfb531d96c731e8b80",
+      "title": "腾讯 QClaw 微信远程办公 AI 助手宣布 12 月 24 日停运，即日起停止新用户注册",
+      "originalUrl": "https://www.ithome.com/1/006/528.htm",
+      "summary": "IT之家 9 月 24 日消息，腾讯 QClaw 微信远程办公 AI 助手今日发布公告称，因业务发展调整，QClaw 将于 2026 年 12 月 24 日 00:00 正式停止运营。 停止运营安排 2026 年 9 月 24 日 自公告之日起，停止新用户注册，停止订阅服务购买与续费（已开通自动续费的用户将自动停止续费扣款，无需手动操作取消）。 停止运营前，已注册用户、已购买订阅服务的用户均仍可正常使用服务；用户账号内的已有积分有效期不因本次停运调整，可在原有效期内继续使用，…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:57:43.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b03fcacd72ce6eebe6c64983",
+      "title": "广东健儿高晓彬夺得本届亚运会武术项目男子刀术棍术全能冠军",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-24/10702718.shtml",
+      "summary": "中新网广州9月24日电 (记者 张璐)记者23日从广东省体育局获悉，在当日举行的第20届亚运会武术项目男子刀术棍术全能决赛中，广东健儿高晓彬发挥出色，夺得冠军，这也是本届亚运会广东运动员获得的第四枚金牌。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:57:07.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c09abba98a4dbb9ba7ac52cc",
+      "title": "消息称苹果 20 周年版 iPhone 屏幕采用无边四曲面设计，暂缓部署 CoE 和 LTPO+ 技术",
+      "originalUrl": "https://www.ithome.com/1/006/527.htm",
+      "summary": "IT之家 9 月 24 日消息，韩媒 ETNews 昨日（9 月 23 日）发布博文，报道称在 20 周年版 iPhone 上，苹果公司预估推迟部署 CoE 和 LTPO+ 两项显示技术，不过依然会采用无边四曲面弯折屏幕方案。 IT之家援引博文介绍：CoE 是 Color Filter on Encapsulation 的缩写，直译为封装彩色滤光片，指将显示屏所需的彩色滤光结构整合至封装层附近或面板内部，可减少部分传统光学结构占用的空间。 而 LTPO+ 是指低温多晶氧化物增…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:56:28.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "cb57198d1f088cb52674d300",
+      "title": "广东建成63个郊野公园、山地公园 加速生态价值转化",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-24/10702715.shtml",
+      "summary": "中新网中山9月24日电 题：广东建成63个郊野公园、山地公园 加速生态价值转化",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:56:11.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ea7cec023643daa95b365a88",
+      "title": "迪士尼流媒体四年内第四次涨价：Disney+、Hulu 最高涨 2.5 美元，ESPN 捆绑包同步跟涨",
+      "originalUrl": "https://www.ithome.com/1/006/526.htm",
+      "summary": "IT之家 9 月 24 日消息，迪士尼当地时间 9 月 23 日宣布上调美国市场 Disney+ 和 Hulu 多项订阅价格，这是该公司继 2025 年 9 月涨价后再次调整流媒体资费。 此次调价对新订阅用户即时生效，现有订阅用户将在 10 月 21 日或之后的下一轮计费周期开始适用新价格。 此次涨幅最大的是无广告的 Premium 档位。Disney+ 和 Hulu 的月费均从 18.99 美元（现汇率约合 127.5 元人民币）上调至 21.49 美元（现汇率约合 144…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:55:26.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "39abadd1e2bbf89a53d17004",
+      "title": "民洽会观察：财政资金“入股”，民企场景“开闸”",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-24/10702716.shtml",
+      "summary": "中新网天津9月24日电 题：民洽会观察：财政资金“入股”，民企场景“开闸”",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:55:15.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5b10710d8f9953aa12a6d3c4",
+      "title": "IT早报 0924：任正非重申华为不造车；国行苹果 iOS 27.2 Beta 版可屏蔽“摇一摇”广告；5999 元起小米 18 Pro 系列发布；闲鱼称涉未成年淫秽系不实消息...",
+      "originalUrl": "https://www.ithome.com/1/006/525.htm",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 9 月 24 日星期四，今天的重要科技资讯有： 1. 任正非重申华为不造车，但是很乐意发挥在智能化方面的特长帮助造好车 奕境汽车品牌总经理曾清林 9 月 23 日发文，回忆了自己 9 月 22 日拜访华为创始人任正非的经历。据其回忆，任正非表示，东风有非常好的造车底蕴和基础，要充分发挥这些优势。华为不造车，但是很乐意发挥华为在智能化方面的特长，帮助东风造好车。>> 查看详情 2. 苹果 iOS 27.2 Beta 2 针对“摇一…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:52:36.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "66d4c1471c52aef4975e157a",
+      "title": "探路医学人工智能，浙江建起“医疗Token工厂”",
+      "originalUrl": "https://www.chinanews.com.cn/jk/2026/09-24/10702714.shtml",
+      "summary": "中新网杭州9月24日电(张煜欢)当医疗人工智能加速走进临床，数据安全、模型调用、能力标准化等难题成为产业落地堵点。23日，在浙江杭州举办的第五届全球数字贸易博览会数字医疗健康产业对接活动上，浙江正式发布“医疗Token工厂”1.0版本，尝试以新型基础设施破局医疗AI产业化痛点，为行业探索算模数一体化的可行路径。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:52:09.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "technology",
+        "health"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f4487543b63be6a3f78484c3",
+      "title": "中国选手邓志玮夺得亚运会赛艇男子单人双桨金牌",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-24/10702719.shtml",
+      "summary": "9月24日，名古屋亚运会赛艇男子单人双桨决赛，中国选手邓志玮夺得金牌。中国队获得本届亚运会赛艇项目首枚金牌。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:50:47.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "543f62b609ac68571818426f",
+      "title": "Anthropic 宣布成立生命科学团队和实验室，Claude 自主发现新型酶系统",
+      "originalUrl": "https://www.ithome.com/1/006/524.htm",
+      "summary": "IT之家 9 月 24 日消息，当地时间 9 月 23 日，Anthropic 宣布成立生命科学研究团队及自有分子生物学实验室，并公布了一项由 Claude 参与生物学研究取得的早期成果。 在人类科学家仅提供宏观研究方向的情况下，Claude 自主发现了一种此前未被表征的酶系统，Anthropic 将其命名为阵列关联逆转录酶（Array-associated Reverse Transcriptases，ART）。 该发现来自 Anthropic 旧金山湾区实验室，是其生命科…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:45:52.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a1346c8a13aa4a8aac371942",
+      "title": "2026 年内首次上调：苹果 Apple Card 储蓄账户利率涨至 3.5%",
+      "originalUrl": "https://www.ithome.com/1/006/523.htm",
+      "summary": "IT之家 9 月 24 日消息，科技媒体 AppleInsider 昨日（9 月 23 日）发布博文，报道称苹果上调 Apple Card 储蓄账户的利率，从 3.4% 上调至 3.5%，此次调整发生在该产品 2026 年两次降息之后，成为年内首次上调。 IT之家援引博文介绍，附上苹果公司相关利率变动时间线如下： 2023 年 4 月：产品首发利率 4.15% 2023 年 12 月，年利率上调至 4.25% 2024 年 1 月初，年利率上调至 4.35% 2024 年 1…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:40:11.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "80d8da8c5bee730468be7065",
+      "title": "苹果最强家庭影院方案：tvOS 27.2 Beta 2 可配对 4 台 HomePod",
+      "originalUrl": "https://www.ithome.com/1/006/522.htm",
+      "summary": "IT之家 9 月 24 日消息，消息源 @Flatpanels 昨日（9 月 23 日）在 X 平台发布推文，指出在 tvOS 27.2 Beta 2 更新中，苹果正在测试无线家庭影院体验，支持 Apple TV 4K 同时无线配对 4 台 HomePod（当前最多支持 2 台）。 消息源分享的 Home 应用截图显示，Apple TV 4K 升级 tvOS 27.2 Beta 2 更新后，可以配对连接 2 台全尺寸 HomePod 和 2 台 HomePod mini，实现…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:32:43.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "15b7dfdd7cd7d4cb28c9d5ec",
+      "title": "OpenAI CEO 奥尔特曼联合国演讲：AI 可能走向文艺复兴，也可能带来工业革命式动荡",
+      "originalUrl": "https://www.ithome.com/1/006/521.htm",
+      "summary": "IT之家 9 月 24 日消息，当地时间 9 月 23 日，OpenAI CEO 萨姆 · 奥尔特曼（Sam Altman）在联合国安理会就 AI 议题发表讲话，讨论 AI 发展带来的机遇与风险，并呼吁加强国际合作，建立针对前沿 AI 系统的能力评估、风险评估、安全防护和人类监督标准。 他表示，随着 AI 能力的快速提升，相关技术的潜在收益和风险都逐渐变得更加直接且显现。他提出，AI 可能更像一场充满创造力与发现的文艺复兴，也可能像一场引发动荡与混乱的工业革命。 奥尔特曼表示…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:31:33.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d8c028971fb8f826797855a1",
+      "title": "福建永安：稻香环古厝",
+      "originalUrl": "https://www.chinanews.com.cn/tp/2026/09-24/10702702.shtml",
+      "summary": "9月23日，中国传统村落福建三明永安市新西村，该村建筑依山就势、逐水而居，稻田环绕古民居，构成了一幅如诗如画的秋日古村图景。(无人机照片)中新社记者 张斌 摄 9月23日，中国传统村落福建三明永安市新西村，该村建筑依山就势、逐水而居，稻田环绕古民居，构成了一幅如诗如画的秋日古村图景。图为古民居一角。(无人机照片)中新社记者 张斌 摄 9月23日，中国传统村落福建三明永安市新西村，该村建筑依山就势、逐水而居，稻田环绕古民居，构成了一幅如诗如画的秋日古村图景。(无人机照片)中新社…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:28:06.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8364264288b7068dd37acdfc",
+      "title": "第五届全球数贸会举办 全球客商齐聚浙江共寻商机",
+      "originalUrl": "https://www.chinanews.com.cn/tp/2026/09-24/10702695.shtml",
+      "summary": "9月23日，国际客商点赞参展机器人。中新社记者 孙杨洋 摄 9月23日，国际客商拍摄咖啡机器人制作的咖啡。中新社记者 孙杨洋 摄 9月23日，参展商向国际客商介绍泳池清洁机器人。中新社记者 孙杨洋 摄 9月23日，巨型机器人吸引参展者拍照打卡。中新社记者 孙杨洋 摄 9月23日，数贸会丝路电商展区吸引观展者络绎不绝。中新社记者 孙杨洋 摄 9月23日，国际客商试戴VR眼镜。中新社记者 孙杨洋 摄 9月23日，人工智能展区吸引诸多客商参观。中新社记者 孙杨洋 摄 9月23日，国…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:26:42.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8f2803c2b42ddcd40b799fc5",
+      "title": "天气转凉 双节外出要守好“三关” 国家卫健委特意提醒这几件事→",
+      "originalUrl": "https://www.chinanews.com.cn/jk/2026/09-24/10702713.shtml",
+      "summary": "秋分后天气转凉，中秋国庆假期外出、聚会增多。9月23日，国家卫生健康委新闻发布会上的这些健康提醒，帮你划好重点了↓",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:25:40.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "96f14dc7a2a7def863493cc5",
+      "title": "苹果推送 watchOS 27.0.1 更新：修复 Apple Watch Series 12/Ultra 4 随机重启故障",
+      "originalUrl": "https://www.ithome.com/1/006/520.htm",
+      "summary": "IT之家 9 月 24 日消息，科技媒体 AppleInsider 昨日（9 月 23 日）发布博文，报道称苹果公司面向 Apple Watch Series 12 和 Apple Watch Ultra 4 智能手表，紧急推送 watchOS 27.0.1 更新（24R365），修复随机重启故障。 图源：@吃螃蟹的快乐 IT之家此前报道，部分刚入手 Apple Watch Ultra 4 以及 Apple Watch Series 12 的用户反馈，设备会出现意外重启的情况…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:21:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f36a50f239361fee0eb5c4a9",
+      "title": "介绍中国文化要从“为什么有意思”讲起",
+      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-24/10702712.shtml",
+      "summary": "在“文化遗产与文艺创作”平行论坛上，围绕“文化遗产的创造性转化与艺术性重生”这一主题，来自文学、影视、文博、美术、传媒等领域的约260位中外嘉宾展开交流。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-culture",
+        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:18:53.000Z",
+      "timeIssue": null,
+      "channels": [
+        "entertainment"
+      ],
+      "sourceIds": [
+        "chinanews-culture"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e12282046409fce793fbc651",
+      "title": "食品经常放到过期？88.2%受访者有过此情况",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-24/10702710.shtml",
+      "summary": "打开冰箱，总有些食品被遗忘在角落；整理房间时，常会翻出几样已经过期的“存货”。买的时候总觉得很快就会吃掉，可一不小心，它们就悄悄走到了保质期尽头。近日，中国青年报社社会调查中心联合问卷网(wenjuan.com)发布的一项1000名受访者参与的调查显示，过去一年，88.2%的受访者家中有过了保质期但未食用的食品。94.1%的受访者认为养成常看食品保质期、减少浪费的习惯重要。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:07:57.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "food"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4e15063c9e70ca65ef096200",
+      "title": "苹果 HomePod 运行 Siri AI 交互体验曝光：白 / 蓝 / 橙主色调指示灯",
+      "originalUrl": "https://www.ithome.com/1/006/519.htm",
+      "summary": "IT之家 9 月 24 日消息，消息源 @itspdfu 今天（9 月 24 日）在 X 平台发布推文，挖掘 audioOS 27 系统，发现了适用于 HomePod 的 Siri AI 交互体验。 IT之家注：audioOS 并非苹果官方叫法，是指在苹果 HomePod 上运行的系统软件版本名称。泄露内容还指向代号 Linwood 的系统，被描述为 HomePod 上 Siri AI 的基础组件。 推文中消息源还分享了一段演示视频，展示了 HomePod 运行新版 Siri…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T23:05:20.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ce1c8c78acb86612e86c6497",
+      "title": "Animal use in veterinary vaccines quality control falls to lowest levels in a decade",
+      "originalUrl": "https://www.gov.uk/government/news/animal-use-in-veterinary-vaccines-quality-control-falls-to-lowest-levels-in-a-decade",
+      "sourcePublishedAt": "2026-09-24T00:01:00+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "Far fewer animals are being used to release batches of veterinary vaccines than a decade ago, new figures published today (Thursday 24 September) by the Veterinary Medicines Directorate (VMD) show. The average number of animals needed to ch",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>Far fewer animals are being used to release batches of veterinary vaccines than a decade ago, new figures published today (Thursday 24 September) by the Veterinary Medicines Directorate (VMD) show.</p>\n\n<p>The average number of animals needed to check the quality, safety and effectiveness of a single batch of animal vaccine fell by 41% - from 29 animals in 2013 to 17 in 2024.</p>\n\n<p>Overall animal use fell by 29% over the same period, despite an increase in the number of vaccines being released.</p>\n\n<p>The fall has been driven by advances in science and changes to testing requirements, which mean animal tests can increasingly be replaced with alternative measures, while continuing to make sure farmers, vets and pet owners have access to safe and effective vaccines that protect animals from disease.</p>\n\n<p>The new report shows that removing the routine Target Animal Batch Safety Test in 2013 was a major turning point, cutting the number of animals used by thousands each year.</p>\n\n<p>The report found that horses, cats, dogs, turkeys and pigeons are no longer needed for routine quality control testing, while newly authorised vaccines are increasingly using animal-free approaches.</p>\n\n<p>The proportion of veterinary vaccines released onto the UK market that require any animal testing as part of quality control has also fallen sharply, from 74% in 2013 to 34% in 2024.</p>\n\n<p>The progress supports the government’s commitment to reduce and ultimately replace the use of animals in science wherever possible, while maintaining access to vaccines that protect animal health, help prevent diseases that can spread to people and support farmers and rural communities.</p>\n\n<h3>Defra Minister Baroness Hayman, Minister for Biosecurity and Trade, said:</h3>\n\n<blockquote>\n  <p>This is real progress for animal welfare, we are using far fewer animals to make sure veterinary vaccines are safe and effective, which is welcome news for animal lovers across the country, including myself.</p>\n\n  <p>Better science means we can reduce animal testing, while still giving farmers, vets and pet owners the vaccines they rely on to keep animals healthy and stop disease spreading.</p>\n</blockquote>\n\n<h3>Abi Seager, Veterinary Medicine Directorate Chief Executive Officer said:</h3>\n\n<blockquote>\n  <p>We support the government’s ambition to phase out the use of animals in scientific testing and are proud to contribute towards the delivery of the UK’s strategy to replacing animals in science. This report shows twelve years of sustained, measurable progress in reducing animal testing within the veterinary medicines industry.</p>\n\n  <p>We are committed to driving further reductions, and we will continue working with the animal health sector and our partners to replace animal-based testing wherever the science makes it possible.</p>\n</blockquote>\n\n<p>Animal testing has not yet been replaced for every type of veterinary vaccine. For some vaccines, including certain clostridial and fish vaccines, developing alternatives that do not use animals remains scientifically and technically challenging.</p>\n\n<p>Work is continuing with scientists, regulators and the veterinary medicines industry to develop and approve new approaches so that animal use can be reduced further without compromising the safety, quality or effectiveness of veterinary vaccines.</p>\n\n<p>This announcement follows the publication of the UK government’s published its <a href=\"https://www.gov.uk/government/publications/replacing-animals-in-science-strategy/replacing-animals-in-science-a-strategy-to-support-the-development-validation-and-uptake-of-alternative-methods\">strategy for replacing animals in science</a> in 2025, setting out a long-term commitment to phasing out animal testing.</p>\n</div>",
+      "bodyText": "Far fewer animals are being used to release batches of veterinary vaccines than a decade ago, new figures published today (Thursday 24 September) by the Veterinary Medicines Directorate (VMD) show.\n\nThe average number of animals needed to check the quality, safety and effectiveness of a single batch of animal vaccine fell by 41% - from 29 animals in 2013 to 17 in 2024.\n\nOverall animal use fell by 29% over the same period, despite an increase in the number of vaccines being released.\n\nThe fall has been driven by advances in science and changes to testing requirements, which mean animal tests can increasingly be replaced with alternative measures, while continuing to make sure farmers, vets and pet owners have access to safe and effective vaccines that protect animals from disease.\n\nThe new report shows that removing the routine Target Animal Batch Safety Test in 2013 was a major turning point, cutting the number of animals used by thousands each year.\n\nThe report found that horses, cats, dogs, turkeys and pigeons are no longer needed for routine quality control testing, while newly authorised vaccines are increasingly using animal-free approaches.\n\nThe proportion of veterinary vaccines released onto the UK market that require any animal testing as part of quality control has also fallen sharply, from 74% in 2013 to 34% in 2024.\n\nThe progress supports the government’s commitment to reduce and ultimately replace the use of animals in science wherever possible, while maintaining access to vaccines that protect animal health, help prevent diseases that can spread to people and support farmers and rural communities.\n\nDefra Minister Baroness Hayman, Minister for Biosecurity and Trade, said:\n\n\n  This is real progress for animal welfare, we are using far fewer animals to make sure veterinary vaccines are safe and effective, which is welcome news for animal lovers across the country, including myself.\n\n  Better science means we can reduce animal testing, while still giving farmers, vets and pet owners the vaccines they rely on to keep animals healthy and stop disease spreading.\n\n\nAbi Seager, Veterinary Medicine Directorate Chief Executive Officer said:\n\n\n  We support the government’s ambition to phase out the use of animals in scientific testing and are proud to contribute towards the delivery of the UK’s strategy to replacing animals in science. This report shows twelve years of sustained, measurable progress in reducing animal testing within the veterinary medicines industry.\n\n  We are committed to driving further reductions, and we will continue working with the animal health sector and our partners to replace animal-based testing wherever the science makes it possible.\n\n\nAnimal testing has not yet been replaced for every type of veterinary vaccine. For some vaccines, including certain clostridial and fish vaccines, developing alternatives that do not use animals remains scientifically and technically challenging.\n\nWork is continuing with scientists, regulators and the veterinary medicines industry to develop and approve new approaches so that animal use can be reduced further without compromising the safety, quality or effectiveness of veterinary vaccines.\n\nThis announcement follows the publication of the UK government’s published its strategy for replacing animals in science in 2025, setting out a long-term commitment to phasing out animal testing.\n",
+      "bodyHash": "9bc8e5de92870d3c8f43a84d9effbb5f2abfaac27a6c91e448005e759f729120",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/animal-use-in-veterinary-vaccines-quality-control-falls-to-lowest-levels-in-a-decade",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Department for Environment, Food & Rural Affairs",
+          "Veterinary Medicines Directorate"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-09-24T00:01:00+01:00",
+        "sourceVersion": "bf7d71ab-df5a-448c-a9d6-d739c49df486"
+      },
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5be4e93454688d83a2fb5a95",
+      "title": "东莞“锂电池出海一件事”启动 率先实现海关海事数据互认",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-24/10702705.shtml",
+      "summary": "中新网东莞9月24日电 (许青青 赵辉)黄埔海关23日介绍，莞穗锂电池海运出口“一箱制”合作暨东莞“锂电池出海一件事”签约启动仪式22日在东莞市举行。东莞海事局分别与广州海事局、黄埔海关签署合作备忘录，在全国率先实现锂电池出口领域海关与海事部门监管数据共享互认，标志着原“锂电池出口一件事”改革正式升级扩容，为东莞锂电产业打通出海“快速通道”。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T22:57:34.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4e4976cbff97e3c2d52c3c6c",
+      "title": "PBKreviews 拆解三星 Galaxy S26 FE 手机：镜头盖和电池更易维护",
+      "originalUrl": "https://www.ithome.com/1/006/518.htm",
+      "summary": "IT之家 9 月 24 日消息，YouTube 频道 PBKreviews 于 9 月 22 日发布视频，分享了拆解三星 Galaxy S26 FE 手机过程，并给出 9/10 的可维修性评分。 拆解显示，Galaxy S26 FE 的摄像头镜头盖可独立替换，维修人员无需像以前那样拆开整部手机，就能更换受损镜头盖。该设计将镜头盖列为可从外部维修流程中处理的部件。IT之家附上相关视频如下： 电池仍通过带黏性的固定结构安装在机身内部。三星在电池上设置拉片，拆卸时可借助拉片分离电池…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T22:54:33.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "70b6ae9b344e3920c6f4497a",
+      "title": "国家图书馆“四季童读”2026年秋季卷发布",
+      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-24/10702703.shtml",
+      "summary": "中新网西安9月24日电(记者 阿琳娜)国家图书馆“四季童读”2026年秋季卷发布会暨“书香校园行”项目启动仪式23日在陕西省图书馆举行。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-culture",
+        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T22:54:23.000Z",
+      "timeIssue": null,
+      "channels": [
+        "entertainment"
+      ],
+      "sourceIds": [
+        "chinanews-culture"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b008faef762282079f3cdd6f",
+      "title": "微软 Surface Pro 12 与 Laptop 13 升级高通骁龙 X2 Plus 处理器，基础内存从 8GB 提升至 16GB 且价格大涨",
+      "originalUrl": "https://www.ithome.com/1/006/517.htm",
+      "summary": "IT之家 9 月 24 日消息，当地时间 9 月 23 日，微软在高通 2026 骁龙峰会上发布了新一代 Surface Pro 12 英寸和 Surface Laptop 13 英寸新品。 两款产品均搭载高通骁龙 X2 Plus 处理器，同时推出了一款集成触觉反馈的 Surface Mouse 鼠标。 新品将于 10 月 13 日起在部分市场上市。Surface Pro 12 英寸起售价从去年的 799.99 美元（现汇率约合 5,371 元人民币）涨至 1,149.99 …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T22:48:09.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "73b454318108b0211c271fc3",
+      "title": "房地产市场交易总量趋于稳定",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-24/10702701.shtml",
+      "summary": "国家统计局日前公布8月份商品住宅销售价格变动情况统计数据和1至8月份全国房地产市场基本情况。国家统计局城市司高级统计师杨彩芳介绍，8月份，70个大中城市中，一线城市商品住宅销售价格环比上涨，二三线城市环比降幅总体收窄，一二三线城市同比降幅继续收窄。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T22:43:43.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "home"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "272fbd91009d0d7d30233f78",
+      "title": "高通发布第二代骁龙音频平台至尊版：AI 能力翻倍、功耗降低 40%",
+      "originalUrl": "https://www.ithome.com/1/006/516.htm",
+      "summary": "IT之家 9 月 24 日消息，在夏威夷举办的 2026 骁龙峰会上，高通在宣布第六代骁龙 8 至尊版和第六代骁龙 8 超级至尊版芯片后，今天发布第二代骁龙音频平台至尊版。 这也是高通首款融合优质音频、语音技术、终端侧智能与连接能力的音频平台，助力音频可穿戴设备开启智能体全新体验。 该平台整合骁龙畅听技术、终端侧 AI、安全云连接智能以及超低功耗 Wi‑Fi 6E，能够主动感知、理解用户需求并做出无缝响应，在保留高品质音频体验的基础上，带来更加直观个性化的交互体验。 音频体验…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T22:41:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e91b587fee1ed4dc1ae8c0ed",
+      "title": "已证实首例：澳大利亚政府网站遭 OpenAI 智能体入侵",
+      "originalUrl": "https://www.ithome.com/1/006/515.htm",
+      "summary": "9 月 23 日，据路透社报道，澳大利亚总理安东尼 · 阿尔巴尼斯（Anthony Albanese）表示，OpenAI 开发的一款 AI 智能体在 6 月未经授权侵入了澳大利亚政府网站，访问了公共和非公共文件。这是已知的首例 AI 入侵政府网站事件。 这起入侵事件将成为美国以外最引人注目的 AI 智能体访问外部系统的事件之一，并可能进一步加剧外界对 AI 开发者控制技术能力的担忧。 阿尔巴尼斯在纽约对记者表示，事件涉及 OpenAI 智能体未经授权访问由 Services …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T22:39:37.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "bd1a2e3cc8007265dd155472",
+      "title": "黄仁勋对 AI 公司放话：要求监管就不应获得反垄断豁免",
+      "originalUrl": "https://www.ithome.com/1/006/514.htm",
+      "summary": "北京时间 9 月 24 日，据路透社报道，英伟达 CEO 黄仁勋 (Jensen Huang) 认为，AI 公司不应获得反垄断法或责任法的豁免。 在周三播出的《纽约时报》播客节目中，黄仁勋接受了近两个小时的采访，就 OpenAI 智能体入侵 Hugging Face 一事进行了广泛讨论。Hugging Face 是开源 AI 软件中心，在本月被英伟达以 130 亿美元收购。 黄仁勋一直反对对 AI 安全进行全面监管，即便 OpenAI 和 Anthropic 等实验室呼吁进行…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T22:36:38.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "260dd3dea6ab94f8868d6d39",
+      "title": "数智时代下，全民阅读何以“如阅而至”？",
+      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-24/10702694.shtml",
+      "summary": "中新网兰州9月24日电 (记者 丁思)“图书讲座+互动体验”“阅读开放麦”“线下图书创意展览”……2026年阅读推广理论研讨会23日在兰州举行，来自全国各地公共图书馆、高校图书馆及图情机构的代表、专家学者齐聚甘肃省图书馆，分享所在地推广全民阅读的新方式、新路径。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-culture",
+        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T22:29:34.000Z",
+      "timeIssue": null,
+      "channels": [
+        "entertainment"
+      ],
+      "sourceIds": [
+        "chinanews-culture"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f54b60216d2ebd4a3179d022",
+      "title": "全球数字贸易博览会国际物流供应链活动浙江嘉兴举行",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-24/10702692.shtml",
+      "summary": "中新网嘉兴9月24日电(胡丰盛 赵倩)23日，第五届全球数字贸易博览会——国际物流供应链主题活动在浙江嘉兴拉开帷幕。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T22:28:42.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f35f328cff5c2e1ddd6b576d",
+      "title": "聚焦三大维度 浙江产教协同共育数字贸易人才",
+      "originalUrl": "https://www.chinanews.com.cn/edu/2026/09-24/10702693.shtml",
+      "summary": "中新网杭州9月24日电(奚金燕)9月23日，数字贸易两业融合与国际校企合作创新对接活动在杭州举办。本次对接活动是第五届全球数字贸易博览会重要配套活动之一，也是商务部、教育部、人社部联合举办的“数贸汇英才”浙江站活动。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-edu",
+        "feedUrl": "https://www.chinanews.com.cn/rss/edu.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T22:26:10.000Z",
+      "timeIssue": null,
+      "channels": [
+        "education",
+        "career",
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-edu"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6a26407326775bde12cfbd52",
+      "title": "青海双寨物流基地铁路改造收官 年装卸能力突破500万吨",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-24/10702691.shtml",
+      "summary": "中新网西宁9月24日电 (祁增蓓马福贵应永平)9月23日凌晨，青海双寨物流基地扩能改造关键工程顺利完工，17组道岔及轨件更新施工通过信号联锁试验圆满收官，标志着这座青海唯一的铁路二级物流基地完成核心设施提质升级。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T22:22:26.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "mobility"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "2465814b32870e2e07e562d0",
+      "title": "广州摘得2026世界智慧城市大奖·一带一路“治理大奖”",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-24/10702689.shtml",
+      "summary": "中新网广州9月24日电 (记者 蔡敏婕)记者23日从广州市政务服务和数据管理局获悉，当天，在全球智慧城市大会举办的世界智慧城市大奖·一带一路颁奖典礼上，广州获得一带一路区域“治理大奖”。这是继2025年获得世界智慧城市大奖·中国“城市大奖”及全球“能源与环境大奖”后，广州在智慧城市领域获得的又一国际殊荣。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T22:21:30.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "832048aaa128af41794d3708",
+      "title": "杭州满觉陇桂花季启幕 近7000株桂树迎客",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-24/10702688.shtml",
+      "summary": "中新网杭州9月24日电(曹丹)秋风乍起，金粟纷飞，香飘十里，“满陇桂雨”早已成为浙江杭州西湖群山中最动人的秋日印记。23日，2026满觉陇·杭州桂花季在满觉陇村开幕。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-23T22:18:15.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-24T00:51:19.877Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
+      "updatedAt": "2026-09-24T00:51:19.877Z",
+      "version": 1,
+      "history": []
+    },
     {
       "id": "8b193a0557ad5b5860f8f5be",
       "title": "宁波网球公开赛发布单打入围阵容 5位世界前十选手参赛",
@@ -23,7 +1768,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-23T22:14:31.176Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T22:14:31.176Z",
       "version": 1,
       "history": []
@@ -35,8 +1780,8 @@
       "summary": "随着中秋国庆双节叠加，节日消费热潮也双倍激发，各地特色果品、水产批发市场迎来采购高峰。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-23T22:08:19.000Z",
@@ -49,7 +1794,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T22:14:31.176Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T22:14:31.176Z",
       "version": 1,
       "history": []
@@ -82,8 +1827,8 @@
       "summary": "大一新生正式上课已有一段时间，他们对专业的认知，正从志愿表上的一个名字，逐渐变为课堂和作业里的真实体验。对于一些此前对专业了解不多的大一新生来说，这种感觉像是打开了专业“盲盒”。对此，他们的感受如何？",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-23T21:57:16.000Z",
@@ -97,7 +1842,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T22:14:31.176Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T22:14:31.176Z",
       "version": 1,
       "history": []
@@ -164,7 +1909,7 @@
         "sourceVersion": "79d94bda-7a06-4d34-9531-f4a71ce6e31c"
       },
       "firstSeenAt": "2026-09-23T22:14:31.176Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T22:14:31.176Z",
       "version": 1,
       "history": []
@@ -186,7 +1931,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T22:14:31.176Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T22:14:31.176Z",
       "version": 1,
       "history": []
@@ -198,8 +1943,8 @@
       "summary": "【说案】帮老板搬东西受伤，算不算工伤？",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-23T21:03:45.000Z",
@@ -212,7 +1957,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T22:14:31.176Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T22:14:31.176Z",
       "version": 1,
       "history": []
@@ -224,8 +1969,8 @@
       "summary": "医院职工食堂月饼走红，大量商家跟风仿冒",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-23T21:00:13.000Z",
@@ -240,7 +1985,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T22:14:31.176Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T22:14:31.176Z",
       "version": 1,
       "history": []
@@ -277,8 +2022,8 @@
       "summary": "中新社东京9月23日电 (记者 朱晨曦)爱知·名古屋亚运会游泳比赛23日在东京水上运动中心继续进行。游泳项目当日决出7枚金牌，中国游泳队再夺6金3银。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-23T17:36:45.000Z",
@@ -292,7 +2037,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T22:14:31.176Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T22:14:31.176Z",
       "version": 1,
       "history": []
@@ -304,8 +2049,8 @@
       "summary": "中新社西安9月23日电 (记者 张一辰 杨英琦 党田野)23日晚，第十三届丝绸之路国际电影节闭幕式暨颁奖典礼在西安举行。颁奖典礼上，“金丝路奖”评委会大奖、最佳影片奖、最佳导演奖等十大奖项揭晓，导演谢飞获本届电影节终身成就奖。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-culture",
+        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-23T17:35:59.000Z",
@@ -319,7 +2064,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T19:00:25.927Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T19:00:25.927Z",
       "version": 1,
       "history": []
@@ -331,8 +2076,8 @@
       "summary": "中新社日本名古屋9月24日电 (记者 金旭)在当地时间23日进行的爱知·名古屋亚运会竞技体操女子团体决赛中，由柯沁沁、张清颖、邱祺缘、张怡涵、杜思雨组成的中国女团以166.462分的总成绩夺得金牌，实现了自1974年以来在亚运会该项目上的14连冠。日本队和朝鲜队分获银牌和铜牌。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-23T17:35:53.000Z",
@@ -346,7 +2091,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T19:00:25.927Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T19:00:25.927Z",
       "version": 1,
       "history": []
@@ -358,8 +2103,8 @@
       "summary": "中新社日本名古屋9月23日电 当地时间23日，爱知·名古屋亚运会共产生33枚金牌。游泳赛场，中国队单日再揽6金，张展硕打破一项亚洲纪录。体操赛场，中国女团力压东道主日本队夺金，实现该项目14连冠。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-23T16:42:48.000Z",
@@ -373,7 +2118,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T19:00:25.927Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T19:00:25.927Z",
       "version": 1,
       "history": []
@@ -410,8 +2155,8 @@
       "summary": "明明搜的是自家产品，跳出来的却是竞争对手的广告？这种“李鬼”变“李逵”的闹剧，如今有了新花样。近日，最高人民法院发布了一起反不正当竞争典型案例，有公司利用AI批量炮制虚假测评文章，专门蹭同行热度，把潜在客户硬生生“拐”到自家店里。这种靠AI技术“搭便车”、截和流量的做法，不仅让消费者晕头转向，还可能涉嫌侵犯他人合法权益、踩法律红线。技术不是挡箭牌，一起来看案件始末。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-23T16:18:13.000Z",
@@ -425,7 +2170,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T19:00:25.927Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T19:00:25.927Z",
       "version": 1,
       "history": []
@@ -493,7 +2238,7 @@
         "sourceVersion": "141e0f19-5911-4a03-b2cb-cae7382499c0"
       },
       "firstSeenAt": "2026-09-23T19:00:25.927Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T19:00:25.927Z",
       "version": 1,
       "history": []
@@ -535,7 +2280,7 @@
         "sourceVersion": "051c0d41-4b24-46a7-b3f5-be28f8159e81"
       },
       "firstSeenAt": "2026-09-23T19:00:25.927Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T19:00:25.927Z",
       "version": 1,
       "history": []
@@ -547,8 +2292,8 @@
       "summary": "22年前，51岁的美国教师池欧女士通过中国教育国际交流协会与美中关系全国委员会合作开展的中美教师交换项目来到洛阳市第二外国语学校任教。一年期满后，她主动提出留下来长期任教，把人生中12年的时光留在了中国。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-23T16:01:42.000Z",
@@ -562,7 +2307,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T19:00:25.927Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T19:00:25.927Z",
       "version": 1,
       "history": []
@@ -712,7 +2457,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T19:00:25.927Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T19:00:25.927Z",
       "version": 1,
       "history": []
@@ -737,7 +2482,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T19:00:25.927Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T19:00:25.927Z",
       "version": 1,
       "history": []
@@ -763,7 +2508,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T19:00:25.927Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T19:00:25.927Z",
       "version": 1,
       "history": []
@@ -910,7 +2655,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T19:00:25.927Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T19:00:25.927Z",
       "version": 1,
       "history": []
@@ -935,7 +2680,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T19:00:25.927Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T19:00:25.927Z",
       "version": 1,
       "history": []
@@ -973,8 +2718,8 @@
       "summary": "中新社北京9月23日电 (记者 陈杭)2026北京文化论坛期间，“三星堆-金沙与周边文化交流”专业沙龙23日在北京举办，发布三星堆-金沙多学科研究4项新成果，集中展示以三星堆-金沙为代表的古蜀文明与中原及周边地区文化交流的研究成果，回应古蜀文明研究中的诸多关键疑问，为阐释中华文明多元一体格局提供重要考古支撑。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-culture",
+        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-23T15:07:30.000Z",
@@ -989,7 +2734,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T19:00:25.927Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T19:00:25.927Z",
       "version": 1,
       "history": []
@@ -1014,7 +2759,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T19:00:25.927Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T19:00:25.927Z",
       "version": 1,
       "history": []
@@ -1040,7 +2785,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T19:00:25.927Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T19:00:25.927Z",
       "version": 1,
       "history": []
@@ -1082,7 +2827,7 @@
         "sourceVersion": "fea57953-c867-4008-9509-df1cd6d9851c"
       },
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -1107,7 +2852,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -1132,7 +2877,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -1221,7 +2966,7 @@
         "sourceVersion": "0d4efc36-c7f6-4662-be49-12613e4252c6"
       },
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -1248,7 +2993,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -1275,7 +3020,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -1370,7 +3115,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -1446,7 +3191,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -1496,7 +3241,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -1546,7 +3291,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -1663,7 +3408,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -1690,7 +3435,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -1769,7 +3514,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -1796,7 +3541,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -1848,7 +3593,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -1875,7 +3620,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -1926,7 +3671,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2006,7 +3751,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2032,7 +3777,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2059,7 +3804,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2126,7 +3871,7 @@
         "sourceVersion": "9f1e5e8d-c1d9-484b-8b82-10b985b59ffb"
       },
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2151,7 +3896,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2177,7 +3922,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2203,7 +3948,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2228,7 +3973,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2253,7 +3998,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2278,7 +4023,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2305,7 +4050,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2330,7 +4075,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2355,7 +4100,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2380,7 +4125,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2406,7 +4151,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2432,7 +4177,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2457,7 +4202,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2483,7 +4228,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2508,7 +4253,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2551,7 +4296,7 @@
         "sourceVersion": "7710f53d-a64d-427b-83a1-3b61287fde00"
       },
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2577,7 +4322,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2603,7 +4348,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2628,7 +4373,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2653,7 +4398,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2678,7 +4423,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2703,7 +4448,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2729,7 +4474,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2754,7 +4499,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2779,7 +4524,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2804,7 +4549,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2830,7 +4575,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2855,7 +4600,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2881,7 +4626,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2907,7 +4652,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2933,7 +4678,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2959,7 +4704,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -2984,7 +4729,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3010,7 +4755,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3036,7 +4781,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3061,7 +4806,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3087,7 +4832,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3114,7 +4859,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3139,7 +4884,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3164,7 +4909,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3190,7 +4935,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3215,7 +4960,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3240,7 +4985,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3265,7 +5010,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3290,7 +5035,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3316,7 +5061,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3366,7 +5111,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3417,7 +5162,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3442,7 +5187,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3492,7 +5237,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3517,7 +5262,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3592,7 +5337,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3643,7 +5388,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3694,7 +5439,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3746,7 +5491,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3771,7 +5516,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3872,7 +5617,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -3923,7 +5668,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -4026,7 +5771,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -4079,7 +5824,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -4105,7 +5850,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -4180,7 +5925,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -4258,7 +6003,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -4310,7 +6055,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -4438,7 +6183,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -4514,7 +6259,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -4590,7 +6335,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -4895,7 +6640,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -4945,7 +6690,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -5073,7 +6818,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -5227,7 +6972,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -5277,7 +7022,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -5302,7 +7047,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -5327,7 +7072,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -5352,7 +7097,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -5377,7 +7122,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -5419,7 +7164,7 @@
         "sourceVersion": "2b11bff9-6b6a-4ad4-a939-c0d8bf9cdfa1"
       },
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -5495,7 +7240,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -5520,7 +7265,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -5570,7 +7315,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -5612,7 +7357,7 @@
         "sourceVersion": "0888d3dd-057b-4d67-8a96-7e2d05b9660a"
       },
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -5817,7 +7562,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -5947,7 +7692,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -6100,7 +7845,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -6227,7 +7972,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -6279,7 +8024,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -6306,7 +8051,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -6458,7 +8203,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
@@ -6538,7 +8283,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -6580,7 +8325,7 @@
         "sourceVersion": "1ef9adf7-37b1-4878-ba42-78e3f4de65e7"
       },
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -6863,7 +8608,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -7726,7 +9471,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -7853,7 +9598,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -7878,7 +9623,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -8411,7 +10156,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -8615,7 +10360,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -8890,7 +10635,7 @@
         "sourceVersion": "aea5a773-08f2-42b3-8c9b-b3ac88c03d16"
       },
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 2,
       "history": [
@@ -9591,7 +11336,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -9693,7 +11438,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -9735,7 +11480,7 @@
         "sourceVersion": "96ef922c-4b35-4cb5-a084-1ee1a0cb812f"
       },
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -9862,7 +11607,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -9887,7 +11632,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T19:00:25.927Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -9912,7 +11657,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -10014,7 +11759,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -10106,7 +11851,7 @@
         "sourceVersion": "afed417c-ee89-4104-abfa-017fa51d1979"
       },
       "firstSeenAt": "2026-09-23T09:54:40.739Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 1,
       "history": []
@@ -10858,7 +12603,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-23T04:38:33.802Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T04:38:33.802Z",
       "version": 1,
       "history": []
@@ -11317,7 +13062,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-23T04:38:33.802Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T04:38:33.802Z",
       "version": 1,
       "history": []
@@ -12107,7 +13852,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-23T04:38:33.802Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T04:38:33.802Z",
       "version": 1,
       "history": []
@@ -12466,7 +14211,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-23T04:38:33.802Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T04:38:33.802Z",
       "version": 1,
       "history": []
@@ -13551,7 +15296,7 @@
         "sourceVersion": "fb4e5075-aba0-4e80-9277-ae13164636d5"
       },
       "firstSeenAt": "2026-09-23T04:38:33.802Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T04:38:33.802Z",
       "version": 1,
       "history": []
@@ -13593,7 +15338,7 @@
         "sourceVersion": "4ae93698-1337-4bae-8de0-f5c1790635a9"
       },
       "firstSeenAt": "2026-09-23T04:38:33.802Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T22:14:31.176Z",
       "version": 2,
       "history": [
@@ -13935,7 +15680,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-23T04:38:33.802Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T04:38:33.802Z",
       "version": 1,
       "history": []
@@ -14183,7 +15928,7 @@
         "sourceVersion": "21fde53a-a3f7-4617-aba4-5556f93e6b22"
       },
       "firstSeenAt": "2026-09-22T23:47:12.923Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-22T23:47:12.923Z",
       "version": 1,
       "history": []
@@ -14225,7 +15970,7 @@
         "sourceVersion": "525be861-4248-4ffd-a2c2-062047190617"
       },
       "firstSeenAt": "2026-09-22T23:47:12.923Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T09:54:40.739Z",
       "version": 2,
       "history": [
@@ -17013,7 +18758,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-22T17:44:48.611Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-22T17:44:48.611Z",
       "version": 1,
       "history": []
@@ -17883,7 +19628,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -18821,7 +20566,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -20741,7 +22486,7 @@
         "sourceVersion": "954c8385-b3b0-486f-ba0a-45d1b2f45080"
       },
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -21384,7 +23129,7 @@
         "sourceVersion": "8c547be9-3f6e-4efe-b1e1-ac6fdf4b974f"
       },
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -22096,7 +23841,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -22242,7 +23987,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -22267,7 +24012,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -22359,7 +24104,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-22T13:22:16.001Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-22T13:22:16.001Z",
       "version": 1,
       "history": []
@@ -23633,7 +25378,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-22T07:39:34.959Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-23T04:38:33.802Z",
       "version": 2,
       "history": [
@@ -24034,7 +25779,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-22T07:39:34.959Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-22T07:39:34.959Z",
       "version": 1,
       "history": []
@@ -25721,7 +27466,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-22T07:39:34.959Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-22T07:39:34.959Z",
       "version": 1,
       "history": []
@@ -25822,7 +27567,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-22T07:39:34.959Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-22T07:39:34.959Z",
       "version": 1,
       "history": []
@@ -27065,7 +28810,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-22T01:49:20.085Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-22T01:49:20.085Z",
       "version": 1,
       "history": []
@@ -27271,7 +29016,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-22T01:49:20.085Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-22T01:49:20.085Z",
       "version": 1,
       "history": []
@@ -29060,7 +30805,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-21T19:43:14.714Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-21T19:43:14.714Z",
       "version": 1,
       "history": []
@@ -29845,7 +31590,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -30057,7 +31802,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -30191,7 +31936,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -31281,7 +33026,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-23T22:14:31.176Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -31688,7 +33433,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -33344,7 +35089,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -34627,7 +36372,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -36376,7 +38121,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-21T14:31:20.210Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-21T14:31:20.210Z",
       "version": 1,
       "history": []
@@ -38292,7 +40037,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-21T07:09:57.775Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-21T07:09:57.775Z",
       "version": 1,
       "history": []
@@ -38739,7 +40484,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-21T01:36:21.353Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-21T01:36:21.353Z",
       "version": 1,
       "history": []
@@ -39844,7 +41589,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-21T01:36:21.353Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-21T01:36:21.353Z",
       "version": 1,
       "history": []
@@ -43932,7 +45677,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-20T14:10:00.000Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
+      "lastSeenAt": "2026-09-24T00:51:19.877Z",
       "updatedAt": "2026-09-20T14:10:00.000Z",
       "version": 1,
       "history": []
@@ -85179,8 +86924,8 @@
       "id": "ithome",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-23T22:14:31.176Z",
-      "lastSuccessAt": "2026-09-23T22:14:31.176Z",
+      "checkedAt": "2026-09-24T00:51:19.877Z",
+      "lastSuccessAt": "2026-09-24T00:51:19.877Z",
       "etag": null,
       "lastModified": null,
       "discovered": 60,
@@ -85191,8 +86936,8 @@
       "id": "sspai",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-23T22:14:31.176Z",
-      "lastSuccessAt": "2026-09-23T22:14:31.176Z",
+      "checkedAt": "2026-09-24T00:51:19.877Z",
+      "lastSuccessAt": "2026-09-24T00:51:19.877Z",
       "etag": null,
       "lastModified": null,
       "discovered": 10,
@@ -85203,10 +86948,10 @@
       "id": "chinanews-society",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-23T22:14:31.176Z",
-      "lastSuccessAt": "2026-09-23T22:14:31.176Z",
-      "etag": "\"6ab44de2-402d\"",
-      "lastModified": "Wed, 23 Sep 2026 22:08:34 GMT",
+      "checkedAt": "2026-09-24T00:51:19.877Z",
+      "lastSuccessAt": "2026-09-24T00:51:19.877Z",
+      "etag": "\"6ab46e63-409d\"",
+      "lastModified": "Thu, 24 Sep 2026 00:27:15 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -85215,10 +86960,10 @@
       "id": "chinanews-finance",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-23T22:14:31.176Z",
-      "lastSuccessAt": "2026-09-23T22:14:31.176Z",
-      "etag": "\"6ab44bba-3ec3\"",
-      "lastModified": "Wed, 23 Sep 2026 21:59:22 GMT",
+      "checkedAt": "2026-09-24T00:51:19.877Z",
+      "lastSuccessAt": "2026-09-24T00:51:19.877Z",
+      "etag": "\"6ab47062-3fb6\"",
+      "lastModified": "Thu, 24 Sep 2026 00:35:46 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -85227,8 +86972,8 @@
       "id": "chinanews-life",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-23T22:14:31.176Z",
-      "lastSuccessAt": "2026-09-23T22:14:31.176Z",
+      "checkedAt": "2026-09-24T00:51:19.877Z",
+      "lastSuccessAt": "2026-09-24T00:51:19.877Z",
       "etag": "\"6ab3dff8-1357\"",
       "lastModified": "Wed, 23 Sep 2026 14:19:36 GMT",
       "discovered": 0,
@@ -85239,8 +86984,8 @@
       "id": "chinanews-jk",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-23T22:14:31.176Z",
-      "lastSuccessAt": "2026-09-23T22:14:31.176Z",
+      "checkedAt": "2026-09-24T00:51:19.877Z",
+      "lastSuccessAt": "2026-09-24T00:51:19.877Z",
       "etag": "\"69aa3e2a-2832\"",
       "lastModified": "Fri, 06 Mar 2026 02:38:34 GMT",
       "discovered": 0,
@@ -85251,11 +86996,11 @@
       "id": "chinanews-culture",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-23T22:14:31.176Z",
-      "lastSuccessAt": "2026-09-23T22:14:31.176Z",
-      "etag": "\"6ab40e3d-42f3\"",
-      "lastModified": "Wed, 23 Sep 2026 17:37:01 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-09-24T00:51:19.877Z",
+      "lastSuccessAt": "2026-09-24T00:51:19.877Z",
+      "etag": "\"6ab47296-4268\"",
+      "lastModified": "Thu, 24 Sep 2026 00:45:10 GMT",
+      "discovered": 30,
       "failures": 0,
       "error": null
     },
@@ -85263,11 +87008,11 @@
       "id": "chinanews-edu",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-23T22:14:31.176Z",
-      "lastSuccessAt": "2026-09-23T22:14:31.176Z",
-      "etag": "\"6ab3c9aa-3aa5\"",
-      "lastModified": "Wed, 23 Sep 2026 12:44:26 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-09-24T00:51:19.877Z",
+      "lastSuccessAt": "2026-09-24T00:51:19.877Z",
+      "etag": "\"6ab4520e-3a8a\"",
+      "lastModified": "Wed, 23 Sep 2026 22:26:22 GMT",
+      "discovered": 30,
       "failures": 0,
       "error": null
     },
@@ -85275,10 +87020,10 @@
       "id": "chinanews-sports",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-23T22:14:31.176Z",
-      "lastSuccessAt": "2026-09-23T22:14:31.176Z",
-      "etag": "\"6ab44e91-3dbd\"",
-      "lastModified": "Wed, 23 Sep 2026 22:11:29 GMT",
+      "checkedAt": "2026-09-24T00:51:19.877Z",
+      "lastSuccessAt": "2026-09-24T00:51:19.877Z",
+      "etag": "\"6ab46b55-3e9b\"",
+      "lastModified": "Thu, 24 Sep 2026 00:14:13 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -85287,10 +87032,10 @@
       "id": "chinanews-scroll-news",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-23T22:14:31.176Z",
-      "lastSuccessAt": "2026-09-23T22:14:31.176Z",
-      "etag": "\"6ab44de4-51d3\"",
-      "lastModified": "Wed, 23 Sep 2026 22:08:36 GMT",
+      "checkedAt": "2026-09-24T00:51:19.877Z",
+      "lastSuccessAt": "2026-09-24T00:51:19.877Z",
+      "etag": "\"6ab47295-4161\"",
+      "lastModified": "Thu, 24 Sep 2026 00:45:09 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -85298,8 +87043,8 @@
     "govuk-fulltext": {
       "id": "govuk-fulltext",
       "status": "ok",
-      "checkedAt": "2026-09-23T22:14:31.176Z",
-      "lastSuccessAt": "2026-09-23T22:14:31.176Z",
+      "checkedAt": "2026-09-24T00:51:19.877Z",
+      "lastSuccessAt": "2026-09-24T00:51:19.877Z",
       "discovered": 20,
       "rejected": 0,
       "contentSchema": 3,
