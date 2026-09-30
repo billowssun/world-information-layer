@@ -1,8 +1,2074 @@
 {
   "schemaVersion": "1",
-  "collectedAt": "2026-09-30T11:20:28.113Z",
-  "lastSuccessfulCollectionAt": "2026-09-30T11:20:28.113Z",
+  "collectedAt": "2026-09-30T16:59:14.598Z",
+  "lastSuccessfulCollectionAt": "2026-09-30T16:59:14.598Z",
   "items": [
+    {
+      "id": "330e885abcecb402e385071e",
+      "title": "（爱知·名古屋亚运会）综合消息：中国跳水队达成“百金”成就 中国男足无缘决赛",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/10-01/10706578.shtml",
+      "summary": "中新社日本名古屋9月30日电 爱知·名古屋亚运会9月30日共决出22枚金牌。跳水比赛收官，中国队当日摘下最后两金，实现亚运跳水“百金”成就。男足半决赛中，中国队以1:2遭卫冕冠军韩国队逆转，遗憾无缘决赛。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T16:15:11.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ebe15bade8d4d714b5016b54",
+      "title": "乐扩公布 B650 扩展卡 PB65MX4，支持模块化按需拓展",
+      "originalUrl": "https://www.ithome.com/1/008/950.htm",
+      "summary": "IT之家 10 月 1 日消息，乐扩 (Lekuo) 昨日公布了基于 AMD B650 芯片组 \"PROM 21\" 的新款 PCIe AIC 扩展卡 PB65MX4。这一型号采用模块化设计，支持用户按需拓展 I/O。 PB65MX4 正面提供 2 个 M.2 2230 / 2242 / 2260 / 2280 插槽，支持 PCIe Gen3 ×2。这两个插槽既可直接安装 M.2 SSD，也兼容 M.2 转 10GbE RJ-45 / 10GbE SFP+ / 多口 SATA …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T16:15:09.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "34143af40ceca1c53f0d4ebb",
+      "title": "复兴号 CR400AF-X 动车组首发上线 UFCS 支持：高铁无线快充迈入 30W 时代，半小时充至 60%",
+      "originalUrl": "https://www.ithome.com/1/008/946.htm",
+      "summary": "IT之家 10 月 1 日消息，9 月 30 日，第三代智能高铁 CR400AF-X 型动车组首次上线运营，从北京南开往杭州东的 G43 次列车成为首发车次，随后 G42、G35 京沪、京杭热门线路均已上线（仅复兴号商务座）。 该动车组由国铁集团主导、中车四方股份公司研制，搭载的无线充电功能使用我国自主推动的 UFCS（融合快速充电）无线充电技术规范。 据中国信息通信研究院总工程师魏然介绍，以往高铁等公共设施上的无线充电装置多采用无线充电联盟（WPC）的 Qi 规范，最高充电…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T16:01:31.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "466e2afdf21a01713d87ed40",
+      "title": "海盗船《英雄联盟》选手 Gumayusi 联名键鼠发售，1749 / 1549 元",
+      "originalUrl": "https://www.ithome.com/1/008/945.htm",
+      "summary": "IT之家 9 月 30 日消息，CORSAIR（海盗船）正式发售了与《英雄联盟》三届全球总决赛冠军选手李 \"Gumayusi\" 珉炯合作打造的键盘与鼠标，两款外设的定价分别为 1749 元和 1549 元。 ▲ 先锋者 VANGUARD PRO 96 霍尔效应游戏键盘 Gumayusi 限量版京东海盗船 Gumayusi 联名键盘 1749 元直达链接 ▲ 圣剑 SABRE v2 PRO CARBON FIBER WIRELESS 游戏鼠标 Gumayusi 限量版京东海盗船…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T15:52:42.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e5cb623c33feb447675ed349",
+      "title": "三星发布 Galaxy SmartTag 3 追踪器：体积缩小 35%，续航最长 790 天",
+      "originalUrl": "https://www.ithome.com/1/008/944.htm",
+      "summary": "IT之家 9 月 30 日消息，三星电子今日宣布推出新一代 Galaxy SmartTag3 追踪器。 该产品体积比前代小约 35%，重量轻 33%，单个售价 29.99 美元（现汇率约合 201.5 元人民币），四件装 99.99 美元（IT之家注：现汇率约合 671.7 元人民币），将于 11 月初上市，提供白、黑两色，还可单独购买硅胶保护壳和环扣保护壳等配件。 三星 Galaxy SmartTag3 标准使用续航最长 550 天，省电模式下最长 790 天（前代 Sma…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T15:46:55.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ff36ba73c7b150316a03864b",
+      "title": "昆明4.3级地震为正常地震活动",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-30/10706576.shtml",
+      "summary": "中新网昆明9月30日电 (记者 陈静)9月30日18时31分，云南省昆明市盘龙区发生4.3级地震，震感强烈。记者30日晚从云南省地震局获悉，本次地震为正常地震活动。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T15:37:28.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0605ccc184610a880dc9f62a",
+      "title": "微软 Win11 27H2 前瞻：预计将基于全新 Strontium 平台，Win12 仍难现身",
+      "originalUrl": "https://www.ithome.com/1/008/943.htm",
+      "summary": "IT之家 9 月 30 日消息，据 Windows Central 今日报道，尽管微软尚未确认 Windows 11 27H2 的发布计划，但消息人士称 27H2 可能重新统一目前分裂的 Windows 11 平台。 自 25H2/26H1 开始，微软首次将 Win11 用户群分成两部分。多数用户继续使用 Germanium 平台，包括 24H2、25H2 和 26H2；而 26H1 则基于新的 Bromine 平台，仅面向骁龙 X2 和 RTX Spark 设备。 微软确认…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T15:29:35.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ff01fc4f7b63a95911277b01",
+      "title": "美国外卖平台 DoorDash 将在加州北部推出无人机送餐服务，最快 5 分钟送达",
+      "originalUrl": "https://www.ithome.com/1/008/942.htm",
+      "summary": "IT之家 9 月 30 日消息，美国外卖平台 DoorDash 宣布将在加利福尼亚州北部推出无人机送餐服务，初期合作餐厅涵盖 Chipotle（奇波雷墨西哥烧烤）、Popeyes（博派斯）。 据介绍，DoorDash 将使用轻型无人机完成送餐任务。执行送餐的无人机配备 6 个螺旋桨，飞行时噪音与行驶的汽车相近。理想情况下，外卖从商家送到顾客家门口的速度为 5 分钟。该公司将应用全新配送管理系统，综合交通状况、天气以及飞行时间等因素，判断最适合空中配送的订单。 IT之家注意到，…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T15:29:30.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9129d0b4a51a018e0671feb6",
+      "title": "169 美元：舒尔发布第二代 MV6 USB 游戏麦克风，支持实时降噪",
+      "originalUrl": "https://www.ithome.com/1/008/941.htm",
+      "summary": "IT之家 9 月 30 日消息，舒尔（Shure）今天宣布推出第二代 MV6 USB 游戏麦克风（MV6 Gen 2）。新品专为电竞发烧友、主播等群体打造，带来一系列新技术，售价 169 美元（IT之家注：现汇率约合 1,135 元人民币）/150 欧元（现汇率约合 1,143 元人民币）。 据介绍，这款麦克风采用舒尔全新语音隔离技术，新增自动电平模式和实时可调降噪，可以更好地滤除环境噪音，并平衡说话音量。 同时，该麦克风提供黑色、白色两种配色，自带桌面支架和 USB-C 数…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T15:21:22.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b4029237dd0a8e639b4f9e6b",
+      "title": "Statement from MHCLG Secretary of State",
+      "originalUrl": "https://www.gov.uk/government/news/statement-from-mhclg-secretary-of-state",
+      "sourcePublishedAt": "2026-09-30T16:17:00+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "Angela Rayner, Secretary of State for Housing, Communities &amp; Local Government said: Today, my thoughts are first and foremost with the bereaved families, survivors and immediate Grenfell community. 72 innocent lives were lost in the Gre",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><h3>Angela Rayner, Secretary of State for Housing, Communities &amp; Local Government said:</h3>\n\n<blockquote>\n  <p>Today, my thoughts are first and foremost with the bereaved families, survivors and immediate Grenfell community. 72 innocent lives were lost in the Grenfell Tower tragedy of June 2017, and those most affected have been waiting more than 9 years for this next step towards justice. I pay tribute to the dignity, persistence and courage of the Grenfell community, and their campaign for justice and answers.  </p>\n\n  <p>The Government failed in its fundamental duty to keep the residents of Grenfell Tower safe. Lives were lost as a consequence of profound failures within the building safety system. On behalf of the British state, I am sorry.</p>\n\n  <p>The Metropolitan Police Service has today announced it has handed case files to the Crown Prosecution Service. This marks an important step. Operation Northleigh has been conducted independently of government. And it is right that the independent criminal justice process now takes its course. </p>\n\n  <p>The Ministry of Housing, Communities and Local Government was notified in 2023 by the Metropolitan Police that it was under investigation. The department cooperated fully throughout. In order to protect the integrity of the investigation, the department has not until now discussed publicly the detail of the investigation, including its own status as a subject of it. </p>\n\n  <p>The Metropolitan Police has today confirmed to the department that a file relating to MHCLG has been referred to the Crown Prosecution Service to conduct a full and independent review of the evidence to determine whether the evidential requirements in relation to a potential breach of the Health and Safety at Work Act 1974 have been reached.  </p>\n\n  <p>I recognise the significance and gravity of this development, and we will respond with the appropriate and necessary diligence and care. The CPS will lead on the next steps and the government will continue to cooperate fully in the next stage of this process.  </p>\n\n  <p>The Grenfell Tower Inquiry exposed profound failures in the building safety system. As Secretary of State, I recognise that confidence will only be rebuilt through sustained action and visible change. I will ensure that the lessons from the Inquiry drive real and lasting change in how government works and provides safe homes for people across the country to ensure a tragedy like Grenfell can never happen again.</p>\n</blockquote>\n</div>",
+      "bodyText": "Angela Rayner, Secretary of State for Housing, Communities &amp; Local Government said:\n\n\n  Today, my thoughts are first and foremost with the bereaved families, survivors and immediate Grenfell community. 72 innocent lives were lost in the Grenfell Tower tragedy of June 2017, and those most affected have been waiting more than 9 years for this next step towards justice. I pay tribute to the dignity, persistence and courage of the Grenfell community, and their campaign for justice and answers.  \n\n  The Government failed in its fundamental duty to keep the residents of Grenfell Tower safe. Lives were lost as a consequence of profound failures within the building safety system. On behalf of the British state, I am sorry.\n\n  The Metropolitan Police Service has today announced it has handed case files to the Crown Prosecution Service. This marks an important step. Operation Northleigh has been conducted independently of government. And it is right that the independent criminal justice process now takes its course. \n\n  The Ministry of Housing, Communities and Local Government was notified in 2023 by the Metropolitan Police that it was under investigation. The department cooperated fully throughout. In order to protect the integrity of the investigation, the department has not until now discussed publicly the detail of the investigation, including its own status as a subject of it. \n\n  The Metropolitan Police has today confirmed to the department that a file relating to MHCLG has been referred to the Crown Prosecution Service to conduct a full and independent review of the evidence to determine whether the evidential requirements in relation to a potential breach of the Health and Safety at Work Act 1974 have been reached.  \n\n  I recognise the significance and gravity of this development, and we will respond with the appropriate and necessary diligence and care. The CPS will lead on the next steps and the government will continue to cooperate fully in the next stage of this process.  \n\n  The Grenfell Tower Inquiry exposed profound failures in the building safety system. As Secretary of State, I recognise that confidence will only be rebuilt through sustained action and visible change. I will ensure that the lessons from the Inquiry drive real and lasting change in how government works and provides safe homes for people across the country to ensure a tragedy like Grenfell can never happen again.\n\n",
+      "bodyHash": "82bbb7ba00f41daea8b6838f322a3f7480355fd160e7ad5441a0d9139e94516c",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/statement-from-mhclg-secretary-of-state",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Ministry of Housing, Communities and Local Government"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-09-30T16:17:00+01:00",
+        "sourceVersion": "9974e276-d3be-48f5-b080-1fb4dd87a386"
+      },
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "293e51de5a9132a507bb2814",
+      "title": "中网综合：袁悦、布云朝克特迎开门红 德约科维奇首战告捷",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-30/10706575.shtml",
+      "summary": "中新社北京9月30日电 (刘梦青)2026年中国网球公开赛9月30日展开正赛首个比赛日较量。中国选手袁悦2:0横扫奥利尼科娃，成为当日唯一取胜的“金花”选手。男单布云朝克特2:1险胜塞伦多洛，晋级次轮。塞尔维亚网球名将、赛会六冠王德约科维奇时隔11年重返中网，首轮以2:0力克葡萄牙选手博尔热斯，晋级次轮。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T15:11:31.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "cfdc8c66ded996b68da5c3b1",
+      "title": "Glow Security：AI 智能体无意间泄露企业敏感信息，超 1.3 万张截图被放在 GitHub 公开仓库",
+      "originalUrl": "https://www.ithome.com/1/008/938.htm",
+      "summary": "IT之家 9 月 30 日消息，据科技媒体 TechRadar 今天报道，网络安全研究机构 Glow Security 近日发现，多个 AI 智能体创建的公开 GitHub 仓库存在超 1.3 万张屏幕截图，其中部分截图包含各种科技公司的敏感信息。 IT之家从原报道获悉，这种泄密方式被称为“PixelLeak”。研究人员解释称，人类有时候可能会要求 AI 智能体提供项目修改前后的对比图，这时智能体需要截取屏幕。而 GitHub 官方确实提供了图片托管服务，因此智能体很可能无意…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T15:11:23.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "finance"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "fc4e21be48cbe51d1adf88ff",
+      "title": "砺算 LX 7G100 显卡获推 Windows 驱动程序 30.0.2260.773，含 34 修复、33 优化",
+      "originalUrl": "https://www.ithome.com/1/008/937.htm",
+      "summary": "IT之家 9 月 30 日消息，砺算 (LiSuan) 本月 28 日为其消费级显卡 LX 7G100 推送了 Pilot Release v30.0.2260.773 和 WHQL Release v29.0.2260.697 两版 Windows 操作系统驱动程序。 IT之家注意到，WHQL Release v29.0.2260.697 的发行说明并未提及具体改进；Pilot Release v30.0.2260.773 则明确包含 34 项修复和 33 项优化，解决了《…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T15:06:15.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3aba4dec1e3b556fd583f4b4",
+      "title": "New appointments to Financial Conduct Authority Board 2026",
+      "originalUrl": "https://www.gov.uk/government/news/new-appointments-to-financial-conduct-authority-board-2026",
+      "sourcePublishedAt": "2026-09-30T16:03:56+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "Lea Paterson CBE and Matthew Tobin will commence their terms on 1 October 2026. They will each serve an initial three-year term. Lea Paterson CBE is an experienced non-executive director and executive leader with a background in regulation,",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>Lea Paterson CBE and Matthew Tobin will commence their terms on 1 October 2026. They will each serve an initial three-year term.</p>\n\n<p>Lea Paterson CBE is an experienced non-executive director and executive leader with a background in regulation, central banking and financial journalism, including as Economics Editor at The Times between 2000 and 2004. She has held senior roles in the Bank of England, with strengths in public accountability, strategic communications, people and risk management. She brings regulatory leadership experience beyond financial services. Lea is currently a Civil Service Commissioner, a Board Member at the Independent Parliamentary Standards Authority (IPSA), an independent member of Warwick University’s Remuneration Committee and holds a number of voluntary and community roles. She was also appointed as Chair of the Senior Salaries Review Body in 2024. Lea was appointed Commander of the Order of the British Empire (CBE) in recognition of her services to the economy in the 2023 New Year’s Honours List.</p>\n\n<p>Matthew Tobin is a senior financial services lawyer and former Partner at Slaughter and May with over 20 years’ experience advising HM Government, regulators and major financial institutions on systemic risk, statutory schemes and market-critical interventions across banking, capital markets and lending. He has advised HM Treasury on major interventions including the Asset Protection Scheme, the Credit Guarantee Scheme, the COVID Corporate Financing Facility and the nationalisation of Bradford &amp; Bingley. He regularly advises FTSE100/FTSE250 boards and treasury functions on financing strategy, regulatory change, disclosure and operational resilience. He brings deep knowledge of the UK financial services regulatory framework.</p>\n\n<p>Economic Secretary to the Treasury Rt Hon Lucy Rigby KC MP, said:</p>\n\n<p>“I am very pleased to announce the appointments of Lea Paterson and Matthew Tobin to the Board of the Financial Conduct Authority. The government has been clear that it wants to deliver better regulation that supports businesses to grow and innovate, in a responsible way. The FCA is a key partner in delivering that, so I’m delighted that it will benefit from the expensive expertise that Lea and Matthew will bring to its Board.”</p>\n\n<p>Chair of the FCA Board Ashley Alder, said:</p>\n\n<p>“I am delighted to welcome Lea Paterson and Matthew Tobin to the FCA Board. As we enter the next phase of delivering our strategy, their experience, judgement and fresh perspectives will help guide our work at an important time for consumers, markets and the wider economy. I look forward to working with them as we continue to support growth and innovation while maintaining high standards of consumer protection and market integrity.”</p>\n\n<p>About the appointment process</p>\n\n<p>Lea Paterson CBE and Matthew Tobin have been appointed jointly by the Economic Secretary and the Department for Business, Innovation, Science and Trade following a fair and open recruitment process run by HM Treasury.</p>\n\n<p>HM Treasury is committed to appointing a diverse range of people to public appointments, including at the Financial Conduct Authority. The Treasury continues to take active steps to attract the broadest range of suitable applicants for posts.</p>\n\n<p>Appointments to the FCA Board are regulated by the Office of the Commissioner for Public Appointments. Lea Paterson and Matthew Tobin have confirmed they have not engaged in any political activity in the last five years.</p>\n\n<p>About the Financial Conduct Authority</p>\n\n<p>The Financial Conduct Authority (FCA) is the conduct regulator for the UK’s financial services firms and markets. It is responsible for the conduct of around 42,000 businesses and sets the specific prudential standards for roughly 17,000 firms.</p>\n\n<p>It has an overarching strategic objective of ensuring the relevant markets function well. To support this, it has three operational objectives: to secure an appropriate degree of protection for consumers; to protect and enhance the integrity of the UK financial system; and to promote effective competition in the interests of consumers. Its secondary objective is to facilitate the international competitiveness of the UK economy, and its growth in the medium to long-term.</p>\n</div>",
+      "bodyText": "Lea Paterson CBE and Matthew Tobin will commence their terms on 1 October 2026. They will each serve an initial three-year term.\n\nLea Paterson CBE is an experienced non-executive director and executive leader with a background in regulation, central banking and financial journalism, including as Economics Editor at The Times between 2000 and 2004. She has held senior roles in the Bank of England, with strengths in public accountability, strategic communications, people and risk management. She brings regulatory leadership experience beyond financial services. Lea is currently a Civil Service Commissioner, a Board Member at the Independent Parliamentary Standards Authority (IPSA), an independent member of Warwick University’s Remuneration Committee and holds a number of voluntary and community roles. She was also appointed as Chair of the Senior Salaries Review Body in 2024. Lea was appointed Commander of the Order of the British Empire (CBE) in recognition of her services to the economy in the 2023 New Year’s Honours List.\n\nMatthew Tobin is a senior financial services lawyer and former Partner at Slaughter and May with over 20 years’ experience advising HM Government, regulators and major financial institutions on systemic risk, statutory schemes and market-critical interventions across banking, capital markets and lending. He has advised HM Treasury on major interventions including the Asset Protection Scheme, the Credit Guarantee Scheme, the COVID Corporate Financing Facility and the nationalisation of Bradford &amp; Bingley. He regularly advises FTSE100/FTSE250 boards and treasury functions on financing strategy, regulatory change, disclosure and operational resilience. He brings deep knowledge of the UK financial services regulatory framework.\n\nEconomic Secretary to the Treasury Rt Hon Lucy Rigby KC MP, said:\n\n“I am very pleased to announce the appointments of Lea Paterson and Matthew Tobin to the Board of the Financial Conduct Authority. The government has been clear that it wants to deliver better regulation that supports businesses to grow and innovate, in a responsible way. The FCA is a key partner in delivering that, so I’m delighted that it will benefit from the expensive expertise that Lea and Matthew will bring to its Board.”\n\nChair of the FCA Board Ashley Alder, said:\n\n“I am delighted to welcome Lea Paterson and Matthew Tobin to the FCA Board. As we enter the next phase of delivering our strategy, their experience, judgement and fresh perspectives will help guide our work at an important time for consumers, markets and the wider economy. I look forward to working with them as we continue to support growth and innovation while maintaining high standards of consumer protection and market integrity.”\n\nAbout the appointment process\n\nLea Paterson CBE and Matthew Tobin have been appointed jointly by the Economic Secretary and the Department for Business, Innovation, Science and Trade following a fair and open recruitment process run by HM Treasury.\n\nHM Treasury is committed to appointing a diverse range of people to public appointments, including at the Financial Conduct Authority. The Treasury continues to take active steps to attract the broadest range of suitable applicants for posts.\n\nAppointments to the FCA Board are regulated by the Office of the Commissioner for Public Appointments. Lea Paterson and Matthew Tobin have confirmed they have not engaged in any political activity in the last five years.\n\nAbout the Financial Conduct Authority\n\nThe Financial Conduct Authority (FCA) is the conduct regulator for the UK’s financial services firms and markets. It is responsible for the conduct of around 42,000 businesses and sets the specific prudential standards for roughly 17,000 firms.\n\nIt has an overarching strategic objective of ensuring the relevant markets function well. To support this, it has three operational objectives: to secure an appropriate degree of protection for consumers; to protect and enhance the integrity of the UK financial system; and to promote effective competition in the interests of consumers. Its secondary objective is to facilitate the international competitiveness of the UK economy, and its growth in the medium to long-term.\n",
+      "bodyHash": "37163c706a20c8e7cefc7d68cafe61094af2b50188ad798c0e0eb91bb2e78370",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/new-appointments-to-financial-conduct-authority-board-2026",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "HM Treasury",
+          "Department for Business, Innovation, Science and Trade"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-09-30T16:03:56+01:00",
+        "sourceVersion": "41ce893b-9180-42fa-b1ae-049bf9ab6816"
+      },
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "524c231ab7e0a4cfc9017e0a",
+      "title": "OpenAI Dot 虚拟机配置曝光：AMD 霄龙 9V74 处理器 + 9.73GB 内存，Geekbench 7 多核 9435 分",
+      "originalUrl": "https://www.ithome.com/1/008/936.htm",
+      "summary": "IT之家 9 月 30 日消息，OpenAI 今日凌晨在 DevDay 活动上发布了 Dot 智能体，而每个 Dot 运行在独立的云端虚拟机中。 Dot 虚拟机现已出现在 Geekbench 基准测试平台中，显示其搭载了 AMD EPYC 9V74 服务器处理器，每个 Dot 虚拟机实例分配 9 个核心，单核得分 1667，多核得分 9435。另外，该实例配备 9.73GB 内存和 32GB 存储空间。 该处理器基于 Zen 4 架构，基础频率约 2.6GHz，加速频率可达 …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T15:03:39.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5b4264f08f4e49c808657db9",
+      "title": "（爱知·名古屋亚运会）中国跳水队达成亚运“百金”",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-30/10706574.shtml",
+      "summary": "中新社东京9月30日电 (记者 朱晨曦)爱知·名古屋亚运会跳水项目9月30日在东京水上运动中心收官。中国选手练俊杰在男子10米台比赛中险胜，为中国队拿到本届赛事第10金。中国跳水队就此达成亚运百金成就，自1974年首次参赛以来，从未让亚运金牌旁落。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T14:56:48.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c5b83b240f7a3642f02ce868",
+      "title": "GEEKOM 推出 GeekBook M14 笔记本，可选酷睿 Ultra 5 125U / 锐龙 5 220 处理器",
+      "originalUrl": "https://www.ithome.com/1/008/935.htm",
+      "summary": "IT之家 9 月 30 日消息，GEEKOM（积核）现已在美国市场推出 GeekBook M14 笔记本，新品可选英特尔或 AMD 处理器，最高可选配 16GB 内存和 72Wh 电池。 据介绍，这款笔记本可选择英特尔酷睿 Ultra 5 125U 或 AMD 锐龙 5 220 处理器，内存为 16GB，硬盘可选 256GB/512GB SSD。 同时，该笔记本配备 72Wh 电池，续航最长可达 17 小时，随机附赠 100W USB-C PD 充电器。配备双风扇双热管散热系…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T14:56:11.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6c15a347860863e5bacfd52a",
+      "title": "TrendForce 预测：DRAM 内存、NAND 闪存合约价 2026Q4 还将上涨 15~20%",
+      "originalUrl": "https://www.ithome.com/1/008/934.htm",
+      "summary": "IT之家 9 月 30 日消息，TrendForce（集邦）今日发布存储器市场 2026Q4 走势预测：一般 DRAM 合约价将环比上涨 10~15%，计入 HBM 后的整体 DRAM 合约价上涨 15~20%；NAND 闪存整体合约价也将环比上涨 15~20%。 从整体上来看，DRAM 上游原厂将持续把先进制程产能投入高性能服务器产品，整体维持供应不足格局，但合约价涨势放缓；NAND 市场则呈现 AI 加速、消费性需求低但仍连带涨价的双轨走势。 ▲ 图源：TrendForc…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T14:51:17.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0f75a37d0658ff8e382d07cf",
+      "title": "《足球经理 27》11 月 10 日发售：新增动态天气，球员建模升级",
+      "originalUrl": "https://www.ithome.com/1/008/933.htm",
+      "summary": "IT之家 9 月 30 日消息，由 Sports Interactive 开发、世嘉发行的足球模拟游戏《足球经理 27》确认将于 11 月 10 日发售。新作将在比赛观感、球场环境和玩家战术表达等方面进行改进。 《足球经理 27》将采用更加直观的操作界面，减少玩家完成常用操作所需的点击次数。同时，游戏世界进一步丰富，加入更加细致的观众反应、动态天气和改进后的光照效果，并为玩家提供更大的战术表达空间。 此次公布的宣传视频重点展示了官方所称的“Football Theatre”体…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T14:48:37.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "sports"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5cc0468577d2a005ebbc27a7",
+      "title": "《英雄不再》系列游戏开发商草蜢工作室宣布脱离网易，独立运营",
+      "originalUrl": "https://www.ithome.com/1/008/932.htm",
+      "summary": "IT之家 9 月 30 日消息，据外媒 Insider Gaming 今天报道，曾开发《英雄不再》系列游戏的草蜢工作室（Grasshopper Manufacture）宣布，自 2026 年 10 月 1 日起公司将脱离网易游戏，重新成为独立开发商。 IT之家了解到，网易游戏 2021 年宣布收购草蜢工作室。网易方面为草蜢提供游戏开发资金，并提供数千名开发人员支持。 草蜢工作室创办人须田刚一对此表示，团队希望为全球玩家带来更加丰富的游戏，因此决定再次成为独立开发商。草蜢工作室…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T14:42:08.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "42e4ef26fdf8a0225a73122a",
+      "title": "黑爵带来 AJ159 V2 ULTRA 鼠标：PAW3955，换电设计，319 元起",
+      "originalUrl": "https://www.ithome.com/1/008/931.htm",
+      "summary": "IT之家 9 月 30 日消息，黑爵 (AJAZZ) 近日带来了 AJ159 V2 ULTRA 三模鼠标。这一型号采用对称式模具，质量 54g，搭载原相 PAW3955 光学传感器，配套模块换电系统。 AJ159 V2 ULTRA 三维 123.58 × 64.8 × 39.24 (mm)，外壳为 ABS 塑料，覆盖类肤质感涂层；左右键选用 100M 耐久 TTC 青龙微动开关；支持 8kHz 回报率；带屏智显 Dock 兼具 2.4GHz 信号接收和电池模块充电功能。 IT…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T14:37:05.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "fa43a719564f0228eb5d08bd",
+      "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
+      "originalUrl": "https://sspai.com/post/115070",
+      "summary": "Bungie 究竟是在和时间赛跑，还是在和自己赛跑？",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "sspai",
+        "feedUrl": "https://sspai.com/feed",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T14:32:58.000Z",
+      "timeIssue": null,
+      "channels": [
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "sspai"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d07849cd80887f9e2bc7bfa7",
+      "title": "Sonnet 推出 Solo10G T5，号称首款总线供电雷电 5 万兆网卡",
+      "originalUrl": "https://www.ithome.com/1/008/927.htm",
+      "summary": "IT之家 9 月 30 日消息，连接性外设制造商 Sonnet 近日推出号称首款总线供电雷电 5 万兆网卡的 Solo10G T5 适配器。 Solo10G T5 采用 Marvell AQC113C 芯片，提供 1 个 10GbE RJ-45 有线网口，功耗 7.5W。其三维 79.5×114×27.2 (mm)，拥有铝制被动散热机身，附带可更换的雷电 5 线缆。 其兼容基于 M 系列芯片的苹果 Mac 与 iPad Pro 设备，同时支持所有配备雷电 5/4 或 USB …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T14:25:30.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "21b9e972ce2e935f6098b9ff",
+      "title": "598 元，微软 XBOX 手柄《战争机器：事变日》限定版开售",
+      "originalUrl": "https://www.ithome.com/1/008/925.htm",
+      "summary": "IT之家 9 月 30 日消息，微软 XBOX 手柄《战争机器：事变日》限定版现已开售，新品拥有别具一格的外观，功能与普通版 XBOX Series 手柄无任何区别，售价 598 元。 据介绍，这款手柄整体采用黑红配色，手柄正中央带有象征死亡降临的“猩红预兆”标记，配备纯黑 ABY 按键、透明红色扳机键、X 键与方向键，致敬守卫卡洛纳、抵御怪物浪潮的战斗。电池盖上还带有 COG 兵籍牌，致敬“永不独战”信念。 同时，该手柄支持无线 / 有线双模连接，兼容 XBOX 主机、Wi…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T14:19:57.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a5f893370991057118dfce60",
+      "title": "曝美国联邦贸易委员会对 Anthropic、OpenAI 及其他 AI 实验室加大调查力度",
+      "originalUrl": "https://www.ithome.com/1/008/924.htm",
+      "summary": "IT之家 9 月 30 日消息，据纽约邮报消息，政府官员透露，美国联邦贸易委员会 FTC 正在加大对 Anthropic、OpenAI 及其他前沿人工智能实验室的全面调查力度，旨在彻查其技术可能对消费者造成的潜在风险。FTC 计划向这些科技巨头下达类似于传票的正式要求，强制其提交相关信息。 2026 年 7 月，Hugging Face 的人工智能开源社区遭遇 OpenAI 智能体入侵。据悉，FTC 主席安德鲁 · 弗格森（Andrew N. Ferguson）早在此次事件发…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T14:13:22.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "finance"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "2d003edfc9133786a89cf9f6",
+      "title": "AOC 推出 U27G4Z 显示器：27\" Fast IPS，UHD 240Hz / FHD 480Hz",
+      "originalUrl": "https://www.ithome.com/1/008/923.htm",
+      "summary": "IT之家 9 月 30 日消息，AOC 今日在官网上线了双模显示器 U27G4Z。这一型号采用 27\" Fast IPS 面板，支持 UHD 240Hz / FHD 480Hz，获得 VESA DisplayHDR 400 认证。 U27G4Z 拥有 350nits 的 SDR 亮度、450nits 的 HDR 亮度，对比度 1300:1；GtG 响应时间 1ms、MPRT 响应时间 0.3ms；色域 99% sRGB / 95% DCI-P3，sRGB 下色偏（平均值）ΔE…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T14:13:01.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "52c9968069803b5e5b1fb95f",
+      "title": "机制化的确定性正在重塑中美经贸关系",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706558.shtml",
+      "summary": "中新网北京9月30日电 近年来，个别经济体把所谓“对等关税”当作单边施压的常规工具，全球贸易政策的不确定性随之上升，产业链供应链的调整也在被动加速。然而经济学的分析早已表明，关税所产生的额外成本大部分并非由出口国承担，而是由征税国的消费者与下游企业消化，保护主义并未让施压者真正受益。经贸摩擦更深层的代价，还在于政策不确定性所引致的风险会冲击企业的订单和投资决策，既抑制当期贸易，也阻碍长期资本形成。中美之间规模达数千亿美元的贸易往来与百亿美元级的双向资本流动，其稳定与否不仅关乎…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T14:10:05.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a7d6a03274bd2f946c829d30",
+      "title": "中国队夺得《第五人格》金牌，穆欣月成首位亚运电竞女子冠军",
+      "originalUrl": "https://www.ithome.com/1/008/922.htm",
+      "summary": "IT之家 9 月 30 日消息，第 20 届亚运会电子竞技《第五人格》决赛今日举行，中国队以 2 比 0 战胜日本队，夺得金牌。 中国国家集训队运动员石祥威（GR 年锦）、卢树嘉（GR 阿策）、孙乐（MRC 白露）、陈明明（狼队小明）、鲁亚辉（成都 GG 皮皮虾）、樊思琪（MRC 奈奈）、穆欣月（WBG 桃晚安）悉数登场。其中，穆欣月随队登上最高领奖台，成为电子竞技“入亚”以来第一位拿到金牌的女子运动员。 中国队从国内联赛首秀起步，在亚运赛场一路全胜登顶。IT之家查询获悉，本…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T14:08:58.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "sports"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "03665d573c17731fb26fbde3",
+      "title": "《中国发展报告2026》在北京首发",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706565.shtml",
+      "summary": "中新网北京9月30日电 9月30日，由国务院发展研究中心编写的《中国发展报告2026》中英文版首发仪式在北京举行。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T14:07:05.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8c5b24283f56934b129ec794",
+      "title": "“广西龙超”吸引逾190支队伍参赛 留学生体验划桨逐浪",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-30/10706560.shtml",
+      "summary": "中新网广西柳州9月30日电 (陈梅)9月30日，广西龙超——2026年融安龙舟公开赛、第二十五届长安龙舟大赛暨“秋冬游柳州”系列活动在广西柳州市融安县开幕。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T14:07:03.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "education"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1f9e5ef0b57360b058628ac3",
+      "title": "三峡枢纽新通道先行开挖区完成爆破开挖",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706563.shtml",
+      "summary": "中新网宜昌9月30日电 (郭晓莹 董晓斌 秦明硕)随着“最后一爆”顺利启动，作为施工准备试验工程的三峡枢纽新通道先行开挖区30日完成全部爆破开挖作业，为后续高压输电线路迁改、船闸主体工程全面施工创造有利条件。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T14:06:39.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "bda056119d8cf35bc609d99a",
+      "title": "WTT中国大满贯2026升级场馆硬件设施 打造沉浸式观赛体验",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-30/10706567.shtml",
+      "summary": "中新网北京9月30日电 (记者 陈杭)记者30日从北京市石景山区获悉，WTT中国大满贯2026将于10月1日至11日在北京市石景山区首钢园举办。围绕提升观赛体验，本届赛事重点升级场馆硬件设施，二号馆全新配置超大观赛屏，体育展示环节首次引入3D Mapping投影技术，强化沉浸式观赛效果。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T14:05:57.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "da6e56d4bd41cda3b5621135",
+      "title": "《红色沙漠》游戏首个 DLC《未知征途》跳票两周，10 月 30 日见",
+      "originalUrl": "https://www.ithome.com/1/008/921.htm",
+      "summary": "IT之家 9 月 30 日消息，珍艾碧丝官方今天宣布，《红色沙漠》游戏首个 DLC《未知征途》将延期至 10 月 30 日发售，相比原定的 10 月 16 日晚两周。 官方表示，红色沙漠团队一直在全力推进《红色沙漠：增强版-未知征途》DLC 的开发。但经过评估，要达到更高的完成度并提供更稳定的游戏体验，他们还需要额外的开发时间。因此决定将该 DLC 发售日期推迟两周，调整至 10 月 30 日。 此外，该 DLC 将加入全新剧情、乘船探索、水下探索、新敌人和新战斗等内容。IT…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T14:04:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f3a6ead82f3ddfc74095143a",
+      "title": "亚马逊发布新款 Fire TV Stick 4K 电视棒：59.99 美元，新款遥控器按键可触摸识别",
+      "originalUrl": "https://www.ithome.com/1/008/920.htm",
+      "summary": "IT之家 9 月 30 日消息，亚马逊刚刚推出了新款 Fire TV Stick 4K 电视棒和重新设计的 Fire TV Remote 遥控器，并将 Fire TV 流媒体棒产品线简化为三档。 新款 4K 电视棒官方定价 59.99 美元（IT之家注：现汇率约合 403 元人民币），其中美国市场在亚马逊 Prime Big Deal Days 大促期间限时 29.99 美元（现汇率约合 201.5 元人民币），而新 Fire TV Remote 单独购买则为 14.99 美…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T13:48:22.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4333677bc9bcb5f13fcee0f3",
+      "title": "江淮汽车：公司与华为、Stellantis 三方确有沟洽合作意向",
+      "originalUrl": "https://www.ithome.com/1/008/919.htm",
+      "summary": "IT之家 9 月 30 日消息，江淮汽车今日公告称，公司股票于 9 月 28 日、29 日、30 日连续三个交易日收盘价格涨幅偏离值累计超过 20%，属于股票交易异常波动。 近期，公司关注到有部分媒体在相关媒体平台发布公司拟与华为、Stellantis 开展合作的报道。经核实，公司与华为、Stellantis 三方确有沟洽合作意向，但合作内容、合作形式等均未确定，也未签署任何有约束力的正式协议，后续相关合作事项推进尚存在较大不确定性。 IT之家注意到，意大利媒体 Milano…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T13:46:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "06ec8ba06b068b8c42c34936",
+      "title": "8899 元起：三星 Galaxy Tab S12+/S12 Ultra 平板发布，天玑 9500 芯片、12.6/14.6 英寸 AMOLED 大屏",
+      "originalUrl": "https://www.ithome.com/1/008/918.htm",
+      "summary": "IT之家 9 月 30 日消息，三星电子今天宣布推出 Galaxy Tab S12 系列平板，包含 Tab S12+ 和 Tab S12 Ultra 两个机型，国内售价 8899 元 / 10499 元起。两款机器均采用轻薄设计，提供更强性能和全新 AI 功能，10 月 7 日起陆续在全球各地上市。 京东三星 Samsung Galaxy Tab S12+ 8899 元直达链接京东三星 Samsung Galaxy Tab S12 Ultra 10499 元直达链接 据介绍，…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T13:42:52.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b52819e195dbdefc8d70982b",
+      "title": "新思科技与亚马逊签署多年期超 10 亿美元协议，推进定制芯片合作",
+      "originalUrl": "https://www.ithome.com/1/008/917.htm",
+      "summary": "IT之家 9 月 30 日消息，当地时间 9 月 30 日，新思科技宣布与亚马逊达成多年期定制芯片 IP 战略合作协议，合作范围进一步拓展至云端及 AI 赋能的工程研发领域。 官方表示，通过引入新思科技的芯片知识产权以及 AI 驱动的工程软件解决方案，将加速亚马逊定制芯片与 AWS 基础设施的工程研发进程。 双方达成多年期、总额超 10 亿美元（IT之家注：现汇率约合 67.18 亿元人民币）的合作协议，新思科技将借助 AWS 服务加快自身产品迭代步伐，并与亚马逊协同针对 T…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T13:42:06.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5d88cbe11ca6c6e7b31c4773",
+      "title": "清华大学跻身 THE 2027 全球大学第 11 名及亚洲第一，亚洲高校首次超越欧洲",
+      "originalUrl": "https://www.ithome.com/1/008/916.htm",
+      "summary": "IT之家 9 月 30 日消息，英国《泰晤士高等教育》（THE）今日公布 2027 年度世界大学排名。 清华大学排名升至全球第 11 位，成为亚洲排名最高的高校，并首次超过欧洲大陆排名最高的瑞士苏黎世联邦理工学院（ETH Zurich）。这是亚洲高校首次在该榜单中超过欧洲大陆高校。 本次排名共纳入来自 118 个国家和地区的 2297 所大学。英国牛津大学连续第 11 年位居榜首，麻省理工学院（MIT）排名第二，普林斯顿大学与斯坦福大学并列第三。全球前十名仍全部由英国和美国高…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T13:41:42.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "education"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d447cabec51dc0918d0504cc",
+      "title": "浙江首次国际航行船舶三船三燃料加注作业在宁波舟山港完成",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706553.shtml",
+      "summary": "中新网杭州9月30日电(记者 王逸飞 通讯员 张婷婷 连林怡)9月30日，“海洋石油302”LNG加注船、“中燃绿能85”甲醇加注船、“思杰21”B24生物燃料油加注船分别在宁波舟山港穿山港区、梅山港区、大榭港区码头完成约7400立方米LNG、7500吨绿色甲醇和3000吨B24生物燃料油加注作业。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T13:39:49.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "07618f5f18c6df1e3bcc86ff",
+      "title": "雄安新区中苑水上游线精彩亮相",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-30/10706538.shtml",
+      "summary": "中新网雄安9月30日电 (韩冰 李玉素)9月30日，雄安新区中苑水上游线启航仪式在启动区城苑轩码头举行。随着两艘游船解缆离岸，“水城共融”从规划理念变成了可游可亲的现实体验。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T13:39:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "66561e89c98472440e48cf68",
+      "title": "云南昆明4.3级地震暂无人员伤亡报告 启动地震四级应急响应",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-30/10706534.shtml",
+      "summary": "中新网昆明9月30日电 (罗婕)9月30日18时31分，云南省昆明市发生4.3级地震。云南省应急管理厅消息，截至目前，昆明市盘龙区、五华区、西山区、官渡区、呈贡区暂未接到人员伤亡情况报告，电力、交通、通信均正常。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T13:39:09.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "87bb85ae7b96342e115793a6",
+      "title": "逾130岁韬奋楼修缮归来 钟声再响、历史样貌重现世间",
+      "originalUrl": "https://www.chinanews.com.cn/edu/2026/09-30/10706541.shtml",
+      "summary": "中新网上海9月30日电(记者 陈静)每逢整点，苏州河畔华东政法大学内的韬奋楼便会响起悠悠钟声，令人心生厚重感。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-edu",
+        "feedUrl": "https://www.chinanews.com.cn/rss/edu.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T13:38:19.000Z",
+      "timeIssue": null,
+      "channels": [
+        "education"
+      ],
+      "sourceIds": [
+        "chinanews-edu"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0ae14dc382a0c44a2c9289c6",
+      "title": "国内首个科技期刊出版集团：中科期刊出版集团挂牌成立",
+      "originalUrl": "https://www.ithome.com/1/008/915.htm",
+      "summary": "IT之家 9 月 30 日消息，据新华社，中国科学院推进一流科技期刊建设新闻发布会今日在京举行。会上，北京中科期刊出版传媒集团有限公司正式挂牌成立。 该集团是国内首个专注于科技期刊的出版集团，标志着中国科学院一流科技期刊建设取得阶段性进展，我国科技期刊出版从“分散办刊”向“集约运营”迈出关键一步。 科技期刊是科技基础能力的重要组成部分，体现国家科技竞争力与文化软实力。作为国家战略科技力量，中国科学院主管科技期刊 400 余种，覆盖自然科学主要学科领域。 2025 年以来，中国…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T13:25:39.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6cc839d97b542941439f0385",
+      "title": "B站开源 Index-Translate 多语言翻译模型家族，文本模型支持 150 种语言",
+      "originalUrl": "https://www.ithome.com/1/008/914.htm",
+      "summary": "IT之家 9 月 30 日消息，哔哩哔哩 Index LLM 团队今日正式发布 Index-Translate 模型，2B / 9B / 35B-A3B（preview）文本模型权重在 Hugging Face 与 ModelScope 开放。 Index-Translate 是基于 Qwen3.5 构建的多语言翻译模型家族。文本模型覆盖包括中文、英文在内的 150 种语言，支持术语、格式、保留内容等翻译指令，并将共同的多语基础扩展到语音、音节可控翻译和长文档翻译。 Inde…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T13:24:53.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a00f5eb3b42ba23832101f28",
+      "title": "请立即更新：远程桌面软件 TeamViewer 被曝多个高危漏洞",
+      "originalUrl": "https://www.ithome.com/1/008/913.htm",
+      "summary": "IT之家 9 月 30 日消息，据科技媒体 Bleeping Computer 今天报道，远程桌面软件 TeamViewer 被曝存在多个高危漏洞，官方已着手修复，并敦促客户尽快更新最新版软件。 IT之家了解到，本次事件最严重的漏洞是 CVE-2026-92370，源于 TeamViewer Full Client 和 Host 软件中的访问控制缺陷，影响 Windows、Linux 和 macOS 系统。黑客可利用其执行未授权操作，在目标设备上实现远程代码执行。 同时，本次…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T13:23:01.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "de885e9d53f1094fa594dac8",
+      "title": "中国攀岩选手邓丽娟亚运会0.002秒惜败摘银",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-30/10706536.shtml",
+      "summary": "中新网9月30日电(记者 金旭)爱知·名古屋亚运会当地时间30日举行攀岩女子速度赛决赛，中国选手邓丽娟以0.002秒惜败，获得银牌。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T13:15:18.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9ea470fb645b128f4cee5832",
+      "title": "从戍边后裔到长城保护员：中国农民俞海文的守护与相遇",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-30/10706531.shtml",
+      "summary": "中新网唐山9月30日电 题：从戍边后裔到长城保护员：中国农民俞海文的守护与相遇",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T13:08:39.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "fa969eefde778caa0ff87b87",
+      "title": "联想推出拯救者 R9 68 键磁轴电竞键盘：8KHz 轮询率，999 元",
+      "originalUrl": "https://www.ithome.com/1/008/910.htm",
+      "summary": "IT之家 9 月 30 日消息，联想推出拯救者 R9 68 键磁轴电竞键盘，今日开启预约，将于 10 月 16 日开售，售价 999 元。 这款键盘采用航空级铝合金外壳，采用阳极氧化 + 细腻喷砂工艺，可选拿铁磁轴 Pro 或紫璃磁轴 Pro；采用海王星 8K 电竞方案，可实现 0.001mm 高精度触发；拥有 8000Hz 硬件级轮询率，按键平均延迟约 0.1ms，最低可达 0.029ms。 这款键盘内置 4 挡预设配置（日常、游戏、野兽、超能电竞），可通过 Fn+O 一键…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T13:05:12.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d83b4f257d39f8d826d31232",
+      "title": "从协同创新到深度共享 长三角一体化如何“破壁新生”？",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706529.shtml",
+      "summary": "中新网嘉兴9月30日电(黄彦君)工作日清晨，一辆沪牌通勤班车驶入浙江嘉兴嘉善，企业员工依次下车奔赴岗位。常年往返沪嘉两地的企业管理人员王女士说：“在这里，行政边界模糊了，发展的机遇却加倍清晰了。”",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T13:04:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "caa9f9eda9137d60825caff5",
+      "title": "哈尔滨市：少年宫片区完成更新改造 推动老建筑由封闭闲置转向活化利用",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-30/10706528.shtml",
+      "summary": "中新网哈尔滨9月30日电 (记者 刘锡菊)9月30日，记者从哈尔滨市城市体检和更新工作专班获悉，哈尔滨市少年宫片区城市原点广场活化利用修缮项目已全部完成，片区内国民街84号历史建筑完成保护性修缮，正式投入使用，少年宫片区城市更新示范项目实现公共空间与历史建筑同步活化，百年历史院落面向广大市民开放。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T13:02:57.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "2dcd3556c72561c63d7d47cc",
+      "title": "质量强链，如何撑起广州高质量发展？",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706513.shtml",
+      "summary": "中新网北京9月30日电(记者 左雨晴)广州是全国先进制造业基地和国际科技创新中心重要承载地。截至2025年末，全市累计培育国家级专精特新“小巨人”企业482家，国家级制造业单项冠军35家，6家企业进入世界500强。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T13:02:21.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "937e2759c483cb421ee9fc49",
+      "title": "新加坡一男子用 AI 生成鳄鱼侵袭水库照片被起诉，最高或面临 10 年监禁 +1 万新币罚款",
+      "originalUrl": "https://www.ithome.com/1/008/909.htm",
+      "summary": "IT之家 9 月 30 日消息，据新加坡本地媒体亚洲电视台昨天报道，一新加坡男子因涉嫌制作、传播一张鳄鱼侵袭水库的图片被警方起诉。他最高面临着 10 年监禁和 1 万新加坡元（IT之家注：现汇率约合 52,585 元人民币）罚款。 据报道，该男子名为 Ye Lin。他在当地时间 8 月 20 日下午 3 点左右，使用谷歌 Gemini 应用程序生成一张鳄鱼出现在水库的图片，随后将 AI 生成的照片发送给同事 Min Min Oo。 该图片很快在互联网广泛传播。新加坡国家水务机…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T13:01:44.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5b7f096ae68376cd455c179f",
+      "title": "维维一句“已召回”，能解释霉菌超标27倍吗？",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706514.shtml",
+      "summary": "中新网北京9月30日电(记者 谢艺观)近日，上海市市场监督管理局公布的食品安全抽检信息显示，维维股份全资子公司维维华山核桃产业有限公司生产的一批次“维维无添加蔗糖黑芝麻糊”霉菌抽检不合格。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T12:58:30.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "fc7423639add7e03a6a7d5c6",
+      "title": "英特尔酷睿 Ultra 4000 系列 Nova Lake 处理器通过 USB4 与 PCIe 5.0 认证测试，预计 2027 年初发布",
+      "originalUrl": "https://www.ithome.com/1/008/908.htm",
+      "summary": "IT之家 9 月 30 日消息，TomsHardware 发现，英特尔下一代 Nova Lake 平台已通过 USB 和 PCIe 标准组织的合规测试。 USB-IF 论坛已将部分酷睿 Ultra 4000 系列 Nova Lake 平台列入集成商列表，PCI-SIG 集成商列表也纳入了面向 Nova Lake-S 处理器的 900 系列芯片组。 USB-IF 确认，英特尔 Nova Lake-H 移动处理器（设备 ID D331、D333）符合 USB4 80Gbps 规范…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T12:58:08.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "54f048d280888b0117aa27fb",
+      "title": "明星亮证卖保险、贷款中介删朋友圈，金融营销新规改变了什么？",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706518.shtml",
+      "summary": "中新网北京9月30日电(记者 刘星晨)9月30日，由中国人民银行、工业和信息化部等8个部门联合制定并公布的《金融产品网络营销管理办法》(以下简称《办法》)正式实施。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T12:58:08.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "956abd7f0be17f8e999065ff",
+      "title": "“祁连山号”旅游专列在西宁站首发",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706517.shtml",
+      "summary": "中新网西宁9月30日电(祁增蓓 周悦翔 李磊)9月30日，首趟“祁连山号”旅游专列从西宁站启程，80余名来自全国各地的游客搭乘专列，开启6天5晚的青海环线深度游之旅。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T12:53:48.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "travel"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c7ae4f4d5170cce6b6e41419",
+      "title": "2026年全国业余常青高尔夫球公开赛圆满落幕",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-30/10706516.shtml",
+      "summary": "中新网廊坊9月30日电 2026年全国业余常青高尔夫球公开赛29日至30日在廊坊市艾力枫社高尔夫俱乐部顺利举办。来自全国各地的常青高尔夫选手齐聚赛场，同台开展竞技比拼，角逐代表中国参与国际赛事的参赛资格，完成了这场面向银龄群体的国家级高球赛事。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T12:50:22.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0ae21ca9764cd10feedf3c80",
+      "title": "蚂蚁百灵发布 Ling-3.1-flash 模型：约 560B 总参数、25B 激活参数",
+      "originalUrl": "https://www.ithome.com/1/008/907.htm",
+      "summary": "IT之家 9 月 30 日消息，蚂蚁百灵今日发布 Ling-3.1-flash 模型，拥有约 560B 总参数，每个 Token 激活约 25B 参数；模型上下文窗口上限为 1M，可容纳更长的文档、代码和任务历史。 官方表示，在研发过程中，围绕通用智能体、搜索、日常办公和软件研发等任务持续优化，并在医疗、金融和材料科学研究等场景持续提升模型能力。 此外，Ling-3.1-flash 将开放为期两周的免费体验；考虑到综合服务成本，免费体验期间模型服务长度为 256K。 免费体验…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T12:43:48.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b6ac37b28739845f94bd1a4d",
+      "title": "（乡村行·看振兴）黑龙江克山打造一站式包装“智造”平台：让黑土好物更好被看见",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706508.shtml",
+      "summary": "中新网齐齐哈尔9月30日电 题：黑龙江克山打造一站式包装“智造”平台：让黑土好物更好被看见",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T12:33:45.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "bbfe2e5e19d442adddf8fceb",
+      "title": "曝 WSBK 2027 计划加入中国站：宁波和上海为候选赛道，利好张雪机车、凯越、钱江摩托及春风动力等厂商",
+      "originalUrl": "https://www.ithome.com/1/008/906.htm",
+      "summary": "IT之家 9 月 30 日消息，随着 2026 年 WSBK 年度车手总冠军尼科洛 · 布雷加（Nicolò Bulega）的确定，粉丝逐渐开始将注意力转到 2027 赛季中。 据 Speedweek 报道，世界超级摩托车锦标赛（WSBK）2027 赛季计划新增中国站，目前暂定为全年第 12 站，并可能在 10 月举行，甚至成为赛季收官战。不过，具体举办日期和赛道目前仍未最终确定。 报道称，2027 赛季 WSBK 将于 2 月 19 日至 21 日在澳大利亚菲利普岛揭幕。由…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T12:31:43.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "74962eaf33792acbe7b4a44f",
+      "title": "以赛促能育匠才 全国职教学子重庆比拼机电运维技能",
+      "originalUrl": "https://www.chinanews.com.cn/edu/2026/09-30/10706504.shtml",
+      "summary": "中新网重庆9月30日电(陈媛)30日，2026年世界职业院校技能大赛总决赛争夺赛机电设备安装与运维赛道(高职组、中职组)闭赛式在重庆举行。重庆工业职业技术大学、重庆电力高等专科学校获高职组金奖。重庆市渝北职业教育中心代表队1队获中职组金奖，并获进入总决赛排位赛资格。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-edu",
+        "feedUrl": "https://www.chinanews.com.cn/rss/edu.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T12:31:37.000Z",
+      "timeIssue": null,
+      "channels": [
+        "education"
+      ],
+      "sourceIds": [
+        "chinanews-edu"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "193258c68992edf4f3332aaa",
+      "title": "ACEMAGIC 推出 RX16 笔记本：酷睿 Ultra X7 358H 处理器、24GB 内存",
+      "originalUrl": "https://www.ithome.com/1/008/905.htm",
+      "summary": "IT之家 9 月 30 日消息，ACEMAGIC 现已在海外市场推出 RX16 笔记本，新品采用英特尔 Panther Lake 平台，配备 24GB LPDDR5 内存和 1TB 固态硬盘，售价 1,159 美元（IT之家注：现汇率约合 7,786 元人民币）。 据介绍，这款笔记本采用英特尔酷睿 Ultra X7 358H 处理器，提供 16 核心，最高睿频可达 4.8GHz，拥有 50 TOPS 的 NPU。 此外，该笔记本配备 24GB LPDDR5-7467 内存和 …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T12:31:01.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7a7f0016933f39eef793f300",
+      "title": "受4.3级地震影响 多趟昆明到发旅客列车晚点",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-30/10706502.shtml",
+      "summary": "中新网昆明9月30日电 (记者 缪超)9月30日18时31分，云南省昆明市盘龙区突发4.3级地震。为确保旅客列车运行安全，中国铁路昆明局集团有限公司第一时间启动应急响应，扣停区间内运行列车，并安排工作人员对线路设备进行检查。受此影响，多趟昆明到发旅客列车出现不同程度晚点。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T12:28:33.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b31e08497d062a828fbdb0d0",
+      "title": "波士顿咨询报告：企业AI应用和价值创造范围正扩大",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706499.shtml",
+      "summary": "中新社北京9月30日电 (记者 刘亮)波士顿咨询公司(BCG)9月30日公布的一项研究发现，过去一年，企业人工智能(AI)应用和价值创造的范围正在明显扩大。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T12:26:46.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "technology"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "01642198f735dc9f1db5f612",
+      "title": "两条毛毯牵起的记忆：二战尘封的中美民间互助往事",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-30/10706489.shtml",
+      "summary": "中新网上海9月30日电(记者 许婧)“泰勒从威克岛被俘、上海囚居、千里逃亡到延安获救的完整轨迹，是世界反法西斯战场上中美普通民众生死与共的典型案例，区别于宏大的战役叙事，极具个体温度与跨文化传播价值。”《威克岛战俘》中文版译者生键红30日介绍说。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T12:24:56.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c52db148d2edf3400612d3da",
+      "title": "黄仁勋与李在镕同框，承诺英伟达将延续与三星电子长达 33 年的合作",
+      "originalUrl": "https://www.ithome.com/1/008/904.htm",
+      "summary": "IT之家 9 月 30 日消息，当地时间 29 日，英伟达首席执行官黄仁勋在范佛里特奖颁奖典礼指出，英伟达已经与韩国企业合作 33 年，他希望将这种合作势头再延续 33 年。在同一场典礼上，黄仁勋还和三星电子会长李在镕共同合影。 据报道，黄仁勋今年获得了范弗利特奖。据IT之家了解，詹姆斯 ·A· 范 · 佛里特奖是美国韩国社交协会自 1995 年起年度颁发的奖项，以表彰对增进韩美关系作出突出贡献的韩国人和美国人。 黄仁勋表示，韩美双方共同合作实现了共赢。双方的持续携手，将让韩…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T12:18:30.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5dbde0a25394d5dfba918a05",
+      "title": "余承东预热华为 Mate 90 系列旗舰新机：大家一次次选择我们，我们就得一次次拿出进步",
+      "originalUrl": "https://www.ithome.com/1/008/903.htm",
+      "summary": "IT之家 9 月 30 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚发布视频，分享了“我和我的 Mate”活动最新歌曲《闪闪发光的日常》，并正式预热 Mate 90 系列旗舰新机。 余承东还在微博向消费者表达了谢意： 每年的我和我的 Mate，主角都是你们。今年，我们把大家记录下的生活，唱成了一首歌。谢谢大家，把 Mate 带在身边，也陪 Mate 走到了今天。大家一次次选择我们，我们就得一次次拿出进步！自有光，自变亮，与每一个 Mate 同行，…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T12:15:46.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7fcaaf17ad0f2bbb781176b2",
+      "title": "京哈高速盘锦至沈阳段改扩建工程先行试验段工程启动",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706481.shtml",
+      "summary": "中新网沈阳9月30日电 (王翕瞳)京哈高速盘锦至沈阳段改扩建工程软基处理、风积沙路基拼宽试验段9月30日开工，标志着京哈高速盘锦至沈阳段改扩建工程正式启动。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T12:05:25.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "mobility"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "eb555c375d2cfac829baacec",
+      "title": "美国五角大楼 DMDC 遭黑客攻击：近 300 万人信息被泄露",
+      "originalUrl": "https://www.ithome.com/1/008/899.htm",
+      "summary": "IT之家 9 月 30 日消息，据 TomsHardware 今日报道，美国国防部（又称战争部）国防人力数据中心（DMDC）在 2025 年 10 月至 2026 年 7 月期间遭遇未授权用户访问。 美国国防部官员表示，此次事件涉及 276 万在世人员及 29.4 万已故人员的相关记录被泄露，泄露信息包括社会安全号码以及军事和文职人员的工作详情。该官员称，发现漏洞后 DMDC 立即修复，目前尚无证据表明被泄露数据遭到滥用。 DMDC（IT之家注：国防人力数据中心）是五角大楼主…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T12:04:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "84976fabf2bfd764c4d96aa3",
+      "title": "爱尔眼科林丁：以“不悔”为标尺，丈量四十余载眼科征途",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706486.shtml",
+      "summary": "从青涩青年到业界名医，爱尔眼科副总院长、湘赣区总院长林丁，在眼科已经精心耕耘四十余载。对于林丁而言，医德医风从来不是一句口号，而是落实在日复一日的查房、看诊、手术的点滴之中，是尽可能记住患者的诉求，是常常无法按时吃上一顿午饭的日常，更是跨越千里也要把光明送到基层的执着。四十度春秋流转，他用行动诠释一名眼科医者的责任与坚守。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T12:02:53.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5ba6529794a481162561640a",
+      "title": "海信电视秋季新品打出王炸，双7旗舰首发，RGB-Mini LED电视体验常用常新",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706482.shtml",
+      "summary": "近日，海信电视召开2026秋季新品发布会，正式推出全新一代RGB-Mini LED影像旗舰U7T Pro、性能旗舰E7S Pro+两大双7旗舰新品，一次性落地六大行业首发技术，从背光硬件、屏幕素质、专属画质到智能系统全方位革新，彻底改写RGB-Mini LED高端大屏体验标准，海信 RGB-Mini LED电视也真正实现常用常新，领先行业的优势再度拉大。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T12:00:21.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "74e0bb145fce8123148daa13",
+      "title": "Traffic Commissioners for Great Britain publish 2025-26 annual report",
+      "originalUrl": "https://www.gov.uk/government/news/traffic-commissioners-for-great-britain-publish-2025-26-annual-report",
+      "sourcePublishedAt": "2026-09-30T12:58:37+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "The report is available to view and download at: Traffic Commissioners for Great Britain Annual Report 2025-26 The report details the new strategic objectives of the Traffic Commissioners from 2026-2029 and evaluates the current state of th",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>The report is available to view and download at: <a href=\"https://www.gov.uk/government/publications/traffic-commissioners-annual-report-2025-to-2026\">Traffic Commissioners for Great Britain Annual Report 2025-26</a></p>\n\n<p>The report details the new strategic objectives of the Traffic Commissioners from 2026-2029 and evaluates the current state of the industry.</p>\n\n<p>Our aims remain as: </p>\n\n<ul>\n  <li>To deliver a modern and effective operator licensing regime that ensures operators are fit to hold a licence whilst minimising the regulatory burden on the compliant.</li>\n  <li>To promote and develop a safe road transport industry, which delivers compliance, fair competition and protects the environment.</li>\n</ul>\n\n<p>The report includes a consideration of the future of the Traffic Commissioners and:</p>\n\n<ul>\n  <li>Driver Welfare</li>\n  <li>Road Safety Strategy</li>\n  <li>Smarter regulation</li>\n</ul>\n\n<p>There is also discussion of Public Service Vehicles Accessibility Regulations PSVAR and the Bus Open Data Service (BODS) alongside AI and maintenance recognition schemes.</p>\n\n<p>A spokesperson, on behalf of the Traffic Commissioners, explained that:</p>\n\n<p>“Approaching the 100th anniversary of the Traffic Commissioners is an opportunity to consider how this regulatory system continues to serve the public interest. Our role is to deliver proportionate, evidence-based decisions that promote road safety and fair competition in both Goods and PSV sectors.</p>\n\n<p>“Without this regulatory system, many issues would only be addressed through criminal proceedings after harm has occurred. Through specialist regulation and early intervention, Traffic Commissioners play a crucial role in maintaining standards and preventing unsafe operators and drivers from putting other road users at risk.”</p>\n\n<p>The Annual Report also contains statistics describing the licensing and regulatory activities. The data recognises the achievements of the commissioners and their support during the year.</p>\n\n<p>For any further details or enquiries, please contact: <a>pressoffice@otc.gov.uk</a></p>\n</div>",
+      "bodyText": "The report is available to view and download at: Traffic Commissioners for Great Britain Annual Report 2025-26\n\nThe report details the new strategic objectives of the Traffic Commissioners from 2026-2029 and evaluates the current state of the industry.\n\nOur aims remain as: \n\n\n  To deliver a modern and effective operator licensing regime that ensures operators are fit to hold a licence whilst minimising the regulatory burden on the compliant.\n  To promote and develop a safe road transport industry, which delivers compliance, fair competition and protects the environment.\n\n\nThe report includes a consideration of the future of the Traffic Commissioners and:\n\n\n  Driver Welfare\n  Road Safety Strategy\n  Smarter regulation\n\n\nThere is also discussion of Public Service Vehicles Accessibility Regulations PSVAR and the Bus Open Data Service (BODS) alongside AI and maintenance recognition schemes.\n\nA spokesperson, on behalf of the Traffic Commissioners, explained that:\n\n“Approaching the 100th anniversary of the Traffic Commissioners is an opportunity to consider how this regulatory system continues to serve the public interest. Our role is to deliver proportionate, evidence-based decisions that promote road safety and fair competition in both Goods and PSV sectors.\n\n“Without this regulatory system, many issues would only be addressed through criminal proceedings after harm has occurred. Through specialist regulation and early intervention, Traffic Commissioners play a crucial role in maintaining standards and preventing unsafe operators and drivers from putting other road users at risk.”\n\nThe Annual Report also contains statistics describing the licensing and regulatory activities. The data recognises the achievements of the commissioners and their support during the year.\n\nFor any further details or enquiries, please contact: pressoffice@otc.gov.uk\n",
+      "bodyHash": "7052b3c9f54da69f1b0a15660136ce22bedca1acaca360fc970ebd503574ac4d",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/traffic-commissioners-for-great-britain-publish-2025-26-annual-report",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Traffic Commissioners for Great Britain"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-09-30T12:58:37+01:00",
+        "sourceVersion": "b7bcf38f-58d9-4e45-bcd6-87aea06658db"
+      },
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "632a8f45d82a95ff65282b31",
+      "title": "£16m legal lifeline for families facing eviction and hardship",
+      "originalUrl": "https://www.gov.uk/government/news/16m-legal-lifeline-for-families-facing-eviction-and-hardship",
+      "sourcePublishedAt": "2026-09-30T12:57:00+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "Legal lifelines grant to help people struggling with debt and housing crises Early support to help stop legal disputes spiralling into poverty and court Part of Government’s plan to give British families greater breathing space Launching to",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><div>\n  <ul>\n    <li>Legal lifelines grant to help people struggling with debt and housing crises</li>\n    <li>Early support to help stop legal disputes spiralling into poverty and court</li>\n    <li>Part of Government’s plan to give British families greater breathing space</li>\n  </ul>\n</div>\n\n<p>Launching tomorrow (01 October), the Government has announced a multi-million-pound Legal Support Grant, to enable those in need to access trusted advice and practical support when facing some of life’s toughest challenges. </p>\n\n<p>The programme, which will run between October 2026 and March 2029, will support 48 frontline organisations across England and Wales deliver legal support to thousands of vulnerable people facing eviction, problem debt, benefit disputes and family breakdown. </p>\n\n<p>Charities and advice providers, including Citizen’s Advice and Shelter Cymru, will expand free legal support both in person and online, helping people understand their rights, resolve problems and avoid homelessness, financial hardship and unnecessary court action. </p>\n\n<p>By helping people access support earlier, the investment will prevent problems spiralling into crisis and reduce pressure on courts, while putting targeted support and practical tools at people’s fingertips. </p>\n\n<p>Minister for Courts and Legal Services, Sarah Sackman KC said:   </p>\n\n<blockquote>\n  <p>When people face eviction, mounting debts or family breakdown, getting the right help at the right time can make all the difference.  </p>\n\n  <p>This important investment will help people across the country access trusted advice earlier, preventing problems from spiralling into crisis and giving families the breathing space they need to get back on track.</p>\n</blockquote>\n\n<p>It forms part of over £25 million invested in legal support services by this Government, helping people tackle problems early, avoid crisis and secure a more stable future for themselves and their families. </p>\n\n<p>The investment, administered by the Access to Justice Foundation, forms part of the Government’s wider mission to improve access to justice and ensure that financial circumstances are never a barrier to getting help. </p>\n\n<p>Clare Carter, CEO of the Access to Justice Foundation said:  </p>\n\n<blockquote>\n  <p>Across England and Wales, too many people face legal problems that affect every aspect of their lives, from keeping a roof over their head to supporting their family or securing the income they rely on.  </p>\n\n  <p>The organisations funded through this programme provide trusted support when people need it most. By investing in their long-term strength and resilience, we can help ensure more people access the legal support they need, while building a stronger understanding of what works to improve access to justice.</p>\n</blockquote>\n\n<p>These measures form part of the Government’s wider commitment to give people greater breathing space by helping with the everyday costs that matter most. </p>\n\n<p>This includes support with transport costs through capped bus fares and help with household energy bills, putting more money back into households’ pockets and easing pressure on family budgets. </p>\n\n<p>Alongside supporting frontline services, this grant programme will also build a stronger evidence base on what works in legal support, helping to inform future investment and ensure support reaches those who need it most.</p>\n</div>",
+      "bodyText": "\n  \n    Legal lifelines grant to help people struggling with debt and housing crises\n    Early support to help stop legal disputes spiralling into poverty and court\n    Part of Government’s plan to give British families greater breathing space\n  \n\n\nLaunching tomorrow (01 October), the Government has announced a multi-million-pound Legal Support Grant, to enable those in need to access trusted advice and practical support when facing some of life’s toughest challenges. \n\nThe programme, which will run between October 2026 and March 2029, will support 48 frontline organisations across England and Wales deliver legal support to thousands of vulnerable people facing eviction, problem debt, benefit disputes and family breakdown. \n\nCharities and advice providers, including Citizen’s Advice and Shelter Cymru, will expand free legal support both in person and online, helping people understand their rights, resolve problems and avoid homelessness, financial hardship and unnecessary court action. \n\nBy helping people access support earlier, the investment will prevent problems spiralling into crisis and reduce pressure on courts, while putting targeted support and practical tools at people’s fingertips. \n\nMinister for Courts and Legal Services, Sarah Sackman KC said:   \n\n\n  When people face eviction, mounting debts or family breakdown, getting the right help at the right time can make all the difference.  \n\n  This important investment will help people across the country access trusted advice earlier, preventing problems from spiralling into crisis and giving families the breathing space they need to get back on track.\n\n\nIt forms part of over £25 million invested in legal support services by this Government, helping people tackle problems early, avoid crisis and secure a more stable future for themselves and their families. \n\nThe investment, administered by the Access to Justice Foundation, forms part of the Government’s wider mission to improve access to justice and ensure that financial circumstances are never a barrier to getting help. \n\nClare Carter, CEO of the Access to Justice Foundation said:  \n\n\n  Across England and Wales, too many people face legal problems that affect every aspect of their lives, from keeping a roof over their head to supporting their family or securing the income they rely on.  \n\n  The organisations funded through this programme provide trusted support when people need it most. By investing in their long-term strength and resilience, we can help ensure more people access the legal support they need, while building a stronger understanding of what works to improve access to justice.\n\n\nThese measures form part of the Government’s wider commitment to give people greater breathing space by helping with the everyday costs that matter most. \n\nThis includes support with transport costs through capped bus fares and help with household energy bills, putting more money back into households’ pockets and easing pressure on family budgets. \n\nAlongside supporting frontline services, this grant programme will also build a stronger evidence base on what works in legal support, helping to inform future investment and ensure support reaches those who need it most.\n",
+      "bodyHash": "bd872605be6f06388d80d25e9500d132c054535ce51d5aca51ce1106faf657e4",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/16m-legal-lifeline-for-families-facing-eviction-and-hardship",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Ministry of Justice"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-09-30T12:57:00+01:00",
+        "sourceVersion": "d6f92bd2-870b-4d0e-8949-243ab1acdf3d"
+      },
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "250ed34bab6b08ef9c16efd8",
+      "title": "（乡村行·看振兴）山西和顺：深耕玉露香梨种植 特色产业铺就富民新路",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706478.shtml",
+      "summary": "中新网晋中9月30日电 题：山西和顺：深耕玉露香梨种植 特色产业铺就富民新路",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T11:54:18.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c1f20d9396e7ef35a15a2b07",
+      "title": "成都公开赛：从“来参赛”到“来感受一座城市”",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-30/10706472.shtml",
+      "summary": "中新网成都9月30日电 题：成都公开赛：从“来参赛”到“来感受一座城市”",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T11:50:52.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-sports"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0f2750d4292955c74a47277e",
+      "title": "CDPR 兑现承诺：《巫师 3》卡带可无限次解锁任天堂 Switch 2 免费升级，借一张卡带就能领",
+      "originalUrl": "https://www.ithome.com/1/008/892.htm",
+      "summary": "IT之家 9 月 30 日消息，CDPR 旗下游戏《巫师 3：狂猎 — 重制版》9 月 29 日正式上线，拥有原版游戏的玩家可免费升级。本作带来一系列改进，包括画面、玩法等多方面升级。 有 Reddit 用户反馈称，持有 Switch 原版实体卡带的玩家，可将卡带插入 Switch 2 主机，更新游戏后即可在游戏菜单内免费领取《巫师 3：狂猎 — 重制版》，领取成功后无需插卡也能继续游玩（领取的数字版会绑定至账户）。 目前已有多位玩家验证，CDPR 允许同一张实体卡带被无限次…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T11:48:51.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ae51a13d6975e49022a52a16",
+      "title": "国庆新能源车充电高峰将至：峰值预计在 10 月 1 日，浙江、江苏、安徽等多省高速公路充电量将创新高",
+      "originalUrl": "https://www.ithome.com/1/008/891.htm",
+      "summary": "IT之家 9 月 30 日消息，据央视财经今天（9 月 30 日）从国家电网了解到，国庆假期，新能源车自驾出行热度攀升，据智慧车联网平台预测，充电峰值预计出现在 10 月 1 日，充电高峰时段为 7 时至 20 时。 IT之家从报道获悉，10 月 5 日、6 日是返程核心时段，高速公路充电车辆数量仍将保持高位，充电高峰时段分别为 10 月 5 日 11 时至 21 时，10 月 6 日 10 时至 22 时。 从区域看，预计浙江、江苏、安徽、山东、河北、河南、福建等省的高速公…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T11:33:52.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7c061a1b54bdc6c34396754f",
+      "title": "江西红谷滩发算力券“礼包” 单家企业年度最高可获50万元支持",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706461.shtml",
+      "summary": "中新网南昌9月30日电 (熊锦阳)9月30日，江西省南昌市红谷滩区印发《红谷滩区算力券(词元券)实施方案》，年度设置总额600万元的算力券(词元券)，其中算力券额度200万元、词元(Token)券额度400万元，以真金白银助企发展，激发区域数智创新活力。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T11:29:57.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "839beda453b22754e6897c5b",
+      "title": "16.99 万元起领克 10 升级吉利智充：分兆瓦智充版与智充版车型，最高支持 900V 与 12C",
+      "originalUrl": "https://www.ithome.com/1/008/890.htm",
+      "summary": "IT之家 9 月 30 日消息，领克汽车今日宣布了领克 10 家族代言人卫诗雅，同时还宣布领克 10 正式进入智充时代并送出 2000 元充电金，领克 10 全系升级为“兆瓦智充版”与“智充版”。 IT之家此前报道：领克 10 于今年 5 月上市，上市指导价 18.39 万元起，上市限时价 16.99 万元起。 领克 10 是率先搭载全球新一代吉利 AI 智充技术的车型。此次升级后，车系分为两个充电版本，对应不同补能能力。 据官方介绍，“兆瓦智充版”支持 900V 和 12C…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T11:21:16.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 1,
+      "history": []
+    },
     {
       "id": "a34f99d61847e007f2975135",
       "title": "启境 GX7 全国交付保证权益上线：10 月 7 日前下订 4 周交付，超期补偿 1000 积分 / 日",
@@ -23,8 +2089,33 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "30cc37c80edb076c4b410512",
+      "title": "前9月中国完成水利建设投资7950亿元 保持高位运行",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706445.shtml",
+      "summary": "中新社北京9月30日电 (记者 陈溯)记者30日从中国水利部获悉，今年1至9月份，中国实施各类水利项目4.14万个，完成水利建设投资7950亿元(人民币，下同)，吸纳就业201万人。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-09-30T11:18:28.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-finance"
+      ],
+      "firstSeenAt": "2026-09-30T16:59:14.598Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
       "version": 1,
       "history": []
     },
@@ -62,8 +2153,8 @@
       "summary": "中新网海口9月30日电 (张月和)五指山市被定位为海南热带雨林国家公园核心地区，也是海南中部生态安全屏障。五指山市生态环境局局长莫湘湘29日在海南省新闻办公室举行的“开局起步‘十五五’”系列主题新闻发布会五指山市专场上说，“十五五”时期，该市确立了“生态质量领跑、绿色转型提速、生态系统稳固、治理体系现代化、美丽山城成型”五大具体发展目标。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-30T11:14:36.000Z",
@@ -77,7 +2168,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -89,8 +2180,8 @@
       "summary": "中新网海口9月30日电 (张月和)茶叶、雪茄烟叶、野菜叶“三片叶”是海南五指山市的特色产业。五指山市农业农村和水务局局长李刚29日在海南省新闻办公室举行的“开局起步‘十五五’”系列主题新闻发布会五指山市专场上说，“十五五”时期，该市谋划做强“三片叶”，从种质提升、链条延伸、品牌赋能、联农增收四个方面协同发力，加快生态资源向富民产业高效转化。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-30T11:14:28.000Z",
@@ -104,7 +2195,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -142,8 +2233,8 @@
       "summary": "中新网海口9月30日电 (张月和)旅游产业是海南省五指山市七大主导产业之一。五指山市旅游和文化发展局局长吴荣29日在“开局起步‘十五五’”系列主题新闻发布会五指山市专场上说，“十五五”期间，该市将深耕雨林生态、民族文化、红色资源独特优势，全力擦亮“不到五指山不算到海南”金字招牌，推动全市文旅产业提质升级、增效赋能。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-30T11:13:28.000Z",
@@ -158,7 +2249,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -170,8 +2261,8 @@
       "summary": "中新网江西瑞昌9月30日电 (卢梦梦 熊昱康 张婧)金秋时节，江西省瑞昌市洪一乡吴家村的苎麻种植基地内，连片的苎麻长势喜人。这片依托当地农业帮扶资金打造的苎麻种植基地，正成为村集体经济新的增长点。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-30T11:13:26.000Z",
@@ -185,7 +2276,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -197,8 +2288,8 @@
       "summary": "中新社北京9月30日电 (记者 赵建华)中国国家税务总局9月30日公布《全国税务行政处罚裁量基准(2026年版)》(下称《裁量基准》)，自2026年11月1日起施行。这标志着税务行政处罚裁量基准实现全国范围统一。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-30T11:13:24.000Z",
@@ -212,7 +2303,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -224,8 +2315,8 @@
       "summary": "中新网江西修水9月30日电 (卢梦梦 朱修林 祝荣荣)国庆假期临近，位于江西省九江市修水县复原乡双港村的茶叶包装车间内，村民正有条不紊地对野生茶叶进行分拣、包装，一包包高山野茶码放整齐，等待发货。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-30T11:13:20.000Z",
@@ -239,7 +2330,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -264,7 +2355,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -276,8 +2367,8 @@
       "summary": "中新网昆明9月30日电 (罗婕)9月30日18时31分，云南省会昆明市区发生4.3级地震。据中国地震台网正式测定，震中位于昆明市盘龙区(北纬25.09度，东经102.73度)，震源深度10千米。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-30T11:12:34.000Z",
@@ -290,7 +2381,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -302,8 +2393,8 @@
       "summary": "中新网日本名古屋9月30日电 题：加冕亚洲女飞人，陈妤颉的下一个“赛场”和“烦恼”",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-30T11:12:16.000Z",
@@ -317,7 +2408,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -354,8 +2445,8 @@
       "summary": "中新社日本大阪9月30日电 (记者 国璇)当地时间9月30日在日本大阪长居体育场进行的爱知·名古屋亚运会男足半决赛中，中国男足亚运队以1:2被韩国队逆转，无缘决赛。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-30T11:09:18.000Z",
@@ -369,7 +2460,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -406,8 +2497,8 @@
       "summary": "中新网北京9月30日电 题：“科技改变生活”，打开实验室助力青少年“看见未来”",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-30T11:05:46.000Z",
@@ -421,7 +2512,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -472,7 +2563,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -509,8 +2600,8 @@
       "summary": "中新网重庆9月30日电(记者 肖江川)30日，2026年重庆首届机器人运动会在重庆市大渡口区落下帷幕。作为重庆首个以机器人为参赛主体的综合性运动会，近百台形态各异的智能机器人齐聚赛场，上演科技与体育深度交融的精彩对决。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-30T11:01:11.000Z",
@@ -525,7 +2616,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -537,8 +2628,8 @@
       "summary": "中新网海南洋浦9月30日电 (揭英贤)“十五五”海南洋浦港将打造区域性船舶维修基地。作为实现这一目标的基础性工程，洋浦港神头港区新兴作业区船舶维保和海工装备基地项目(起步工程)首件沉箱预制典型施工29日完成，为项目码头主体结构建设奠定基础。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-30T11:00:27.000Z",
@@ -552,7 +2643,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -619,7 +2710,7 @@
         "sourceVersion": "10d21a60-4520-41de-883e-54d029953b1b"
       },
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -631,8 +2722,8 @@
       "summary": "记者30日从商务部获悉，商务部近日发布两则公告，分别公布延长对美国破坏全球产供链、美国阻碍绿色产品贸易相关做法和措施贸易壁垒调查期限决定。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-09-30T10:56:32.000Z",
@@ -646,7 +2737,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -722,7 +2813,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -747,7 +2838,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -874,7 +2965,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -942,7 +3033,7 @@
         "sourceVersion": "11f59f94-04aa-45ee-b542-5f6cb88bf949"
       },
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1022,7 +3113,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1056,7 +3147,7 @@
       "id": "fa7c1ba5ec9362457cc8d1ee",
       "title": "深圳通 NFC 手机卡限时免费开卡活动开启，截至 10 月 8 日",
       "originalUrl": "https://www.ithome.com/1/008/879.htm",
-      "summary": "IT之家 9 月 30 日消息，深圳通 NFC 手机卡限时免费开卡活动今日开启，原本开卡服务费 10 元的深圳通手机卡现可免服务费开卡，活动时间为 9 月 30 日 10:30-10 月 8 日 10:00。 IT之家了解到，本次活动支持华为、Apple、vivo、OPPO、小米、华米、魅族、荣耀、三星、中兴及努比亚等品牌设备，用户可前往手机 / 手表的钱包 App 或深圳通 App 完成开卡。 使用深圳通卡时，乘坐深圳地铁可享受 9.5 折优惠；乘坐深圳公交时，单次刷卡票价…",
+      "summary": "IT之家 9 月 30 日消息，深圳通 NFC 手机卡限时免费开卡活动今日开启，原本开卡服务费 16 元的深圳通手机卡现可免服务费开卡，活动时间为 9 月 30 日 10:30-10 月 8 日 10:00。 IT之家了解到，本次活动支持华为、Apple、vivo、OPPO、小米、华米、魅族、荣耀、三星、中兴及努比亚等品牌设备，用户可前往手机 / 手表的钱包 App 或深圳通 App 完成开卡。 使用深圳通卡时，乘坐深圳地铁可享受 9.5 折优惠；乘坐深圳公交时，单次刷卡票价…",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
         "sourceId": "ithome",
@@ -1073,10 +3164,24 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
-      "updatedAt": "2026-09-30T11:20:28.113Z",
-      "version": 1,
-      "history": []
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 2,
+      "history": [
+        {
+          "title": "深圳通 NFC 手机卡限时免费开卡活动开启，截至 10 月 8 日",
+          "summary": "IT之家 9 月 30 日消息，深圳通 NFC 手机卡限时免费开卡活动今日开启，原本开卡服务费 10 元的深圳通手机卡现可免服务费开卡，活动时间为 9 月 30 日 10:30-10 月 8 日 10:00。 IT之家了解到，本次活动支持华为、Apple、vivo、OPPO、小米、华米、魅族、荣耀、三星、中兴及努比亚等品牌设备，用户可前往手机 / 手表的钱包 App 或深圳通 App 完成开卡。 使用深圳通卡时，乘坐深圳地铁可享受 9.5 折优惠；乘坐深圳公交时，单次刷卡票价…",
+          "summaryProvenance": {
+            "type": "publisher_feed_excerpt",
+            "sourceId": "ithome",
+            "feedUrl": "https://www.ithome.com/rss/",
+            "maxCharacters": 240
+          },
+          "sourcePublishedAt": "2026-09-30T10:33:05.000Z",
+          "version": 1,
+          "updatedAt": "2026-09-30T11:20:28.113Z"
+        }
+      ]
     },
     {
       "id": "2971366412d94a3e1e7c0547",
@@ -1099,7 +3204,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1124,7 +3229,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1150,7 +3255,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1176,7 +3281,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1202,7 +3307,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1227,7 +3332,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1252,7 +3357,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1278,7 +3383,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1304,7 +3409,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1329,7 +3434,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1355,7 +3460,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1381,7 +3486,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1407,7 +3512,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1434,7 +3539,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1460,7 +3565,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1486,7 +3591,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1511,7 +3616,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1587,7 +3692,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1637,7 +3742,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1664,7 +3769,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1691,7 +3796,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1767,7 +3872,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1792,7 +3897,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1817,7 +3922,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -1851,7 +3956,7 @@
       "id": "951f80a0304206a8611cf8b5",
       "title": "Conclusion of the Global Coalition’s military mission in Iraq ",
       "originalUrl": "https://www.gov.uk/government/news/conclusion-of-the-global-coalitions-military-mission-in-iraq",
-      "sourcePublishedAt": "2026-09-30T10:24:54+01:00",
+      "sourcePublishedAt": "2026-09-30T10:24:00+01:00",
       "timeIssue": null,
       "channels": [
         "local-life"
@@ -1865,9 +3970,9 @@
         "sourceId": "govuk-fulltext"
       },
       "contentMode": "fulltext",
-      "bodyHtml": "<div><p>UK-Iraqi security cooperation is set to enter a new phase, as the Global Coalition’s military mission against Daesh in Iraq, Operation Inherent Resolve, successfully concludes and its forces - including UK personnel - depart. </p>\n\n<p>Following more than a decade of operations, training and capacity building, Iraqi Security Forces (ISF) and the Kurdish Peshmerga have secured the enduring territorial defeat of Daesh in Iraq and are now well placed to take primary responsibility for the country’s security. </p>\n\n<p>As part of the transition to new security arrangements led by the Government of Iraq, Coalition forces, including UK personnel, have departed.  </p>\n\n<p>The ISF has bolstered security across Iraq, enabling the return of essential services and supporting the recovery of communities affected by conflict. With these objectives achieved, Iraq and its international partners can begin a new chapter focused on enduring security cooperation under Iraqi leadership. </p>\n\n<p>The UK will continue to support Iraq’s security and stability, working closely with Iraqi partners to develop an enduring bilateral defence partnership. </p>\n\n<p>Operation Inherent Resolve was established in 2014 to advise, assist and enable partner forces to secure the lasting defeat of Daesh and establish enduring security cooperation. This mission operates under The Global Coalition Against Daesh, consisting of 90 partners.</p>\n\n<p>During the last decade, the UK has played a leading role through Operation SHADER, the UK’s contribution to Operation Inherent Resolve. At the invitation of the Iraqi government, UK forces provided valuable support, training and assistance to more than 111,000 members of the ISF, including more than 21,000 of the Peshmerga, in crucial infantry, weapons maintenance, counter-IED, medical and engineering skills. </p>\n\n<p>The RAF has also conducted thousands of sorties striking more than 2300 Daesh targets, as well as providing critical surveillance and reconnaissance in support of ISF ground operations. </p>\n\n<p>We pay tribute to the UK personnel who have played their part in the Global Coalition. Working alongside our global Coalition partners, the UK remains committed to ensuring the global defeat of Daesh and its violent ideology including thorough the continuation of Operation SHADER. Alongside security partnerships, the UK will continue to lead the coordination of Coalition communications that counter Daesh propaganda and build resilience against terrorist messaging. </p>\n\n<p>Our commitment to Iraq and the wider region remains steadfast. Building on a decade of close cooperation, we look forward to developing an enduring bilateral defence partnership with Iraq. This will focus on counter-terrorism cooperation, military education, capability development, defence industrial collaboration and advancing our shared security interests.</p>\n</div>",
-      "bodyText": "UK-Iraqi security cooperation is set to enter a new phase, as the Global Coalition’s military mission against Daesh in Iraq, Operation Inherent Resolve, successfully concludes and its forces - including UK personnel - depart. \n\nFollowing more than a decade of operations, training and capacity building, Iraqi Security Forces (ISF) and the Kurdish Peshmerga have secured the enduring territorial defeat of Daesh in Iraq and are now well placed to take primary responsibility for the country’s security. \n\nAs part of the transition to new security arrangements led by the Government of Iraq, Coalition forces, including UK personnel, have departed.  \n\nThe ISF has bolstered security across Iraq, enabling the return of essential services and supporting the recovery of communities affected by conflict. With these objectives achieved, Iraq and its international partners can begin a new chapter focused on enduring security cooperation under Iraqi leadership. \n\nThe UK will continue to support Iraq’s security and stability, working closely with Iraqi partners to develop an enduring bilateral defence partnership. \n\nOperation Inherent Resolve was established in 2014 to advise, assist and enable partner forces to secure the lasting defeat of Daesh and establish enduring security cooperation. This mission operates under The Global Coalition Against Daesh, consisting of 90 partners.\n\nDuring the last decade, the UK has played a leading role through Operation SHADER, the UK’s contribution to Operation Inherent Resolve. At the invitation of the Iraqi government, UK forces provided valuable support, training and assistance to more than 111,000 members of the ISF, including more than 21,000 of the Peshmerga, in crucial infantry, weapons maintenance, counter-IED, medical and engineering skills. \n\nThe RAF has also conducted thousands of sorties striking more than 2300 Daesh targets, as well as providing critical surveillance and reconnaissance in support of ISF ground operations. \n\nWe pay tribute to the UK personnel who have played their part in the Global Coalition. Working alongside our global Coalition partners, the UK remains committed to ensuring the global defeat of Daesh and its violent ideology including thorough the continuation of Operation SHADER. Alongside security partnerships, the UK will continue to lead the coordination of Coalition communications that counter Daesh propaganda and build resilience against terrorist messaging. \n\nOur commitment to Iraq and the wider region remains steadfast. Building on a decade of close cooperation, we look forward to developing an enduring bilateral defence partnership with Iraq. This will focus on counter-terrorism cooperation, military education, capability development, defence industrial collaboration and advancing our shared security interests.\n",
-      "bodyHash": "20383121e9b55e86ad7d7b01607f16f62abc6c51526758e1a7d72b1f9a53d217",
+      "bodyHtml": "<div><p>UK-Iraqi security cooperation is set to enter a new phase, as the Global Coalition’s military mission against Daesh in Iraq, Operation Inherent Resolve, successfully concludes and its forces - including UK personnel - depart. </p>\n\n<p>Following more than a decade of operations, training and capacity building, Iraqi Security Forces (ISF) and the Kurdish Peshmerga have secured the enduring territorial defeat of Daesh in Iraq and are now well placed to take primary responsibility for the country’s security. </p>\n\n<p>As part of the transition to new security arrangements led by the Government of Iraq, Coalition forces, including UK personnel, have departed.  </p>\n\n<p>The ISF has bolstered security across Iraq, enabling the return of essential services and supporting the recovery of communities affected by conflict. With these objectives achieved, Iraq and its international partners can begin a new chapter focused on enduring security cooperation under Iraqi leadership. </p>\n\n<p>The UK will continue to support Iraq’s security and stability, working closely with Iraqi partners to develop an enduring bilateral defence partnership. </p>\n\n<p>Operation Inherent Resolve was established in 2014 to advise, assist and enable partner forces to secure the lasting defeat of Daesh and establish enduring security cooperation. This mission operates under The Global Coalition Against Daesh, consisting of 90 partners.</p>\n\n<p>During the last decade, the UK has played a leading role through Operation SHADER, the UK’s contribution to Operation Inherent Resolve. At the invitation of the Iraqi government, UK forces provided valuable support, training and assistance to more than 111,000 members of the ISF, including more than 21,000 of the Peshmerga, in crucial infantry, weapons maintenance, counter-IED, medical and engineering skills. </p>\n\n<p>The RAF has also conducted thousands of sorties striking more than 2300 Daesh targets, as well as providing critical surveillance and reconnaissance in support of ISF ground operations. </p>\n\n<p>We pay tribute to the UK personnel who have played their part in the Global Coalition. Working alongside our global Coalition partners, the UK remains committed to ensuring the global defeat of Daesh and its violent ideology including through the continuation of Operation SHADER. Alongside security partnerships, the UK will continue to lead the coordination of Coalition communications that counter Daesh propaganda and build resilience against terrorist messaging. </p>\n\n<p>Our commitment to Iraq and the wider region remains steadfast. Building on a decade of close cooperation, we look forward to developing an enduring bilateral defence partnership with Iraq. This will focus on counter-terrorism cooperation, military education, capability development, defence industrial collaboration and advancing our shared security interests.</p>\n</div>",
+      "bodyText": "UK-Iraqi security cooperation is set to enter a new phase, as the Global Coalition’s military mission against Daesh in Iraq, Operation Inherent Resolve, successfully concludes and its forces - including UK personnel - depart. \n\nFollowing more than a decade of operations, training and capacity building, Iraqi Security Forces (ISF) and the Kurdish Peshmerga have secured the enduring territorial defeat of Daesh in Iraq and are now well placed to take primary responsibility for the country’s security. \n\nAs part of the transition to new security arrangements led by the Government of Iraq, Coalition forces, including UK personnel, have departed.  \n\nThe ISF has bolstered security across Iraq, enabling the return of essential services and supporting the recovery of communities affected by conflict. With these objectives achieved, Iraq and its international partners can begin a new chapter focused on enduring security cooperation under Iraqi leadership. \n\nThe UK will continue to support Iraq’s security and stability, working closely with Iraqi partners to develop an enduring bilateral defence partnership. \n\nOperation Inherent Resolve was established in 2014 to advise, assist and enable partner forces to secure the lasting defeat of Daesh and establish enduring security cooperation. This mission operates under The Global Coalition Against Daesh, consisting of 90 partners.\n\nDuring the last decade, the UK has played a leading role through Operation SHADER, the UK’s contribution to Operation Inherent Resolve. At the invitation of the Iraqi government, UK forces provided valuable support, training and assistance to more than 111,000 members of the ISF, including more than 21,000 of the Peshmerga, in crucial infantry, weapons maintenance, counter-IED, medical and engineering skills. \n\nThe RAF has also conducted thousands of sorties striking more than 2300 Daesh targets, as well as providing critical surveillance and reconnaissance in support of ISF ground operations. \n\nWe pay tribute to the UK personnel who have played their part in the Global Coalition. Working alongside our global Coalition partners, the UK remains committed to ensuring the global defeat of Daesh and its violent ideology including through the continuation of Operation SHADER. Alongside security partnerships, the UK will continue to lead the coordination of Coalition communications that counter Daesh propaganda and build resilience against terrorist messaging. \n\nOur commitment to Iraq and the wider region remains steadfast. Building on a decade of close cooperation, we look forward to developing an enduring bilateral defence partnership with Iraq. This will focus on counter-terrorism cooperation, military education, capability development, defence industrial collaboration and advancing our shared security interests.\n",
+      "bodyHash": "4fd195ffdc50926a46e434aac9a2306024dd56274d4198cb4f62993a76831e4c",
       "language": "en",
       "republication": {
         "sourceId": "govuk-fulltext",
@@ -1880,14 +3985,26 @@
         ],
         "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
         "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
-        "sourceUpdatedAt": "2026-09-30T10:24:54+01:00",
+        "sourceUpdatedAt": "2026-09-30T10:24:00+01:00",
         "sourceVersion": "b75179ba-4ef8-47ea-9190-e1b5d47a0670"
       },
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
-      "updatedAt": "2026-09-30T11:20:28.113Z",
-      "version": 1,
-      "history": []
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 2,
+      "history": [
+        {
+          "title": "Conclusion of the Global Coalition’s military mission in Iraq ",
+          "summary": "UK-Iraqi security cooperation is set to enter a new phase, as the Global Coalition’s military mission against Daesh in Iraq, Operation Inherent Resolve, successfully concludes and its forces - including UK personnel - depart. Following more",
+          "summaryProvenance": {
+            "type": "licensed_body_excerpt",
+            "sourceId": "govuk-fulltext"
+          },
+          "sourcePublishedAt": "2026-09-30T10:24:54+01:00",
+          "version": 1,
+          "updatedAt": "2026-09-30T11:20:28.113Z"
+        }
+      ]
     },
     {
       "id": "3c8f3b232473640f0fa6d6fc",
@@ -1916,48 +4033,6 @@
       "history": []
     },
     {
-      "id": "2467f63aa2e3d4bb810c7728",
-      "title": "Government acts on food insecurity and affordability with £10 million to put good food within reach",
-      "originalUrl": "https://www.gov.uk/government/news/government-acts-on-food-insecurity-and-affordability-with-10-million-to-put-good-food-within-reach",
-      "sourcePublishedAt": "2026-09-30T10:21:30+01:00",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "govuk-fulltext"
-      ],
-      "summary": "Some of England’s most disadvantaged areas will benefit from almost £10 million to improve access to healthy and affordable food, helping families and communities get the room to breathe they need on the cost of living. The new funding will",
-      "summaryProvenance": {
-        "type": "licensed_body_excerpt",
-        "sourceId": "govuk-fulltext"
-      },
-      "contentMode": "fulltext",
-      "bodyHtml": "<div><p>Some of England’s most disadvantaged areas will benefit from almost £10 million to improve access to healthy and affordable food, helping families and communities get the room to breathe they need on the cost of living.</p>\n\n<p>The new funding will be provided to 45 local authorities identified as having the greatest levels of deprivation and childhood obesity. Each local authority will receive £222,000 to develop solutions that meet local needs, putting decision-making and resources directly in the hands of local leaders who know their communities best.</p>\n\n<p>Funding could support initiatives such as community food shops, mobile greengrocers, lunch clubs, community kitchens, and cooking and nutrition programmes, as well as helping local authorities strengthen their capacity to plan for and meet local food needs.</p>\n\n<p>The investment responds to stark figures: 9% of people lived in food insecure households in 2024/25, while children living in the most deprived communities are significantly more likely to experience obesity and related health inequalities.</p>\n\n<p>The intervention comes as the government acts to give people more room to breathe by improving access to affordable food, while delivering power to communities.</p>\n\n<p>This programme has been developed following the work of the Citizen’s Advisory Council, and conversations with civil society organisations, to understand what would work best for local communities.</p>\n\n<p>Alongside government funding, the programme will work with businesses, charities and philanthropy to build on existing community projects, reach more people and bring additional funding into local areas.</p>\n\n<p>Through the Government’s Good Food Cycle, the programme will help communities access healthier food and build a more resilient future.</p>\n\n<p><strong><em>NOTES TO EDITORS</em></strong> </p>\n\n<p>The recipient councils include: </p>\n\n<ul>\n  <li>\n    <p>Ashfield District Council  </p>\n  </li>\n  <li>\n    <p>London Borough of Barking and Dagenham Council   </p>\n  </li>\n  <li>\n    <p>Barnsley Metropolitan Borough Council  </p>\n  </li>\n  <li>\n    <p>Bassetlaw District Council  </p>\n  </li>\n  <li>\n    <p>Birmingham City Council   </p>\n  </li>\n  <li>\n    <p>Blackpool Council  </p>\n  </li>\n  <li>\n    <p>Bolsover District Council  </p>\n  </li>\n  <li>\n    <p>Boston Borough Council  </p>\n  </li>\n  <li>\n    <p>Burnley Borough Council  </p>\n  </li>\n  <li>\n    <p>City of Bradford Metropolitan District Council  </p>\n  </li>\n  <li>\n    <p>City of Doncaster Council  </p>\n  </li>\n  <li>\n    <p>Enfield London Borough Council  </p>\n  </li>\n  <li>\n    <p>Fenland District Council  </p>\n  </li>\n  <li>\n    <p>Gloucester City Council  </p>\n  </li>\n  <li>\n    <p>Great Yarmouth Borough Council  </p>\n  </li>\n  <li>\n    <p>Royal Borough of Greenwich   </p>\n  </li>\n  <li>\n    <p>Halton Borough Council  </p>\n  </li>\n  <li>\n    <p>Harlow Council  </p>\n  </li>\n  <li>\n    <p>Hartlepool Borough Council  </p>\n  </li>\n  <li>\n    <p>Hull City Council  </p>\n  </li>\n  <li>\n    <p>Knowsley Council  </p>\n  </li>\n  <li>\n    <p>City of Lincoln Council  </p>\n  </li>\n  <li>\n    <p>Liverpool City Council  </p>\n  </li>\n  <li>\n    <p>Luton Borough Council  </p>\n  </li>\n  <li>\n    <p>Manchester City Council  </p>\n  </li>\n  <li>\n    <p>Mansfield District Council  </p>\n  </li>\n  <li>\n    <p>Middlesbrough Council  </p>\n  </li>\n  <li>\n    <p>Newcastle-under-Lyme Borough Council  </p>\n  </li>\n  <li>\n    <p>Newham Council  </p>\n  </li>\n  <li>\n    <p>North East Lincolnshire Council  </p>\n  </li>\n  <li>\n    <p>North Lincolnshire Council  </p>\n  </li>\n  <li>\n    <p>Nottingham City Council  </p>\n  </li>\n  <li>\n    <p>Pendle Borough Council  </p>\n  </li>\n  <li>\n    <p>Peterborough City Council  </p>\n  </li>\n  <li>\n    <p>Rossendale Borough Council  </p>\n  </li>\n  <li>\n    <p>Rotherham Metropolitan Borough Council  </p>\n  </li>\n  <li>\n    <p>Salford City Council  </p>\n  </li>\n  <li>\n    <p>Sandwell Council  </p>\n  </li>\n  <li>\n    <p>South Tyneside Council  </p>\n  </li>\n  <li>\n    <p>Sunderland City Council  </p>\n  </li>\n  <li>\n    <p>Walsall Council  </p>\n  </li>\n  <li>\n    <p>Wolverhampton City Council  </p>\n  </li>\n  <li>\n    <p>Stoke-on-Trent Council  </p>\n  </li>\n  <li>\n    <p>Slough Borough Council  </p>\n  </li>\n  <li>\n    <p>South Holland District Council</p>\n  </li>\n</ul>\n</div>",
-      "bodyText": "Some of England’s most disadvantaged areas will benefit from almost £10 million to improve access to healthy and affordable food, helping families and communities get the room to breathe they need on the cost of living.\n\nThe new funding will be provided to 45 local authorities identified as having the greatest levels of deprivation and childhood obesity. Each local authority will receive £222,000 to develop solutions that meet local needs, putting decision-making and resources directly in the hands of local leaders who know their communities best.\n\nFunding could support initiatives such as community food shops, mobile greengrocers, lunch clubs, community kitchens, and cooking and nutrition programmes, as well as helping local authorities strengthen their capacity to plan for and meet local food needs.\n\nThe investment responds to stark figures: 9% of people lived in food insecure households in 2024/25, while children living in the most deprived communities are significantly more likely to experience obesity and related health inequalities.\n\nThe intervention comes as the government acts to give people more room to breathe by improving access to affordable food, while delivering power to communities.\n\nThis programme has been developed following the work of the Citizen’s Advisory Council, and conversations with civil society organisations, to understand what would work best for local communities.\n\nAlongside government funding, the programme will work with businesses, charities and philanthropy to build on existing community projects, reach more people and bring additional funding into local areas.\n\nThrough the Government’s Good Food Cycle, the programme will help communities access healthier food and build a more resilient future.\n\nNOTES TO EDITORS \n\nThe recipient councils include: \n\n\n  \n    Ashfield District Council  \n  \n  \n    London Borough of Barking and Dagenham Council   \n  \n  \n    Barnsley Metropolitan Borough Council  \n  \n  \n    Bassetlaw District Council  \n  \n  \n    Birmingham City Council   \n  \n  \n    Blackpool Council  \n  \n  \n    Bolsover District Council  \n  \n  \n    Boston Borough Council  \n  \n  \n    Burnley Borough Council  \n  \n  \n    City of Bradford Metropolitan District Council  \n  \n  \n    City of Doncaster Council  \n  \n  \n    Enfield London Borough Council  \n  \n  \n    Fenland District Council  \n  \n  \n    Gloucester City Council  \n  \n  \n    Great Yarmouth Borough Council  \n  \n  \n    Royal Borough of Greenwich   \n  \n  \n    Halton Borough Council  \n  \n  \n    Harlow Council  \n  \n  \n    Hartlepool Borough Council  \n  \n  \n    Hull City Council  \n  \n  \n    Knowsley Council  \n  \n  \n    City of Lincoln Council  \n  \n  \n    Liverpool City Council  \n  \n  \n    Luton Borough Council  \n  \n  \n    Manchester City Council  \n  \n  \n    Mansfield District Council  \n  \n  \n    Middlesbrough Council  \n  \n  \n    Newcastle-under-Lyme Borough Council  \n  \n  \n    Newham Council  \n  \n  \n    North East Lincolnshire Council  \n  \n  \n    North Lincolnshire Council  \n  \n  \n    Nottingham City Council  \n  \n  \n    Pendle Borough Council  \n  \n  \n    Peterborough City Council  \n  \n  \n    Rossendale Borough Council  \n  \n  \n    Rotherham Metropolitan Borough Council  \n  \n  \n    Salford City Council  \n  \n  \n    Sandwell Council  \n  \n  \n    South Tyneside Council  \n  \n  \n    Sunderland City Council  \n  \n  \n    Walsall Council  \n  \n  \n    Wolverhampton City Council  \n  \n  \n    Stoke-on-Trent Council  \n  \n  \n    Slough Borough Council  \n  \n  \n    South Holland District Council\n  \n\n",
-      "bodyHash": "82cb44fcdf89ad1d3b625e83109b6d77b077461b9f4a29d94ee8e30d7b303c31",
-      "language": "en",
-      "republication": {
-        "sourceId": "govuk-fulltext",
-        "sourceUrl": "https://www.gov.uk/government/news/government-acts-on-food-insecurity-and-affordability-with-10-million-to-put-good-food-within-reach",
-        "license": "Open Government Licence v3.0",
-        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
-        "authors": [
-          "Department for Environment, Food & Rural Affairs"
-        ],
-        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
-        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
-        "sourceUpdatedAt": "2026-09-30T10:21:30+01:00",
-        "sourceVersion": "613c4814-8e4b-48b4-b839-54bafdec7071"
-      },
-      "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
-      "updatedAt": "2026-09-30T11:20:28.113Z",
-      "version": 1,
-      "history": []
-    },
-    {
       "id": "ccc6c490036efc3bbeff7e03",
       "title": "张玉宁：中国队可昂首挺胸离开球场",
       "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-30/10706364.shtml",
@@ -1977,10 +4052,64 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
+    },
+    {
+      "id": "2467f63aa2e3d4bb810c7728",
+      "title": "Government acts on food insecurity and affordability with £10 million to put good food within reach",
+      "originalUrl": "https://www.gov.uk/government/news/government-acts-on-food-insecurity-and-affordability-with-10-million-to-put-good-food-within-reach",
+      "sourcePublishedAt": "2026-09-30T10:21:00+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "Some of England’s most disadvantaged areas will benefit from almost £10 million to improve access to healthy and affordable food, helping families and communities get the room to breathe they need on the cost of living. The new funding will",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>Some of England’s most disadvantaged areas will benefit from almost £10 million to improve access to healthy and affordable food, helping families and communities get the room to breathe they need on the cost of living.</p>\n\n<p>The new funding will be provided to 45 local authorities identified as having the greatest levels of deprivation and childhood obesity. Each local authority will receive £222,000 to develop solutions that meet local needs, putting decision-making and resources directly in the hands of local leaders who know their communities best.</p>\n\n<p>The Good Food Neighbourhoods funding could support initiatives such as community food shops, mobile greengrocers, lunch clubs, community kitchens, and cooking and nutrition programmes, as well as helping local authorities strengthen their capacity to plan for and meet local food needs.</p>\n\n<p>The investment responds to stark figures: 9% of people lived in food insecure households in 2024/25, while children living in the most deprived communities are significantly more likely to experience obesity and related health inequalities.</p>\n\n<p>The intervention comes as the government acts to give people more room to breathe by improving access to affordable food, while delivering power to communities.</p>\n\n<p>This programme has been developed following the work of the Citizen’s Advisory Council, and conversations with civil society organisations, to understand what would work best for local communities.</p>\n\n<p>Alongside government funding, the programme will work with businesses, charities and philanthropy to build on existing community projects, reach more people and bring additional funding into local areas.</p>\n\n<p>Through the Government’s Good Food Cycle, the programme will help communities access healthier food and build a more resilient future.</p>\n\n<p><strong><em>NOTES TO EDITORS</em></strong> </p>\n\n<p>The recipient councils include: </p>\n\n<ul>\n  <li>\n    <p>Ashfield District Council  </p>\n  </li>\n  <li>\n    <p>London Borough of Barking and Dagenham Council   </p>\n  </li>\n  <li>\n    <p>Barnsley Metropolitan Borough Council  </p>\n  </li>\n  <li>\n    <p>Bassetlaw District Council  </p>\n  </li>\n  <li>\n    <p>Birmingham City Council   </p>\n  </li>\n  <li>\n    <p>Blackpool Council  </p>\n  </li>\n  <li>\n    <p>Bolsover District Council  </p>\n  </li>\n  <li>\n    <p>Boston Borough Council  </p>\n  </li>\n  <li>\n    <p>Burnley Borough Council  </p>\n  </li>\n  <li>\n    <p>City of Bradford Metropolitan District Council  </p>\n  </li>\n  <li>\n    <p>City of Doncaster Council  </p>\n  </li>\n  <li>\n    <p>Enfield London Borough Council  </p>\n  </li>\n  <li>\n    <p>Fenland District Council  </p>\n  </li>\n  <li>\n    <p>Gloucester City Council  </p>\n  </li>\n  <li>\n    <p>Great Yarmouth Borough Council  </p>\n  </li>\n  <li>\n    <p>Royal Borough of Greenwich   </p>\n  </li>\n  <li>\n    <p>Halton Borough Council  </p>\n  </li>\n  <li>\n    <p>Harlow Council  </p>\n  </li>\n  <li>\n    <p>Hartlepool Borough Council  </p>\n  </li>\n  <li>\n    <p>Hull City Council  </p>\n  </li>\n  <li>\n    <p>Knowsley Council  </p>\n  </li>\n  <li>\n    <p>City of Lincoln Council  </p>\n  </li>\n  <li>\n    <p>Liverpool City Council  </p>\n  </li>\n  <li>\n    <p>Luton Borough Council  </p>\n  </li>\n  <li>\n    <p>Manchester City Council  </p>\n  </li>\n  <li>\n    <p>Mansfield District Council  </p>\n  </li>\n  <li>\n    <p>Middlesbrough Council  </p>\n  </li>\n  <li>\n    <p>Newcastle-under-Lyme Borough Council  </p>\n  </li>\n  <li>\n    <p>Newham Council  </p>\n  </li>\n  <li>\n    <p>North East Lincolnshire Council  </p>\n  </li>\n  <li>\n    <p>North Lincolnshire Council  </p>\n  </li>\n  <li>\n    <p>Nottingham City Council  </p>\n  </li>\n  <li>\n    <p>Pendle Borough Council  </p>\n  </li>\n  <li>\n    <p>Peterborough City Council  </p>\n  </li>\n  <li>\n    <p>Rossendale Borough Council  </p>\n  </li>\n  <li>\n    <p>Rotherham Metropolitan Borough Council  </p>\n  </li>\n  <li>\n    <p>Salford City Council  </p>\n  </li>\n  <li>\n    <p>Sandwell Council  </p>\n  </li>\n  <li>\n    <p>South Tyneside Council  </p>\n  </li>\n  <li>\n    <p>Sunderland City Council  </p>\n  </li>\n  <li>\n    <p>Walsall Council  </p>\n  </li>\n  <li>\n    <p>Wolverhampton City Council  </p>\n  </li>\n  <li>\n    <p>Stoke-on-Trent Council  </p>\n  </li>\n  <li>\n    <p>Slough Borough Council  </p>\n  </li>\n  <li>\n    <p>South Holland District Council</p>\n  </li>\n</ul>\n</div>",
+      "bodyText": "Some of England’s most disadvantaged areas will benefit from almost £10 million to improve access to healthy and affordable food, helping families and communities get the room to breathe they need on the cost of living.\n\nThe new funding will be provided to 45 local authorities identified as having the greatest levels of deprivation and childhood obesity. Each local authority will receive £222,000 to develop solutions that meet local needs, putting decision-making and resources directly in the hands of local leaders who know their communities best.\n\nThe Good Food Neighbourhoods funding could support initiatives such as community food shops, mobile greengrocers, lunch clubs, community kitchens, and cooking and nutrition programmes, as well as helping local authorities strengthen their capacity to plan for and meet local food needs.\n\nThe investment responds to stark figures: 9% of people lived in food insecure households in 2024/25, while children living in the most deprived communities are significantly more likely to experience obesity and related health inequalities.\n\nThe intervention comes as the government acts to give people more room to breathe by improving access to affordable food, while delivering power to communities.\n\nThis programme has been developed following the work of the Citizen’s Advisory Council, and conversations with civil society organisations, to understand what would work best for local communities.\n\nAlongside government funding, the programme will work with businesses, charities and philanthropy to build on existing community projects, reach more people and bring additional funding into local areas.\n\nThrough the Government’s Good Food Cycle, the programme will help communities access healthier food and build a more resilient future.\n\nNOTES TO EDITORS \n\nThe recipient councils include: \n\n\n  \n    Ashfield District Council  \n  \n  \n    London Borough of Barking and Dagenham Council   \n  \n  \n    Barnsley Metropolitan Borough Council  \n  \n  \n    Bassetlaw District Council  \n  \n  \n    Birmingham City Council   \n  \n  \n    Blackpool Council  \n  \n  \n    Bolsover District Council  \n  \n  \n    Boston Borough Council  \n  \n  \n    Burnley Borough Council  \n  \n  \n    City of Bradford Metropolitan District Council  \n  \n  \n    City of Doncaster Council  \n  \n  \n    Enfield London Borough Council  \n  \n  \n    Fenland District Council  \n  \n  \n    Gloucester City Council  \n  \n  \n    Great Yarmouth Borough Council  \n  \n  \n    Royal Borough of Greenwich   \n  \n  \n    Halton Borough Council  \n  \n  \n    Harlow Council  \n  \n  \n    Hartlepool Borough Council  \n  \n  \n    Hull City Council  \n  \n  \n    Knowsley Council  \n  \n  \n    City of Lincoln Council  \n  \n  \n    Liverpool City Council  \n  \n  \n    Luton Borough Council  \n  \n  \n    Manchester City Council  \n  \n  \n    Mansfield District Council  \n  \n  \n    Middlesbrough Council  \n  \n  \n    Newcastle-under-Lyme Borough Council  \n  \n  \n    Newham Council  \n  \n  \n    North East Lincolnshire Council  \n  \n  \n    North Lincolnshire Council  \n  \n  \n    Nottingham City Council  \n  \n  \n    Pendle Borough Council  \n  \n  \n    Peterborough City Council  \n  \n  \n    Rossendale Borough Council  \n  \n  \n    Rotherham Metropolitan Borough Council  \n  \n  \n    Salford City Council  \n  \n  \n    Sandwell Council  \n  \n  \n    South Tyneside Council  \n  \n  \n    Sunderland City Council  \n  \n  \n    Walsall Council  \n  \n  \n    Wolverhampton City Council  \n  \n  \n    Stoke-on-Trent Council  \n  \n  \n    Slough Borough Council  \n  \n  \n    South Holland District Council\n  \n\n",
+      "bodyHash": "71ead181684b4441859125ccc9ff2716690e928d119fc94db5b26dcc1b54274a",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/government-acts-on-food-insecurity-and-affordability-with-10-million-to-put-good-food-within-reach",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Department for Environment, Food & Rural Affairs"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-09-30T10:21:00+01:00",
+        "sourceVersion": "613c4814-8e4b-48b4-b839-54bafdec7071"
+      },
+      "firstSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 2,
+      "history": [
+        {
+          "title": "Government acts on food insecurity and affordability with £10 million to put good food within reach",
+          "summary": "Some of England’s most disadvantaged areas will benefit from almost £10 million to improve access to healthy and affordable food, helping families and communities get the room to breathe they need on the cost of living. The new funding will",
+          "summaryProvenance": {
+            "type": "licensed_body_excerpt",
+            "sourceId": "govuk-fulltext"
+          },
+          "sourcePublishedAt": "2026-09-30T10:21:30+01:00",
+          "version": 1,
+          "updatedAt": "2026-09-30T11:20:28.113Z"
+        }
+      ]
     },
     {
       "id": "8eae0881580bec7faba9bafd",
@@ -2052,7 +4181,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -2077,7 +4206,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -2102,7 +4231,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -2170,7 +4299,7 @@
         "sourceVersion": "b0c2032d-b240-467f-aabe-7a6f2b192750"
       },
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -2195,7 +4324,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -2270,7 +4399,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -2346,7 +4475,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -2396,7 +4525,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -2472,7 +4601,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -2497,7 +4626,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -2624,7 +4753,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -2675,7 +4804,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -2717,7 +4846,7 @@
         "sourceVersion": "92d0abbc-63bb-4af2-85bb-b4b7f078fa90"
       },
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -2759,7 +4888,7 @@
         "sourceVersion": "cd191f87-b848-45c6-abac-4d8c7d3991e7"
       },
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -2911,7 +5040,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -3039,7 +5168,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -3190,7 +5319,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -3266,7 +5395,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -3444,7 +5573,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -3622,7 +5751,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -3699,7 +5828,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -3724,7 +5853,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -3781,7 +5910,7 @@
     },
     {
       "id": "4d7bbdc9caab1380e940ab3c",
-      "title": "经典任务管理软件的现代重构： 新版 2Do 详解",
+      "title": "经典任务管理软件的现代重构：新版 2Do 详解",
       "originalUrl": "https://sspai.com/post/115166",
       "summary": "完全重构的 2Do 是我的心目中最佳的任务管理工具。",
       "summaryProvenance": {
@@ -3800,10 +5929,24 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
-      "updatedAt": "2026-09-30T11:20:28.113Z",
-      "version": 1,
-      "history": []
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
+      "updatedAt": "2026-09-30T16:59:14.598Z",
+      "version": 2,
+      "history": [
+        {
+          "title": "经典任务管理软件的现代重构： 新版 2Do 详解",
+          "summary": "完全重构的 2Do 是我的心目中最佳的任务管理工具。",
+          "summaryProvenance": {
+            "type": "publisher_feed_excerpt",
+            "sourceId": "sspai",
+            "feedUrl": "https://sspai.com/feed",
+            "maxCharacters": 240
+          },
+          "sourcePublishedAt": "2026-09-30T07:00:00.000Z",
+          "version": 1,
+          "updatedAt": "2026-09-30T11:20:28.113Z"
+        }
+      ]
     },
     {
       "id": "e341d5186efe80e0e4848190",
@@ -3850,7 +5993,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -3875,7 +6018,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -3900,7 +6043,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -3925,7 +6068,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -4001,7 +6144,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -4051,7 +6194,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -4076,7 +6219,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -4102,7 +6245,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -4127,7 +6270,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -4256,7 +6399,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T11:20:28.113Z",
       "version": 1,
       "history": []
@@ -4383,7 +6526,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T05:25:35.158Z",
       "version": 1,
       "history": []
@@ -4799,7 +6942,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T05:25:35.158Z",
       "version": 1,
       "history": []
@@ -5060,7 +7203,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T05:25:35.158Z",
       "version": 1,
       "history": []
@@ -5323,7 +7466,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T05:25:35.158Z",
       "version": 1,
       "history": []
@@ -5782,7 +7925,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T05:25:35.158Z",
       "version": 1,
       "history": []
@@ -6620,7 +8763,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T05:25:35.158Z",
       "version": 1,
       "history": []
@@ -6999,7 +9142,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T05:25:35.158Z",
       "version": 1,
       "history": []
@@ -7229,7 +9372,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T05:25:35.158Z",
       "version": 1,
       "history": []
@@ -7659,7 +9802,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T05:25:35.158Z",
       "version": 1,
       "history": []
@@ -7711,7 +9854,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T05:25:35.158Z",
       "version": 1,
       "history": []
@@ -7737,7 +9880,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-30T05:25:35.158Z",
       "version": 1,
       "history": []
@@ -8803,7 +10946,7 @@
         "sourceVersion": "8856f75a-f830-4f56-9be9-6f78e41e64a3"
       },
       "firstSeenAt": "2026-09-29T19:57:43.774Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T19:57:43.774Z",
       "version": 1,
       "history": []
@@ -9251,7 +11394,7 @@
         "sourceVersion": "650747f4-2d08-486b-9a96-830666dc0406"
       },
       "firstSeenAt": "2026-09-29T19:57:43.774Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T19:57:43.774Z",
       "version": 1,
       "history": []
@@ -9486,7 +11629,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-29T19:57:43.774Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T19:57:43.774Z",
       "version": 1,
       "history": []
@@ -9538,7 +11681,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-29T19:57:43.774Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T19:57:43.774Z",
       "version": 1,
       "history": []
@@ -9633,7 +11776,7 @@
         "sourceVersion": "238d96d7-f89c-47d6-abcf-615e8f0b9fc1"
       },
       "firstSeenAt": "2026-09-29T15:03:50.126Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T15:03:50.126Z",
       "version": 1,
       "history": []
@@ -9875,7 +12018,7 @@
         "sourceVersion": "2fa30d61-7c0c-4712-89b6-f8bc2f059306"
       },
       "firstSeenAt": "2026-09-29T15:03:50.126Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T15:03:50.126Z",
       "version": 1,
       "history": []
@@ -10459,7 +12602,7 @@
         "sourceVersion": "553e85fe-eb9b-4284-8482-33a1c58dbc53"
       },
       "firstSeenAt": "2026-09-29T15:03:50.126Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T15:03:50.126Z",
       "version": 1,
       "history": []
@@ -10923,7 +13066,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-29T15:03:50.126Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T15:03:50.126Z",
       "version": 1,
       "history": []
@@ -13231,7 +15374,7 @@
         "sourceVersion": "64264607-9edd-46de-aad8-cf86acee80a7"
       },
       "firstSeenAt": "2026-09-29T15:03:50.126Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T15:03:50.126Z",
       "version": 1,
       "history": []
@@ -13554,7 +15697,7 @@
         "sourceVersion": "1ebc0190-00c8-4e26-8393-51dcd010a965"
       },
       "firstSeenAt": "2026-09-29T15:03:50.126Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T15:03:50.126Z",
       "version": 1,
       "history": []
@@ -13680,7 +15823,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-29T15:03:50.126Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T15:03:50.126Z",
       "version": 1,
       "history": []
@@ -14136,7 +16279,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-29T15:03:50.126Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T15:03:50.126Z",
       "version": 1,
       "history": []
@@ -14203,7 +16346,7 @@
         "sourceVersion": "09504070-bed9-4105-81d3-6868ed59d6c5"
       },
       "firstSeenAt": "2026-09-29T15:03:50.126Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T15:03:50.126Z",
       "version": 1,
       "history": []
@@ -14245,7 +16388,7 @@
         "sourceVersion": "1b6f935d-80fd-4e23-b102-a2af7ad79b60"
       },
       "firstSeenAt": "2026-09-29T15:03:50.126Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T15:03:50.126Z",
       "version": 1,
       "history": []
@@ -15212,7 +17355,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-29T08:22:36.268Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T08:22:36.268Z",
       "version": 1,
       "history": []
@@ -15472,7 +17615,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-29T15:03:50.126Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T15:03:50.126Z",
       "version": 1,
       "history": []
@@ -15525,7 +17668,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-29T08:22:36.268Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T08:22:36.268Z",
       "version": 1,
       "history": []
@@ -17628,7 +19771,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-29T08:22:36.268Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T08:22:36.268Z",
       "version": 1,
       "history": []
@@ -17729,7 +19872,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-29T08:22:36.268Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T08:22:36.268Z",
       "version": 1,
       "history": []
@@ -18487,7 +20630,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-29T08:22:36.268Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T08:22:36.268Z",
       "version": 1,
       "history": []
@@ -20642,7 +22785,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-29T01:51:36.365Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-29T01:51:36.365Z",
       "version": 1,
       "history": []
@@ -25115,7 +27258,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-28T15:58:16.803Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-28T15:58:16.803Z",
       "version": 1,
       "history": []
@@ -25462,7 +27605,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-28T15:58:16.803Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-28T15:58:16.803Z",
       "version": 1,
       "history": []
@@ -26068,7 +28211,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-28T15:58:16.803Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-28T15:58:16.803Z",
       "version": 1,
       "history": []
@@ -26093,7 +28236,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-28T15:58:16.803Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-28T15:58:16.803Z",
       "version": 1,
       "history": []
@@ -34968,7 +37111,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-27T10:42:31.103Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-27T10:42:31.103Z",
       "version": 1,
       "history": []
@@ -36129,7 +38272,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-27T10:42:31.103Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-27T10:42:31.103Z",
       "version": 1,
       "history": []
@@ -36685,7 +38828,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-27T10:42:31.103Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-27T10:42:31.103Z",
       "version": 1,
       "history": []
@@ -36813,7 +38956,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-27T10:42:31.103Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-27T10:42:31.103Z",
       "version": 1,
       "history": []
@@ -37846,7 +39989,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-27T10:42:31.103Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-27T10:42:31.103Z",
       "version": 1,
       "history": []
@@ -38859,7 +41002,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-27T05:12:01.631Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-27T05:12:01.631Z",
       "version": 1,
       "history": []
@@ -39528,7 +41671,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-27T05:12:01.631Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-27T05:12:01.631Z",
       "version": 1,
       "history": []
@@ -40370,7 +42513,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-09-27T05:12:01.631Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-27T05:12:01.631Z",
       "version": 1,
       "history": []
@@ -41194,7 +43337,7 @@
         "chinanews-life"
       ],
       "firstSeenAt": "2026-09-26T18:32:45.742Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-26T18:32:45.742Z",
       "version": 1,
       "history": []
@@ -49886,7 +52029,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-09-26T00:34:55.764Z",
-      "lastSeenAt": "2026-09-30T11:20:28.113Z",
+      "lastSeenAt": "2026-09-30T16:59:14.598Z",
       "updatedAt": "2026-09-26T00:34:55.764Z",
       "version": 1,
       "history": []
@@ -160116,8 +162259,8 @@
       "id": "ithome",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-30T11:20:28.113Z",
-      "lastSuccessAt": "2026-09-30T11:20:28.113Z",
+      "checkedAt": "2026-09-30T16:59:14.598Z",
+      "lastSuccessAt": "2026-09-30T16:59:14.598Z",
       "etag": null,
       "lastModified": null,
       "discovered": 60,
@@ -160128,8 +162271,8 @@
       "id": "sspai",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-30T11:20:28.113Z",
-      "lastSuccessAt": "2026-09-30T11:20:28.113Z",
+      "checkedAt": "2026-09-30T16:59:14.598Z",
+      "lastSuccessAt": "2026-09-30T16:59:14.598Z",
       "etag": null,
       "lastModified": null,
       "discovered": 10,
@@ -160140,10 +162283,10 @@
       "id": "chinanews-society",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-30T11:20:28.113Z",
-      "lastSuccessAt": "2026-09-30T11:20:28.113Z",
-      "etag": "\"6abceeb6-3f34\"",
-      "lastModified": "Wed, 30 Sep 2026 11:12:54 GMT",
+      "checkedAt": "2026-09-30T16:59:14.598Z",
+      "lastSuccessAt": "2026-09-30T16:59:14.598Z",
+      "etag": "\"6abd2cc6-3f6e\"",
+      "lastModified": "Wed, 30 Sep 2026 15:37:42 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -160152,10 +162295,10 @@
       "id": "chinanews-finance",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-30T11:20:28.113Z",
-      "lastSuccessAt": "2026-09-30T11:20:28.113Z",
-      "etag": "\"6abcef2e-450b\"",
-      "lastModified": "Wed, 30 Sep 2026 11:14:54 GMT",
+      "checkedAt": "2026-09-30T16:59:14.598Z",
+      "lastSuccessAt": "2026-09-30T16:59:14.598Z",
+      "etag": "\"6abd1848-4576\"",
+      "lastModified": "Wed, 30 Sep 2026 14:10:16 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -160164,10 +162307,10 @@
       "id": "chinanews-life",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-30T11:20:28.113Z",
-      "lastSuccessAt": "2026-09-30T11:20:28.113Z",
-      "etag": "\"6abcc312-155a\"",
-      "lastModified": "Wed, 30 Sep 2026 08:06:42 GMT",
+      "checkedAt": "2026-09-30T16:59:14.598Z",
+      "lastSuccessAt": "2026-09-30T16:59:14.598Z",
+      "etag": "\"6abd0ea3-155a\"",
+      "lastModified": "Wed, 30 Sep 2026 13:29:07 GMT",
       "discovered": 13,
       "failures": 0,
       "error": null
@@ -160176,8 +162319,8 @@
       "id": "chinanews-jk",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-30T11:20:28.113Z",
-      "lastSuccessAt": "2026-09-30T11:20:28.113Z",
+      "checkedAt": "2026-09-30T16:59:14.598Z",
+      "lastSuccessAt": "2026-09-30T16:59:14.598Z",
       "etag": "\"69aa3e2a-2832\"",
       "lastModified": "Fri, 06 Mar 2026 02:38:34 GMT",
       "discovered": 0,
@@ -160188,23 +162331,23 @@
       "id": "chinanews-culture",
       "contentSchema": 2,
       "status": "failed",
-      "checkedAt": "2026-09-30T11:20:28.113Z",
+      "checkedAt": "2026-09-30T16:59:14.598Z",
       "lastSuccessAt": "2026-09-30T05:25:35.158Z",
       "etag": "\"6abc8864-42bc\"",
       "lastModified": "Wed, 30 Sep 2026 03:56:20 GMT",
       "discovered": 30,
-      "failures": 1,
+      "failures": 2,
       "error": "FETCH_OR_PARSE_FAILED"
     },
     "chinanews-edu": {
       "id": "chinanews-edu",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-30T11:20:28.113Z",
-      "lastSuccessAt": "2026-09-30T11:20:28.113Z",
-      "etag": "\"6abce0cc-1c2e\"",
-      "lastModified": "Wed, 30 Sep 2026 10:13:32 GMT",
-      "discovered": 14,
+      "checkedAt": "2026-09-30T16:59:14.598Z",
+      "lastSuccessAt": "2026-09-30T16:59:14.598Z",
+      "etag": "\"6abd10d6-203c\"",
+      "lastModified": "Wed, 30 Sep 2026 13:38:30 GMT",
+      "discovered": 16,
       "failures": 0,
       "error": null
     },
@@ -160212,10 +162355,10 @@
       "id": "chinanews-sports",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-09-30T11:20:28.113Z",
-      "lastSuccessAt": "2026-09-30T11:20:28.113Z",
-      "etag": "\"6abceed0-37fb\"",
-      "lastModified": "Wed, 30 Sep 2026 11:13:20 GMT",
+      "checkedAt": "2026-09-30T16:59:14.598Z",
+      "lastSuccessAt": "2026-09-30T16:59:14.598Z",
+      "etag": "\"6abd35bf-39fe\"",
+      "lastModified": "Wed, 30 Sep 2026 16:15:59 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -160223,20 +162366,20 @@
     "chinanews-scroll-news": {
       "id": "chinanews-scroll-news",
       "contentSchema": 2,
-      "status": "ok",
-      "checkedAt": "2026-09-30T11:20:28.113Z",
+      "status": "failed",
+      "checkedAt": "2026-09-30T16:59:14.598Z",
       "lastSuccessAt": "2026-09-30T11:20:28.113Z",
       "etag": "\"6abcef6a-40e3\"",
       "lastModified": "Wed, 30 Sep 2026 11:15:54 GMT",
       "discovered": 30,
-      "failures": 0,
-      "error": null
+      "failures": 1,
+      "error": "FETCH_OR_PARSE_FAILED"
     },
     "govuk-fulltext": {
       "id": "govuk-fulltext",
       "status": "ok",
-      "checkedAt": "2026-09-30T11:20:28.113Z",
-      "lastSuccessAt": "2026-09-30T11:20:28.113Z",
+      "checkedAt": "2026-09-30T16:59:14.598Z",
+      "lastSuccessAt": "2026-09-30T16:59:14.598Z",
       "discovered": 20,
       "rejected": 0,
       "contentSchema": 3,
