@@ -1,8 +1,740 @@
 {
   "schemaVersion": "1",
-  "collectedAt": "2026-10-01T20:19:17.931Z",
-  "lastSuccessfulCollectionAt": "2026-10-01T20:19:17.931Z",
+  "collectedAt": "2026-10-02T00:09:59.076Z",
+  "lastSuccessfulCollectionAt": "2026-10-02T00:09:59.076Z",
   "items": [
+    {
+      "id": "5708a630348ef56e8c9ef404",
+      "title": "苹果视频剪辑应用 Final Cut Pro 13 曝光：支持 Pixelmator Pro 往返编辑等",
+      "originalUrl": "https://www.ithome.com/1/009/205.htm",
+      "summary": "IT之家 10 月 2 日消息，科技媒体 AppleInsider 昨日（10 月 1 日）发布博文，报道称 Final Cut Pro 13 应用部分新功能 / 新特性提前泄露，新版本有望加入多语言转录、Pixelmator Pro 图像往返编辑、自然运动模糊、捏合缩放、剪辑断开和关键帧缓动等功能。 Final Cut Pro 是苹果面向专业视频创作者推出的视频剪辑应用，目前最新版本是 9 月 29 日发布的 12.4 版本更新，主要用于视频导入、剪辑、调色、字幕、音频处理…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-02T00:09:22.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d3c001d49e2810636a639a3e",
+      "title": "加州检察长向 OpenAI 发出传票，调查 AI 网络安全风险",
+      "originalUrl": "https://www.ithome.com/1/009/204.htm",
+      "summary": "IT之家 10 月 2 日消息，据路透社今天（2 日）凌晨报道，加利福尼亚州总检察长罗布 · 邦塔办公室宣布，邦塔本人已向 OpenAI 发出调查传票，要求其就 AI 模型涉及的网络安全事件和风险提供更多信息。 邦塔上个月宣布，加州司法部已就“Hugging Face 事件”正式展开调查。随着 AI 行业面临更严格的审视，该事件受到持续关注。 今年早些时候，OpenAI 开发的 AI 智能体入侵开源平台 Hugging Face，取得了后者部分基础设施的访问权限，也暴露出能力…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-02T00:06:15.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4b02556f89aa6f23b535c490",
+      "title": "缓解折痕加深：苹果首款折叠 iPhone Duo 支持更换保护膜",
+      "originalUrl": "https://www.ithome.com/1/009/202.htm",
+      "summary": "IT之家 10 月 2 日消息，在 TikTok 平台对话 @angietutorials 时，苹果硬件工程副总裁凯特 · 伯杰龙（Kate Bergeron）表示，为了缓解长期使用中折痕加深的问题，苹果首款折叠 iPhone Duo 支持更换屏幕保护层，AppleCare 用户更换费用为 19 美元（IT之家注：现汇率约合 127.6 元人民币）。 伯杰龙在采访中表示，iPhone Duo 折叠显示屏上方设有一层可更换的保护层（cover layer），配合哑光显示涂层，共…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T23:54:32.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f1338071d4ae4ef955e1e3ee",
+      "title": "IT早报 1002：5999 元起华为 Mate 90 系列旗舰手机发布；2026 年 9 月车企销量交付汇总；华为与赛力斯达成新五年合作；曝苹果 HomeHub 宣传物料已送往苹果门店...",
+      "originalUrl": "https://www.ithome.com/1/009/201.htm",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 2 日星期五，今天的重要科技资讯有： 1. 华为 Mate 90 手机发布：麒麟 9030 旗舰 τ 芯片，5999 元起 在 10 月 1 日举行的华为 Mate 90 系列及全场景新品发布会上，华为 Mate 90 手机正式发布。>> 查看详情 2. 2026 年 9 月汽车销量 / 交付榜出炉：比亚迪 46.36 万辆稳坐头把交椅，小米澎程上市首月交付破万 比亚迪以超 46 万辆稳居榜首，上汽、奇瑞、吉利紧随其后…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T23:52:26.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d29a6fce24813f5f9e99406e",
+      "title": "法国政府公布2027年预算草案 确认540亿欧元节支计划",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-02/10706991.shtml",
+      "summary": "中新社巴黎10月1日电 (记者 李洋)法国政府当地时间1日公布2027年预算草案，确认540亿欧元节支计划，旨在努力减少财政赤字。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T23:52:16.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0dd60abb4daa260ea2a2203c",
+      "title": "Crew-13 任务完成对接，刷新美国载人飞船赴国际空间站最快纪录",
+      "originalUrl": "https://www.ithome.com/1/009/199.htm",
+      "summary": "IT之家 10 月 2 日消息，美国宇航局（NASA）发布公告，宣布 Crew-13 载人飞行任务已经于美国东部时间 10 月 1 日 19:05（北京时间 10 月 2 日早上 7:05）和国际空间站对接，从发射到对接耗时约 7 小时 50 分钟，刷新美国太空旅行纪录。 IT之家援引官方公告内容，附上本次 Crew-13 载人飞行任务相关时间节点如下： 美国东部时间 11:10（北京时间：10 月 1 日 23:10）：猎鹰 9 号火箭从 SLC-40 点火升空。 美国东部…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T23:42:27.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5db5b342a0a083d99d2b76ba",
+      "title": "谷歌首次送先进芯片上天，估算 SpaceX 星舰发射 1800 次才能让太空数据中心“飞起来”",
+      "originalUrl": "https://www.ithome.com/1/009/198.htm",
+      "summary": "IT之家 10 月 2 日消息，据外媒 TechCrunch 报道，当地时间 1 日，谷歌的在轨计算原型卫星搭乘 SpaceX 火箭，从美国加利福尼亚州升空，启动在地球轨道上建立大规模计算集群的“太阳捕手”项目。卫星由 Planet Labs 制造，用于验证谷歌的 Tensor 处理器能否在太空正常运行。测试需要持续供应 1kW 电力、给芯片散热，并运行一系列模型，检查有没有问题。 据IT之家了解，这是谷歌首次把先进芯片送入太空。负责项目的谷歌高管特拉维斯 · 比尔斯说：“我…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T23:41:50.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "bac9befab9015cf2ac3d239b",
+      "title": "泰国全国灾害保险体系正式实施",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-02/10706983.shtml",
+      "summary": "中新社曼谷10月1日电 (王茜 李映民)泰国总理府公共关系部1日发布消息称，泰国全国灾害保险体系当天正式实施，覆盖洪灾、风灾和地震，约3000万户住宅纳入保障。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T23:30:39.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "00edaadbc6d75bda85de7c12",
+      "title": "OpenAI 上线“虚拟试穿”功能：ChatGPT 能帮你试衣，还能找“明星同款”",
+      "originalUrl": "https://www.ithome.com/1/009/197.htm",
+      "summary": "IT之家 10 月 2 日消息，当地时间 1 日，OpenAI 再次扩展 ChatGPT 的购物能力。公司宣布在全球推出两项新功能，一项是让用户虚拟试穿服装和配饰，另一项是新增收藏功能，方便用户先把看中的商品存起来，之后再查看。 据IT之家了解，新功能基于不久前推出的 ChatGPT Images 2.5 模型。按照 OpenAI 的说法，这一模型生成的画面光线更自然、纹理更丰富，执行编辑指令也更稳定，同时还能缩短生成图片所需时间。 ChatGPT 用户可以上传自拍照或全身照…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T23:18:01.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "77acc1920b3bddc72f483aad",
+      "title": "马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半",
+      "originalUrl": "https://www.ithome.com/1/009/196.htm",
+      "summary": "IT之家 10 月 2 日消息，全球首富埃隆 · 马斯克今天（10 月 2 日）在 X 平台发布推文，宣布为了调配充足的内存满足 Optimus 机器人量产，计划削减特斯拉 AI5 和 AI6 芯片的内存用量。 本次调整可以追溯到美光科技的预测，在其最新财报电话会议上，美光科技首席财务官指出人形机器人将成为内存需求新引擎：每台设备需超 200GB DRAM 及数 TB NAND 闪存。即便人工智能泡沫破裂，内存价格亦难回落。 网友 @DirtyTesLa 转发该推测，指出马斯…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T23:16:54.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "937c673a7d2974cb8c07e315",
+      "title": "10月2日新闻早报",
+      "originalUrl": "https://www.chinanews.com.cn/iframe/2026/10-02/10706990.shtml",
+      "summary": null,
+      "summaryProvenance": null,
+      "sourcePublishedAt": "2026-10-01T23:16:08.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7b3ec058842d116f15873799",
+      "title": "流式转录 AI 新标杆：微软 MAI-Transcribe-2-Streaming 登场，2.5% 词错误率、0.13 秒延迟夺冠",
+      "originalUrl": "https://www.ithome.com/1/009/183.htm",
+      "summary": "IT之家 10 月 2 日消息，微软昨日（10 月 1 日）发布公告，宣布推出其首个实时流式语音转写模型 MAI‑Transcribe‑2‑Streaming，可在讲话进行时持续输出文字，覆盖 60 种语言，并支持自动语言检测。 费用方面，MAI‑Transcribe‑2‑Streaming 模型目前处于优惠阶段，价格为每小时 0.54 美元（IT之家注：现汇率约合 3.6 元人民币），约合每 1,000 分钟 9 美元（现汇率约合 60.5 元人民币），开发者可以通过 Mi…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T23:04:38.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d5a0d7ee0d1aaca706c11a97",
+      "title": "因违反敏感信息访问和共享规定，OpenAI 与三名研究人员终止合作",
+      "originalUrl": "https://www.ithome.com/1/009/182.htm",
+      "summary": "IT之家 10 月 2 日消息，当地时间 1 日，根据《华尔街日报》报道，OpenAI 宣布与三名研究人员终止合作，原因是三人违反了敏感信息访问和共享规定。 OpenAI 发言人在声明中说：“我们已与三名违反公司敏感信息访问和处理规定的人员解除关系。调查确认，这些人员绕过公司既定流程，不当处理敏感信息，不仅违反了公司规定，也破坏了我们工作所必需的信任。” 三人名叫贾斯敏 · 王、托梅克 · 科尔巴克和米基塔 · 巴莱斯尼。 遭解雇的托梅克 · 科尔巴克是 OpenAI 安全团…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T23:04:22.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9ec550b730e44fa66b9e39bb",
+      "title": "Connect Fund to offer up to £500k for Northern Ireland and GB voluntary and community groups ",
+      "originalUrl": "https://www.gov.uk/government/news/connect-fund-to-offer-up-to-500k-for-northern-ireland-and-gb-voluntary-and-community-groups",
+      "sourcePublishedAt": "2026-10-02T00:01:05+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "A fund described by a Belfast community group as offering a “lifeline to deepen relationships” will soon reopen for applications with a total of £500,000 on offer, as the Northern Ireland Office (NIO) prepares to launch the third round of i",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>A  fund described by a Belfast community group as offering a “lifeline to deepen relationships” will soon reopen for applications with a total of £500,000 on offer, as the Northern Ireland Office (NIO) prepares to launch the third round of its Connect Fund grant programme. The Connect Fund strengthens collaboration between community and voluntary groups across the east and west of the UK, and has so far awarded over £1m to 46 projects across Northern Ireland and Great Britain. It funds projects that tackle shared challenges across the UK, bringing community and voluntary groups together to build long-lasting UK-wide partnerships. </p>\n\n<p>Minister for Northern Ireland Sarah Owen visited Belfast performance art group and Connect Fund recipient Bbeyond, to see the positive impact of the funding on the ground. The group has formed the NI-GB Performance Art Network in partnership with TactileBosch in Wales, the Belfast School of Art, and the University for the Creative Arts in Canterbury. The project will help Northern Ireland performance artists engage with the wider UK creative landscape, developing leadership skills and cultural understanding. </p>\n\n<h4>Minister Owen said:</h4>\n\n<p>“Bbeyond’s exciting plans to support Northern Ireland performance artists highlight the Connect Fund’s creativity and diversity.</p>\n\n<p>“While strengthening relationships between community and voluntary groups in Northern Ireland and the rest of the UK, the Connect Fund has supported a variety of innovative schemes.</p>\n\n<p>“I encourage local groups with proposals to build East-West relationships to apply for the next funding opportunity when it opens in November.”</p>\n\n<h4>Bbeyond Programme Manager Bronagh Lawson said: </h4>\n\n<p>“Personal and organisational connections outside of Northern Ireland are vital for the arts.</p>\n\n<p>“The Connect Fund has been a lifeline to deepen relationships, forge new connections and bring real opportunities to our members. </p>\n\n<p>“East-West understanding has started to open up, and when artists get together you can be sure the result will be well beyond your original predicted outcome!”</p>\n\n<p>Over the last two years, Connect Fund grants have enriched community and voluntary organisations, enabling them to stage theatre production tours and musical performances, host cross-Nation summits and leadership forums, and launch youth programmes. Successful applicants have strengthened East-West connections by developing civic relationships; supporting the development of links based around culture, sports and people; building leadership capability; and facilitating constructive dialogue on opportunities and challenges facing UK communities. </p>\n\n<p>Previous successful applications and their partner organisations were located across the UK. Round 3 of the Connect Fund will open for applications at  <a href=\"https://www.find-government-grants.service.gov.uk/\">https://www.find-government-grants.service.gov.uk/</a>  from 00.01 on November 2 2026 until 17:00 on December 18 2026. Each applicant can bid for between £300 and £50,000 to deliver their project, and return applicants are welcome to apply with project delivery running from April 1 2027 to March 31 2028. </p>\n\n<h3>ENDS</h3>\n\n<ul>\n  <li>Guidance on how to apply and a link to the Findagrant application page will be made available here once applications open on November 2 2026: <a href=\"https://www.gov.uk/government/publications/the-connect-fund\">https://www.gov.uk/government/publications/the-connect-fund</a> </li>\n  <li>For any further questions please contact <a>connectfund@nio.gov.uk</a> </li>\n</ul>\n</div>",
+      "bodyText": "A  fund described by a Belfast community group as offering a “lifeline to deepen relationships” will soon reopen for applications with a total of £500,000 on offer, as the Northern Ireland Office (NIO) prepares to launch the third round of its Connect Fund grant programme. The Connect Fund strengthens collaboration between community and voluntary groups across the east and west of the UK, and has so far awarded over £1m to 46 projects across Northern Ireland and Great Britain. It funds projects that tackle shared challenges across the UK, bringing community and voluntary groups together to build long-lasting UK-wide partnerships. \n\nMinister for Northern Ireland Sarah Owen visited Belfast performance art group and Connect Fund recipient Bbeyond, to see the positive impact of the funding on the ground. The group has formed the NI-GB Performance Art Network in partnership with TactileBosch in Wales, the Belfast School of Art, and the University for the Creative Arts in Canterbury. The project will help Northern Ireland performance artists engage with the wider UK creative landscape, developing leadership skills and cultural understanding. \n\nMinister Owen said:\n\n“Bbeyond’s exciting plans to support Northern Ireland performance artists highlight the Connect Fund’s creativity and diversity.\n\n“While strengthening relationships between community and voluntary groups in Northern Ireland and the rest of the UK, the Connect Fund has supported a variety of innovative schemes.\n\n“I encourage local groups with proposals to build East-West relationships to apply for the next funding opportunity when it opens in November.”\n\nBbeyond Programme Manager Bronagh Lawson said: \n\n“Personal and organisational connections outside of Northern Ireland are vital for the arts.\n\n“The Connect Fund has been a lifeline to deepen relationships, forge new connections and bring real opportunities to our members. \n\n“East-West understanding has started to open up, and when artists get together you can be sure the result will be well beyond your original predicted outcome!”\n\nOver the last two years, Connect Fund grants have enriched community and voluntary organisations, enabling them to stage theatre production tours and musical performances, host cross-Nation summits and leadership forums, and launch youth programmes. Successful applicants have strengthened East-West connections by developing civic relationships; supporting the development of links based around culture, sports and people; building leadership capability; and facilitating constructive dialogue on opportunities and challenges facing UK communities. \n\nPrevious successful applications and their partner organisations were located across the UK. Round 3 of the Connect Fund will open for applications at  https://www.find-government-grants.service.gov.uk/  from 00.01 on November 2 2026 until 17:00 on December 18 2026. Each applicant can bid for between £300 and £50,000 to deliver their project, and return applicants are welcome to apply with project delivery running from April 1 2027 to March 31 2028. \n\nENDS\n\n\n  Guidance on how to apply and a link to the Findagrant application page will be made available here once applications open on November 2 2026: https://www.gov.uk/government/publications/the-connect-fund \n  For any further questions please contact connectfund@nio.gov.uk \n\n",
+      "bodyHash": "b14e776d6e4b1d504ca2a2871a7306ff095dd1751a678d0b732a01255e971d94",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/connect-fund-to-offer-up-to-500k-for-northern-ireland-and-gb-voluntary-and-community-groups",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Northern Ireland Office"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-10-02T00:01:05+01:00",
+        "sourceVersion": "1710ad56-b4e6-4590-a425-1e5f0e22a981"
+      },
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f74f6f2a0b517aaf18db302b",
+      "title": "New report backs government action to help neurodivergent people succeed at work",
+      "originalUrl": "https://www.gov.uk/government/news/new-report-backs-government-action-to-help-neurodivergent-people-succeed-at-work",
+      "sourcePublishedAt": "2026-10-02T00:01:05+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "Independent report finds neurodivergent people can flourish in work when given the right support based on their needs rather than a diagnosis. Connect to Work and Pathways to Work Advisers are already helping neurodivergent people build ful",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><div>\n  <ul>\n    <li>Independent report finds neurodivergent people can flourish in work when given the right support based on their needs rather than a diagnosis.</li>\n    <li>Connect to Work and Pathways to Work Advisers are already helping neurodivergent people build fulfilling careers, with hundreds moving into work already.</li>\n    <li>The response sits alongside the government’s wider drive to support disabled people and people with health conditions into work, backed by £3.5 billion of funding by the end of the decade.</li>\n  </ul>\n</div>\n\n<p>Published today, the Expert Academic Panel on Neurodiversity’s Report and Recommendations sets out how best to support neurodivergent employees to succeed at work.</p>\n\n<p>It notes that greater employment participation has the potential to lessen the burden on the health and welfare systems and boost economic growth.</p>\n\n<p>The report calls for:</p>\n\n<ul>\n  <li>Support that responds to individual strengths and challenges, based on need rather than diagnosis</li>\n  <li>Strengthening of existing disability employment policy; and awareness of best practice</li>\n  <li>Further research to address gaps in the evidence base;</li>\n  <li>Practical, evidence-based strategies to help neurodivergent employees succeed</li>\n  <li>Wider adoption of Universal Design principles so workplaces are built with everyone in mind from the outset. Neurodivergent people bring valuable skills and perspectives to the workplace, the report notes and that removing barriers to communication, and environment allow people to do their best work.</li>\n</ul>\n\n<p>The Government is already putting this into practice through Connect to Work, part of the wider £3.5 billion disability employment investment. Its specialist pathway for neurodivergent and learning-disabled people builds support around each person’s individual strengths and needs, helping them find roles where they can excel.</p>\n\n<p>Connect to Work is available across England and Wales and will help thousands of neurodivergent and learning-disabled people build careers by the end of the decade. By the end of June, 1,000 people on the specialist Connect to Work pathway for neurodivergent and learning-disabled people had moved into work, with 470 of those young people.</p>\n\n<h3>Work and Pensions Secretary Pat McFadden said:</h3>\n\n<blockquote>\n  <p>When we get the right support in place, neurodivergent people thrive at work.</p>\n</blockquote>\n\n<blockquote>\n  <p>That’s good for them, good for business and good for the economy. Everyone deserves a fair chance to succeed.</p>\n</blockquote>\n\n<blockquote>\n  <p>Connect to Work is already proving this approach works, and we’ll keep building on it so more neurodivergent people get the tailored support they need to build fulfilling careers.</p>\n</blockquote>\n\n<h3>Neurodiversity Panel Chair Professor Amanda Kirby said:</h3>\n\n<blockquote>\n  <p>Neurodivergent people have enormous talent to offer the economy, yet too often that talent goes untapped because support hasn’t matched their needs.</p>\n</blockquote>\n\n<blockquote>\n  <p>Our report shows that when neurodivergent people get the support they need, everybody benefits: employees find roles where they can excel, businesses gain from different skills and perspectives, and the wider economy grows stronger as more people contribute.</p>\n</blockquote>\n\n<p>In 2024/25, only 34 percent of all disabled people with autism were in work, in comparison to 55 percent of disabled people overall.</p>\n\n<p>This stark gap resulted in the launch of The Expert Academic Panel on Neurodiversity in January 2025 to advise the Government on how to help more neurodivergent people build successful careers.</p>\n\n<p>The panel also recommended that, where possible,workplace systems and environments are built for everyone from the outset, rather than relying on adjustments being made for individuals reactively. In response, the Government has launched a sixteen-week policy discovery exercise to look at where these Universal Design principles could be applied to workplaces in future.</p>\n\n<p>Much of this work to fulfil the recommendations is in train already, including:</p>\n\n<ul>\n  <li>Reforms to our Disability Confident Scheme, including removing the option for employers at the entry level to renew at this level to encourage employers to progress up the scheme;</li>\n  <li>Nearly 500 additional staff to be recruited to clear inherited backlog in the Access to Work scheme and help people get the support they need quicker;</li>\n  <li>The national expansion of WorkWell backed by £259m, helping up to 250,000 people with health conditions to stay in or return to work;</li>\n  <li>The deployment of 1,000 Pathways to Work advisers who’ve already helped over 100,000 people the previous Government wrote off;</li>\n  <li>£60 million Pathways to Work Innovation Fund, encouraging businesses and charities to transform how disabled people and those with health conditions are supported into work.</li>\n</ul>\n\n<p>Alongside this, the government has invested in a £2.5 billion youth employment support package, which will create nearly 500,000 jobs and training opportunities to help young people into work.</p>\n\n<h2>Additional information</h2>\n\n<ul>\n  <li>Find the Expert Academic Panel on Neurodiversity Final Report and Recommendations and the Government Response here: <a href=\"https://www.gov.uk/government/publications/expert-academic-panel-on-neurodiversity-final-report-and-recommendations\">https://www.gov.uk/government/publications/expert-academic-panel-on-neurodiversity-final-report-and-recommendations</a>\n</li>\n  <li>The government will now hold conversations with employers to explore practical, low-cost changes that help neurodivergent employees thrive.</li>\n  <li>This response is part of a wider government effort to ensure a fulfilled life for neurodivergent people, within and beyond work.</li>\n  <li>The government is also committed to further steps to bring about effective and sustainable welfare reform, and this will be guided by the Milburn and Timms reviews, which are due to conclude later this year.</li>\n</ul>\n</div>",
+      "bodyText": "\n  \n    Independent report finds neurodivergent people can flourish in work when given the right support based on their needs rather than a diagnosis.\n    Connect to Work and Pathways to Work Advisers are already helping neurodivergent people build fulfilling careers, with hundreds moving into work already.\n    The response sits alongside the government’s wider drive to support disabled people and people with health conditions into work, backed by £3.5 billion of funding by the end of the decade.\n  \n\n\nPublished today, the Expert Academic Panel on Neurodiversity’s Report and Recommendations sets out how best to support neurodivergent employees to succeed at work.\n\nIt notes that greater employment participation has the potential to lessen the burden on the health and welfare systems and boost economic growth.\n\nThe report calls for:\n\n\n  Support that responds to individual strengths and challenges, based on need rather than diagnosis\n  Strengthening of existing disability employment policy; and awareness of best practice\n  Further research to address gaps in the evidence base;\n  Practical, evidence-based strategies to help neurodivergent employees succeed\n  Wider adoption of Universal Design principles so workplaces are built with everyone in mind from the outset. Neurodivergent people bring valuable skills and perspectives to the workplace, the report notes and that removing barriers to communication, and environment allow people to do their best work.\n\n\nThe Government is already putting this into practice through Connect to Work, part of the wider £3.5 billion disability employment investment. Its specialist pathway for neurodivergent and learning-disabled people builds support around each person’s individual strengths and needs, helping them find roles where they can excel.\n\nConnect to Work is available across England and Wales and will help thousands of neurodivergent and learning-disabled people build careers by the end of the decade. By the end of June, 1,000 people on the specialist Connect to Work pathway for neurodivergent and learning-disabled people had moved into work, with 470 of those young people.\n\nWork and Pensions Secretary Pat McFadden said:\n\n\n  When we get the right support in place, neurodivergent people thrive at work.\n\n\n\n  That’s good for them, good for business and good for the economy. Everyone deserves a fair chance to succeed.\n\n\n\n  Connect to Work is already proving this approach works, and we’ll keep building on it so more neurodivergent people get the tailored support they need to build fulfilling careers.\n\n\nNeurodiversity Panel Chair Professor Amanda Kirby said:\n\n\n  Neurodivergent people have enormous talent to offer the economy, yet too often that talent goes untapped because support hasn’t matched their needs.\n\n\n\n  Our report shows that when neurodivergent people get the support they need, everybody benefits: employees find roles where they can excel, businesses gain from different skills and perspectives, and the wider economy grows stronger as more people contribute.\n\n\nIn 2024/25, only 34 percent of all disabled people with autism were in work, in comparison to 55 percent of disabled people overall.\n\nThis stark gap resulted in the launch of The Expert Academic Panel on Neurodiversity in January 2025 to advise the Government on how to help more neurodivergent people build successful careers.\n\nThe panel also recommended that, where possible,workplace systems and environments are built for everyone from the outset, rather than relying on adjustments being made for individuals reactively. In response, the Government has launched a sixteen-week policy discovery exercise to look at where these Universal Design principles could be applied to workplaces in future.\n\nMuch of this work to fulfil the recommendations is in train already, including:\n\n\n  Reforms to our Disability Confident Scheme, including removing the option for employers at the entry level to renew at this level to encourage employers to progress up the scheme;\n  Nearly 500 additional staff to be recruited to clear inherited backlog in the Access to Work scheme and help people get the support they need quicker;\n  The national expansion of WorkWell backed by £259m, helping up to 250,000 people with health conditions to stay in or return to work;\n  The deployment of 1,000 Pathways to Work advisers who’ve already helped over 100,000 people the previous Government wrote off;\n  £60 million Pathways to Work Innovation Fund, encouraging businesses and charities to transform how disabled people and those with health conditions are supported into work.\n\n\nAlongside this, the government has invested in a £2.5 billion youth employment support package, which will create nearly 500,000 jobs and training opportunities to help young people into work.\n\nAdditional information\n\n\n  Find the Expert Academic Panel on Neurodiversity Final Report and Recommendations and the Government Response here: https://www.gov.uk/government/publications/expert-academic-panel-on-neurodiversity-final-report-and-recommendations\n\n  The government will now hold conversations with employers to explore practical, low-cost changes that help neurodivergent employees thrive.\n  This response is part of a wider government effort to ensure a fulfilled life for neurodivergent people, within and beyond work.\n  The government is also committed to further steps to bring about effective and sustainable welfare reform, and this will be guided by the Milburn and Timms reviews, which are due to conclude later this year.\n\n",
+      "bodyHash": "1f73be432a33764e6deb095f4c2da2d5cb911673240b9159862dc0a0c01e07bb",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/new-report-backs-government-action-to-help-neurodivergent-people-succeed-at-work",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Department for Work and Pensions"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-10-02T00:01:05+01:00",
+        "sourceVersion": "f7e8a16a-43db-447b-ad1c-a53362f0a2a8"
+      },
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "94a2d1862b38d14323f40464",
+      "title": "21.3亿、268%！数说流动中国的假日新活力",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/10-02/10706989.shtml",
+      "summary": "国庆假期，全社会跨区域人员流动量预计达到21.3亿人次。有人奔向远方，有人回到故乡，而让每一次出发都能顺利抵达的，是一条条正在变得更便捷、更有温度的路。流动的中国，因此始终向前。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T22:58:17.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "85caac397d9d430201c1c974",
+      "title": "中方代表28国呼吁国际社会遏止单边强制措施",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/10-02/10706982.shtml",
+      "summary": "中新社联合国10月1日电 当地时间10月1日，中国常驻联合国代表傅聪代表28个观点相近国家在联大第三委员会就单边强制措施作共同发言，呼吁国际社会坚决遏止这一非法行径。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T22:53:10.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "42beddde17d8b4c3adf34a17",
+      "title": "从“空中浩劫”到“航空奇迹” 迪拜航空安全事件疑点重重",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-02/10706988.shtml",
+      "summary": "当地时间10月1日，此前一天发生的迪拜航空安全事件的更多细节得以披露，在使其更具戏剧性的同时显得疑点重重。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T22:50:48.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "mobility"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "02625da8983925442a85772f",
+      "title": "古尔曼：苹果最快本月发布触控 OLED 屏 MacBook Pro，配 M5 Pro / Max 芯片",
+      "originalUrl": "https://www.ithome.com/1/009/178.htm",
+      "summary": "IT之家 10 月 2 日消息，在 Power On 播客节目中，彭博社的马克 · 古尔曼认为，苹果公司最快会在本月（2026 年 10 月）发布配备 OLED 触控屏幕的 MacBook Pro，预估会推出 14 英寸和 16 英寸两种规格。 系统方面，古尔曼透露称苹果公司内部正使用 macOS 27.2 Beta 系统测试该机型，而 macOS 27.2 正式版有望 10 月底发布，苹果公司可能借此同步推出触控屏 MacBook Pro。 外观方面，IT之家援引博文介绍，…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T22:49:48.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "678e25fcc7649211cfd127c9",
+      "title": "特朗普：中期选举后可能加大力度打击伊朗",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-02/10706987.shtml",
+      "summary": "据美国方面10月1日消息，美国总统特朗普表示，美国或将在中期选举后加大对伊朗的打击力度。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T22:46:46.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5dbb72d4b35103ad76b5406d",
+      "title": "美国30年期贷款利率升至7.28% 创近3年来最高值",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-02/10706985.shtml",
+      "summary": "中新社华盛顿10月1日电 (记者 沙晗汀)美国住房金融机构房地美(Freddie Mac)当地时间10月1日公布数据显示，美国30年期固定抵押贷款平均利率升至7.28%，是自2023年11月22日以来的最高值。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T22:45:26.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7207c8ff537f44c36ba64acc",
+      "title": "首届亚信媒体论坛在巴库举行 聚焦加强媒体合作",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-02/10706981.shtml",
+      "summary": "中新社阿斯塔纳10月1日电 巴库消息：首届亚洲相互协作与信任措施会议(亚信)媒体论坛1日在阿塞拜疆首都巴库举行。与会代表围绕媒体在增进互信、促进跨文化交流中的作用展开讨论，呼吁加强媒体合作，共同应对虚假信息传播等挑战。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T22:42:44.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a1f3ab78ab94975aa665c754",
+      "title": "特写：国庆烟花耀维港 家国同庆共此时",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/10-02/10706984.shtml",
+      "summary": "中新社香港10月1日电 题：国庆烟花耀维港 家国同庆共此时",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T22:41:42.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ad76f364b33062667eb648c9",
+      "title": "亚马逊推出 2026 款 Kindle 系列电子阅读器：齐平式正面屏幕、首用反向堆叠显示结构",
+      "originalUrl": "https://www.ithome.com/1/009/177.htm",
+      "summary": "IT之家 10 月 2 日消息，亚马逊昨日（10 月 1 日）发布博文，宣布更新其 Kindle 产品线，首次在其电子阅读器系列中采用反向堆叠显示结构，并为 Kindle、Kindle Paperwhite 和 Kindle Colorsoft 全系加入无缝色彩显示。 根据官方公告内容，本次更新覆盖 2026 款 Kindle、Kindle Paperwhite 以及 Kindle Colorsoft 三款产品，并推出周边配件产品。 这些新产品均采用齐平式正面屏幕，屏幕取消凸…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T22:39:26.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e7a6fffb1ba4993978c00628",
+      "title": "品类更多、品牌更强！国货出海有新变化",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/10-02/10706986.shtml",
+      "summary": "国庆假期，别人忙着出游，这里忙着“出货”！灯具、服装、鞋子等一批批国货完成查验、装进集装箱，从深圳盐田港出发，奔向美国、墨西哥、荷兰等全球市场。眼下正值出口旺季，盐田港开启“国庆假期不停运”模式，为国货出海按下“加速键”。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T22:38:42.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "19b7ecff2bf4cb53d8d18880",
+      "title": "皇牌空战系列正统续作《皇牌空战 8：希孚之翼》登陆 Steam：国区 298 元起，支持简体中文",
+      "originalUrl": "https://www.ithome.com/1/009/176.htm",
+      "summary": "IT之家 10 月 2 日消息，皇牌空战系列时隔七年推出的正统续作《皇牌空战 8：希孚之翼》（ACE COMBAT 8: WINGS OF THEVE）现已正式登陆 Steam 平台，由万代南梦宫 Aces 开发，万代南梦宫娱乐发行，国区标准版定价 298 元，数字豪华版定价 398 元。 IT之家附游戏商品页（https://store.steampowered.com/app/2288340/8__ACE_COMBAT_8_WINGS_OF_THEVE/）。 截至发稿，本…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-01T22:12:04.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d49192124f719d588258331a",
+      "title": "Take off for passengers as government scraps extra charges when flying",
+      "originalUrl": "https://www.gov.uk/government/news/take-off-for-passengers-as-government-scraps-extra-charges-when-flying",
+      "sourcePublishedAt": "2026-10-01T22:30:00+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "extra charges for parents sitting with their children scrapped across airlines to help people with the cost of living greater flexibility to amend simple name mistakes when booking flights so passengers avoid unnecessary charges airlines an",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><div>\n  <ul>\n    <li>extra charges for parents sitting with their children scrapped across airlines to help people with the cost of living  </li>\n    <li>greater flexibility to amend simple name mistakes when booking flights so passengers avoid unnecessary charges  </li>\n    <li>airlines and government working together to crack down on disorderly and seriously disruptive passengers </li>\n    <li>latest measure in Prime Minister’s series of ‘everyday fixes’ to give families room to breathe</li>\n  </ul>\n</div>\n\n<p>Holidaymakers are set to save money as government steps in to ease pressure on the cost of living in time for next year’s summer holidays, scrapping child seating fees and unnecessary admin costs.</p>\n\n<p>Under new plans announced tomorrow (2 October 2026), airlines will be required to seat children under the age of 14 with a parent or accompanying adult free of charge. Parents should not feel pressured to pay extra simply to sit beside their child – currently, a parent and child could be charged up to £104 on a return journey.</p>\n\n<p>Passengers will also be given greater flexibility to correct simple name errors on bookings for free, ending unfair and irritating charges – sometimes as much as £40 – for minor mistakes or admin tweaks.</p>\n\n<p>Alongside this, government has announced it is working with airlines and trade unions to create a new system for sharing information on persistently disruptive passengers.</p>\n\n<p>In 2025, more than 1,000 serious disruptive passenger incidents were logged by airlines, including a mid-air brawl that resulted in a flight being diverted, causing significant disruption to passengers and crew as well as costs for the airline.</p>\n\n<p>The new system will make disruptors easier to spot, keeping staff and passengers safer from the get-go and enabling airlines to take decisions on whether to extend a ban on their airline.</p>\n\n<p>While most UK airlines already offer protections against hidden costs, these new reforms will give passengers greater consistency on all airlines operating in the UK.</p>\n\n<p>Prime Minister Andy Burnham said:</p>\n\n<blockquote>\n  <p>Charging parents just to sit with their children is a rip-off, plain and simple. And being hit with a hefty fee for a simple spelling mistake on a booking form isn’t right either.</p>\n\n  <p>People are fed up with these little charges that add up, so I’m putting a stop to them.</p>\n\n  <p>This is what our everyday fixes are all about. Giving people room to breathe by tackling the small irritations that catch people out, waste their time and cost them money.</p>\n</blockquote>\n\n<p>Transport Secretary Heidi Alexander said:</p>\n\n<blockquote>\n  <p>Parents should not have to feel the pinch just to sit next to their child on a flight, or for amending a simple booking error. That’s why we’re scrapping these unnecessary charges for all airlines – another everyday fix to help put money back in people’s pockets and give households more breathing room.</p>\n\n  <p>And everyone deserves to travel knowing their flight isn’t going to be disrupted by bad behaviour from a small minority.</p>\n\n  <p>These common-sense reforms will make flying safer for staff and passengers and protect people from unnecessary charges, whoever they fly with.</p>\n</blockquote>\n\n<p>This is the latest example of the Prime Minister’s series of ‘everyday fixes’ to tackle the irritations that make life difficult and hit people’s wallets, following action on rogue traders overcharging for home improvements, subscription traps that quietly drain bank accounts and rip-off school uniform costs.</p>\n\n<p>It lands the day after the government’s VAT cut on electricity bills kicked in on 1 October, saving households a further £45, as part of a bigger plan to restore fairness to family finances and give people room to breathe.</p>\n\n<p>Rory Boland, Editor of Which? Travel, said:</p>\n\n<blockquote>\n  <p>It’s clearly unfair to force parents and children as young as three to pay an extra fee just to sit together. Airlines that have separated families are putting profit ahead of passenger peace of mind.</p>\n\n  <p>Which? has successfully pressured many airlines into dropping these fees over the past 10 years. So it’s welcome to see the government taking firm action on this by outlawing these charges completely and finally putting an end to this rip-off.</p>\n\n  <p>It is also positive to see greater flexibility to amend simple mistakes, protecting consumers from unnecessary charges.</p>\n</blockquote>\n\n<p>Changes announced today will bring greater consistency across the sector and are set to be delivered following Royal Assent of the Civil Aviation Bill, with industry engaged to ensure swift and fair implementation.</p>\n\n<p>The move also comes as regulators and lawmakers in the UK and Europe take a tougher stance on air passenger rights.  The government’s changes will mean UK and EU rules line up more closely, giving passengers greater certainty.</p>\n\n<div>\n    <p>Aviation, maritime and technology media enquiries</p>\n\n\n    <div>\n\n\n        <p>\n          Media enquiries 0300 7777 878\n        </p>\n        <p>\n          Switchboard 0300 330 3000\n        </p>\n    </div>\n\n\n</div>\n\n</div>",
+      "bodyText": "\n  \n    extra charges for parents sitting with their children scrapped across airlines to help people with the cost of living  \n    greater flexibility to amend simple name mistakes when booking flights so passengers avoid unnecessary charges  \n    airlines and government working together to crack down on disorderly and seriously disruptive passengers \n    latest measure in Prime Minister’s series of ‘everyday fixes’ to give families room to breathe\n  \n\n\nHolidaymakers are set to save money as government steps in to ease pressure on the cost of living in time for next year’s summer holidays, scrapping child seating fees and unnecessary admin costs.\n\nUnder new plans announced tomorrow (2 October 2026), airlines will be required to seat children under the age of 14 with a parent or accompanying adult free of charge. Parents should not feel pressured to pay extra simply to sit beside their child – currently, a parent and child could be charged up to £104 on a return journey.\n\nPassengers will also be given greater flexibility to correct simple name errors on bookings for free, ending unfair and irritating charges – sometimes as much as £40 – for minor mistakes or admin tweaks.\n\nAlongside this, government has announced it is working with airlines and trade unions to create a new system for sharing information on persistently disruptive passengers.\n\nIn 2025, more than 1,000 serious disruptive passenger incidents were logged by airlines, including a mid-air brawl that resulted in a flight being diverted, causing significant disruption to passengers and crew as well as costs for the airline.\n\nThe new system will make disruptors easier to spot, keeping staff and passengers safer from the get-go and enabling airlines to take decisions on whether to extend a ban on their airline.\n\nWhile most UK airlines already offer protections against hidden costs, these new reforms will give passengers greater consistency on all airlines operating in the UK.\n\nPrime Minister Andy Burnham said:\n\n\n  Charging parents just to sit with their children is a rip-off, plain and simple. And being hit with a hefty fee for a simple spelling mistake on a booking form isn’t right either.\n\n  People are fed up with these little charges that add up, so I’m putting a stop to them.\n\n  This is what our everyday fixes are all about. Giving people room to breathe by tackling the small irritations that catch people out, waste their time and cost them money.\n\n\nTransport Secretary Heidi Alexander said:\n\n\n  Parents should not have to feel the pinch just to sit next to their child on a flight, or for amending a simple booking error. That’s why we’re scrapping these unnecessary charges for all airlines – another everyday fix to help put money back in people’s pockets and give households more breathing room.\n\n  And everyone deserves to travel knowing their flight isn’t going to be disrupted by bad behaviour from a small minority.\n\n  These common-sense reforms will make flying safer for staff and passengers and protect people from unnecessary charges, whoever they fly with.\n\n\nThis is the latest example of the Prime Minister’s series of ‘everyday fixes’ to tackle the irritations that make life difficult and hit people’s wallets, following action on rogue traders overcharging for home improvements, subscription traps that quietly drain bank accounts and rip-off school uniform costs.\n\nIt lands the day after the government’s VAT cut on electricity bills kicked in on 1 October, saving households a further £45, as part of a bigger plan to restore fairness to family finances and give people room to breathe.\n\nRory Boland, Editor of Which? Travel, said:\n\n\n  It’s clearly unfair to force parents and children as young as three to pay an extra fee just to sit together. Airlines that have separated families are putting profit ahead of passenger peace of mind.\n\n  Which? has successfully pressured many airlines into dropping these fees over the past 10 years. So it’s welcome to see the government taking firm action on this by outlawing these charges completely and finally putting an end to this rip-off.\n\n  It is also positive to see greater flexibility to amend simple mistakes, protecting consumers from unnecessary charges.\n\n\nChanges announced today will bring greater consistency across the sector and are set to be delivered following Royal Assent of the Civil Aviation Bill, with industry engaged to ensure swift and fair implementation.\n\nThe move also comes as regulators and lawmakers in the UK and Europe take a tougher stance on air passenger rights.  The government’s changes will mean UK and EU rules line up more closely, giving passengers greater certainty.\n\n\n    Aviation, maritime and technology media enquiries\n\n\n    \n\n\n        \n          Media enquiries 0300 7777 878\n        \n        \n          Switchboard 0300 330 3000\n        \n    \n\n\n\n\n",
+      "bodyHash": "691154ef8fa17843948c15216d73ba3584b01ba8bc23efec2dcd77d46a30a075",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/take-off-for-passengers-as-government-scraps-extra-charges-when-flying",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Department for Transport"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-10-01T22:30:00+01:00",
+        "sourceVersion": "177c7d6b-242a-4a57-9d6e-86d5905482cc"
+      },
+      "firstSeenAt": "2026-10-02T00:09:59.076Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
+      "updatedAt": "2026-10-02T00:09:59.076Z",
+      "version": 1,
+      "history": []
+    },
     {
       "id": "d26c5abb5be88336f565082f",
       "title": "美国“龙”飞船送新一批宇航员飞赴国际空间站",
@@ -23,7 +755,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T20:19:17.931Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T20:19:17.931Z",
       "version": 1,
       "history": []
@@ -50,7 +782,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T20:19:17.931Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T20:19:17.931Z",
       "version": 1,
       "history": []
@@ -76,7 +808,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T20:19:17.931Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T20:19:17.931Z",
       "version": 1,
       "history": []
@@ -103,7 +835,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T20:19:17.931Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T20:19:17.931Z",
       "version": 1,
       "history": []
@@ -130,7 +862,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T20:19:17.931Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T20:19:17.931Z",
       "version": 1,
       "history": []
@@ -155,7 +887,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T20:19:17.931Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T20:19:17.931Z",
       "version": 1,
       "history": []
@@ -197,7 +929,7 @@
         "sourceVersion": "446695f4-4759-42a7-89f4-ea086104d13a"
       },
       "firstSeenAt": "2026-10-01T20:19:17.931Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T20:19:17.931Z",
       "version": 1,
       "history": []
@@ -224,7 +956,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T20:19:17.931Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T20:19:17.931Z",
       "version": 1,
       "history": []
@@ -250,7 +982,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T20:19:17.931Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T20:19:17.931Z",
       "version": 1,
       "history": []
@@ -276,7 +1008,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T20:19:17.931Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T20:19:17.931Z",
       "version": 1,
       "history": []
@@ -301,7 +1033,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T20:19:17.931Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T20:19:17.931Z",
       "version": 1,
       "history": []
@@ -326,7 +1058,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -352,7 +1084,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -378,7 +1110,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -404,7 +1136,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -429,7 +1161,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -454,7 +1186,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -480,7 +1212,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -505,7 +1237,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -532,7 +1264,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -558,7 +1290,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -585,7 +1317,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -612,7 +1344,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -639,7 +1371,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -664,7 +1396,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -690,7 +1422,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -716,7 +1448,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -741,7 +1473,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -784,7 +1516,7 @@
         "sourceVersion": "2a5ee0b3-0b6a-419a-988f-0f93f2a961e8"
       },
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -809,7 +1541,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -834,7 +1566,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -859,7 +1591,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -885,7 +1617,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -912,7 +1644,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -937,7 +1669,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -964,7 +1696,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -991,7 +1723,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -1017,7 +1749,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -1067,7 +1799,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -1120,7 +1852,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -1324,7 +2056,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -1350,7 +2082,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -1362,8 +2094,8 @@
       "summary": "中新网安徽休宁10月1日电(江婉琪)“以前米酒论斤卖，现在卖的不只是一杯酒，更是一种生活方式。”安徽省级非物质文化遗产代表性项目五城米酒酿制技艺黄山市级代表性传承人李爱华说。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-01T12:47:34.000Z",
@@ -1377,7 +2109,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -1493,8 +2225,8 @@
       "summary": "中新社天津10月1日电 (记者 周亚强)天津国际邮轮母港10月1日迎来“三船同靠”。记者从天津东疆边检站获悉，该港当日出入境旅客超1万人次，创年内新高，较去年同期增长逾两倍。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-01T12:40:04.000Z",
@@ -1509,7 +2241,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -1534,7 +2266,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -1576,7 +2308,7 @@
         "sourceVersion": "f0b856e3-5455-41a6-83cc-c533839f2e1a"
       },
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -1601,7 +2333,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -1627,7 +2359,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -1652,7 +2384,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -1702,7 +2434,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -1728,7 +2460,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -1804,7 +2536,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -1829,7 +2561,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -1930,7 +2662,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -1955,7 +2687,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2059,7 +2791,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2185,7 +2917,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2313,7 +3045,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2388,7 +3120,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2438,7 +3170,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2463,7 +3195,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2488,7 +3220,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2563,7 +3295,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2589,7 +3321,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2614,7 +3346,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2640,7 +3372,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2666,7 +3398,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2716,7 +3448,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2742,7 +3474,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2767,7 +3499,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2818,7 +3550,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2844,7 +3576,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2869,7 +3601,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2894,7 +3626,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2919,7 +3651,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2961,7 +3693,7 @@
         "sourceVersion": "c677ed5f-2d0a-4115-aea3-ec9fe59a873a"
       },
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -2986,7 +3718,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -3011,7 +3743,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -3037,7 +3769,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -3088,7 +3820,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -3130,7 +3862,7 @@
         "sourceVersion": "9092a553-593f-43c6-ab00-6ad934b32f71"
       },
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -3156,7 +3888,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -3283,7 +4015,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -3360,7 +4092,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -3402,7 +4134,7 @@
         "sourceVersion": "f2820111-9720-4fd3-8e41-d3840bfac85e"
       },
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -3428,7 +4160,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -3478,7 +4210,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -3503,7 +4235,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -3578,7 +4310,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -3730,7 +4462,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -3757,7 +4489,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -3875,7 +4607,7 @@
         "sourceVersion": "5f1a0319-a782-471f-b269-8a8277a97c60"
       },
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -3975,7 +4707,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -4000,7 +4732,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T14:45:07.499Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 1,
       "history": []
@@ -5184,7 +5916,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T07:09:15.592Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T07:09:15.592Z",
       "version": 1,
       "history": []
@@ -5212,7 +5944,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T07:09:15.592Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T07:09:15.592Z",
       "version": 1,
       "history": []
@@ -5239,7 +5971,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T07:09:15.592Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T07:09:15.592Z",
       "version": 1,
       "history": []
@@ -5319,7 +6051,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T07:09:15.592Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T07:09:15.592Z",
       "version": 1,
       "history": []
@@ -5347,7 +6079,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-01T07:09:15.592Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T07:09:15.592Z",
       "version": 1,
       "history": []
@@ -5489,7 +6221,7 @@
         "sourceVersion": "382279d6-9f9b-4bfd-b05f-12504a90597e"
       },
       "firstSeenAt": "2026-10-01T07:09:15.592Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T20:19:17.931Z",
       "version": 3,
       "history": [
@@ -5740,7 +6472,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-01T07:09:15.592Z",
-      "lastSeenAt": "2026-10-01T14:45:07.499Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T07:09:15.592Z",
       "version": 1,
       "history": []
@@ -7734,7 +8466,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-01T07:09:15.592Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 2,
       "history": [
@@ -8378,7 +9110,7 @@
         "sourceVersion": "8af7a610-b39b-468a-9cb6-c926aad3861b"
       },
       "firstSeenAt": "2026-10-01T00:48:24.977Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T00:48:24.977Z",
       "version": 1,
       "history": []
@@ -8420,7 +9152,7 @@
         "sourceVersion": "1ae04625-d217-4013-9296-832d7adecced"
       },
       "firstSeenAt": "2026-10-01T00:48:24.977Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T00:48:24.977Z",
       "version": 1,
       "history": []
@@ -8462,7 +9194,7 @@
         "sourceVersion": "34252f8b-4026-4fd3-b51d-dbe5f5405ed9"
       },
       "firstSeenAt": "2026-10-01T00:48:24.977Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T00:48:24.977Z",
       "version": 1,
       "history": []
@@ -8504,7 +9236,7 @@
         "sourceVersion": "90c54a41-d44b-4a6f-84da-c84a54a07b09"
       },
       "firstSeenAt": "2026-10-01T00:48:24.977Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T00:48:24.977Z",
       "version": 1,
       "history": []
@@ -8546,7 +9278,7 @@
         "sourceVersion": "faa71ce0-fee2-4035-8bcb-ed3992e756a2"
       },
       "firstSeenAt": "2026-10-01T00:48:24.977Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T00:48:24.977Z",
       "version": 1,
       "history": []
@@ -8588,7 +9320,7 @@
         "sourceVersion": "9cd7ae6c-872d-45b8-9774-53f77a2d4b27"
       },
       "firstSeenAt": "2026-10-01T00:48:24.977Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 2,
       "history": [
@@ -8692,7 +9424,7 @@
         "sourceVersion": "5c9190de-7de7-4fa8-8666-e53e873b784f"
       },
       "firstSeenAt": "2026-10-01T00:48:24.977Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T00:48:24.977Z",
       "version": 1,
       "history": []
@@ -9000,7 +9732,7 @@
         "sourceVersion": "9974e276-d3be-48f5-b080-1fb4dd87a386"
       },
       "firstSeenAt": "2026-09-30T16:59:14.598Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-09-30T16:59:14.598Z",
       "version": 1,
       "history": []
@@ -9145,7 +9877,7 @@
         "sourceVersion": "41ce893b-9180-42fa-b1ae-049bf9ab6816"
       },
       "firstSeenAt": "2026-09-30T16:59:14.598Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-10-01T14:45:07.499Z",
       "version": 2,
       "history": [
@@ -9335,7 +10067,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-30T16:59:14.598Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-09-30T16:59:14.598Z",
       "version": 1,
       "history": []
@@ -15064,7 +15796,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-09-30T16:59:14.598Z",
       "version": 2,
       "history": [
@@ -17060,7 +17792,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-09-30T05:25:35.158Z",
       "version": 1,
       "history": []
@@ -18989,7 +19721,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-09-30T05:25:35.158Z",
       "version": 1,
       "history": []
@@ -25414,7 +26146,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-29T15:03:50.126Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-09-29T15:03:50.126Z",
       "version": 1,
       "history": []
@@ -26750,7 +27482,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-29T15:03:50.126Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-09-29T15:03:50.126Z",
       "version": 1,
       "history": []
@@ -29765,7 +30497,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-29T08:22:36.268Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-09-29T08:22:36.268Z",
       "version": 1,
       "history": []
@@ -31920,7 +32652,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-29T01:51:36.365Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-09-29T01:51:36.365Z",
       "version": 1,
       "history": []
@@ -37346,7 +38078,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-28T15:58:16.803Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-09-28T15:58:16.803Z",
       "version": 1,
       "history": []
@@ -37371,7 +38103,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-28T15:58:16.803Z",
-      "lastSeenAt": "2026-10-01T20:19:17.931Z",
+      "lastSeenAt": "2026-10-02T00:09:59.076Z",
       "updatedAt": "2026-09-28T15:58:16.803Z",
       "version": 1,
       "history": []
@@ -171394,8 +172126,8 @@
       "id": "ithome",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-01T20:19:17.931Z",
-      "lastSuccessAt": "2026-10-01T20:19:17.931Z",
+      "checkedAt": "2026-10-02T00:09:59.076Z",
+      "lastSuccessAt": "2026-10-02T00:09:59.076Z",
       "etag": null,
       "lastModified": null,
       "discovered": 60,
@@ -171406,8 +172138,8 @@
       "id": "sspai",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-01T20:19:17.931Z",
-      "lastSuccessAt": "2026-10-01T20:19:17.931Z",
+      "checkedAt": "2026-10-02T00:09:59.076Z",
+      "lastSuccessAt": "2026-10-02T00:09:59.076Z",
       "etag": null,
       "lastModified": null,
       "discovered": 10,
@@ -171418,8 +172150,8 @@
       "id": "chinanews-society",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-01T20:19:17.931Z",
-      "lastSuccessAt": "2026-10-01T20:19:17.931Z",
+      "checkedAt": "2026-10-02T00:09:59.076Z",
+      "lastSuccessAt": "2026-10-02T00:09:59.076Z",
       "etag": "\"6abe6616-4140\"",
       "lastModified": "Thu, 01 Oct 2026 13:54:30 GMT",
       "discovered": 0,
@@ -171430,11 +172162,11 @@
       "id": "chinanews-finance",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-01T20:19:17.931Z",
-      "lastSuccessAt": "2026-10-01T20:19:17.931Z",
-      "etag": "\"6abe610e-414e\"",
-      "lastModified": "Thu, 01 Oct 2026 13:33:02 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-10-02T00:09:59.076Z",
+      "lastSuccessAt": "2026-10-02T00:09:59.076Z",
+      "etag": "\"6abee59a-4132\"",
+      "lastModified": "Thu, 01 Oct 2026 22:58:34 GMT",
+      "discovered": 30,
       "failures": 0,
       "error": null
     },
@@ -171442,8 +172174,8 @@
       "id": "chinanews-life",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-01T20:19:17.931Z",
-      "lastSuccessAt": "2026-10-01T20:19:17.931Z",
+      "checkedAt": "2026-10-02T00:09:59.076Z",
+      "lastSuccessAt": "2026-10-02T00:09:59.076Z",
       "etag": "\"6abdc535-1615\"",
       "lastModified": "Thu, 01 Oct 2026 02:28:05 GMT",
       "discovered": 0,
@@ -171454,8 +172186,8 @@
       "id": "chinanews-jk",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-01T20:19:17.931Z",
-      "lastSuccessAt": "2026-10-01T20:19:17.931Z",
+      "checkedAt": "2026-10-02T00:09:59.076Z",
+      "lastSuccessAt": "2026-10-02T00:09:59.076Z",
       "etag": "\"69aa3e2a-2832\"",
       "lastModified": "Fri, 06 Mar 2026 02:38:34 GMT",
       "discovered": 0,
@@ -171466,8 +172198,8 @@
       "id": "chinanews-culture",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-01T20:19:17.931Z",
-      "lastSuccessAt": "2026-10-01T20:19:17.931Z",
+      "checkedAt": "2026-10-02T00:09:59.076Z",
+      "lastSuccessAt": "2026-10-02T00:09:59.076Z",
       "etag": "\"6abe60c3-3aea\"",
       "lastModified": "Thu, 01 Oct 2026 13:31:47 GMT",
       "discovered": 0,
@@ -171478,8 +172210,8 @@
       "id": "chinanews-edu",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-01T20:19:17.931Z",
-      "lastSuccessAt": "2026-10-01T20:19:17.931Z",
+      "checkedAt": "2026-10-02T00:09:59.076Z",
+      "lastSuccessAt": "2026-10-02T00:09:59.076Z",
       "etag": "\"6abe21e3-25e9\"",
       "lastModified": "Thu, 01 Oct 2026 09:03:31 GMT",
       "discovered": 0,
@@ -171490,11 +172222,11 @@
       "id": "chinanews-sports",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-01T20:19:17.931Z",
-      "lastSuccessAt": "2026-10-01T20:19:17.931Z",
+      "checkedAt": "2026-10-02T00:09:59.076Z",
+      "lastSuccessAt": "2026-10-02T00:09:59.076Z",
       "etag": "\"6abe83ae-3adc\"",
       "lastModified": "Thu, 01 Oct 2026 16:00:46 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -171502,10 +172234,10 @@
       "id": "chinanews-scroll-news",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-01T20:19:17.931Z",
-      "lastSuccessAt": "2026-10-01T20:19:17.931Z",
-      "etag": "\"6abe84dc-3a85\"",
-      "lastModified": "Thu, 01 Oct 2026 16:05:48 GMT",
+      "checkedAt": "2026-10-02T00:09:59.076Z",
+      "lastSuccessAt": "2026-10-02T00:09:59.076Z",
+      "etag": "\"6abef23e-390c\"",
+      "lastModified": "Thu, 01 Oct 2026 23:52:30 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -171513,8 +172245,8 @@
     "govuk-fulltext": {
       "id": "govuk-fulltext",
       "status": "ok",
-      "checkedAt": "2026-10-01T20:19:17.931Z",
-      "lastSuccessAt": "2026-10-01T20:19:17.931Z",
+      "checkedAt": "2026-10-02T00:09:59.076Z",
+      "lastSuccessAt": "2026-10-02T00:09:59.076Z",
       "discovered": 20,
       "rejected": 0,
       "contentSchema": 3,
