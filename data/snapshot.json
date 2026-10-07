@@ -1,8 +1,916 @@
 {
   "schemaVersion": "1",
-  "collectedAt": "2026-10-07T14:44:09.920Z",
-  "lastSuccessfulCollectionAt": "2026-10-07T14:44:09.920Z",
+  "collectedAt": "2026-10-07T20:34:34.931Z",
+  "lastSuccessfulCollectionAt": "2026-10-07T20:34:34.931Z",
   "items": [
+    {
+      "id": "131c82ce4e021e51bdf87fbd",
+      "title": "微软发布 Win11 Beta / Experimental 多版本预览更新：全新搜索体验、电池状态小组件",
+      "originalUrl": "https://www.ithome.com/1/010/317.htm",
+      "summary": "IT之家 10 月 8 日消息，微软昨天（10 月 7 日）发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新，本次推送包含多个不同分支版本： Beta 通道：Build 26220.9606（26H2）、Build 28020.3172（26H1） Experimental 通道：Build 26340.9616（26H2）、Build 28120.3181（26H1）…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T19:33:30.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "89d1d95e6c8ee71d759cc56f",
+      "title": "微软 Surface Laptop Ultra 探秘：迭代约 300 次，全球首款内置磁吸式 USB-C 接口",
+      "originalUrl": "https://www.ithome.com/1/010/323.htm",
+      "summary": "IT之家 10 月 8 日消息，科技媒体 The Verge 今天（10 月 8 日）发布博文，通过探访微软实验室，介绍了微软是如何打造 Surface Laptop Ultra 过程，其设计迭代超过 300 次，从而更好地和苹果 MacBook Pro 竞争。 IT之家援引博文介绍，为了让 Surface Laptop Ultra 的外观设计能与 MacBook 一较高下，微软巧妙地重新设计了磁吸式 Surface Connect 充电端口，官方称其为 Magnetic C…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T19:00:29.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "bfb3d3bee092de84d1009ced",
+      "title": "微软描绘 Autopilot 全新蓝图：让 Windows AI 从“回答问题”走向“执行任务”",
+      "originalUrl": "https://www.ithome.com/1/010/321.htm",
+      "summary": "IT之家 10 月 8 日消息，微软今天召开 Surface 新品发布会，现场展示 Autopilot 未来方向。根据其设想，这款智能体将让 Windows AI 进一步实现自主化执行任务。 在微软的设想下，Autopilot 不再只是根据用户指令处理信息，而是能够理解目标、规划步骤，调用 Windows 系统及各种应用完成任务。用户可以通过自然语言描述需求，AI 负责查找信息、操作文件、配置系统或执行工作流程，用户负责在关键节点确认或干预。 IT之家了解到，Autopilo…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T18:38:21.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0eefc6de71a75d2f38e66a71",
+      "title": "微软 Surface Laptop Ultra 售价公布：起价 21988 元，128GB 内存顶配售 48388 元",
+      "originalUrl": "https://www.ithome.com/1/010/320.htm",
+      "summary": "IT之家 10 月 8 日消息，微软中国商城今天（10 月 8 日）上架 Surface Laptop Ultra，共有亮铂金和夜幕色两种颜色，起售价为 21,988 元，128GB 内存顶配售价为 48,388 元。 IT之家附上售价信息如下： CPUGPU内存SSD颜色售价 18 核NVIDIA RTX Spark™ N1X，5120 核24GB 统一内存512GB亮铂金21,988 元 18 核NVIDIA RTX Spark™ N1X，5120 核24GB 统一内存1…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T18:33:19.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "496a13392995583c66d94eab",
+      "title": "英伟达黄仁勋回忆微软 Win95 往昔：没有 Windows 的话，CUDA 就不会诞生",
+      "originalUrl": "https://www.ithome.com/1/010/319.htm",
+      "summary": "IT之家 10 月 8 日消息，微软今日召开 Surface 新品发布会，CEO 纳德拉、Windows 负责人帕万 · 达武鲁里均登台演讲，英伟达 CEO 黄仁勋后半段压轴登场。 黄仁勋登台时，特意将自己的手机交给了助理，所以我们今天没办法看到这位大佬拨通什么神秘电话。 黄仁勋和纳德拉坐下来后聊起了 Windows 95。这款操作系统第一次集成了 DirectX，让开发者能够更加容易地为 Windows 系统开发游戏。 IT之家注意到，黄仁勋在聊天中表示：“如果没有 Win…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T18:28:39.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e753d4280aa74a0608831d7d",
+      "title": "英伟达黄仁勋：已测超 1200 款应用，RTX Spark 是全球唯一本地原生运行所有应用的电脑",
+      "originalUrl": "https://www.ithome.com/1/010/318.htm",
+      "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中，黄仁勋表示英伟达正推动一种以本地设备为核心的 AI 计算模式。 黄仁勋称：“这是全球唯一一台能够在设备端原生运行一切应用的电脑。”他同时表示，几乎所有笔记本电脑、台式机和工作站厂商都已加入英伟达的合作阵营。 黄仁勋还借此强调英伟达正在构建的硬件生态：从轻量化 AI PC，到面向开发者和专业用户的工作站，再到 DGX Station 等…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T18:22:04.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "aef0556c034b52422a703656",
+      "title": "黄仁勋：英伟达当初正是因 Windows 而诞生",
+      "originalUrl": "https://www.ithome.com/1/010/315.htm",
+      "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中，英伟达首席执行官黄仁勋表示：“英伟达当初正是因 Windows 而诞生”。 在本次活动中，微软首席执行官萨蒂亚 · 纳德拉、英伟达首席执行官黄仁勋和白宫前人工智能高级政策顾问斯里拉姆 · 克里希南三人展开了一场对话。 黄仁勋在开场时表示：“英伟达的创立是因为 Windows 系统。Windows 95 系统让 GPU 连接到 PC 成…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T18:11:32.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "107320a1de90735d9a68a354",
+      "title": "《使命召唤》系列游戏明年登陆 RTX Spark 平台",
+      "originalUrl": "https://www.ithome.com/1/010/314.htm",
+      "summary": "IT之家 10 月 8 日消息，微软今日召开 Surface 新品发布会，推出 Surface Laptop Ultra 笔记本新品。虽然这场活动是以商务应用、AI 为主，但微软并没有忘记提起游戏。 微软 Windows 和设备部门负责人帕万 · 达武鲁里在发布会表示，《使命召唤》系列游戏将于明年登陆 RTX Spark 平台，更多信息将在后续公布。 IT之家注意到，微软还在现场提到，《战争机器：事变日》游戏支持 RTX Spark 笔记本。这款游戏在 Spark 平台上拥有…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T18:10:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d448cedd75f5568b9e009e42",
+      "title": "英伟达发布 DGX Station for Windows：本地运行 1 万亿参数 AI 模型，最高 748GB 内存",
+      "originalUrl": "https://www.ithome.com/1/010/313.htm",
+      "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会上，英伟达发布 DGX Station for Windows，定位为桌面级 AI 超级计算机，旨在让开发者、研究人员和数据科学团队在本地运行大规模 AI 模型，将于 2026 年第四季度上市。 IT之家援引博文介绍，DGX Station 搭载 NVIDIA GB300 Grace Blackwell Ultra Desktop Sup…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T17:56:19.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c1f0a483906b140b84544282",
+      "title": "2599 美元 / 5999 美元：微软 Surface Laptop Ultra 笔记本、Surface RTX Spark Dev Box 开发机价格公布",
+      "originalUrl": "https://www.ithome.com/1/010/312.htm",
+      "summary": "IT之家 10 月 8 日消息，微软今日在 Surface 新品发布会公布 Surface Laptop Ultra 笔记本的售价，新品定价 2,599 美元（IT之家注：现汇率约合 17,444 元人民币），即日起开订。 微软还公布了 Surface RTX Spark Dev Box 开发机的价格：5,999 美元（现汇率约合 40,265 元人民币），这款产品同样是即日起接受预订。 微软表示，Surface Laptop Ultra 笔记本散热能力是现有 Surface…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T17:52:04.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "2862fc36acae40b623b3d691",
+      "title": "微软展示全新 Win11 搜索体验：从查找文件转向理解用户意图",
+      "originalUrl": "https://www.ithome.com/1/010/311.htm",
+      "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中，微软展示全新的 Windows 搜索体验，计划借助 AI 让用户以更自然的方式查找信息、文件和应用。 与传统依赖关键词匹配的搜索方式不同，新体验更强调理解用户意图。用户可以用自然语言描述想要查找的内容，Windows 则尝试结合文件内容、应用信息和系统上下文，返回更相关的结果。搜索功能也有望从单纯“找到项目”，进一步发展为帮助用户完成…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T17:47:26.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "06bdb0c8a211fa780663a84a",
+      "title": "微软：Meta Muse 智能体将登陆 Windows 平台",
+      "originalUrl": "https://www.ithome.com/1/010/310.htm",
+      "summary": "IT之家 10 月 8 日消息，微软今天在 Surface 新品发布会展示了多款第三方智能体工具。其中，Perplexity 的“便携电脑”工具能够端侧执行多种复杂 AI 任务，无需消耗 Perplexity 云积分。 IT之家注意到，微软 Windows 和设备部门负责人帕万 · 达武鲁里在发布会中表示，Meta 公司的 Muse 智能体将以原生应用的形式登陆 Windows 平台，并集成 MXC SDK。 此外，微软还将在 Windows 系统中推出全新“入门指南”，帮助…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T17:45:35.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "76b17fc745d96edc99f91cae",
+      "title": "微软提出“混合智能”新路线，协同本地 / 云端 AI 灵活处理 Win11 用户任务",
+      "originalUrl": "https://www.ithome.com/1/010/309.htm",
+      "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会上，微软提出“混合智能”（hybrid intelligence）理念，强调通过混合架构，结合云端 AI 与本地计算能力，在 Windows 11 系统上实际处理用户任务。 IT之家援引博文介绍，Windows AI 不再局限于单一的云端调用或设备端运行，会根据任务类型、设备性能和安全需求，在本地与云端之间进行协同：对隐私敏感、需要快速响…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T17:42:01.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "883ac59a9bc65939bb88ee35",
+      "title": "MAI Code 1.1 Flash 模型将整合到微软 Win11：上下文窗口 256K、130B 参数",
+      "originalUrl": "https://www.ithome.com/1/010/308.htm",
+      "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的活动中，微软表示正计划将 MAI Code 1.1 Flash 模型（包含 1300 亿个参数）引入 Windows 11 设备。 作为 6 月发布的 MAI-Code-1-Flash 的升级版，MAI Code 1.1 Flash 现已集成到 GitHub Copilot 与 VS Code 等开发环境中，用于日常编码、仓库问答、重构、工具调…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T17:29:16.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a965108d71a07989b0438da7",
+      "title": "微软重点介绍 MXC SDK，为 AI 智能体提供受控执行环境",
+      "originalUrl": "https://www.ithome.com/1/010/307.htm",
+      "summary": "IT之家 10 月 8 日消息，据科技媒体 The Verge 报道，微软今天在 Windows 与 Surface 发布会重点介绍 MXC（ Microsoft Execution Containers） SDK，将其称为 Windows AI 战略的重要组成部分。 据介绍，MXC 旨在为 AI 智能体提供相对独立的执行环境，使其能在受控环境内执行代码、调用工具并完成任务，让智能体少碰用户敏感数据。对 Windows 而言，该工具可让智能体在本地执行更复杂的操作，而不只是简…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T17:24:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "85f5221082b13549bd4b7e66",
+      "title": "纳德拉：Agent 365、Microsoft IQ 和 Copilot 将成为微软 AI 布局的关键支点",
+      "originalUrl": "https://www.ithome.com/1/010/306.htm",
+      "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办发布会上，微软首席执行官萨蒂亚 · 纳德拉（Satya Nadella）表示，微软正尝试将“前沿生态系统”的三大理念带入 Windows。 这三大支柱分别是信任、智能，以及“融入人类抱负的 AI”（AI in the flow of human ambition）。纳德拉说：“今天的思路是，如何将这三项理念带入 Windows。我们将采用 Age…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T17:16:03.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a7a17a8611298f42c1b40a1f",
+      "title": "分子也有“左右之分”，今年诺贝尔化学奖为何研究“偏心”？",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/10-08/10708836.shtml",
+      "summary": "2026 年 10 月 7 日，瑞典皇家科学院将诺贝尔化学奖授予亨利·B·卡甘(Henri B. Kagan)和硖合宪三(Kenso Soai)，以表彰他们发现不对称有机合成中的非线性效应和自催化现象。他们的研究到底是什么意思，又有什么意义呢？让我们从左手和右手讲起。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T16:18:48.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4a2b1e0fbe4fac564906dfbd",
+      "title": "Pine marten caught on camera in Suffolk nature reserve 'first'",
+      "originalUrl": "https://www.gov.uk/government/news/pine-marten-caught-on-camera-in-suffolk-nature-reserve-first",
+      "sourcePublishedAt": "2026-10-07T17:14:30+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "A sighting of what is thought to be a live pine marten has been recorded on a beach in Suffolk for the first time. This rare footage was captured at Benacre National Nature Reserve, near Lowestoft, by a camera trap installed to monitor pred",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>A sighting of what is thought to be a live pine marten has been recorded on a beach in Suffolk for the first time. </p>\n\n<p>This rare footage was captured at Benacre National Nature Reserve, near Lowestoft, by a camera trap installed to monitor predators and disturbance affecting birds at the reserve.  </p>\n\n<p>Adam Burrows, senior reserve manager for Natural England, said: </p>\n\n<blockquote>\n  <p>This fantastic find is a real thrill for everyone who works on this reserve, and seeing what we think is a pine marten in Suffolk for the first time shows just how special this landscape is. </p>\n\n  <p>Pine martens are primarily nocturnal and hard to spot, but their light bib and bushy tail help set them apart from other mustelids. Their presence at Benacre National Nature Reserve reflects the natural balance of a healthy ecosystem, where predators and prey coexist as part of the site’s wildlife thriving together. </p>\n</blockquote>\n\n<div></div>\n<p>Managed by Natural England, Benacre National Nature Reserve is home to rare plants and breeding and migratory birds. Photo: Natural England</p>\n\n<p>Pine martens are elusive, cat-sized mammals related to weasels and stoats. Once widespread across Britain, their numbers declined sharply due to habitat loss and historical persecution, and they are now rare in England, with strongholds mainly in Scotland and parts of Wales.  The previously nearest recorded sighting to Benacre National Nature Reserve was one at Heacham, in Norfolk, in 2024. </p>\n\n<p>Camera traps, like the one that captured the elusive pine marten, will continue to support predator and disturbance-monitoring at the reserve. This will help protect rare and threatened ground-nesting birds such as little terns and avocets during the critical breeding season, while better understanding how these species interact within the wider habitat. </p>\n\n<p>Benacre National Nature Reserve, managed by Natural England, is part of the Suffolk coast’s protected habitats for breeding and migratory birds. It supports more than 100 breeding bird species, including marsh harrier, bearded reedling, and bittern, while its shingle shoreline hosts plants such as yellow horned poppy and sea holly. This diversity reflects Natural England’s ambitions for thriving, better-connected habitats where nature’s recovery benefits both wildlife and people.</p>\n\n<p>National Nature Reserves protect England’s most important habitats, species, and geology, delivering nature recovery at a landscape scale. That’s why Natural England is delivering the King’s Series of National Nature Reserves, which will create or extend 25 NNRs by 2027, leaving a legacy for people and nature.</p>\n\n<p>Background: </p>\n\n<ul>\n  <li>Photos of Benacre NNR and the short piece of video footage of the pine marten are available to download from WeTransfer for 3 days only, or from the Natural England press office: <a href=\"https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwe.tl%2Ft-SxtAbSk9osHi4hD9&amp;data=05%7C02%7CPeter.OConnor%40defra.gov.uk%7C828dfcd9ad904310712e08df24812b51%7C770a245002274c6290c74e38537f1102%7C0%7C0%7C639269809325625773%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=MaL0CqUtu3kofru569rR86Grs3Kv5wlV%2B3q1LSi9ARA%3D&amp;reserved=0\">https://we.tl/t-SxtAbSk9osHi4hD9</a>\n</li>\n  <li>The alternative species could be a beech marten which looks almost identical to a pine marten.</li>\n  <li>Further information about Benacre National Nature Reserve can be found here: <a href=\"https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fpublications%2Fsuffolks-national-nature-reserves%2Fsuffolks-national-nature-reserves&amp;data=05%7C02%7CPeter.OConnor%40defra.gov.uk%7C828dfcd9ad904310712e08df24812b51%7C770a245002274c6290c74e38537f1102%7C0%7C0%7C639269809325648683%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=KKIIyb%2FuHtFYpBJMd4FbIQ9kfPiCO6gJXnboMw8TC7g%3D&amp;reserved=0\">Suffolk’s National Nature Reserves - GOV.UK</a>\n</li>\n</ul>\n\n<h2>Contact us:</h2>\n<p>Journalists only: <a>communications_se@environment-agency.gov.uk</a> or 0800 141 2743. Natural England shares a press office with the Environment Agency.</p>\n\n<p>Public enquiries: <a>enquiries@naturalengland.org.uk</a> or 0300 060 3900.</p>\n\n</div>",
+      "bodyText": "A sighting of what is thought to be a live pine marten has been recorded on a beach in Suffolk for the first time. \n\nThis rare footage was captured at Benacre National Nature Reserve, near Lowestoft, by a camera trap installed to monitor predators and disturbance affecting birds at the reserve.  \n\nAdam Burrows, senior reserve manager for Natural England, said: \n\n\n  This fantastic find is a real thrill for everyone who works on this reserve, and seeing what we think is a pine marten in Suffolk for the first time shows just how special this landscape is. \n\n  Pine martens are primarily nocturnal and hard to spot, but their light bib and bushy tail help set them apart from other mustelids. Their presence at Benacre National Nature Reserve reflects the natural balance of a healthy ecosystem, where predators and prey coexist as part of the site’s wildlife thriving together. \n\n\n\nManaged by Natural England, Benacre National Nature Reserve is home to rare plants and breeding and migratory birds. Photo: Natural England\n\nPine martens are elusive, cat-sized mammals related to weasels and stoats. Once widespread across Britain, their numbers declined sharply due to habitat loss and historical persecution, and they are now rare in England, with strongholds mainly in Scotland and parts of Wales.  The previously nearest recorded sighting to Benacre National Nature Reserve was one at Heacham, in Norfolk, in 2024. \n\nCamera traps, like the one that captured the elusive pine marten, will continue to support predator and disturbance-monitoring at the reserve. This will help protect rare and threatened ground-nesting birds such as little terns and avocets during the critical breeding season, while better understanding how these species interact within the wider habitat. \n\nBenacre National Nature Reserve, managed by Natural England, is part of the Suffolk coast’s protected habitats for breeding and migratory birds. It supports more than 100 breeding bird species, including marsh harrier, bearded reedling, and bittern, while its shingle shoreline hosts plants such as yellow horned poppy and sea holly. This diversity reflects Natural England’s ambitions for thriving, better-connected habitats where nature’s recovery benefits both wildlife and people.\n\nNational Nature Reserves protect England’s most important habitats, species, and geology, delivering nature recovery at a landscape scale. That’s why Natural England is delivering the King’s Series of National Nature Reserves, which will create or extend 25 NNRs by 2027, leaving a legacy for people and nature.\n\nBackground: \n\n\n  Photos of Benacre NNR and the short piece of video footage of the pine marten are available to download from WeTransfer for 3 days only, or from the Natural England press office: https://we.tl/t-SxtAbSk9osHi4hD9\n\n  The alternative species could be a beech marten which looks almost identical to a pine marten.\n  Further information about Benacre National Nature Reserve can be found here: Suffolk’s National Nature Reserves - GOV.UK\n\n\n\nContact us:\nJournalists only: communications_se@environment-agency.gov.uk or 0800 141 2743. Natural England shares a press office with the Environment Agency.\n\nPublic enquiries: enquiries@naturalengland.org.uk or 0300 060 3900.\n\n",
+      "bodyHash": "0399180e0c7725f756bfe25c98689f881f00fe7baf6caa160574cbc9cfdf1cbf",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/pine-marten-caught-on-camera-in-suffolk-nature-reserve-first",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Natural England"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-10-07T17:14:30+01:00",
+        "sourceVersion": "e5852b07-a555-407e-8c61-9a22d00ed73e"
+      },
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ba3c2e9a3760808a01da3cec",
+      "title": "今日寒露：天҈要҈凉҈了҈",
+      "originalUrl": "https://www.ithome.com/1/010/305.htm",
+      "summary": "IT之家 10 月 8 日消息，今天是二十四节气中的寒露，寒露通常会在每年的 10 月 7 日至 10 月 9 日这几天，寒露的到来表示秋季的正式结束。寒露之后，气候从凉爽到寒冷，此节气中，南岭及以北的广大地区均已进入秋季，目前，北方大部分地区都已经入秋，东北、西北、西南等地已经进入冬季。 此时节，荷败蝉噤，桐残叶黄，千里霜铺，鸿雁南归，呈现出一派深秋景象。由于“寒露”是气候从凉爽到寒冷的过渡和转折，相对于“白露”而言，“寒露”期间气候更凉，气温更低，标志着深秋来临。“寒露脚…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T16:00:10.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1fb2ca1c55ad786ec7337fe3",
+      "title": "尹锡悦接受免费舆论调查服务案二审改判无罪",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-07/10708835.shtml",
+      "summary": "中新社首尔10月7日电 (记者 金旭)当地时间7日，韩国前总统尹锡悦涉嫌接受免费舆论调查服务案二审改判无罪，一审认定的部分有罪判决被推翻。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T15:45:51.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "cc03b09e83fdd771ad1a64fa",
+      "title": "余承东称华为自 2019 年以来为生存克服了许多困难，基本摆脱美国技术依赖",
+      "originalUrl": "https://www.ithome.com/1/010/304.htm",
+      "summary": "IT之家 10 月 7 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东在 9 月 29 日的国际媒体圆桌会议上透露，为了生存，华为自 2019 年以来克服了许多困难 —— 依靠自主技术和能力，与国内供应链合作制造先进芯片、设计自己的操作系统、自主开发基础工具和软件，逐步建立起国内供应链。 他表示，2023 年，华为才重新开始在国内制造智能手机所使用的芯片。 余承东坦言，依靠这些芯片、鸿蒙操作系统，以及中国国内的供应链、材料和工艺制程，华为基本摆脱了对美…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T15:37:27.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4783a113e8ec066cc342d30f",
+      "title": "传三星电子 12Hi HBM4E 内存已通过英伟达等主要客户质量验证测试",
+      "originalUrl": "https://www.ithome.com/1/010/303.htm",
+      "summary": "IT之家 10 月 7 日消息，《韩国经济日报》当地时间今日报道称，三星电子存储器业务的 12 层堆叠 HBM4E 内存已于 9 月末通过 NVIDIA（英伟达）和主要超大规模数据中心企业的质量验证测试，各客户的供货量、合同规模、出货时间尚未敲定。 三星电子此前在今年 5 月实现了 12Hi HBM4E 产品的出样。其结合了 1c nm DRAM Die 与 4nm Logic Die，单堆栈容量达 48GB，支持 14~16Gbps 引脚速率，实现 16% 能效提升、14%…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T15:35:14.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "47497fbad35fd390a32aa294",
+      "title": "索尼两款新设备获 Wi-Fi 联盟认证，预计为新款 PS Portal 串流掌机",
+      "originalUrl": "https://www.ithome.com/1/010/302.htm",
+      "summary": "IT之家 10 月 7 日消息，索尼两款新设备近日在 Wi-Fi 联盟完成认证，型号分别为 CFI-Y2000 和 CFI-Y2105，这些机器很可能是 PlayStation Portal 串流掌机（IT之家注：CFI-Y1001）的新款机型。 根据认证信息所述，这两款设备均支持 802.11a/b/g/n/ac，包含 2.4GHz 和 5GHz 频段，均运行 Android 15 系统。作为参考，PlayStation Portal 采用定制版 Android，与使用专有…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T15:27:28.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "074f98025a6ab0c5bffb803f",
+      "title": "谷歌认证翻新计划扩展至日本：Pixel 8 / 9 系列智能手机最多折扣 45%",
+      "originalUrl": "https://www.ithome.com/1/010/301.htm",
+      "summary": "IT之家 10 月 7 日消息，Google（谷歌）当地时间今日宣布，其认证翻新设备计划正式扩展至日本市场。当地消费者通过官方渠道购买 Pixel 8 / 9 系列等前代 Google Pixel 设备的“官翻机”时最多可享受 45% 的折扣。 所有谷歌认证翻新设备都经过全面且严格的质量测试。当这些设备需要更换部件或进行维修时，仅会使用谷歌授权服务提供商提供的原装部件，以维护产品的完整性和高品质标准。 每部谷歌“官翻机”均预装最新 Android 系统，配备兼容的充电线，采用…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T15:25:37.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "2bf4ce31faec19ac47d939ab",
+      "title": "WTT中国大满贯赛：孙颖莎出局 中国台北小将淘汰梁靖崑",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/10-07/10708833.shtml",
+      "summary": "中新社北京10月7日电 (记者 周昕)2026年世界乒乓球职业大联盟(WTT)中国大满贯赛7日在北京继续进行单打1/16决赛的较量。中国选手孙颖莎以1:3不敌泰国女单选手帕拉南。国乒名将梁靖崑以1:3不敌中国台北选手郭冠宏，止步32强。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T15:21:42.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "81004cca1a2ef01728a034c1",
+      "title": "国庆假期约140.6万人次内地旅客入境香港",
+      "originalUrl": "https://www.chinanews.com.cn/dwq/2026/10-07/10708832.shtml",
+      "summary": "中新社香港10月7日电 (记者 邱兆翔)记者7日从香港特区政府入境事务处获悉，截至当日21时，今年中国内地国庆假期(10月1日至7日)共有约140.6万人次内地旅客入境香港。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T15:20:56.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "travel"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7a7b1069c1597c155d7835b1",
+      "title": "CoreWeave 落子印度，签署 240MW 数据中心容量租约",
+      "originalUrl": "https://www.ithome.com/1/010/300.htm",
+      "summary": "IT之家 10 月 7 日消息，人工智能云服务企业 CoreWeave 当地时间今日宣布进军印度市场：该企业与阿达尼旗下的 AdaniConneX 达成合作，将在印度租赁 240MW 数据中心容量。 这些容量位于孟买新城的 Taloja 园区，由 3 座 80MW 建筑组成。CoreWeave 计划在这里部署 NVIDIA Vera Rubin 平台。Taloja 园区一期预计将于 2028 年中期投入使用，后续产能将分阶段上线。 CoreWeave 计划在印度投资，设立办事…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T15:19:43.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "fbcca676913d69305c72c802",
+      "title": "泰国洪灾死亡人数升至60人 多地将迎新一轮强降雨",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-07/10708831.shtml",
+      "summary": "中新社曼谷10月7日电 (梁峻祥 李映民)泰国防灾减灾厅7日发布最新灾情信息说，自9月16日以来，泰国洪灾已造成60人死亡，首都曼谷及27个府受灾。目前，泰国有关部门正持续开展排水、救援和灾后救助等工作。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T15:19:10.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4192f5452f8e8a518f81507f",
+      "title": "“iPod 之父”法德尔分析 Rabbit R1 等初代 AI 设备为何失败：没能真正满足任何需求",
+      "originalUrl": "https://www.ithome.com/1/010/299.htm",
+      "summary": "IT之家 10 月 7 日消息，被誉为“iPod 之父”的托尼 · 法德尔最近在首届麻省理工未来节发表演讲。他上台时展示了三款曾经备受追捧的第一代 AI 设备：Rabbit R1、Humane AI Pin 和 Limitless Pendant，并说道：“这些产品背后的公司都找过我，希望我能给些建议，然而我都拒绝了。” 托尼 · 法德尔表示：“这些设备失败的原因很简单，它们没能真正满足任何实际需求。极客看到这些小玩意可能觉得很有意思，但普通用户只会觉得，它们确实很酷，但和我…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T15:19:07.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8659945994d5af6641fae33f",
+      "title": "量子精密测量实现新突破 我国科研团队研制出“核光钟”",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/10-07/10708834.shtml",
+      "summary": "日前，清华大学联合国内多个研究团队，在国际上率先研制出“核光钟”，实现了量子精密测量由电子跃迁迈向原子核跃迁，为新一代高性能时间频率基准、深空探测和基础物理研究等开辟新的技术路径。国际期刊《自然》今天刊发该项研究成果。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T15:17:46.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "technology"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7a28b452027b4eea0eee8907",
+      "title": "AMD 将在 2026 年内将 FSR 4 支持扩展至 APU、游戏本、掌机等全线设备",
+      "originalUrl": "https://www.ithome.com/1/010/297.htm",
+      "summary": "IT之家 10 月 7 日消息，据韩媒 THE ELEC 报道，AMD 高级副总裁及计算与图形事业部总经理 Jack Huynh 当地时间今日在其韩国之行中表示，AMD 将在 2026 年内将 FSR 4 支持扩展至 APU、游戏本、掌机等全线设备。 Jack Huynh 表示，AMD 将从扩大对现有 APU 支持和推出新 APU 这两方面共同着手。AMD 新开发了针对 APU 特性优化的专用版 FSR 4 技术，该企业正致力在提供高质量游戏视觉效果的同时降低画面延迟。 相关…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T15:09:20.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c0da43eca918330ce5a0b014",
+      "title": "华为 5A 通信技术最新设备清单公开，新增 Mate 90 系列、Mate XT 2 等机型",
+      "originalUrl": "https://www.ithome.com/1/010/296.htm",
+      "summary": "IT之家 10 月 7 日消息，华为官网“悄悄”更新了 5A 相关问题的支持文档，公布了支持 5A 通信技术的最新机型清单，涵盖手机及平板产品线，新增 Mate 90 系列、Mate XT 2 等机型。 华为明确，5A 只代表华为终端先进的通信技术，而非网络制式，既不等同于 5G-A（5GA），也不等同于 5.5G。5A 技术没有单独的开关，无需用户额外付费或手动设置，支持机型将在系统状态栏默认显示 5A 标识。 IT之家附支持 5A 通信技术的机型名单： Mate 60 系…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T15:06:23.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3f655af8e2bc24b4a68d470c",
+      "title": "适配大屏：Meta 推出 iPad 版 Muse AI 智能体",
+      "originalUrl": "https://www.ithome.com/1/010/295.htm",
+      "summary": "IT之家 10 月 7 日消息，Meta 现已将 Muse AI 智能体适配苹果 iPad 平台，同时新增 Canva、Dropbox、Figma、QuickBooks、GitHub、Klaviyo、Zoom 等连接器。 IT之家了解到，Muse 是 Meta 推出的 AI 智能体应用程序，主要竞争对手有 Grok Bot、ChatGPT Dots 和 OpenClaw 等。过去几周，这款 App 一直位居美国 App Store 免费 iPhone 应用下载榜首位。 此外，…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T14:58:55.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9319d1820dade765d87ad9ee",
+      "title": "赛豆 AIVA ME7 量产路测车无伪谍照曝光，定位介于轿车与 SUV 之间的跨界车",
+      "originalUrl": "https://www.ithome.com/1/010/294.htm",
+      "summary": "IT之家 10 月 7 日消息，博主 @SugarDesign 今日曝光了赛豆 AIVA ME7 量产版路测无伪谍照。 从图中可以看到，AIVA ME7 的车身造型延续 AIVA Origin Concept 概念车的设计，车顶处配有激光雷达，预计将支持高阶智能辅助驾驶功能。 参考IT之家此前报道，今年 9 月底，赛豆科技（重庆市沙坪坝区与赛力斯共同投资）旗下 AIVA 品牌首款量产车型 AIVA ME7 在法国巴黎尚普拉特勒城堡完成全球首秀。 据介绍，AIVA ME7 定位…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T14:51:53.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7a4a967b765e198054bcae2b",
+      "title": "谷歌 SynthID 面向全球用户开放，可检测 AI 生成内容",
+      "originalUrl": "https://www.ithome.com/1/010/293.htm",
+      "summary": "IT之家 10 月 7 日消息，谷歌公司昨天宣布，其 AI 生成内容检测网站 SynthID 已面向全球用户开放，用户可使用该产品检测图片、视频或音频是否由 AI 生成。 据介绍，该网站使用 SynthID 识别媒体内容是否由 AI 生成。作为参考，谷歌 2023 年推出 SynthID，这是一种嵌入在 Nano Banana、Veo 和 Lyria 模型的隐形水印。除此之外，OpenAI、英伟达和 Kakao 也支持该工具。 谷歌已经将 SynthID 验证功能集成到 Ge…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-07T14:47:41.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-07T20:34:34.931Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
+      "updatedAt": "2026-10-07T20:34:34.931Z",
+      "version": 1,
+      "history": []
+    },
     {
       "id": "7bc7422726ec631890536d16",
       "title": "华为旗舰手机 14 天无忧体验计划上新，新增 Mate 90 标准版 / Pro 机型",
@@ -24,7 +932,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -66,7 +974,7 @@
         "sourceVersion": "a09d081e-f078-498a-afed-d46aa1b0ef22"
       },
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -91,7 +999,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -118,7 +1026,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -144,7 +1052,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -170,7 +1078,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -196,7 +1104,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -221,7 +1129,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -249,7 +1157,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -276,7 +1184,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -304,7 +1212,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -329,7 +1237,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -354,7 +1262,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -380,7 +1288,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -407,7 +1315,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -449,7 +1357,7 @@
         "sourceVersion": "5b37d672-5c2f-4764-a394-fc190a2928e3"
       },
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -474,7 +1382,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -499,7 +1407,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -525,7 +1433,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -551,7 +1459,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -577,7 +1485,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -602,7 +1510,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -629,7 +1537,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -656,7 +1564,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -684,7 +1592,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -710,7 +1618,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -735,7 +1643,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -762,7 +1670,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -789,7 +1697,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -814,7 +1722,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -841,7 +1749,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -866,7 +1774,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -892,7 +1800,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -917,7 +1825,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -943,7 +1851,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -968,7 +1876,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -993,7 +1901,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -1005,8 +1913,8 @@
       "summary": "北京时间10月7日晚，在2026年WTT中国大满贯赛女单1/16决赛中，孙颖莎以1:3不敌泰国选手帕拉南出局，止步32强。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-07T12:39:58.000Z",
@@ -1020,7 +1928,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -1140,7 +2048,7 @@
         "sourceVersion": "1a31fd95-b6bf-4810-8b8e-91535f1952a7"
       },
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -1191,7 +2099,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -1203,8 +2111,8 @@
       "summary": "新华社北京10月7日电#8195;中国乒乓球协会7日发布关于抵制极端球迷越界行为的声明，表示坚决维护教练员、运动员合法权益，下一步将推动建立赛场禁入名单制度，加强现场秩序维护。声明全文如下：",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-07T12:14:20.000Z",
@@ -1218,7 +2126,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -1268,7 +2176,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -1345,7 +2253,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -1421,7 +2329,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -1498,7 +2406,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -1523,7 +2431,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -1590,7 +2498,7 @@
         "sourceVersion": "6ef854aa-95f0-45d6-acfc-0a4771e76997"
       },
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -1667,7 +2575,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -1744,7 +2652,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -1844,7 +2752,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -1945,7 +2853,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -2015,7 +2923,7 @@
         "sourceVersion": "ec94b76d-5052-4d59-8674-54fa49636270"
       },
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -2040,7 +2948,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -2065,7 +2973,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -2091,7 +2999,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -2116,7 +3024,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -2142,7 +3050,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -2169,7 +3077,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -2246,7 +3154,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -2323,7 +3231,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -2348,7 +3256,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -2374,7 +3282,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -2426,7 +3334,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -2451,7 +3359,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -2476,7 +3384,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -2518,7 +3426,7 @@
         "sourceVersion": "815f92f6-0e8d-4c08-a6e8-718a8a46e4f0"
       },
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -2568,7 +3476,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -2761,7 +3669,7 @@
         "sourceVersion": "86f4abba-9eaa-412f-b048-5ed30aa74201"
       },
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -2803,7 +3711,7 @@
         "sourceVersion": "ba478b62-61b0-4ede-bc0c-dfb4afd8258c"
       },
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -2978,7 +3886,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -3386,7 +4294,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -3412,7 +4320,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-07T14:44:09.920Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T14:44:09.920Z",
       "version": 1,
       "history": []
@@ -4006,7 +4914,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T07:10:36.612Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T07:10:36.612Z",
       "version": 1,
       "history": []
@@ -4450,7 +5358,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T07:10:36.612Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T07:10:36.612Z",
       "version": 1,
       "history": []
@@ -5041,7 +5949,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-07T07:10:36.612Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T07:10:36.612Z",
       "version": 1,
       "history": []
@@ -5322,7 +6230,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-07T07:10:36.612Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T07:10:36.612Z",
       "version": 1,
       "history": []
@@ -5448,7 +6356,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-07T07:10:36.612Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T07:10:36.612Z",
       "version": 1,
       "history": []
@@ -6493,7 +7401,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T01:00:12.537Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T01:00:12.537Z",
       "version": 1,
       "history": []
@@ -7094,7 +8002,7 @@
         "sourceVersion": "73c45989-0041-4367-a916-489888f09116"
       },
       "firstSeenAt": "2026-10-07T01:00:12.537Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T01:00:12.537Z",
       "version": 1,
       "history": []
@@ -7148,7 +8056,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-07T01:00:12.537Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-07T01:00:12.537Z",
       "version": 1,
       "history": []
@@ -7528,7 +8436,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-06T16:14:44.269Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-06T16:14:44.269Z",
       "version": 1,
       "history": []
@@ -7606,7 +8514,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-06T16:14:44.269Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-06T16:14:44.269Z",
       "version": 1,
       "history": []
@@ -9061,7 +9969,7 @@
         "sourceVersion": "f171d07a-9d14-4179-883a-3d1f71eeffec"
       },
       "firstSeenAt": "2026-10-06T16:14:44.269Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-06T16:14:44.269Z",
       "version": 1,
       "history": []
@@ -9136,7 +10044,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-06T16:14:44.269Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-06T16:14:44.269Z",
       "version": 1,
       "history": []
@@ -9178,7 +10086,7 @@
         "sourceVersion": "b4e3c273-877a-47ff-963d-854057d765e7"
       },
       "firstSeenAt": "2026-10-06T16:14:44.269Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-06T16:14:44.269Z",
       "version": 1,
       "history": []
@@ -9270,7 +10178,7 @@
         "sourceVersion": "3f672c91-44c4-452f-9e7c-cb06617c8d43"
       },
       "firstSeenAt": "2026-10-06T16:14:44.269Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-06T16:14:44.269Z",
       "version": 1,
       "history": []
@@ -9643,7 +10551,7 @@
         "sourceVersion": "de2172e7-2118-4d97-a5d2-d211a824cc43"
       },
       "firstSeenAt": "2026-10-06T16:14:44.269Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-06T16:14:44.269Z",
       "version": 1,
       "history": []
@@ -9668,7 +10576,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-06T16:14:44.269Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-06T16:14:44.269Z",
       "version": 1,
       "history": []
@@ -9768,7 +10676,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-06T16:14:44.269Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-06T16:14:44.269Z",
       "version": 1,
       "history": []
@@ -9968,7 +10876,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-06T16:14:44.269Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-06T16:14:44.269Z",
       "version": 1,
       "history": []
@@ -10424,7 +11332,7 @@
         "sourceVersion": "ddc13b1f-d0a5-46c0-84d4-3f70d8a38679"
       },
       "firstSeenAt": "2026-10-06T09:23:10.011Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-06T09:23:10.011Z",
       "version": 1,
       "history": []
@@ -11143,7 +12051,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-06T09:23:10.011Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-06T09:23:10.011Z",
       "version": 1,
       "history": []
@@ -11300,7 +12208,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-06T09:23:10.011Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-06T09:23:10.011Z",
       "version": 1,
       "history": []
@@ -11777,7 +12685,7 @@
         "sourceVersion": "29519bb5-e68c-42d9-8e85-41f4fce14eaa"
       },
       "firstSeenAt": "2026-10-06T09:23:10.011Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-06T16:14:44.269Z",
       "version": 2,
       "history": [
@@ -13227,7 +14135,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-06T02:29:59.192Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-06T02:29:59.192Z",
       "version": 1,
       "history": []
@@ -14285,7 +15193,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-06T02:29:59.192Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-06T02:29:59.192Z",
       "version": 1,
       "history": []
@@ -14795,7 +15703,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-06T02:29:59.192Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-06T02:29:59.192Z",
       "version": 1,
       "history": []
@@ -15040,7 +15948,7 @@
         "sourceVersion": "c38e5573-fcfe-4a59-9c9e-4722b40d7ccb"
       },
       "firstSeenAt": "2026-10-06T02:29:59.192Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-06T02:29:59.192Z",
       "version": 1,
       "history": []
@@ -15090,7 +15998,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-06T02:29:59.192Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-06T02:29:59.192Z",
       "version": 1,
       "history": []
@@ -15510,7 +16418,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-05T15:55:55.652Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-05T15:55:55.652Z",
       "version": 1,
       "history": []
@@ -15562,7 +16470,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-05T15:55:55.652Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-05T15:55:55.652Z",
       "version": 1,
       "history": []
@@ -15713,7 +16621,7 @@
         "sourceVersion": "4f6ddf35-6ba8-4cf4-8d38-8118bf06c377"
       },
       "firstSeenAt": "2026-10-05T15:55:55.652Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-05T15:55:55.652Z",
       "version": 1,
       "history": []
@@ -17779,7 +18687,7 @@
         "sourceVersion": "9cb50224-d413-4b0e-8de6-1f9be97a9e8e"
       },
       "firstSeenAt": "2026-10-05T15:55:55.652Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-05T15:55:55.652Z",
       "version": 1,
       "history": []
@@ -20938,7 +21846,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-05T06:56:21.215Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-05T06:56:21.215Z",
       "version": 1,
       "history": []
@@ -26089,7 +26997,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-04T14:45:19.117Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-04T14:45:19.117Z",
       "version": 1,
       "history": []
@@ -34766,7 +35674,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-03T12:28:45.520Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-03T12:28:45.520Z",
       "version": 1,
       "history": []
@@ -42034,7 +42942,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-02T13:07:05.892Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-02T13:07:05.892Z",
       "version": 1,
       "history": []
@@ -57351,7 +58259,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-30T16:59:14.598Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-09-30T16:59:14.598Z",
       "version": 1,
       "history": []
@@ -63080,7 +63988,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-30T11:20:28.113Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-09-30T16:59:14.598Z",
       "version": 2,
       "history": [
@@ -65076,7 +65984,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-09-30T05:25:35.158Z",
       "version": 1,
       "history": []
@@ -67005,7 +67913,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-09-30T05:25:35.158Z",
       "version": 1,
       "history": []
@@ -202487,7 +203395,7 @@
         "sourceVersion": "4f7eaa94-05f2-4765-a50c-f025b128a14f"
       },
       "firstSeenAt": "2026-09-18T11:48:34.784Z",
-      "lastSeenAt": "2026-10-07T14:44:09.920Z",
+      "lastSeenAt": "2026-10-07T20:34:34.931Z",
       "updatedAt": "2026-10-05T15:55:55.652Z",
       "version": 4,
       "history": [
@@ -219421,8 +220329,8 @@
       "id": "ithome",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-07T14:44:09.920Z",
-      "lastSuccessAt": "2026-10-07T14:44:09.920Z",
+      "checkedAt": "2026-10-07T20:34:34.931Z",
+      "lastSuccessAt": "2026-10-07T20:34:34.931Z",
       "etag": null,
       "lastModified": null,
       "discovered": 60,
@@ -219433,8 +220341,8 @@
       "id": "sspai",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-07T14:44:09.920Z",
-      "lastSuccessAt": "2026-10-07T14:44:09.920Z",
+      "checkedAt": "2026-10-07T20:34:34.931Z",
+      "lastSuccessAt": "2026-10-07T20:34:34.931Z",
       "etag": null,
       "lastModified": null,
       "discovered": 10,
@@ -219445,11 +220353,11 @@
       "id": "chinanews-society",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-07T14:44:09.920Z",
-      "lastSuccessAt": "2026-10-07T14:44:09.920Z",
+      "checkedAt": "2026-10-07T20:34:34.931Z",
+      "lastSuccessAt": "2026-10-07T20:34:34.931Z",
       "etag": "\"6ac65407-3dc2\"",
       "lastModified": "Wed, 07 Oct 2026 14:15:35 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -219457,11 +220365,11 @@
       "id": "chinanews-finance",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-07T14:44:09.920Z",
-      "lastSuccessAt": "2026-10-07T14:44:09.920Z",
+      "checkedAt": "2026-10-07T20:34:34.931Z",
+      "lastSuccessAt": "2026-10-07T20:34:34.931Z",
       "etag": "\"6ac655c0-3d1a\"",
       "lastModified": "Wed, 07 Oct 2026 14:22:56 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -219469,11 +220377,11 @@
       "id": "chinanews-life",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-07T14:44:09.920Z",
-      "lastSuccessAt": "2026-10-07T14:44:09.920Z",
+      "checkedAt": "2026-10-07T20:34:34.931Z",
+      "lastSuccessAt": "2026-10-07T20:34:34.931Z",
       "etag": "\"6ac64fb4-96a\"",
       "lastModified": "Wed, 07 Oct 2026 13:57:08 GMT",
-      "discovered": 5,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -219481,8 +220389,8 @@
       "id": "chinanews-jk",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-07T14:44:09.920Z",
-      "lastSuccessAt": "2026-10-07T14:44:09.920Z",
+      "checkedAt": "2026-10-07T20:34:34.931Z",
+      "lastSuccessAt": "2026-10-07T20:34:34.931Z",
       "etag": "\"69aa3e2a-2832\"",
       "lastModified": "Fri, 06 Mar 2026 02:38:34 GMT",
       "discovered": 0,
@@ -219493,11 +220401,11 @@
       "id": "chinanews-culture",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-07T14:44:09.920Z",
-      "lastSuccessAt": "2026-10-07T14:44:09.920Z",
+      "checkedAt": "2026-10-07T20:34:34.931Z",
+      "lastSuccessAt": "2026-10-07T20:34:34.931Z",
       "etag": "\"6ac644a4-369e\"",
       "lastModified": "Wed, 07 Oct 2026 13:09:56 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -219505,8 +220413,8 @@
       "id": "chinanews-edu",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-07T14:44:09.920Z",
-      "lastSuccessAt": "2026-10-07T14:44:09.920Z",
+      "checkedAt": "2026-10-07T20:34:34.931Z",
+      "lastSuccessAt": "2026-10-07T20:34:34.931Z",
       "etag": "\"6ac4ab34-11c2\"",
       "lastModified": "Tue, 06 Oct 2026 08:03:00 GMT",
       "discovered": 0,
@@ -219517,10 +220425,10 @@
       "id": "chinanews-sports",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-07T14:44:09.920Z",
-      "lastSuccessAt": "2026-10-07T14:44:09.920Z",
-      "etag": "\"6ac6501d-3ead\"",
-      "lastModified": "Wed, 07 Oct 2026 13:58:53 GMT",
+      "checkedAt": "2026-10-07T20:34:34.931Z",
+      "lastSuccessAt": "2026-10-07T20:34:34.931Z",
+      "etag": "\"6ac66396-3e7a\"",
+      "lastModified": "Wed, 07 Oct 2026 15:21:58 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -219529,10 +220437,10 @@
       "id": "chinanews-scroll-news",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-07T14:44:09.920Z",
-      "lastSuccessAt": "2026-10-07T14:44:09.920Z",
-      "etag": "\"6ac655bf-4626\"",
-      "lastModified": "Wed, 07 Oct 2026 14:22:55 GMT",
+      "checkedAt": "2026-10-07T20:34:34.931Z",
+      "lastSuccessAt": "2026-10-07T20:34:34.931Z",
+      "etag": "\"6ac670f1-43bc\"",
+      "lastModified": "Wed, 07 Oct 2026 16:18:57 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -219540,8 +220448,8 @@
     "govuk-fulltext": {
       "id": "govuk-fulltext",
       "status": "ok",
-      "checkedAt": "2026-10-07T14:44:09.920Z",
-      "lastSuccessAt": "2026-10-07T14:44:09.920Z",
+      "checkedAt": "2026-10-07T20:34:34.931Z",
+      "lastSuccessAt": "2026-10-07T20:34:34.931Z",
       "discovered": 20,
       "rejected": 0,
       "contentSchema": 3,
