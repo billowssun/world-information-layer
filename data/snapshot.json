@@ -1,8 +1,1121 @@
 {
   "schemaVersion": "1",
-  "collectedAt": "2026-10-13T21:31:06.629Z",
-  "lastSuccessfulCollectionAt": "2026-10-13T21:31:06.629Z",
+  "collectedAt": "2026-10-14T00:35:06.763Z",
+  "lastSuccessfulCollectionAt": "2026-10-14T00:35:06.763Z",
   "items": [
+    {
+      "id": "ac10b86b0fc666d5bcbff0b0",
+      "title": "黄仁勋又出手了，英伟达拟再砸 20 亿美元加码欧洲 AI",
+      "originalUrl": "https://www.ithome.com/1/012/651.htm",
+      "summary": "IT之家 10 月 14 日消息，据彭博社报道，英伟达 CEO 黄仁勋在欧洲访问期间宣布，公司计划追加 20 亿美元（IT之家注：现汇率约合 134.1 亿元人民币）投资。此次欧洲之行还包括与法国总统埃马纽埃尔 · 马克龙会晤。 当地时间 13 日，黄仁勋透露，英伟达过去一年在欧洲投资 80 亿美元（现汇率约合 536.4 亿元人民币），此次将在此基础上继续增加投资。他还宣布向法国四家初创企业 Doctolib、Genesis AI、Pigment 和 Entalpic 注资…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-14T00:30:26.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "fd0a2f62f1e7e0867f8c4358",
+      "title": "一年中最舒服的日子来了 大数据揭秘哪里最易邂逅秋高气爽",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-14/10714126.shtml",
+      "summary": "中国天气网讯 蓝天刷屏、白云出片、微风送爽……10月13日，不少人的朋友圈仿佛开启了“秋日滤镜”，随手一拍都是大片。一年中最舒爽的时节已悄然到来，不少地方迎来了秋高气爽的好天气。我国哪些地方秋高气爽的日子最多？什么时候最容易邂逅？中国天气网盘点气象大数据，为你揭秘。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-14T00:25:32.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e4ac0fd8848dec25fed4f2ca",
+      "title": "苹果面向 AirPods 5、AirPods Max 2 等 8 款耳机推送 9B5043a 固件",
+      "originalUrl": "https://www.ithome.com/1/012/650.htm",
+      "summary": "IT之家 10 月 14 日消息，苹果公司今天面向 AirPods Pro 3、AirPods 5 和 AirPods Max 2 等 8 款机型，推送开发者版与公开版 Beta 固件，版本号均为 9B5043a。 本次更新和 macOS 27.2/iOS 27.2/iPadOS 27.2 的第 4 个开发者预览版同步推出，IT之家援引博文介绍，本次固件更新覆盖以下机型： AirPods Pro 3 AirPods 5 AirPods 5（无线充电盒） AirPods Pro…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-14T00:23:54.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a2462c0ea95b0508026a3685",
+      "title": "SpaceX 计划将得州星舰发射频次提升至每年 456 次，正接受美国政府审查",
+      "originalUrl": "https://www.ithome.com/1/012/649.htm",
+      "summary": "IT之家 10 月 14 日消息，SpaceX 计划提高位于得克萨斯州南部星基地（Starbase）发射场的星舰发射与回收次数，目标达到每年数百次飞行，该方案目前正接受美国政府审查。 美国联邦航空管理局在当地时间周二发布的公告中表示，计划针对 SpaceX 的这份方案编制环境影响报告书，并召开公众听证会。 美国联邦航空管理局称，SpaceX 提议在这座得州发射场每年最多实施 456 次发射、912 次回收作业。回收指每次发射或任务结束后，星舰飞船与超重助推器这两大箭体完整地以…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-14T00:23:34.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3d6a84323afe178cb7e0be27",
+      "title": "印度软件巨头印孚瑟斯董事长尼勒卡尼：AI 正推动业务增长，就业担忧纯属无稽之谈",
+      "originalUrl": "https://www.ithome.com/1/012/648.htm",
+      "summary": "IT之家 10 月 14 日消息，据彭博社报道，印度知名科技企业家、印孚瑟斯董事长南丹 · 尼勒卡尼不认同 AI 会造成大规模失业的担忧。他认为，AI 反而能为小企业注入活力，催生新的技能需求。 现年 71 岁的尼勒卡尼，是印孚瑟斯七名联合创始人之一。他在新德里举行的彭博创新经济论坛上指出，虽然编程等工作越来越多地可以由 AI 完成，但技术应用和风险管理也会创造新的就业机会。 与此同时，他斥责 AI 将取代人类就业的说法“纯属无稽之谈”。 尼勒卡尼认为，确保 AI 安全可靠运…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-14T00:16:56.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "career"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "122bf984418536cb77ebda47",
+      "title": "近一小时报警录音解密美国女囚死刑幸存案：一度被指虚假报警",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-14/10714114.shtml",
+      "summary": "近一小时报警录音解密美国女囚死刑幸存案：一度被指虚假报警，救护车还差点没叫来 | 国际早察",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-14T00:13:29.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "015c534e1eadde1d26a85a59",
+      "title": "德勤调查：英国过半大企业未来一年打算用 AI 替代打工人",
+      "originalUrl": "https://www.ithome.com/1/012/647.htm",
+      "summary": "IT之家 10 月 14 日消息，据彭博社报道，一项针对首席财务官的权威调查显示，英国众多大型企业准备在未来一年用人工智能替代员工。 德勤于当地时间周三发布报告称，尽管人工智能的应用尚处于早期阶段，但 52% 的首席财务官预计会借助这项技术裁员。超过三分之二（67%）的受访者表示，目前仅实现了他们预期人工智能所能带来变革的四分之一。 这份报告进一步印证英国正重现无就业增长的态势，这给首相安迪 · 伯纳姆（Andy Burnham）领导的工党政府带来了政治难题。人工智能的落地叠…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-14T00:11:24.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "finance"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "915b44790fa6fe141ab758a4",
+      "title": "公安网安部门公布4起涉舆情敲诈等类型黑恶犯罪典型案例",
+      "originalUrl": "https://www.chinanews.com.cn/fz/2026/10-14/10714113.shtml",
+      "summary": "中新网10月14日电 据“公安部网安局”微信公众号消息，公安机关网安部门依托“净网-2026”专项行动，扎实开展深化扫黑除恶专项斗争。今日，公布4起网络舆情敲诈典型案例。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-14T00:11:19.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "468a5480e0bcce3151c5eefc",
+      "title": "苹果官网新线索，全尺寸 HomePod 有望支持 Siri AI",
+      "originalUrl": "https://www.ithome.com/1/012/645.htm",
+      "summary": "IT之家 10 月 14 日消息，消息源 @itspdfu 今天（10 月 14 日）在 X 平台发布推文，报道称基于苹果官网相关代码信息，全尺寸 HomePod 未来可能会支持 Siri AI。 IT之家访问苹果中国官网，发现苹果公司已同步调整全尺寸 HomePod 图片相关文字描述，显示：“白色 HomePod，展示全尺寸圆柱形设计、无缝式声学织网外观，顶部亮起表示 Siri AI 功能的多色光晕。” 其中图片文字描述中的“顶部亮起表示 Siri AI 功能的多色光晕”，…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-14T00:05:28.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "421937b3eebea8581db20626",
+      "title": "手撕洗衣凝珠爆裂伤眼冲上热搜 产品无“禁止手撕”提示有何风险？",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-14/10714112.shtml",
+      "summary": "很多人家里都在用洗衣凝珠，扔一颗进洗衣机，方便省事。但您可能想不到，这颗小小的凝珠一旦受潮粘连，用手一撕可能会瞬间爆裂，高浓度洗涤液直接喷进眼睛，导致眼睛受伤。近日就有这样一起事件冲上热搜，引发广泛关注。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-14T00:03:26.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "194422fa9ffe7541cd1dd82e",
+      "title": "微软打了场翻身仗：股价收于 543.45 美元创新高，市值自 6 月低点猛增 1.4 万亿美元",
+      "originalUrl": "https://www.ithome.com/1/012/644.htm",
+      "summary": "IT之家 10 月 14 日消息，据彭博社 13 日晚间报道，微软股价当日上涨 0.4%，收于 543.45 美元（IT之家注：现汇率约合 3,644 元人民币），近一年来首次刷新历史纪录，延续了过去四个月的强劲涨势。 微软股价突破了 2025 年 10 月创下的前期高点。自 6 月低点以来，微软累计上涨逾 54%，市值增加约 1.4 万亿美元（现汇率约合 9.39 万亿元人民币），反映出投资者对微软及其 AI 领域地位的信心不断增强。 几个月前，微软还是标普 500 指数中…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-14T00:01:04.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8fd4d0d6423e489e2fff8f3e",
+      "title": "人这一辈子，一定要自驾一次阿禾公路看秋天！",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-14/10714111.shtml",
+      "summary": "有些秋天，是小区里的银杏黄了。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:58:54.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "157b722f415f0ff5c4eed26e",
+      "title": "苹果诉 OpenAI 窃取商业秘密案新进展：法院准许苹果调取后者招聘材料",
+      "originalUrl": "https://www.ithome.com/1/012/643.htm",
+      "summary": "IT之家 10 月 14 日消息，一名法官裁定，在苹果公司于 7 月针对 OpenAI 提起的商业秘密诉讼中，苹果可以快速调阅 OpenAI 的招聘相关材料。 具体而言，法院准许苹果查阅相关文件，这些文件与 OpenAI 面试前苹果员工的记录有关。这批求职者应聘的是 OpenAI 消费硬件与机器人部门岗位，相关招聘发生在传闻中 OpenAI 首款硬件设备发布之前。 文件内容可能包含面试清单、指引、说明、手册、面试脚本，还有技术演示材料以及记录，这些记录能证明面试讨论中提及苹果…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:57:32.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech",
+        "career",
+        "finance"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9647fe1e1416d1ad48f56592",
+      "title": "IT早报 1014：华为公布麒麟 9050 Pro 详细架构图；苹果智能家庭中枢 HomeView 发布；尊界 V800 制动脚踏第三方检测报告公布；23.59 万元起比亚迪大汉上市...",
+      "originalUrl": "https://www.ithome.com/1/012/642.htm",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 14 日星期三，今天的重要科技资讯有： 1. 华为首次公布麒麟 9050 Pro 芯片详细架构图：在中国半导体业界支持下成功量产，未来属于开放合作 华为半导体业务无线终端芯片产品管理部部长徐松余表示，首款逻辑折叠韬芯片 —— 麒麟 9050 系列在中国半导体产业界的支持下成功量产，但韬路径未来的发展还有众多挑战，包括工具链和方法论、工艺差异补偿、跨层互联开销优化、能耗控制、基准测试方法等。>> 查看详情 2. 苹果首款…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:55:38.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "228a0744710c351815bcf846",
+      "title": "泽连斯基将访问英国 伯纳姆承诺向乌克兰提供新一轮军援",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-14/10714110.shtml",
+      "summary": "中新网10月14日电 据路透社报道，当地时间14日，乌克兰总统泽连斯基将与英国首相伯纳姆在伦敦会晤。英国方面计划重申对乌克兰的支持，其中包括承诺提供一批新的地对空导弹。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:53:50.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6a11bb75032a4d2eff77950e",
+      "title": "IDC 称 2026Q3 中国智能手机出货跌 15.4%，华为逆势同比增长 17.3%",
+      "originalUrl": "https://www.ithome.com/1/012/376.htm",
+      "summary": "IT之家 10 月 13 日消息，国际数据公司（ IDC ）最新手机季度跟踪报告初版数据显示，2026 年第三季度中国智能手机市场出货量约为 5,790 万台，同比下降 15.4% 。华为是头部厂商中唯一实现同比双位数增长的品牌。 整体市场：2026Q3 出货 5,790 万台，同比降 15.4% 相较上半年约 4% 的同比降幅，下半年整体市场规模下滑速度进一步加快。存储及其他元器件成本大幅上升所引发的终端价格上涨与产品配置方案调整，已开始明显抑制消费需求，其中安卓厂商与长尾…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:50:19.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4c4745304fc974955b12ece6",
+      "title": "Neuralink 前总裁的视力芯片，让遗传性眼病患者重新读出了单词",
+      "originalUrl": "https://www.ithome.com/1/012/641.htm",
+      "summary": "IT之家 10 月 14 日消息，Science Corporation 首席执行官马克斯 · 霍达克（Max Hodak）宣布，该公司已将自研的视力修复芯片 PRIMA 植入首位斯塔加特病患者体内。斯塔加特病是一种遗传性眼病，会逐步损害人的中心视力。曾是脑机接口企业 Neuralink 前总裁、联合创始人的霍达克在 TechCrunch Disrupt 大会的舞台上介绍，PRIMA 项目的研发，是公司布局新型脑机接口（BCI）宏大目标中的一环。 霍达克在演讲中表示：“视网膜…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:49:49.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7cb68388373a49b6593bf53e",
+      "title": "雅思考试连续多日被取消 主办方：增设两天免费专场",
+      "originalUrl": "https://www.chinanews.com.cn/edu/2026/10-14/10714109.shtml",
+      "summary": "从10月10日开始，雅思考试连续四天临时取消，涉及全科考试和单科重考，多地考生受到影响。昨天(13日)下午，主办方英国文化教育协会发布了后续安排，宣布将增设免费专场考试。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:49:28.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "education"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "11073a026e7f18e7cc454e05",
+      "title": "扎克伯格：Meta 承诺数千亿美元豪赌 AI，却一度对能否成功完全没把握",
+      "originalUrl": "https://www.ithome.com/1/012/640.htm",
+      "summary": "IT之家 10 月 14 日消息，据彭博社今天（14 日）凌晨报道，Meta CEO 马克 · 扎克伯格透露，去年公司还不知道旗下 AI 产品能否成功，就不得不承诺投入数千亿美元，建设运行这些产品所需的基础设施。 扎克伯格在最新《Cheeky Pint》播客中回忆，自己曾对 Meta 首席 AI 官汪滔（Alexandr Wang）说：“我们得掏出一笔钱，我也说不准是 1,000 亿美元（IT之家注：现汇率约合 6,705.82 亿元人民币）还是 2,000 亿美元（现汇率约…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:48:09.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c10ff86818c2e59278e15f63",
+      "title": "AI 长视频时代来临：OpenAI GPT-6 Astra 助力生成时长从 1 分钟提升到 10 分钟",
+      "originalUrl": "https://www.ithome.com/1/012/639.htm",
+      "summary": "IT之家 10 月 14 日消息，OpenAI 公司今天（10 月 14 日）发布公告，宣布和 AI 视频生成平台 Higgsfield 达成最新合作进展。在接入 GPT-6 Astra 后，Higgsfield 支持生成的 AI 视频时长上限从 1 分钟提升到 10 分钟。 IT之家附上官方介绍视频如下： GPT-6 Astra 支持创意智能体调用外部工具，处理 3D 建模等复杂工作。Higgsfield 表示，该能力用于维持长视频在角色、场景和视觉细节上的一致性，是长视频…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:44:48.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "82440e1c9710c97ac32c9d5f",
+      "title": "别让“搭子”沦为灰色交易的幌子",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-14/10714108.shtml",
+      "summary": "从拼单吃饭、结伴旅游到追星看演唱会，“搭子社交”已成为许多年轻人日常生活的一部分。然而，记者调查发现，这种原本用于临时结伴的轻关系，正被收费组局、消费引流和灰色有偿陪伴盯上。一些“搭子”社交，正成为试探需求、导流灰色交易的入口。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:42:21.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "966c2c9bd0849f00ac13c6d1",
+      "title": "碳水节、烧烤节席卷各地，“舌尖上”的节日如何越做越红火？",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/10-14/10714107.shtml",
+      "summary": "碳水节、烧烤节、啤酒节席卷各地，“策展型”运营为消费注入新动力",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:38:57.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f61092f6d8ffab7303563457",
+      "title": "基于经典国民车 2CV 打造，雪铁龙电动化“复活”厢式货车 Fourgonnette",
+      "originalUrl": "https://www.ithome.com/1/012/636.htm",
+      "summary": "IT之家 10 月 14 日消息，雪铁龙 2CV 的复活堪称本届巴黎车展“最重磅”的消息之一。除了四门家用车，经典的 2CV Fourgonnette 厢式货车也正式迎来了“重生”。 新车延续了纯电动 2CV 两厢概念车的前半部分设计，车尾则改为方正的货厢，取消后排座椅以增加载货空间。货物可以从对开式尾门装卸，也可以通过车身侧面向上掀开的舱门取放。 初代 2CV Fourgonnette 的生产时间为 1951 年至 1978 年，但进入 21 世纪后，仍有不少老车在法国各地…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:35:56.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d6bfaa0d074e46e580341840",
+      "title": "今起报名！2027国考有这些新变化→",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/10-14/10714106.shtml",
+      "summary": "准备报考的小伙伴注意了，2027国考今起开始报名，计划招录3.57万人。报考者可于10月14日8:00至10月23日18:00完成注册认证，并于10月15日8:00至10月24日18:00完成报名和提交报考申请。今年国考有哪些新变化？哪些关键时间不能错过？这份报考提醒，赶紧“码住”！",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:34:11.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7b825205ab8dc5f344f746fd",
+      "title": "谷歌 Play Store 新功能：用户用 AI 搓的 App 不用上架商店，可仅限自己使用",
+      "originalUrl": "https://www.ithome.com/1/012/635.htm",
+      "summary": "IT之家 10 月 14 日消息，谷歌于当地时间周二宣布，用户通过氛围编码（vibe-coded）制作的应用，如今可以直接在安卓智能手机上运行，无需先在谷歌应用商店（Google Play Store）公开发布。一项新功能支持用户使用普通谷歌账号，借助谷歌应用商店在设备上启动属于自己的个人应用，且应用将完全保持私密。 这类个人应用不会出现在谷歌应用商店的搜索结果或应用列表页面，除创建者本人外，不会分享给任何人。 推出该功能的背景是，越来越多人尝试借助人工智能搭建满足自身特定需…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:30:40.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "dcce375df38cc2b9c1c2544f",
+      "title": "苹果 iOS 27.2 Beta 4 更新汇总：移除新版健康 App，升级 Apple Music 品牌视觉",
+      "originalUrl": "https://www.ithome.com/1/012/634.htm",
+      "summary": "IT之家 10 月 14 日消息，苹果公司今天（10 月 14 日）推送 iOS / iPadOS 27.2 Beta 4 开发者预览版（内部版本号：24B5110a），暂时移除新版健康 App 外，还更新 Apple Music 品牌视觉。 一、暂时移除健康 App 在 iOS 27.2 Beta 4 更新中，苹果暂时移除了新版健康 App。海外媒体 MacRumors 指出，苹果公司此前已经明确表示，新版健康应用体验从未打算包含在 iOS 27.2 中，目前正在推进测试，…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:26:10.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech",
+        "health"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1b2bdeb651049560c739cfcc",
+      "title": "AI 重新编译、修改游戏获夏尔马“点赞”，微软成立 XBOX Labs 新团队",
+      "originalUrl": "https://www.ithome.com/1/012/633.htm",
+      "summary": "IT之家 10 月 14 日消息，随着 AI 辅助游戏修改和重新编译技术迅速兴起，微软成立了 XBOX Labs 团队，探索新技术在游戏开发中的应用。 最近几周，越来越多 Mod 制作者利用 Claude 最新的 Opus 5.5 模型，将不同游戏的内容混合在一起，例如让马力欧在《艾尔登法环》中体验平台跳跃玩法，甚至将《使命召唤》移植到网页浏览器中运行。 据外媒 VGC 报道，当地时间 13 日，XBOX CEO 阿莎 · 夏尔马在致员工的内部信中指出，AI 生成游戏内容的热…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:24:05.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4920506e9cfe34971ca4626d",
+      "title": "AI 芯片企业 Cerebras CEO 预言：家用 AI 时代即将到来，AI 智能体帮你搞定生活琐事",
+      "originalUrl": "https://www.ithome.com/1/012/632.htm",
+      "summary": "IT之家 10 月 14 日消息，美国人工智能芯片研发企业 Cerebras Systems 首席执行官兼联合创始人安德鲁 · 费尔德曼（Andrew Feldman）认为，我们即将迎来家家户户都配备人工智能设备的时代。 当地时间周二，这位芯片企业高管在 2026 年 TechCrunch Disrupt 大会的舞台上，被问及人工智能要成为家用设备还需要哪些条件，他回应道：“实际上，我觉得这一天并不遥远。” 他举例提到消费级智能体的技术进展，比如 Meta 的 Muse，还有…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:18:52.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "finance"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "875265186d0923a5818e8a2a",
+      "title": "俄外交部：日本利用驻俄记者搜集情报 呼吁日方放弃敌对行动",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-14/10714105.shtml",
+      "summary": "中新网10月14日电 据俄罗斯外交部网站消息，当地时间13日，俄罗斯外交部发言人扎哈罗娃就俄联邦安全局逮捕一名涉嫌从事间谍活动的日本人发表评论说，日方企图利用其驻俄记者收集旨在破坏俄安全的情报，这种做法令人遗憾，将进一步恶化俄日关系。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:17:44.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "05f5886e7be46a20629a2118",
+      "title": "海军辽宁舰航母编队赴西太平洋相关海域开展训练",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/10-14/10714104.shtml",
+      "summary": "中新网10月14日电 据“人民海军”微信公众号消息，10月14日，中国人民解放军海军组织辽宁舰航母编队赴西太平洋相关海域开展训练。这是根据年度计划组织的例行性训练，旨在检验提升部队实战化训练水平，不断提高履行使命能力，符合相关国际法和国际实践，不针对特定国家和目标。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:10:37.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "90988cd3e97d3b31efdd2d1f",
+      "title": "欧洲央行首席经济学家莱恩：AI 或将限制欧洲劳动者争取加薪的议价能力",
+      "originalUrl": "https://www.ithome.com/1/012/631.htm",
+      "summary": "IT之家 10 月 14 日消息，据路透社报道，当地时间 13 日，欧洲央行首席经济学家菲利普 · 莱恩指出，欧元区企业越来越广泛地采用 AI，可能会削弱劳动者争取加薪的议价能力。与此同时，企业大举投资 AI 也可能显著收紧融资环境。 受能源价格高企影响，欧元区通胀率接近欧洲央行 2% 目标的两倍。政策制定者一直关注通胀是否会产生二轮效应，但迄今没有发现明显迹象，尤其是工资增长并未受到进一步推高。 莱恩在都柏林发表演讲时指出，AI 尚未改变整体就业趋势，但企业招聘意愿低迷，使…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:08:54.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "career",
+        "finance"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d963e9fce075b718be03c44c",
+      "title": "不服判决：Anthropic 硬刚美国政府 AI“供应链风险”认定",
+      "originalUrl": "https://www.ithome.com/1/012/630.htm",
+      "summary": "IT之家 10 月 14 日消息，据彭博社报道，Anthropic 公司敦促华盛顿联邦上诉法院重新审议此前的一项判决，该判决维持了特朗普政府将这家人工智能企业认定为危害美国国家安全供应链风险主体的决定。 该公司于当地时间周二申请由上诉法院全体法官，复核一个三人法官小组在 9 月 25 日以 2 比 1 票数作出的裁决。Anthropic 主张，多数意见对法律作出了错误解读，允许美国国防部“在没有任何预先认定流程的情况下采取行动，而且已有明确证据表明，这项认定是对 Anthro…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T23:07:38.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1bab505037ca42336bac6db9",
+      "title": "National call to recruit more foster carers launched at Number 10",
+      "originalUrl": "https://www.gov.uk/government/news/national-call-to-recruit-more-foster-carers-launched-at-number-10",
+      "sourcePublishedAt": "2026-10-14T00:01:00+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "More children in the care system in England will get the loving, supportive homes they need as the government calls on people to open their hearts and homes to some of the most vulnerable children in society. A new national recruitment camp",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>More children in the care system in England will get the loving, supportive homes they need as the government calls on people to open their hearts and homes to some of the most vulnerable children in society.</p>\n\n<p>A new national recruitment campaign – the first of its kind in England – will encourage adults to consider fostering, highlighting the fact that all kinds of different people can foster.</p>\n\n<p>The campaign launch was marked by a celebration event at 10 Downing Street on Tuesday 13 October, bringing together foster carers frontline workers and people with lived experience of care.</p>\n\n<p>The new campaign will target adults in their 30s and 40s who have the values and capacity to foster but may never have seriously considered it, supporting the government’s ambition to create 10,000 new foster care places by the end of this Parliament</p>\n\n<p>There are more routes into fostering than ever before, but recent DfE polling found that too many adults are ruling themselves out before they find out more. The polling found that two thirds (66%) of people believe they could be a good foster carer if practical barriers were removed. </p>\n\n<p>To enable more people to become foster carers, the DfE is providing £88 million of funding to reform fostering, including £12.4 million for the fostering innovation fund which will trial new models of foster care, such as short term ‘respite fostering’ or fostering at weekends, to open it up to a wider range of people.</p>\n\n<p>The number of approved foster carers has fallen by 12% since 2019, while the number of children needing care has increased. This is why the government aims to create 10,000 new foster places by the end of this parliament.</p>\n\n<p>Children’s Minister Josh MacAlister said:</p>\n\n<blockquote>\n  <p>Fostering changes lives, not just for the children who finally get the stability and love every child deserves, but for the carers themselves, who tell us it’s one of the most rewarding things they’ve ever done.</p>\n\n  <p>Right now, thousands of children need that chance, and that’s exactly what our national campaign is about: cracking fostering open to ordinary people across England who have the values, the commitment, and the love to foster.</p>\n\n  <p>This is part of a bigger reset of children’s social care, one that puts loving, stable relationships back at the heart of the system.</p>\n</blockquote>\n\n<p>Rachel Cole, CEO of Black Foster Carers Alliance, said:</p>\n\n<blockquote>\n  <p>Too many Black children in care grow up without anyone around them who reflects who they are. Black Foster Carers Alliance exists to change that, by recruiting, supporting and retaining the carers those children need.</p>\n\n  <p>UnLtd’s support gave us the backing to grow that work nationally, and its new fostering accelerator will continue to boost the impact of founders working in this sector. Social entrepreneurs bring something the system can’t manufacture: trust.</p>\n</blockquote>\n\n<p>Dame Carol Homden, CEO of Coram, said:</p>\n\n<blockquote>\n  <p>We are pleased to support the government’s campaign encouraging more people to consider a life-changing role in foster care, enabling more children and young people to grow up in safe and supportive families.</p>\n\n  <p>Coram’s own research indicates there is a substantial pool of people open to becoming foster carers if we support them through the process and help them to thrive as a foster family.</p>\n\n  <p>The campaign is an important step in realising the ambitious plans to ensure every child has the support they need in family care, now and in the future.</p>\n</blockquote>\n\n<p>Mark Norbury, Chief Executive at UnLtd, the Foundation for Social Entrepreneurs said:</p>\n\n<blockquote>\n  <p>A stronger fostering system will require both more foster placements and innovative, inclusive approaches to supporting children, young people and carers. Social entrepreneurs often come up with the most effective and lasting solutions to complex social challenges thanks to their direct experience of issues.</p>\n\n  <p>Through our new fostering accelerator, supported by the Henry Smith Foundation, UnLtd is empowering social entrepreneurs to grow ventures that help create a more inclusive, caring and sustainable future for fostering across the UK.</p>\n</blockquote>\n\n<p>The launch event at Number 10 was attended by public figures with experience of the care system, including former NFL star Efe Odaba, care-experienced broadcaster and author Ashley John-Baptiste, and TOWIE star Lydia Bright.</p>\n\n<p>The campaign follows the launch of the <a href=\"https://www.gov.uk/government/publications/renewing-fostering-homes-for-10000-more-children\">Fostering Action Plan</a> by the Children’s Minister in February and the launch of the <a href=\"https://www.gov.uk/government/publications/enduring-relationships-for-care-experienced-children--2/enduring-relationships\">Enduring Relationships Programme</a> in June.</p>\n\n<p>It is supported by further reforms to fostering, including a new rulebook for foster carers that humanises the decision-making process, digital tools to speed up recruitment, and funding for innovative and more flexible new approaches to fostering. Over 70% of local authorities are now part of a Fostering Hub, showing real progress.</p>\n\n<p>All of this is intended to make it easier not just to become a foster carer but also to ensure that existing carers are better supported and can understand the processes behind fostering at every stage.</p>\n\n<p>The government is also announcing today the programmes receiving funding through the Fostering Innovation Fund, designed to test dynamic, more flexible new approaches to delivering foster care and build evidence about what works in fostering.</p>\n\n<p>The 11 successful programmes include programmes focused on recruiting weekend foster carers, supporting carers through allegations, parent-and-child fostering, therapeutic training, increasing diversity among foster carers and helping children move from residential care into foster families where this meets their needs.</p>\n</div>",
+      "bodyText": "More children in the care system in England will get the loving, supportive homes they need as the government calls on people to open their hearts and homes to some of the most vulnerable children in society.\n\nA new national recruitment campaign – the first of its kind in England – will encourage adults to consider fostering, highlighting the fact that all kinds of different people can foster.\n\nThe campaign launch was marked by a celebration event at 10 Downing Street on Tuesday 13 October, bringing together foster carers frontline workers and people with lived experience of care.\n\nThe new campaign will target adults in their 30s and 40s who have the values and capacity to foster but may never have seriously considered it, supporting the government’s ambition to create 10,000 new foster care places by the end of this Parliament\n\nThere are more routes into fostering than ever before, but recent DfE polling found that too many adults are ruling themselves out before they find out more. The polling found that two thirds (66%) of people believe they could be a good foster carer if practical barriers were removed. \n\nTo enable more people to become foster carers, the DfE is providing £88 million of funding to reform fostering, including £12.4 million for the fostering innovation fund which will trial new models of foster care, such as short term ‘respite fostering’ or fostering at weekends, to open it up to a wider range of people.\n\nThe number of approved foster carers has fallen by 12% since 2019, while the number of children needing care has increased. This is why the government aims to create 10,000 new foster places by the end of this parliament.\n\nChildren’s Minister Josh MacAlister said:\n\n\n  Fostering changes lives, not just for the children who finally get the stability and love every child deserves, but for the carers themselves, who tell us it’s one of the most rewarding things they’ve ever done.\n\n  Right now, thousands of children need that chance, and that’s exactly what our national campaign is about: cracking fostering open to ordinary people across England who have the values, the commitment, and the love to foster.\n\n  This is part of a bigger reset of children’s social care, one that puts loving, stable relationships back at the heart of the system.\n\n\nRachel Cole, CEO of Black Foster Carers Alliance, said:\n\n\n  Too many Black children in care grow up without anyone around them who reflects who they are. Black Foster Carers Alliance exists to change that, by recruiting, supporting and retaining the carers those children need.\n\n  UnLtd’s support gave us the backing to grow that work nationally, and its new fostering accelerator will continue to boost the impact of founders working in this sector. Social entrepreneurs bring something the system can’t manufacture: trust.\n\n\nDame Carol Homden, CEO of Coram, said:\n\n\n  We are pleased to support the government’s campaign encouraging more people to consider a life-changing role in foster care, enabling more children and young people to grow up in safe and supportive families.\n\n  Coram’s own research indicates there is a substantial pool of people open to becoming foster carers if we support them through the process and help them to thrive as a foster family.\n\n  The campaign is an important step in realising the ambitious plans to ensure every child has the support they need in family care, now and in the future.\n\n\nMark Norbury, Chief Executive at UnLtd, the Foundation for Social Entrepreneurs said:\n\n\n  A stronger fostering system will require both more foster placements and innovative, inclusive approaches to supporting children, young people and carers. Social entrepreneurs often come up with the most effective and lasting solutions to complex social challenges thanks to their direct experience of issues.\n\n  Through our new fostering accelerator, supported by the Henry Smith Foundation, UnLtd is empowering social entrepreneurs to grow ventures that help create a more inclusive, caring and sustainable future for fostering across the UK.\n\n\nThe launch event at Number 10 was attended by public figures with experience of the care system, including former NFL star Efe Odaba, care-experienced broadcaster and author Ashley John-Baptiste, and TOWIE star Lydia Bright.\n\nThe campaign follows the launch of the Fostering Action Plan by the Children’s Minister in February and the launch of the Enduring Relationships Programme in June.\n\nIt is supported by further reforms to fostering, including a new rulebook for foster carers that humanises the decision-making process, digital tools to speed up recruitment, and funding for innovative and more flexible new approaches to fostering. Over 70% of local authorities are now part of a Fostering Hub, showing real progress.\n\nAll of this is intended to make it easier not just to become a foster carer but also to ensure that existing carers are better supported and can understand the processes behind fostering at every stage.\n\nThe government is also announcing today the programmes receiving funding through the Fostering Innovation Fund, designed to test dynamic, more flexible new approaches to delivering foster care and build evidence about what works in fostering.\n\nThe 11 successful programmes include programmes focused on recruiting weekend foster carers, supporting carers through allegations, parent-and-child fostering, therapeutic training, increasing diversity among foster carers and helping children move from residential care into foster families where this meets their needs.\n",
+      "bodyHash": "54a9ee4617ab55140d8c27afdfdb6a382a922d25f775a5ebce83620ac87c7605",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/national-call-to-recruit-more-foster-carers-launched-at-number-10",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Department for Education"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-10-14T00:01:00+01:00",
+        "sourceVersion": "ebb50575-698c-43b2-977e-ce344f697abe"
+      },
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "410ade93fc6af1012c48faa5",
+      "title": "在高管会议室偷偷安装录音设备，OpenAI 一沙特籍工程师被 FBI 逮捕",
+      "originalUrl": "https://www.ithome.com/1/012/629.htm",
+      "summary": "IT之家 10 月 14 日消息，据路透社报道，美国司法部当地时间周二表示，美国联邦探员逮捕了一名任职于 OpenAI 的沙特籍工程师，指控他在这家人工智能企业的高管会议室安装隐蔽录音设备。 美国司法部在声明中称，35 岁的阿卜杜勒拉赫曼 · 阿尔福赞（Abdulrahman Alfozan）自 2025 年 7 月起担任 OpenAI 工程师。 美国司法部介绍，9 月 30 日，OpenAI 在其旧金山一处办公楼的高管会议室里，发现一台电视后方 USB 接口上插着该录音设备…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T22:59:27.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "79e486b090faadccc04ac659",
+      "title": "陪审团认定 Arm 违反许可协议，高通获 2 美元象征性赔偿",
+      "originalUrl": "https://www.ithome.com/1/012/617.htm",
+      "summary": "IT之家 10 月 14 日消息，据路透社报道，美国特拉华州一个陪审团于当地时间周二认定，芯片技术供应商 Arm Holdings 违反了与高通（Qualcomm）的许可协议，还故意干扰这家芯片厂商与 Meta 公司的业务往来，但仅裁定 2 美元（IT之家注：现汇率约合 13.4 元人民币）的象征性赔偿金。 这项判决出自上周为期五天的庭审，这也是两家企业两年内的第二次诉讼，案件凸显双方业务关系持续恶化。软银集团在 2016 年取得 Arm 控制权之后，Arm 的业务重心从授权…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T22:47:10.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "473a43f99d92bac268c64079",
+      "title": "外媒：美以领导人近日通话 讨论重启对伊战事的可能性",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-14/10714103.shtml",
+      "summary": "中新网10月14日电 据《以色列时报》及美国阿克西奥斯新闻网报道，以色列总理内塔尼亚胡近日与美国总统特朗普通话，讨论在11月初美国国会中期选举前甚至10月27日以色列议会选举前重启对伊朗战事的可能性。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T22:45:02.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "94360dabf9f5427c81b85b28",
+      "title": "10月14日新闻早报",
+      "originalUrl": "https://www.chinanews.com.cn/iframe/2026/10-14/10714102.shtml",
+      "summary": null,
+      "summaryProvenance": null,
+      "sourcePublishedAt": "2026-10-13T22:34:36.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5ae56945b8854916a7c17fe3",
+      "title": "苹果 watchOS 27.2 开发者预览版 Beta 4 发布",
+      "originalUrl": "https://www.ithome.com/1/012/609.htm",
+      "summary": "【点此直达升级教程】 IT之家 10 月 14 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 开发者预览版 Beta 4 更新（内部版本号：24S5112a），本次更新距离上次发布 Beta / RC 间隔 7 天。 watchOS 27.2 与 iOS 27.2 一同测试苹果在 9 月发布会展示的新版健康 App，包括 Insights 和 Longevity 标签页，以及基于 Apple Watch 数据的 Readiness Scor…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T22:33:08.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1dc63e79ebd49c8b73a110dd",
+      "title": "苹果 visionOS 27.2 开发者预览版 Beta 4 发布",
+      "originalUrl": "https://www.ithome.com/1/012/608.htm",
+      "summary": "IT之家 10 月 14 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 4 更新（内部版本号：24N5114a），本次更新距离上次发布 Beta / RC 间隔 7 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本次更新主要修复此前测试版中的问题并提升系统稳定性，属于正式版发布前的常规迭代。截至目前，苹果与媒体均未列出 Beta 4 新增的…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T22:33:07.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7db38d1cdd7f63faf8e37292",
+      "title": "苹果 macOS 27.2 开发者预览版 Beta 4 发布",
+      "originalUrl": "https://www.ithome.com/1/012/607.htm",
+      "summary": "IT之家 10 月 14 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 开发者预览版 Beta 4 更新（内部版本号：26B5112a），本次更新距离上次发布 Beta / RC 间隔 7 天。 苹果尚未在公开渠道列出 Beta 4 的具体修复项；这类临近 RC 的版本通常以修正问题、提升性能和稳定性为主。macOS 27.2 的重点更新是 Siri AI 新增法语、日语、韩语、葡萄牙语和西班牙语支持。 已加入开发者 Beta 渠道的 Mac 可依次进入系…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T22:33:07.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d3c68f692f71857c955f5787",
+      "title": "苹果 iOS / iPadOS 27.2 开发者预览版 Beta 4 发布，同步推送第 3 个公测版",
+      "originalUrl": "https://www.ithome.com/1/012/606.htm",
+      "summary": "【点此直达升级教程】 IT之家 10 月 14 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.2 开发者预览版 Beta 4 更新（内部版本号：24B5110a），本次更新距离上次发布 Beta / RC 间隔 7 天。 在更新日志中，苹果公司并未详细介绍本次更新主要内容，只是表示新预览版会包含新功能 / 新特性。苹果公司今天还同步推出了 iOS 27.2 的第 3 个公测版。 已注册 Apple Developer Progra…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T22:33:06.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "62dcdaccbfa62836870d11bc",
+      "title": "美中央司令部：霍尔木兹海峡由美军及地区伙伴掌控",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-14/10714101.shtml",
+      "summary": "当地时间10月13日，美军中央司令部在社交平台上发文回应伊朗伊斯兰革命卫队有关霍尔木兹海峡的表态。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T21:57:12.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9503a25003e29dbef711b4a9",
+      "title": "巴布亚新几内亚发生6.0级地震",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-14/10714100.shtml",
+      "summary": "新华社纽约10月13日电 据美国地质调查局地震信息网消息，格林尼治时间13日18时45分(北京时间14日2时45分)，巴布亚新几内亚科科波以南126公里处发生6.0级地震，震中位于南纬5.48度、东经152.14度，震源深度20.8公里。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T21:53:09.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
+      "version": 1,
+      "history": []
+    },
     {
       "id": "535c2a056cac54dd28070898",
       "title": "President Zelenskyy to visit Downing Street as the UK doubles down on support for Ukraine and calls on partners to follow suit ",
@@ -40,7 +1153,7 @@
         "sourceVersion": "40b336c8-4db1-40b4-8dc5-5fda54a98480"
       },
       "firstSeenAt": "2026-10-13T21:31:06.629Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T21:31:06.629Z",
       "version": 1,
       "history": []
@@ -66,7 +1179,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T21:31:06.629Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T21:31:06.629Z",
       "version": 1,
       "history": []
@@ -91,7 +1204,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T21:31:06.629Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T21:31:06.629Z",
       "version": 1,
       "history": []
@@ -116,7 +1229,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T21:31:06.629Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T21:31:06.629Z",
       "version": 1,
       "history": []
@@ -141,7 +1254,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T21:31:06.629Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T21:31:06.629Z",
       "version": 1,
       "history": []
@@ -166,8 +1279,33 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0cae240ea990fcf672bc8315",
+      "title": "谷歌最强 AI 模型：Gemini 4 Argon 上线，输出词元上限 100 万个、专攻最棘手难题",
+      "originalUrl": "https://www.ithome.com/1/012/601.htm",
+      "summary": "IT之家 10 月 14 日消息， Gemini 4 Argon 现已面向全球开发者和企业开放，可通过 AI Studio 、 Gemini 平台 API 使用，同时支持 Google Antigravity 的 Google AI Ultra 订阅用户，以及 Gemini 应用和搜索 AI 模式的 Google AI Ultra 和 Pro 订阅用户。 该模型目前限时入门定价如下（汇率为 2026 年 10 月 14 日 1 美元（现汇率约合 6.7 元人民币） ≈ 6.6…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-13T16:16:12.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-14T00:35:06.763Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
+      "updatedAt": "2026-10-14T00:35:06.763Z",
       "version": 1,
       "history": []
     },
@@ -191,7 +1329,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -217,7 +1355,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -243,7 +1381,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -270,7 +1408,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -312,7 +1450,7 @@
         "sourceVersion": "55c25e7f-c803-4221-991c-0a3f4abc07c9"
       },
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -338,7 +1476,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -363,7 +1501,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -389,7 +1527,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -415,7 +1553,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -443,7 +1581,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -469,7 +1607,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -494,7 +1632,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -520,7 +1658,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -547,7 +1685,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -573,7 +1711,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -598,7 +1736,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -624,7 +1762,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -653,7 +1791,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -680,7 +1818,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -707,7 +1845,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -732,7 +1870,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -757,7 +1895,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -782,7 +1920,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -808,7 +1946,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -820,8 +1958,8 @@
       "summary": "中新网杭州10月13日电(蓝伊旎 骆琼 郑宇航)秋意渐浓，杭州余杭桂博园内的桂花树迎来全盛期，满园桂花飘香。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-13T14:51:54.000Z",
@@ -836,7 +1974,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -848,8 +1986,8 @@
       "summary": "中新网天津10月13日电 (薛淳月 周亚强)“智象-司南”海河流域AI短临预报模型12日在天津发布。该模型每6分钟滚动更新未来3小时雷达回波、降水和风场预报，空间分辨率达1公里，目前已在国内多地以及巴基斯坦、蒙古国等地试用。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-13T14:48:56.000Z",
@@ -863,7 +2001,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -875,8 +2013,8 @@
       "summary": "中新网雄安10月13日电 (赵丹媚 韩冰)13日，一辆国际公路运输车辆进入雄安综合保税区完成装卸后办结海关手续，从雄安综合保税区卡口驶出。车上装载近30万元货物，将经满洲里口岸出境，直达俄罗斯符拉迪沃斯托克。这是雄安新区首单“保税+TIR”业务。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-13T14:45:34.000Z",
@@ -890,7 +2028,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -902,8 +2040,8 @@
       "summary": "中新社石家庄10月13日电 (赵丹媚 余陈军)满载110个标准集装箱的“京铁燕赵班列·石家庄陆港号”13日从石家庄国际陆港启程，驶向新疆喀什。该班列是京津冀地区首次以物流总包“一单制”模式运营的国际铁公联运班列，为京津冀外贸企业开辟出连接中亚的新通道。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-13T14:42:13.000Z",
@@ -917,7 +2055,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -967,7 +2105,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1019,7 +2157,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1094,7 +2232,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1119,7 +2257,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1188,7 +2326,7 @@
         "sourceVersion": "a589fad1-05af-4043-8f34-a57dba79b458"
       },
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1225,8 +2363,8 @@
       "summary": "中新社桂林10月13日电 (杨陈 陈秋霞)2026年世界运河大会13日在广西桂林开幕。开幕式上，世界绿色设计组织向平陆运河项目颁发绿色设计国际大奖、绿色设计国际贡献奖，平陆运河首次在绿色生态领域获得国际大奖。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-13T14:29:25.000Z",
@@ -1239,7 +2377,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1265,7 +2403,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1316,7 +2454,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1328,8 +2466,8 @@
       "summary": "中新网布鲁塞尔10月13日电 (记者 德永健)欧盟统计局13日公布的数据显示，2025年欧盟纯电动汽车进口总值150亿欧元，逾四成进口纯电动汽车来自中国。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-13T14:12:58.000Z",
@@ -1344,7 +2482,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1406,8 +2544,8 @@
       "summary": "中新网成都10月13日电 (记者 刘忠俊)10月13日下午，随着最后一方混凝土浇筑完成，成渝中线高铁动走线跨沙河特大桥顺利合龙。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-13T14:12:02.000Z",
@@ -1421,7 +2559,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1515,7 +2653,7 @@
         "sourceVersion": "ec769feb-0dbe-4cf6-ab60-3aa74f6a747e"
       },
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1541,7 +2679,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1567,7 +2705,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1609,7 +2747,7 @@
         "sourceVersion": "d0924e12-7e85-46d4-9f46-dd2b116cec29"
       },
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1634,7 +2772,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1660,7 +2798,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1686,7 +2824,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1711,7 +2849,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1736,7 +2874,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1761,7 +2899,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1786,7 +2924,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1811,7 +2949,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1886,7 +3024,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1911,7 +3049,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1936,7 +3074,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1961,7 +3099,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -1986,7 +3124,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2011,7 +3149,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2061,7 +3199,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2111,7 +3249,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2137,7 +3275,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2163,7 +3301,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2205,7 +3343,7 @@
         "sourceVersion": "d08928a1-8aef-4d53-a73c-9a16e1df6abe"
       },
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2231,7 +3369,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2273,7 +3411,7 @@
         "sourceVersion": "ea5a25f9-4a3f-446d-a9a3-f126cfaa4ca7"
       },
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2299,7 +3437,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2326,7 +3464,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2368,7 +3506,7 @@
         "sourceVersion": "f5a1c0e4-b8e8-4f20-9c03-3bf8bf8649ab"
       },
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2394,7 +3532,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2419,7 +3557,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2445,7 +3583,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2471,7 +3609,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2497,7 +3635,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2522,7 +3660,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2548,7 +3686,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2574,7 +3712,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2599,7 +3737,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2624,7 +3762,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2674,7 +3812,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2725,7 +3863,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2750,7 +3888,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2776,7 +3914,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2802,7 +3940,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2929,7 +4067,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -2979,7 +4117,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -3004,7 +4142,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -3030,7 +4168,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -3055,7 +4193,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -3080,7 +4218,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -3105,7 +4243,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -3130,7 +4268,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -3155,7 +4293,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -3206,7 +4344,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -3281,7 +4419,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -3374,7 +4512,7 @@
         "sourceVersion": "617f1de7-4cfd-4bee-8f9e-f35317aecc33"
       },
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -3553,7 +4691,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -3646,7 +4784,7 @@
         "sourceVersion": "7631a717-19ff-4c04-bf86-387699fcaad5"
       },
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -3899,7 +5037,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -3977,7 +5115,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -4070,7 +5208,7 @@
         "sourceVersion": "027c7976-a60a-4220-a902-25e8ab18d120"
       },
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -4096,7 +5234,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -4138,7 +5276,7 @@
         "sourceVersion": "e4bedcba-258e-46e4-9514-30b71842bbb1"
       },
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -4180,7 +5318,7 @@
         "sourceVersion": "1e0c9b95-f6d1-48b7-987e-b1255edc41ce"
       },
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -4223,7 +5361,7 @@
         "sourceVersion": "9888b75e-e8d2-4fa0-9e16-ea6d8da4a87e"
       },
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -4248,7 +5386,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -4274,7 +5412,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -4300,7 +5438,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -4468,7 +5606,7 @@
         "sourceVersion": "5bfd4280-64fa-48f5-a2bd-d83e56d551e1"
       },
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -4560,7 +5698,7 @@
         "sourceVersion": "546dbdda-f2f5-4192-9ece-7d893df6fe8e"
       },
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -4610,7 +5748,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
@@ -6841,7 +7979,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-13T08:23:33.688Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T08:23:33.688Z",
       "version": 1,
       "history": []
@@ -8200,7 +9338,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-13T08:23:33.688Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T08:23:33.688Z",
       "version": 1,
       "history": []
@@ -8426,7 +9564,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-13T08:23:33.688Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T08:23:33.688Z",
       "version": 1,
       "history": []
@@ -9800,7 +10938,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-13T01:17:35.955Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T01:17:35.955Z",
       "version": 1,
       "history": []
@@ -10310,7 +11448,7 @@
         "sourceVersion": "1e5e4470-f29a-45ba-b431-7d5aad86d5a4"
       },
       "firstSeenAt": "2026-10-13T01:17:35.955Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T01:17:35.955Z",
       "version": 1,
       "history": []
@@ -10352,7 +11490,7 @@
         "sourceVersion": "ad63ad61-0e58-46ed-b958-4c3c1573c5dc"
       },
       "firstSeenAt": "2026-10-13T01:17:35.955Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 2,
       "history": [
@@ -10483,7 +11621,7 @@
         "sourceVersion": "19633149-f89f-4903-8819-bba054d2f67e"
       },
       "firstSeenAt": "2026-10-13T01:17:35.955Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-13T01:17:35.955Z",
       "version": 1,
       "history": []
@@ -14896,7 +16034,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-12T18:59:03.439Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-12T18:59:03.439Z",
       "version": 1,
       "history": []
@@ -17557,7 +18695,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-12T09:05:37.990Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-12T09:05:37.990Z",
       "version": 1,
       "history": []
@@ -19149,7 +20287,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-12T09:05:37.990Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-12T09:05:37.990Z",
       "version": 1,
       "history": []
@@ -21287,7 +22425,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-12T01:43:36.956Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-12T01:43:36.956Z",
       "version": 1,
       "history": []
@@ -26104,7 +27242,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-11T13:28:08.381Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
+      "lastSeenAt": "2026-10-14T00:35:06.763Z",
       "updatedAt": "2026-10-11T13:28:08.381Z",
       "version": 1,
       "history": []
@@ -258956,1150 +260094,6 @@
       "updatedAt": "2026-09-19T04:59:18.594Z",
       "version": 1,
       "history": []
-    },
-    {
-      "id": "81e444ed0685310ad54eda11",
-      "title": "国庆假期第三天火车票今起开售",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-19/10699419.shtml",
-      "summary": "中秋、国庆假期临近，今年的中秋假期是9月25日至27日，国庆假期是10月1日到7日。按照火车票提前15天预售的规定，10月3日也就是国庆假期第3天的火车票今天开售。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T04:41:00.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "189be74a77d51035d9e6cf5e",
-      "title": "中国女篮主教练宫鲁鸣：珍惜比赛机会 争取最好成绩",
-      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-19/10699415.shtml",
-      "summary": "中新网9月19日电(记者 金旭)中国女篮当地时间19日迎来本届亚运会小组赛首个对手泰国队，以111:46大比分获胜，收获开门红。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-sports",
-        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T04:36:15.000Z",
-      "timeIssue": null,
-      "channels": [
-        "sports",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-sports",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-20T00:06:24.786Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "3365395ab6824b754176799c",
-      "title": "问卷调查显示华为正在评估无屏幕健康手环产品",
-      "originalUrl": "https://www.ithome.com/1/004/426.htm",
-      "summary": "IT之家 9 月 19 日消息，科技媒体 the5krunner 昨日（9 月 18 日）发布博文，报道称基于最新问卷调查，华为可能会推出无屏幕的健康手环，在上市后可能会和 Whoop 等产品竞争。 报道称本次问卷调查针对拥有华为智能手表的用户，出现在应用的“设备”选项卡中，调查包含 28 个问题，内容涉及无屏幕健康手环的价格、电池续航时间、表带以及人工智能功能等。IT之家附上相关截图如下： 调查还询问受访者对竞品的熟悉程度，包括 Whoop、Garmin Cirqa、Goo…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T04:35:26.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech",
-        "health"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "17e80732f1bdec636cd81cf5",
-      "title": "2026亚运会今日开幕 亮点抢先看→",
-      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-19/10699418.shtml",
-      "summary": "第20届亚洲运动会开幕式#8204;将于北京时间19日下午5时举行。开幕式有哪些看点？",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-sports",
-        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T04:34:57.000Z",
-      "timeIssue": null,
-      "channels": [
-        "sports",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-sports",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-20T00:06:24.786Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "b26eb6d0268dce05914c4cd8",
-      "title": "游园、品茶、选月饼 各地中秋消费市场“新”意满满",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-19/10699416.shtml",
-      "summary": "中秋节越来越近，目前，节前消费市场已经热闹起来，新产品层出不穷，带给消费者更多新鲜选择。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T04:32:21.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance",
-        "food",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-finance",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "2e6c7b191d45ee0c951533a5",
-      "title": "佳明战术智能手表 Tactix 9 踪迹曝光，预估 2027 年 2 月发布",
-      "originalUrl": "https://www.ithome.com/1/004/425.htm",
-      "summary": "IT之家 9 月 19 日消息，科技媒体 the5krunner 昨日（9 月 18 日）发布博文，报道称在俄罗斯监管文件中，发现了佳明 (Garmin) 战术智能手表 Tactix 9 的踪迹。 IT之家注：Tactix 是佳明旗下面向硬核户外玩家打造的高端战术 GPS 智能手表系列，在 Fēnix 旗舰户外运动平台基础上，加入夜视、隐蔽行动、跳伞、战术导航等专业功能，并采用更耐用的外壳与镜面。 上图为 Tactix 8 AMOLED 佳明于 2025 年 2 月 21 日…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T04:26:33.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "fe9b2baa1c3f787f75a681b3",
-      "title": "不学医也能拿医师证？被曝光后，机构竟拿“接受过检查”当卖点继续营业",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-19/10699414.shtml",
-      "summary": "近期，不少短视频在宣传“不学医、不读医学专业，花两三万块钱，就能伪造全套档案通过报考审核，甚至一路‘保过’拿到医师资格证书”。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T04:23:07.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "9ed6785705a7e1ce1c3a3cef",
-      "title": "古寨新生 听景迈山人讲茶山新故事",
-      "originalUrl": "https://www.chinanews.com.cn/hr/2026/09-19/10699413.shtml",
-      "summary": "云南普洱景迈山，万亩古茶林与傣族、布朗族村寨相伴而生，至今已有千余年历史。2023年9月17日，“普洱景迈山古茶林文化景观”被列入《世界遗产名录》，成为全球首个茶主题世界文化遗产。三年过去，糯干、翁基、芒景下寨三座古寨，以各自的节奏书写着遗产保护与民生改善的答卷。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T04:19:06.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T04:59:18.594Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "e8ed7d626fd8373f6a9ee3cf",
-      "title": "古寨新生 听景迈山人讲茶山新故事",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-19/10699413.shtml",
-      "summary": "云南普洱景迈山，万亩古茶林与傣族、布朗族村寨相伴而生，至今已有千余年历史。2023年9月17日，“普洱景迈山古茶林文化景观”被列入《世界遗产名录》，成为全球首个茶主题世界文化遗产。三年过去，糯干、翁基、芒景下寨三座古寨，以各自的节奏书写着遗产保护与民生改善的答卷。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T04:19:06.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-19T09:25:48.559Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T09:25:48.559Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "2c17f08796fbddc29a454eea",
-      "title": "2026网安周｜直面隐性环境代价，促进数绿协同发展",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-19/10699412.shtml",
-      "summary": "【编者按】当前，人工智能技术加速向经济社会各领域渗透，与之相伴的安全风险与伦理挑战也日益凸显。2026年国家网络安全宣传周期间，光明网联合科普中国推出AI科技伦理系列科普视频，引导公众理性认知技术逻辑，秉持算法向善理念，共建网络安全生态。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T04:15:42.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-finance",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "090cc278c3c2c63ef9e2247c",
-      "title": "云岭动态第三期",
-      "originalUrl": "https://www.chinanews.com.cn/txy/2026/09-19/10699372.shtml",
-      "summary": "1.9月18日，云南省人民政府新闻办公室举行新闻发布会：“2026华商聚云南”活动将于9月20日至24日举行，其中，开幕式将于9月21日在昆明举行。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T04:15:20.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T04:59:18.594Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "655457be5986f01710e0d9eb",
-      "title": "探访动车组生产一线：中国速度这样炼成",
-      "originalUrl": "https://www.chinanews.com.cn/gn/2026/09-19/10699411.shtml",
-      "summary": "开局之年看中国｜探访动车组生产一线：中国速度这样炼成",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T04:12:30.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T04:59:18.594Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "573cc244467c06ab40d1021f",
-      "title": "四家 AI 巨头因呼吁放缓研发遭反垄断诉讼：Anthropic、OpenAI、SpaceXAI、谷歌面临集体诉讼",
-      "originalUrl": "https://www.ithome.com/1/004/423.htm",
-      "summary": "IT之家 9 月 19 日消息，美国加利福尼亚州北区联邦法院当地时间 9 月 18 日受理了一宗诉讼案，原告指控 Anthropic、OpenAI、SpaceXAI 和谷歌四大 AI 巨头共同非法协调以限制 AI 发展速度。 起诉书显示，案件名称为 Buist v. Anthropic PBC，编号为 3:26-cv-10693。原告为订阅上述公司 AI 服务的消费者，包括 Cheyenne Hunt、佛罗里达州律师 Charles Buist、Nick Spetsas 以及…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T04:10:28.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "9b851258f8aacdea2f93856d",
-      "title": "《国防公开课》即将开课！亮点先睹为快！",
-      "originalUrl": "https://www.chinanews.com.cn/gn/2026/09-19/10699410.shtml",
-      "summary": "第26个全民国防教育日特别节目",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T04:09:28.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T04:59:18.594Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "c02a6a8d83e63a7bc30ab2a8",
-      "title": "活力中国调研行｜芦苇变形记",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-19/10699408.shtml",
-      "summary": "当你喝掉一盒牛奶、撕开一桶泡面、抽出一沓餐巾纸、翻阅一本字典时，很少有人会想到，这些纸制品的前身，可能是长江洲滩上的一根根芦苇。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T04:02:58.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-finance",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "d137ade797cb94b1466f5b2d",
-      "title": "权益价 9.99 万元起，东风星海 V6 乾崑智驾 ADS SE 版车型上市",
-      "originalUrl": "https://www.ithome.com/1/004/422.htm",
-      "summary": "IT之家 9 月 19 日消息，在东风柳汽 2026 年秋季新品发布会中，东风星海 V6 乾崑智驾 ADS SE 版正式上市。新车共推出 3 款配置，上市指导价 10.49 万-12.49 万元，上市权益价 9.99 万-11.99 万元。 星海 V6 搭载华为乾崑智驾 ADS 5 SE，采用 10 摄像头、12 超声波雷达、3 毫米波雷达共 25 个感知硬件，覆盖家庭最高频的“开得累、停得难”场景。城区可用车道巡航辅助 LCC+，支持全速域跟车、防加塞、红绿灯识别和主动避障…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:59:59.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "mobility"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "35d14f4ba3b5a5a47928ac7f",
-      "title": "中国女篮球员杨舒予：期待亚运会带来不一样的呈现",
-      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-19/10699404.shtml",
-      "summary": "中新网9月19日电(记者 金旭)中国女篮当地时间19日迎来本届亚运会小组赛首个对手泰国队，以111:46大比分获胜，收获开门红。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-sports",
-        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:57:23.000Z",
-      "timeIssue": null,
-      "channels": [
-        "sports",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-sports",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-20T00:06:24.786Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "ee4bfd5b730f2f85c55016cf",
-      "title": "自然资源部对四川启动地质灾害防御Ⅳ级响应",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-19/10699406.shtml",
-      "summary": "中新网9月19日电 据自然资源部微信公众号消息，9月19日，四川省攀枝花市盐边县格萨拉乡支六河村发生一起泥石流灾害事件致多人失联。根据《自然资源部地质灾害防御响应工作方案》，自然资源部于9月19日10时启动地质灾害防御IV级响应。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:54:27.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "b7632f9de745dffc945478ca",
-      "title": "B 社《辐射 76》正式为 XBOX Series X|S、PS5 版本提供原生支持",
-      "originalUrl": "https://www.ithome.com/1/004/421.htm",
-      "summary": "IT之家 9 月 19 日消息，B 社宣布正式为《辐射 76》引入 XBOX Series X|S、PS5 原生支持，在兼容的电视或显示器上以最高 4K 分辨率和 60fps 运行。 具体来看，《辐射 76》在 XBOX Series X|S、PS5 及 PS5 Pro 平台均以 60 FPS 为目标帧率运行。其中，XBOX Series X、XBOX One X 及 PS5 Pro 在兼容显示设备上支持 4K 分辨率；XBOX Series S、XBOX Series X、…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:54:16.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "bee1304de92f10246931802e",
-      "title": "出发！逾千港澳少年赴京，“向国旗敬礼”",
-      "originalUrl": "https://www.chinanews.com.cn/dwq/2026/09-19/10699405.shtml",
-      "summary": "今天(18日)，“向国旗敬礼”港澳青少年升旗队代表访京团于香港西九龙高铁站举行出征仪式，随后同学们启程赴京。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:53:29.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T04:59:18.594Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "629e3cb19ef0a6bbb08a1911",
-      "title": "AI 太烧钱：报道称 OpenAI 未来 5 年自由现金流为负 2780 亿美元",
-      "originalUrl": "https://www.ithome.com/1/004/420.htm",
-      "summary": "IT之家 9 月 19 日消息，金融时报（FT）昨日（9 月 18 日）发布博文，称获得一份演示文稿，显示 OpenAI 公司预计 2026 年至 2030 年累计产生 2,780 亿美元（IT之家注：现汇率约合 1.87 万亿元人民币）负自由现金流，此外计划在算力和基础设施上投入约 8,560 亿美元（现汇率约合 5.75 万亿元人民币）。 自由现金流（Free Cash Flow）是企业在支付经营成本、资本支出及必要投资后，可自由用于偿债、分红、回购或继续投资的现金余额。…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:53:04.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "f4331b85e7be248886d56347",
-      "title": "AI进入未成年人生活：是工具，还是依赖？",
-      "originalUrl": "https://www.chinanews.com.cn/edu/2026/09-19/10699398.shtml",
-      "summary": "中新网9月19日电 (宋宇晟)人工智能正在进入未成年人的生活。如今，只需一段文字指令，AI就能完成与孩子的互动。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-edu",
-        "feedUrl": "https://www.chinanews.com.cn/rss/edu.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:49:12.000Z",
-      "timeIssue": null,
-      "channels": [
-        "education",
-        "technology",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-edu",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-21T19:43:14.714Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "ae69d9598840ab667d9c56eb",
-      "title": "两岸青年短视频创作营在哈尔滨启幕 以青年视角记录大陆风貌",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-19/10699393.shtml",
-      "summary": "中新网哈尔滨9月19日电(记者 王妮娜)以“探寻龙江两岸同行”为主题的两岸青年短视频创作营在哈尔滨启动。来自海峡两岸的40名媒体记者、自媒体达人齐聚冰城，以镜头为媒、以影像连心，开启光影之旅。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:48:30.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "f8d59052af593a0540594794",
-      "title": "2026广州黄埔国际网球公开赛男双半决赛落幕",
-      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-19/10699381.shtml",
-      "summary": "中新网广州9月19日电 (记者 王坚)广开人才·2026广州黄埔国际网球公开赛暨国际男子职业网球挑战赛9月18日进入第6个比赛日。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-sports",
-        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:47:52.000Z",
-      "timeIssue": null,
-      "channels": [
-        "sports",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-sports",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-20T00:06:24.786Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "988972ea210466573f15c603",
-      "title": "Steam 喜加一：原价 22 元第一人称射击游戏《Deadshot》免费领",
-      "originalUrl": "https://www.ithome.com/1/004/419.htm",
-      "summary": "IT之家 9 月 19 日消息，独立游戏开发者 v0lt 制作的复古风格第一人称射击游戏《Deadshot》目前正在 Steam 平台进行限时免费领取“喜加一”活动。本作在国区定价为 22 元，玩家可以在北京时间 9 月 24 日前领取，IT之家附游戏地址（https://store.steampowered.com/app/2484180/Deadshot/）。 《Deadshot》的游戏风格受到《半条命（半衰期）》和《毁灭战士》系列启发。游戏讲述一场突如其来的变异灾难席卷…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:45:12.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "entertainment"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "fb3cf546d6c95a8698a469dc",
-      "title": "中国驻沙特大使馆提醒在沙中资机构和中国公民进一步加强安全防范",
-      "originalUrl": "https://www.chinanews.com.cn/hr/2026/09-19/10699400.shtml",
-      "summary": "中新网9月19日电 据“中国驻沙特大使馆”微信公众号消息，9月18日晚至19日凌晨，沙特民防部门连续发布安全警报，涉及地区包括利雅得、吉达、哈里格、艾卜哈、欧拉、吉赞、延布、海米斯穆谢特、塔伊夫、费拉桑群岛，多地传出爆炸声。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:44:32.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T04:59:18.594Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "e8a458c09db683da9c2d2970",
-      "title": "超强厄尔尼诺来了 全球农业如何应对",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-19/10699402.shtml",
-      "summary": "当前，厄尔尼诺现象已形成并将持续增强，预计将发展为“超强”级别事件。正在北京举行的2026世界农业科技创新大会上，与会代表围绕气候变化下的农业生产展开交流，寻求解决方案。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:43:06.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T04:59:18.594Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "56914621a51012020e94b6fe",
-      "title": "微软发布 Win11 26H2 评估版 ISO 镜像：用于企业 IT 管理员测试新系统，可免费试用 90 天",
-      "originalUrl": "https://www.ithome.com/1/004/418.htm",
-      "summary": "IT之家 9 月 19 日消息，微软现已开始发布基于 Windows 11 26H2 的评估版 ISO 镜像，用户可以免费下载并免费试用 90 天，无需激活。 IT之家注：评估版 ISO 主要面向企业 IT 管理员，用于提前测试评估新版本系统是否适合现有 IT 环境，微软并不建议普通家庭用户使用这一版本，目前提供的 ISO 基于最新的 KB5129195 OOB 更新，系统版本号为 Build 26300.9457：“26300.9457.260913-1737.26h2_g…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:40:53.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "finance"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "0470a90f28db3ad29404910c",
-      "title": "中新网评：一杯豆浆，何必靠黑丝来卖？",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-19/10699397.shtml",
-      "summary": "中新网北京9月19日电(左雨晴) 一条约4分钟的豆浆带货视频，开头约15秒展示的却是与产品毫无关系的剧情：女生穿蕾丝吊带裙、进浴室洗澡、穿脱黑丝袜，直到后半段才切入产品推介。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:39:50.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-finance",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "61db696dccc50dc1400a75ee",
-      "title": "中国乡土绘画作品南非开展",
-      "originalUrl": "https://www.chinanews.com.cn/tp/2026/09-19/10699391.shtml",
-      "summary": "当地时间9月18日，“四季交响·来自中国的乡土绘画作品展”在位于南非比勒陀利亚的南非国家文化历史博物馆开展。展览精选40幅中国农民画作品，通过描绘四季景致和乡村生活，展现东方审美意蕴和中国乡村发展新貌。展览将持续至10月10日。图为南非民众欣赏印有中国名画《千里江山图》的图书。中新社记者 孙翔 摄 当地时间9月18日，“四季交响·来自中国的乡土绘画作品展”在位于南非比勒陀利亚的南非国家文化历史博物馆开展。展览精选40幅中国农民画作品，通过描绘四季景致和乡村生活，展现东方审美意…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:36:26.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T04:59:18.594Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "0f0dc18dbbb96f0f71e1c996",
-      "title": "中国女篮亚运会首战大胜泰国队",
-      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-19/10699396.shtml",
-      "summary": "中新网9月19日电(记者 金旭)中国女篮当地时间19日迎来本届亚运会小组赛首个对手泰国队，以111:46大比分获胜，收获开门红。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-sports",
-        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:36:24.000Z",
-      "timeIssue": null,
-      "channels": [
-        "sports",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-sports",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-20T00:06:24.786Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "221f82aeaa796236a807f086",
-      "title": "古巴全国断电后逐步恢复",
-      "originalUrl": "https://www.chinanews.com.cn/gj/2026/09-19/10699371.shtml",
-      "summary": "中新社北京9月19日电 哈瓦那消息：古巴当地时间18日下午发生全国断电。古巴电力联盟当天晚些时候说，已启动恢复程序，电力供应正逐步恢复。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:35:44.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T04:59:18.594Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "05258998d601256871905775",
-      "title": "消息称《漫威金刚狼》上市前三天销量达 190 万份，为 2026 年 PS5 平台表现最好的索尼第一方游戏",
-      "originalUrl": "https://www.ithome.com/1/004/416.htm",
-      "summary": "IT之家 9 月 19 日消息，分析机构 Alinea Analytics 现已公布了《漫威金刚狼》的首发销售数据。数据显示，游戏上市前三天销量达到 190 万份，营收约 1.3 亿美元（IT之家注：现汇率约合 8.73 亿元人民币），其中约 100 万份来自发售前数字预购，实体版销售贡献了 22.9% 的营收。Alinea Analytics 强调，其统计的是实际售出（sell-through）数据，不包含零售商尚未售出的库存，因此与发行商通常公布的出货量数据存在差异。 从…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:34:37.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "entertainment"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "5c9e16f1b4105274b30eecce",
-      "title": "北京市市场监督管理局对四家在线酒店旅游预订平台立案调查，飞猪、同程、途家、美团回应",
-      "originalUrl": "https://www.ithome.com/1/004/415.htm",
-      "summary": "9 月 19 日消息，北京市市场监督管理局根据国家市场监督管理总局工作部署和前期核查情况，依据《反不正当竞争法》《电子商务法》等法律法规，对杭州淘美航空服务有限公司（飞猪）、同程网络科技股份有限公司、途家在线信息技术（天津）有限公司、北京三快信息科技有限公司（美团）四家在线酒店旅游预订平台企业涉嫌相关违法行为立案调查，四家平台当天对此发布回应。 飞猪表示，公司高度重视，并将积极配合北京市市场监督管理局的各项调查工作，全面落实监管要求。飞猪始终尊重并维护公平、开放、有序的市场环…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:33:41.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "travel"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "c794dfa8fceed09b363b2541",
-      "title": "四川盐边县突发泥石流 已致5人失联",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-19/10699399.shtml",
-      "summary": "19日凌晨，四川省攀枝花市盐边县格萨拉乡支六河村石家沟隧道附近突发泥石流。记者从有关部门了解到，据初步统计，目前已有5人失联。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:29:09.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T04:59:18.594Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "54dc0d3069441704c4126b07",
-      "title": "12.8 万元张雪 820RR-RC 赛道版发布：冠军同款涂装风格，不可上路",
-      "originalUrl": "https://www.ithome.com/1/004/414.htm",
-      "summary": "IT之家 9 月 19 日消息，张雪机车今日正式发布了 820RR-RC 赛道版车型，采用与 SBK 超级运动赛车同款的外观涂装风格，全国统一指导价为 128000 元。 IT之家提醒：该车型定位为赛道专用车辆，不具备道路行驶资质，主要针对赛道日及竞速场景使用。 820RR-RC 搭载一台 818.8cc 直列三缸发动机，采用 DOHC 每缸四气门、水冷 + 油冷散热结构，最大功率 113 千瓦，在每 13500 转时输出，最大扭矩 86 牛 · 米在每 10000 转时产生…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:25:22.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "sports"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "645b6587c489ef394f93cd20",
-      "title": "美国弗吉尼亚州宣布成立“人工智能工作组”，同步公布“数据中心问责框架”加强建设监管",
-      "originalUrl": "https://www.ithome.com/1/004/413.htm",
-      "summary": "IT之家 9 月 19 日消息，据外媒 The Verge 报道，美国弗吉尼亚州州长 Abigail Spanberger 近日签署第 22 号行政命令（Executive Order 22），宣布成立“人工智能工作组”，评估 AI 快速发展可能带来的就业、数据隐私和网络安全风险。官方同步公布“数据中心问责框架”（Data Center Accountability Framework），计划进一步加强对数据中心建设的监管，并提高地方社区在相关项目审批中的参与程度。 根据行政…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:25:18.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "0479c808920fc9a5860a1275",
-      "title": "危房解危 老楼焕新——哈尔滨“原拆原建”里的安居新味",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-19/10699379.shtml",
-      "summary": "中新网哈尔滨9月19日电 题：危房解危 老楼焕新——哈尔滨“原拆原建”里的安居新味",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:23:23.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T04:59:18.594Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "7ac5e7f2c0a29fc5468e45f9",
-      "title": "投行 Piper 称亚马逊、苹果、AMD 等正评估英特尔 14A 半导体工艺",
-      "originalUrl": "https://www.ithome.com/1/004/412.htm",
-      "summary": "IT之家 9 月 19 日消息，美国投行 Piper Sandler 最新研报指出，亚马逊、苹果、AMD、谷歌、特斯拉、微软、英伟达和高通（按照研报排序）正在评估英特尔 14A 制程。 Intel 14A 是英特尔规划中的 1.4nm 级制程节点。该节点采用背面供电方案 PowerDirect，并引入 RibbonFET 2 晶体管与第 2 代全环绕栅极架构。 IT之家曾于 8 月报道，Intel 14A 制程工艺拥有自 22nm 节点以来最佳的“缺陷密度曲线”（defect…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:22:56.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "efe2c32ba2dff1dc683a0a69",
-      "title": "北京上海今将试鸣防空警报 如何区分不同警报？",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-19/10699395.shtml",
-      "summary": "今天是第26个全民国防教育日。今天上午，北京市将在五环路以外区域试鸣防空警报；上海将举行防空警报试鸣和防空演练，并同步开展人民防空集中宣传活动。防空警报试鸣期间，不参加防空演练的群众不需要采取行动，请保持正常工作和生活秩序。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:22:31.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T04:59:18.594Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "6615c4ffbfd51671a71c1d3c",
-      "title": "广东民族乐团赴荷奏响中荷文化交流温情乐章",
-      "originalUrl": "https://www.chinanews.com.cn/hr/2026/09-19/10699377.shtml",
-      "summary": "中新网9月19日电 “华韵少年·乐动中西”主题音乐会近日在荷兰代尔夫特中文学校举办。广东民族乐团携手荷兰华裔青少年音乐爱好者，在中秋将至、家国同庆的氛围里，为当地侨胞与荷兰民众献上一场融汇中西、意蕴悠长的民族音乐盛宴。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:22:29.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "entertainment"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T04:59:18.594Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "3cba730d9e32d5d3e32c32ea",
-      "title": "家电“免费安装”成文字游戏 三大套路暗藏消费陷阱",
-      "originalUrl": "https://www.chinanews.com.cn/life/2026/09-19/10699394.shtml",
-      "summary": "“免费安装”几乎是所有家电品牌的标配服务承诺。可到了实际操作中，却往往变成了“基础安装免费，其他事项变着花样收费”的文字游戏。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-life",
-        "feedUrl": "https://www.chinanews.com.cn/rss/life.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:18:51.000Z",
-      "timeIssue": null,
-      "channels": [
-        "home",
-        "consumer-tech",
-        "entertainment",
-        "finance"
-      ],
-      "sourceIds": [
-        "chinanews-life"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-23T14:57:12.672Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "aa5266855df19b4c8b0c4ae7",
-      "title": "初创公司 Soulart 推出 Station VR 基站全身追踪设备：利用机器学习实现动捕，单台售价低于 400 美元",
-      "originalUrl": "https://www.ithome.com/1/004/410.htm",
-      "summary": "IT之家 9 月 19 日消息，韩国初创公司 Soulart 宣布为 VR 平台推出一款名为 Station 的基站全身追踪设备，号称采用 NPU 在本地完成身体动作识别，单台售价低于 400 美元，但目前产品仍处于早期阶段，实际售价和追踪效果还有待进一步验证。 具体来看，Station 最大的特点是采用单基站设计，其本质上就是一个摄像头（整体风格类似 Kinect），利用机器学习进行动作识别，用户无需佩戴任何传感器即可进行全身追踪，单台设备的覆盖范围最高可达 50 平方米，…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:17:57.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "education"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "7d381a03c9c2427291264a83",
-      "title": "张雪首款 ADV 摩托车 820X 发布，4.68 万元起",
-      "originalUrl": "https://www.ithome.com/1/004/409.htm",
-      "summary": "IT之家 9 月 19 日消息，在今日的第二十四届中国国际摩托车博览会上，张雪首款 ADV 车型（探险摩托车）—— 张雪 820X 正式发布，突击版售价 4.68 万元（2027 年上市），旅行版售价 5.78 万元。 张雪 820X 搭载 818.8cc 排量直列三缸水冷发动机，最大功率 85kW，最大扭矩 80N·m。 张雪 820X 车身尺寸为 2320x950x1455mm，轴距 1575mm，最高车速达 220km/h，不带尾箱的版本重量为 218kg。 该车配备电…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-19T03:17:05.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-19T04:59:18.594Z",
-      "lastSeenAt": "2026-09-19T09:25:48.559Z",
-      "updatedAt": "2026-09-19T04:59:18.594Z",
-      "version": 1,
-      "history": []
     }
   ],
   "sourceStatus": {
@@ -260107,8 +260101,8 @@
       "id": "ithome",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-13T21:31:06.629Z",
-      "lastSuccessAt": "2026-10-13T21:31:06.629Z",
+      "checkedAt": "2026-10-14T00:35:06.763Z",
+      "lastSuccessAt": "2026-10-14T00:35:06.763Z",
       "etag": null,
       "lastModified": null,
       "discovered": 60,
@@ -260119,8 +260113,8 @@
       "id": "sspai",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-13T21:31:06.629Z",
-      "lastSuccessAt": "2026-10-13T21:31:06.629Z",
+      "checkedAt": "2026-10-14T00:35:06.763Z",
+      "lastSuccessAt": "2026-10-14T00:35:06.763Z",
       "etag": null,
       "lastModified": null,
       "discovered": 10,
@@ -260131,11 +260125,11 @@
       "id": "chinanews-society",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-13T21:31:06.629Z",
-      "lastSuccessAt": "2026-10-13T21:31:06.629Z",
-      "etag": "\"6ace49b2-4019\"",
-      "lastModified": "Tue, 13 Oct 2026 15:09:38 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-10-14T00:35:06.763Z",
+      "lastSuccessAt": "2026-10-14T00:35:06.763Z",
+      "etag": "\"6aceccf3-3f60\"",
+      "lastModified": "Wed, 14 Oct 2026 00:29:39 GMT",
+      "discovered": 30,
       "failures": 0,
       "error": null
     },
@@ -260143,11 +260137,11 @@
       "id": "chinanews-finance",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-13T21:31:06.629Z",
-      "lastSuccessAt": "2026-10-13T21:31:06.629Z",
-      "etag": "\"6ace524f-4223\"",
-      "lastModified": "Tue, 13 Oct 2026 15:46:23 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-10-14T00:35:06.763Z",
+      "lastSuccessAt": "2026-10-14T00:35:06.763Z",
+      "etag": "\"6acecbd4-411e\"",
+      "lastModified": "Wed, 14 Oct 2026 00:24:52 GMT",
+      "discovered": 30,
       "failures": 0,
       "error": null
     },
@@ -260155,8 +260149,8 @@
       "id": "chinanews-life",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-13T21:31:06.629Z",
-      "lastSuccessAt": "2026-10-13T21:31:06.629Z",
+      "checkedAt": "2026-10-14T00:35:06.763Z",
+      "lastSuccessAt": "2026-10-14T00:35:06.763Z",
       "etag": "\"6acdd975-1d08\"",
       "lastModified": "Tue, 13 Oct 2026 07:10:45 GMT",
       "discovered": 0,
@@ -260167,8 +260161,8 @@
       "id": "chinanews-jk",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-13T21:31:06.629Z",
-      "lastSuccessAt": "2026-10-13T21:31:06.629Z",
+      "checkedAt": "2026-10-14T00:35:06.763Z",
+      "lastSuccessAt": "2026-10-14T00:35:06.763Z",
       "etag": "\"69aa3e2a-2832\"",
       "lastModified": "Fri, 06 Mar 2026 02:38:34 GMT",
       "discovered": 0,
@@ -260179,8 +260173,8 @@
       "id": "chinanews-culture",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-13T21:31:06.629Z",
-      "lastSuccessAt": "2026-10-13T21:31:06.629Z",
+      "checkedAt": "2026-10-14T00:35:06.763Z",
+      "lastSuccessAt": "2026-10-14T00:35:06.763Z",
       "etag": "\"6ace4700-3ccb\"",
       "lastModified": "Tue, 13 Oct 2026 14:58:08 GMT",
       "discovered": 0,
@@ -260191,8 +260185,8 @@
       "id": "chinanews-edu",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-13T21:31:06.629Z",
-      "lastSuccessAt": "2026-10-13T21:31:06.629Z",
+      "checkedAt": "2026-10-14T00:35:06.763Z",
+      "lastSuccessAt": "2026-10-14T00:35:06.763Z",
       "etag": "\"6ace1c61-2ef0\"",
       "lastModified": "Tue, 13 Oct 2026 11:56:17 GMT",
       "discovered": 0,
@@ -260203,8 +260197,8 @@
       "id": "chinanews-sports",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-13T21:31:06.629Z",
-      "lastSuccessAt": "2026-10-13T21:31:06.629Z",
+      "checkedAt": "2026-10-14T00:35:06.763Z",
+      "lastSuccessAt": "2026-10-14T00:35:06.763Z",
       "etag": "\"6ace40c8-3e90\"",
       "lastModified": "Tue, 13 Oct 2026 14:31:36 GMT",
       "discovered": 0,
@@ -260215,10 +260209,10 @@
       "id": "chinanews-scroll-news",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-13T21:31:06.629Z",
-      "lastSuccessAt": "2026-10-13T21:31:06.629Z",
-      "etag": "\"6ace606a-3c8a\"",
-      "lastModified": "Tue, 13 Oct 2026 16:46:34 GMT",
+      "checkedAt": "2026-10-14T00:35:06.763Z",
+      "lastSuccessAt": "2026-10-14T00:35:06.763Z",
+      "etag": "\"6acecbd3-3ade\"",
+      "lastModified": "Wed, 14 Oct 2026 00:24:51 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -260226,8 +260220,8 @@
     "govuk-fulltext": {
       "id": "govuk-fulltext",
       "status": "ok",
-      "checkedAt": "2026-10-13T21:31:06.629Z",
-      "lastSuccessAt": "2026-10-13T21:31:06.629Z",
+      "checkedAt": "2026-10-14T00:35:06.763Z",
+      "lastSuccessAt": "2026-10-14T00:35:06.763Z",
       "discovered": 20,
       "rejected": 0,
       "contentSchema": 3,
