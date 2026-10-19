@@ -1,8 +1,329 @@
 {
   "schemaVersion": "1",
-  "collectedAt": "2026-10-19T17:44:46.141Z",
-  "lastSuccessfulCollectionAt": "2026-10-19T17:44:46.141Z",
+  "collectedAt": "2026-10-19T22:17:31.332Z",
+  "lastSuccessfulCollectionAt": "2026-10-19T22:17:31.332Z",
   "items": [
+    {
+      "id": "b420b5b9cde1512ee0f5ed18",
+      "title": "泽连斯基称俄无人机袭击哈尔科夫州一公园致6死14伤",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-20/10717550.shtml",
+      "summary": "乌克兰总统泽连斯基19日表示，俄罗斯当天使用无人机袭击哈尔科夫州一处公园，造成6人死亡、14人受伤。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-19T21:58:44.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T22:17:31.332Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
+      "updatedAt": "2026-10-19T22:17:31.332Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "212a06b4814ca7096069dd5e",
+      "title": "特朗普称该换人代表乌克兰谈判",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-20/10717549.shtml",
+      "summary": "当地时间10月19日下午，美国总统特朗普在白宫对媒体表示，他认为应该由乌克兰总统泽连斯基以外的人代表乌克兰进行谈判，以寻求结束与俄罗斯的战事。特朗普说：“也许泽连斯基是时候找别人来谈判了。”",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-19T21:57:16.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T22:17:31.332Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
+      "updatedAt": "2026-10-19T22:17:31.332Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "29c9ed7afa142f1ae4976444",
+      "title": "美国俄亥俄州哥伦布市东北部发生枪击事件 至少1人死亡",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-20/10717548.shtml",
+      "summary": "当地时间10月19日，总台记者获悉，当日下午，美国俄亥俄州哥伦布市东北部一座清真寺附近发生枪击事件，导致至少一人死亡。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-19T21:55:50.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T22:17:31.332Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
+      "updatedAt": "2026-10-19T22:17:31.332Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3c75cf09dc9f664606cdcc2c",
+      "title": "伊朗波斯湾海峡管理局：122艘船舶被列入违规名单",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-20/10717547.shtml",
+      "summary": "当地时间20日，伊朗波斯湾海峡管理局宣布，截至目前，已有122艘船舶被列入波斯湾航道管理的违规名单。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-19T21:54:22.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T22:17:31.332Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
+      "updatedAt": "2026-10-19T22:17:31.332Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9052ee2643da4dd4c0913330",
+      "title": "王毅同保加利亚外长佩特罗娃会谈",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/10-20/10717546.shtml",
+      "summary": "新华社索非亚10月19日电(记者林浩 姚雨璘)中共中央政治局委员、外交部长王毅19日在索非亚同保加利亚外长佩特罗娃举行会谈。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-19T21:52:10.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T22:17:31.332Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
+      "updatedAt": "2026-10-19T22:17:31.332Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "18f675cfbc02e0d50385a916",
+      "title": "王毅会见保加利亚副总理普列夫",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/10-20/10717545.shtml",
+      "summary": "新华社索非亚10月19日电(记者林浩 姚雨璘)中共中央政治局委员、外交部长王毅19日在索非亚会见保加利亚副总理普列夫。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-19T21:50:48.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T22:17:31.332Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
+      "updatedAt": "2026-10-19T22:17:31.332Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "86640ebe0487fe540c113300",
+      "title": "法国总统马克龙出访海湾国家 聚焦能源供应",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-20/10717544.shtml",
+      "summary": "中新社巴黎10月19日电 法国总统马克龙当地时间19日起对多个海湾国家展开访问，聚焦能源供应。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-19T21:46:27.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T22:17:31.332Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
+      "updatedAt": "2026-10-19T22:17:31.332Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9d00857a2461e830d1680208",
+      "title": "PM puts the brakes on rip-off parking charges and car scams ",
+      "originalUrl": "https://www.gov.uk/government/news/pm-puts-the-brakes-on-rip-off-parking-charges-and-car-scams",
+      "sourcePublishedAt": "2026-10-19T22:32:01+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "Drivers will get new rights to challenge unfair private parking charges under new rules announced today. This includes a guaranteed 5 minutes to decide whether to park and 10 minutes to leave once their session ends, and the right to have c",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>Drivers will get new rights to challenge unfair private parking charges under new rules announced today. This includes a guaranteed 5 minutes to decide whether to park and 10 minutes to leave once their session ends, and the right to have charges cancelled on appeal for issues they can’t control. </p>\n\n<p>Under the new Private Parking Code of Practice laid in Parliament today (20 October), charges will be scrapped on appeal for honest mistakes, like stopping briefly to check directions, and for situations like a medical emergency, breakdown or broken ticket machine. </p>\n\n<p>For smaller slip-ups, like forgetting a parking permit, entering the wrong vehicle’s registration or forgetting to confirm it in the machine when parking, drivers will face a maximum charge of £20 on appeal. </p>\n\n<p>The Code also freezes the maximum parking charge at £100. Operators who don’t comply risk losing access to DVLA data, meaning that even if they issue a charge, it will be far more difficult to identify the registered owner to pursue payment. </p>\n\n<p>In addition, unscrupulous second-hand car dealers who wind back odometers to disguise a vehicle’s true mileage will also face tougher action. Known as car clocking, fraudulently selling a clocked car is already illegal, but adding it to the official list of banned practices will make it easier for enforcers to crack down, protecting buyers and backing honest businesses. </p>\n\n<p>These changes are the latest measures in the Prime Minister’s series of everyday fixes, tackling the frustrations that cost people time and money to give families more room to breathe. </p>\n\n<p>Today’s action follows moves to stop unfair airline charges, tackle subscription traps, rogue traders, and rip-off school uniform costs. </p>\n\n<h3>Prime Minister Andy Burnham said: </h3>\n<blockquote>\n  <p>Being a few minutes late back to your car or typing one digit of your numberplate wrong shouldn’t end with a hefty fine landing on your doormat. </p>\n\n  <p>These charges leave people feeling ripped off and out of pocket, so I’m putting a stop to them. </p>\n\n  <p>We are introducing clearer rules, longer grace periods and lower charges for genuine mistakes, while going after the deliberate scams that rip drivers off. </p>\n</blockquote>\n\n<h3>Secretary of State for Housing, Communities and Local Government Angela Rayner said:  </h3>\n<blockquote>\n\n  <p>Parking should be straightforward, not another everyday hassle. These changes mean drivers get a fairer deal, protected time to park and leave without fear of being unfairly charged, and confidence that private parking providers are held to a higher standard.  </p>\n\n  <p>It’s yet another step forward in this government’s plan to take the stress out of everyday life and ease the pressure on people’s pockets.</p>\n</blockquote>\n\n<h3>Minister for Consumer Action, Kate Dearden, said: </h3>\n<blockquote>\n\n  <p>Nobody works hard for their money just to be deceived by a dodgy trader, and this is exactly the kind of everyday rip-off this government is going after. </p>\n\n  <p>By making it easier to take action against car clocking, we are protecting consumers’ hard-earned money and supporting businesses that play by the rules.</p>\n</blockquote>\n\n<p>The government has also promised today to go further still, by consulting as soon as possible next year on private parking debt recovery fees, including on whether to cut an existing £70 cap or scrap the fees altogether. </p>\n\n<p>Data shows just under 17 million private parking charges were issued in the UK last year. In 2025, the government set out proposals to improve standards by consulting on a new Private Parking Code of Practice. </p>\n\n<p>Today’s response sets out the measures being brought in to protect motorists. Parliament will now have time to scrutinise the new Code, before ministers press ahead to bring it into force as soon as possible. </p>\n\n<p>This Code brings in, for the first time, a fully independent Scrutiny and Oversight Board, and requires operators to share more information with government, giving drivers stronger protections than ever before. </p>\n\n<p>Since taking office, the government has also launched a review of airport drop-off charges, cut VAT on electricity bills this winter, frozen fuel duty and rail fares, and raised the Minimum Wage, as it continues to take action to ease the cost of living. </p>\n\n<h3>For more information:</h3>\n\n<h3>Private Parking Code of Practice </h3>\n\n<ul>\n  <li>\n    <p>The code will apply in England, Scotland and Wales.  </p>\n  </li>\n  <li>\n    <p>Motorists will have their parking charge cancelled where they can provide evidence that one of the scenarios set out in the Appeals Charter applies to them. </p>\n  </li>\n  <li>\n    <p>Operators will have to report data on the charges they issue and how appeals are handled, to help raise standards across the industry. This will be scrutinised by a new independent Scrutiny and Oversight Board, giving drivers confidence that the Code is working as intended. The process to set the board up will commence once the code comes into force.  </p>\n  </li>\n  <li>\n    <p>The changes follow a public consultation that ran from July to September 2025 and received 4,526 responses from the public and industry. Motorists were clear that they wanted fairer appeals, and independent oversight of the private parking industry. </p>\n  </li>\n  <li>\n    <p>The government intends to consult further on the remaining CMA recommendations post-publication of the Code. </p>\n  </li>\n</ul>\n\n<h3>Car clocking </h3>\n\n<ul>\n  <li>The change applies to businesses selling cars to consumers. Car clocking will be added to the banned practices list (Schedule 20) under the Digital Markets, Competition and Consumers Act 2024.</li>\n</ul>\n</div>",
+      "bodyText": "Drivers will get new rights to challenge unfair private parking charges under new rules announced today. This includes a guaranteed 5 minutes to decide whether to park and 10 minutes to leave once their session ends, and the right to have charges cancelled on appeal for issues they can’t control. \n\nUnder the new Private Parking Code of Practice laid in Parliament today (20 October), charges will be scrapped on appeal for honest mistakes, like stopping briefly to check directions, and for situations like a medical emergency, breakdown or broken ticket machine. \n\nFor smaller slip-ups, like forgetting a parking permit, entering the wrong vehicle’s registration or forgetting to confirm it in the machine when parking, drivers will face a maximum charge of £20 on appeal. \n\nThe Code also freezes the maximum parking charge at £100. Operators who don’t comply risk losing access to DVLA data, meaning that even if they issue a charge, it will be far more difficult to identify the registered owner to pursue payment. \n\nIn addition, unscrupulous second-hand car dealers who wind back odometers to disguise a vehicle’s true mileage will also face tougher action. Known as car clocking, fraudulently selling a clocked car is already illegal, but adding it to the official list of banned practices will make it easier for enforcers to crack down, protecting buyers and backing honest businesses. \n\nThese changes are the latest measures in the Prime Minister’s series of everyday fixes, tackling the frustrations that cost people time and money to give families more room to breathe. \n\nToday’s action follows moves to stop unfair airline charges, tackle subscription traps, rogue traders, and rip-off school uniform costs. \n\nPrime Minister Andy Burnham said: \n\n  Being a few minutes late back to your car or typing one digit of your numberplate wrong shouldn’t end with a hefty fine landing on your doormat. \n\n  These charges leave people feeling ripped off and out of pocket, so I’m putting a stop to them. \n\n  We are introducing clearer rules, longer grace periods and lower charges for genuine mistakes, while going after the deliberate scams that rip drivers off. \n\n\nSecretary of State for Housing, Communities and Local Government Angela Rayner said:  \n\n\n  Parking should be straightforward, not another everyday hassle. These changes mean drivers get a fairer deal, protected time to park and leave without fear of being unfairly charged, and confidence that private parking providers are held to a higher standard.  \n\n  It’s yet another step forward in this government’s plan to take the stress out of everyday life and ease the pressure on people’s pockets.\n\n\nMinister for Consumer Action, Kate Dearden, said: \n\n\n  Nobody works hard for their money just to be deceived by a dodgy trader, and this is exactly the kind of everyday rip-off this government is going after. \n\n  By making it easier to take action against car clocking, we are protecting consumers’ hard-earned money and supporting businesses that play by the rules.\n\n\nThe government has also promised today to go further still, by consulting as soon as possible next year on private parking debt recovery fees, including on whether to cut an existing £70 cap or scrap the fees altogether. \n\nData shows just under 17 million private parking charges were issued in the UK last year. In 2025, the government set out proposals to improve standards by consulting on a new Private Parking Code of Practice. \n\nToday’s response sets out the measures being brought in to protect motorists. Parliament will now have time to scrutinise the new Code, before ministers press ahead to bring it into force as soon as possible. \n\nThis Code brings in, for the first time, a fully independent Scrutiny and Oversight Board, and requires operators to share more information with government, giving drivers stronger protections than ever before. \n\nSince taking office, the government has also launched a review of airport drop-off charges, cut VAT on electricity bills this winter, frozen fuel duty and rail fares, and raised the Minimum Wage, as it continues to take action to ease the cost of living. \n\nFor more information:\n\nPrivate Parking Code of Practice \n\n\n  \n    The code will apply in England, Scotland and Wales.  \n  \n  \n    Motorists will have their parking charge cancelled where they can provide evidence that one of the scenarios set out in the Appeals Charter applies to them. \n  \n  \n    Operators will have to report data on the charges they issue and how appeals are handled, to help raise standards across the industry. This will be scrutinised by a new independent Scrutiny and Oversight Board, giving drivers confidence that the Code is working as intended. The process to set the board up will commence once the code comes into force.  \n  \n  \n    The changes follow a public consultation that ran from July to September 2025 and received 4,526 responses from the public and industry. Motorists were clear that they wanted fairer appeals, and independent oversight of the private parking industry. \n  \n  \n    The government intends to consult further on the remaining CMA recommendations post-publication of the Code. \n  \n\n\nCar clocking \n\n\n  The change applies to businesses selling cars to consumers. Car clocking will be added to the banned practices list (Schedule 20) under the Digital Markets, Competition and Consumers Act 2024.\n\n",
+      "bodyHash": "a5ece60d288b71968ed6e9e05ee9efad6e8be5cfe1885aa9c41a3ff42be43aed",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/pm-puts-the-brakes-on-rip-off-parking-charges-and-car-scams",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Ministry of Housing, Communities and Local Government"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-10-19T22:32:01+01:00",
+        "sourceVersion": "724c2647-3896-4466-9ba4-5adb121208d6"
+      },
+      "firstSeenAt": "2026-10-19T22:17:31.332Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
+      "updatedAt": "2026-10-19T22:17:31.332Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "65f608fc9999df0a83dacb88",
+      "title": "苹果 watchOS 27.2 RC 发布",
+      "originalUrl": "https://www.ithome.com/1/015/065.htm",
+      "summary": "【点此直达升级教程】 IT之家 10 月 20 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 RC 更新（内部版本号：24S116），本次更新距离上次发布 Beta/RC 间隔 6 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版：需登录注册苹果开发者计划，…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-19T18:35:06.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-19T22:17:31.332Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
+      "updatedAt": "2026-10-19T22:17:31.332Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c06c729573d0c1e5591ac1ab",
+      "title": "苹果 visionOS 27.2 RC 发布",
+      "originalUrl": "https://www.ithome.com/1/015/064.htm",
+      "summary": "IT之家 10 月 20 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 RC 更新（内部版本号：24N118），本次更新距离上次发布 Beta/RC 间隔 6 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-10-14：visionOS 27.2 Beta 4…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-19T18:35:05.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-19T22:17:31.332Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
+      "updatedAt": "2026-10-19T22:17:31.332Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e667a498c54f4b5c9b2f682c",
+      "title": "苹果 macOS 27.2 RC 发布",
+      "originalUrl": "https://www.ithome.com/1/015/063.htm",
+      "summary": "IT之家 10 月 20 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 RC 更新（内部版本号：26B118），本次更新距离上次发布 Beta/RC 间隔 6 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-19T18:35:05.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-19T22:17:31.332Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
+      "updatedAt": "2026-10-19T22:17:31.332Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1e283a85b4ca5afd5db33896",
+      "title": "苹果 iOS/iPadOS 27.2 RC 发布",
+      "originalUrl": "https://www.ithome.com/1/015/062.htm",
+      "summary": "【点此直达升级教程】 IT之家 10 月 20 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 RC 更新（内部版本号：24B115），本次更新距离上次发布 Beta/RC 间隔 6 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版：需登录注册苹果开…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-19T18:35:04.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-19T22:17:31.332Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
+      "updatedAt": "2026-10-19T22:17:31.332Z",
+      "version": 1,
+      "history": []
+    },
     {
       "id": "27c60083bfda4e2c2833c895",
       "title": "泰国拟追加105.08亿泰铢洪灾救助资金",
@@ -23,7 +344,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -50,7 +371,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -92,7 +413,7 @@
         "sourceVersion": "d4640712-4958-4145-8e3d-e9353ac1fa82"
       },
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -118,7 +439,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -160,7 +481,7 @@
         "sourceVersion": "2c8bd4f2-808f-4802-b021-7602acc9e0b6"
       },
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -187,7 +508,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -229,7 +550,7 @@
         "sourceVersion": "881e0a60-bd80-4905-b044-078adc6c8a6b"
       },
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -256,7 +577,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -282,7 +603,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -307,7 +628,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -333,7 +654,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -358,7 +679,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -401,7 +722,7 @@
         "sourceVersion": "5802f477-b060-4df1-b23b-9ca3c3a5da76"
       },
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -444,7 +765,7 @@
         "sourceVersion": "89cd5e6b-b592-4dbc-9c97-8c8b2da70418"
       },
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -469,7 +790,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -494,7 +815,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -519,7 +840,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -545,7 +866,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -570,7 +891,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -596,7 +917,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -623,7 +944,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -649,7 +970,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -676,7 +997,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -702,7 +1023,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -729,7 +1050,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -755,7 +1076,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -780,7 +1101,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -806,7 +1127,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -833,7 +1154,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -860,7 +1181,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -887,7 +1208,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -914,7 +1235,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -941,7 +1262,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -967,7 +1288,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -993,7 +1314,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -1100,7 +1421,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -1282,7 +1603,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -1333,7 +1654,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -1435,7 +1756,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -1637,7 +1958,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -1863,7 +2184,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -1913,7 +2234,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -2139,7 +2460,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -2242,7 +2563,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -2444,7 +2765,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -2619,7 +2940,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -2661,7 +2982,7 @@
         "sourceVersion": "a10b8e37-f5ee-4597-9b03-cb0d6cf9c39e"
       },
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -2686,7 +3007,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -2711,7 +3032,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -2813,7 +3134,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -2838,7 +3159,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -2915,7 +3236,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -2942,7 +3263,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -2967,7 +3288,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -3042,7 +3363,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -3068,7 +3389,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -3169,7 +3490,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -3195,7 +3516,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -3221,7 +3542,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -3246,7 +3567,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -3272,7 +3593,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -3298,7 +3619,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -3349,7 +3670,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -3399,7 +3720,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -3424,7 +3745,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -3449,7 +3770,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -3475,7 +3796,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -3517,7 +3838,7 @@
         "sourceVersion": "dadabae6-a786-4c6b-9515-19c635b483f0"
       },
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -3648,7 +3969,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -3726,7 +4047,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 2,
       "history": [
@@ -3766,7 +4087,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -3925,7 +4246,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -4057,7 +4378,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -4082,7 +4403,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -4108,7 +4429,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -4133,7 +4454,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -4175,7 +4496,7 @@
         "sourceVersion": "5f89b1c7-7a67-40d7-9764-b12ea6905a36"
       },
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -4201,7 +4522,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -4327,7 +4648,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -4377,7 +4698,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -4481,7 +4802,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -4507,7 +4828,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -4559,7 +4880,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -4666,7 +4987,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -4811,7 +5132,7 @@
         "sourceVersion": "a936fcf7-12d1-409e-b0f8-a8a7f09acf2e"
       },
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -4837,7 +5158,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -4862,7 +5183,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -5039,7 +5360,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -5081,7 +5402,7 @@
         "sourceVersion": "f68b2c50-afc4-4ed3-a764-4bb62a4edc7e"
       },
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -5528,7 +5849,7 @@
         "sourceVersion": "4e1e3996-7a9c-46cd-9622-a1b3303fc599"
       },
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -5756,7 +6077,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -6624,7 +6945,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -9312,7 +9633,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-19T05:15:36.857Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T05:15:36.857Z",
       "version": 1,
       "history": []
@@ -11728,7 +12049,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-19T05:15:36.857Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T05:15:36.857Z",
       "version": 1,
       "history": []
@@ -11847,7 +12168,7 @@
         "sourceVersion": "1b3696d4-dafa-4270-9f98-051c5ab2edb4"
       },
       "firstSeenAt": "2026-10-19T00:10:31.022Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T00:10:31.022Z",
       "version": 1,
       "history": []
@@ -11889,7 +12210,7 @@
         "sourceVersion": "e33854cb-5e87-4d5c-9eba-e1fe37b61363"
       },
       "firstSeenAt": "2026-10-19T00:10:31.022Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 2,
       "history": [
@@ -12331,7 +12652,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 2,
       "history": [
@@ -18498,7 +18819,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-18T09:02:44.997Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-18T09:02:44.997Z",
       "version": 1,
       "history": []
@@ -22466,7 +22787,7 @@
         "sourceVersion": "2bc83ff6-7c12-4fc4-9d5a-eb2322ce5bc9"
       },
       "firstSeenAt": "2026-10-17T23:59:14.021Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-17T23:59:14.021Z",
       "version": 1,
       "history": []
@@ -28406,7 +28727,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-17T09:15:13.817Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-17T09:15:13.817Z",
       "version": 1,
       "history": []
@@ -35535,7 +35856,7 @@
         "sourceVersion": "ea9de90c-54b8-4954-b699-67146b6e9651"
       },
       "firstSeenAt": "2026-10-16T14:13:07.537Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-16T14:13:07.537Z",
       "version": 1,
       "history": []
@@ -36417,7 +36738,7 @@
         "sourceVersion": "a51be22c-ceee-46df-861a-37c873b0252e"
       },
       "firstSeenAt": "2026-10-16T14:13:07.537Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 3,
       "history": [
@@ -37350,7 +37671,7 @@
         "sourceVersion": "97369b2e-6a5d-48b6-ae4f-ecb4cd80c59a"
       },
       "firstSeenAt": "2026-10-16T14:13:07.537Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 3,
       "history": [
@@ -37619,7 +37940,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-16T14:13:07.537Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-16T14:13:07.537Z",
       "version": 1,
       "history": []
@@ -41704,7 +42025,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-16T09:15:32.883Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-16T09:15:32.883Z",
       "version": 1,
       "history": []
@@ -42031,7 +42352,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-16T09:15:32.883Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-16T09:15:32.883Z",
       "version": 1,
       "history": []
@@ -62321,7 +62642,7 @@
         "sourceVersion": "084406ad-9c70-4a53-b6a9-ed788a771b9c"
       },
       "firstSeenAt": "2026-10-14T15:27:43.898Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-16T18:19:16.742Z",
       "version": 3,
       "history": [
@@ -75249,7 +75570,7 @@
         "sourceVersion": "617f1de7-4cfd-4bee-8f9e-f35317aecc33"
       },
       "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-19T17:44:46.141Z",
+      "lastSeenAt": "2026-10-19T22:17:31.332Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 2,
       "history": [
@@ -260219,310 +260540,6 @@
       "updatedAt": "2026-09-24T11:42:08.397Z",
       "version": 1,
       "history": []
-    },
-    {
-      "id": "e91fd1d1662df0710fcc6ec6",
-      "title": "中秋假期前一日 国铁广州局迎来节前出行高峰",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-24/10703255.shtml",
-      "summary": "中新网广州9月24日电 (郭军 张晓敏 资明兴)9月24日，中秋假期前一天，国铁广州局迎来节前出行小高峰，预计当日发送旅客234.2万人次，较9月23日增长86.4万人次，增幅58.5%。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-24T10:56:53.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T11:42:08.397Z",
-      "updatedAt": "2026-09-24T11:42:08.397Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "8658aaadc5d5a52e7eb579e3",
-      "title": "中国官方无条件批准通威股份收购丽豪清能股权案",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-24/10703228.shtml",
-      "summary": "中新社北京9月24日电 (记者 刘亮)中国国家市场监督管理总局24日公布，依法无条件批准通威股份有限公司收购青海丽豪清能股份有限公司股权案。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-24T10:55:39.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance"
-      ],
-      "sourceIds": [
-        "chinanews-finance"
-      ],
-      "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T11:42:08.397Z",
-      "updatedAt": "2026-09-24T11:42:08.397Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "0863f666edcae530e6cec2ec",
-      "title": "中秋国庆假期铁路运输启动 国铁广州局预计送客3860万人次",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-24/10703256.shtml",
-      "summary": "中新网广州9月24日电 (郭军 张晓敏 资明兴)记者24日从国铁广州局获悉，今年中秋国庆假期铁路运输期限为9月23日至10月8日，共计16天。国铁广州局预计发送旅客3860万人次，同比增长514.9万人次，增幅15.4%，突破历史同期最高纪录。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-24T10:55:37.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "mobility"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T11:42:08.397Z",
-      "updatedAt": "2026-09-24T11:42:08.397Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "100a30aca9bed69a8a53e85b",
-      "title": "江西瑞金至广东梅州铁路84座隧道全部贯通",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-24/10703257.shtml",
-      "summary": "中新网江西安远9月24日电 (吴鹏泉 胡国林 王新越)24日，随着最后一段围岩顺利破除，江西瑞金至广东梅州铁路(简称“瑞梅铁路”)最后一座隧道——三百山隧道贯通。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-24T10:53:59.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "mobility"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T11:42:08.397Z",
-      "updatedAt": "2026-09-24T11:42:08.397Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "f0dcd9468afc89e978aca397",
-      "title": "小红书治理不良亚文化等涉未成年人问题，累计处置违规笔记 12.8 万余篇、违规评论 15.2 万余条",
-      "originalUrl": "https://www.ithome.com/1/006/981.htm",
-      "summary": "IT之家 9 月 24 日消息，小红书官方账号“薯管家”今日发布《关于不良亚文化等涉未成年人问题治理公告》。文中称小红书为落实“清朗 · 未成年人网络保护”专项行动要求，持续加强涉未成年人有害内容和违法违规行为治理。 自专项行动启动以来，截至 9 月 24 日，小红书全面排查涉及传播各类不良价值观与骚扰未成年人的违规内容，已累计处置违规笔记 12.8 万余篇、违规评论 15.2 万余条、违规账号 6252 个。本阶段，平台重点采取以下治理举措： 开展重点词摸排：将传播展示各类…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-24T10:50:43.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "entertainment"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T23:25:00.008Z",
-      "updatedAt": "2026-09-24T11:42:08.397Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "a444344d374540201c3c72ae",
-      "title": "“老外”变“老内”：巴基斯坦青年用鄂尔多斯方言赶集",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-24/10703260.shtml",
-      "summary": "中新网鄂尔多斯9月24日电 题：“老外”变“老内”：巴基斯坦青年用鄂尔多斯方言赶集",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-24T10:50:30.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T11:42:08.397Z",
-      "updatedAt": "2026-09-24T11:42:08.397Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "1aef70689aee95172069c908",
-      "title": "广西药用植物园山豆根研究取得系列新进展 填补基因组资源空白",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-24/10703263.shtml",
-      "summary": "中新网南宁9月24日电 (杨陈 徐梅华)记者24日从广西药用植物园获悉，历经多年持续攻关，近期该园山豆根课题组成功完成了山豆根染色体级别的高质量基因组组装，相关成果发表于国际学术期刊《生物医学中心—基因组学》(BMC Genomics)，填补了山豆根基因组资源的空白。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-24T10:47:52.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T11:42:08.397Z",
-      "updatedAt": "2026-09-24T11:42:08.397Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "a0e65f362ed6193c342539f4",
-      "title": "G1202次列车变身“移动古风民俗体验馆”",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-24/10703204.shtml",
-      "summary": "中新网哈尔滨9月24日电 (宋博文 徐榕泽)9月24日9时17分，中国铁路哈尔滨局集团有限公司哈尔滨客运段在哈尔滨西开往上海虹桥的G1202次列车上开展“古韵中秋高铁团圆”主题活动，通过古风装饰将高铁车厢变身为“移动古风民俗体验馆”，让旅客沉浸式感受中秋传统文化，共度别样团圆佳节。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-24T10:47:06.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T11:42:08.397Z",
-      "updatedAt": "2026-09-24T11:42:08.397Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "5e996dffaf4136ed0bf113b6",
-      "title": "香火与乡愁交织：津门参访，声声皆是“回家”",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-24/10703203.shtml",
-      "summary": "中新网天津9月24日电 题：香火与乡愁交织：津门参访，声声皆是“回家”",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-24T10:46:14.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T11:42:08.397Z",
-      "updatedAt": "2026-09-24T11:42:08.397Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "5864cd6514394b275cd80b9a",
-      "title": "山西“十五五”大气治理再升级 瞄准空气质量根本好转",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-24/10703264.shtml",
-      "summary": "中新网太原9月24日电(于雨彤)9月24日，中共山西省委宣传部、山西省人民政府新闻办公室举行“开局起步‘十五五’”系列主题第十六场新闻发布会(省生态环境厅专场)。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-24T10:45:34.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T11:42:08.397Z",
-      "updatedAt": "2026-09-24T11:42:08.397Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "a97b808657fae5bc56019b36",
-      "title": "广西增加婚假十五天",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-24/10703248.shtml",
-      "summary": "中新网南宁9月24日电 (陈秋霞)记者24日从广西壮族自治区人大常委会召开的新闻发布会上获悉，当天，广西壮族自治区十四届人大常委会第二十七次会议表决通过了关于修改广西壮族自治区人口和计划生育条例的决定。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-24T10:41:54.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T11:42:08.397Z",
-      "updatedAt": "2026-09-24T11:42:08.397Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "e4c0445f00fe174afed5fa30",
-      "title": "比亚迪第二代海鸥座舱草图公布，采用最新设计语言",
-      "originalUrl": "https://www.ithome.com/1/006/980.htm",
-      "summary": "IT之家 9 月 24 日消息，比亚迪汽车海洋网销售事业部总经理张卓今日发文，公布第二代海鸥的座舱设计草图。 从张卓公布的图片来看，第二代海鸥内饰采用最新设计语言，中控实体按键被挪到了空调出风口下方，中部预计将配备手机无线充电板或下沉式储物空间。 据IT之家此前报道，比亚迪汽车海洋网销售事业部总经理张卓近日放出了一组关于第二代海鸥的设计图。他表示，第二代海鸥线条重塑，型面焕新，更多惊喜即将揭晓。 值得一提的是，第二代海鸥此前已完成工信部申报。新车采用最新设计语言，前脸造型焕新…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-24T10:41:26.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "mobility"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-24T11:42:08.397Z",
-      "lastSeenAt": "2026-09-24T23:25:00.008Z",
-      "updatedAt": "2026-09-24T11:42:08.397Z",
-      "version": 1,
-      "history": []
     }
   ],
   "sourceStatus": {
@@ -260530,8 +260547,8 @@
       "id": "ithome",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-19T17:44:46.141Z",
-      "lastSuccessAt": "2026-10-19T17:44:46.141Z",
+      "checkedAt": "2026-10-19T22:17:31.332Z",
+      "lastSuccessAt": "2026-10-19T22:17:31.332Z",
       "etag": null,
       "lastModified": null,
       "discovered": 60,
@@ -260542,8 +260559,8 @@
       "id": "sspai",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-19T17:44:46.141Z",
-      "lastSuccessAt": "2026-10-19T17:44:46.141Z",
+      "checkedAt": "2026-10-19T22:17:31.332Z",
+      "lastSuccessAt": "2026-10-19T22:17:31.332Z",
       "etag": null,
       "lastModified": null,
       "discovered": 10,
@@ -260554,11 +260571,11 @@
       "id": "chinanews-society",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-19T17:44:46.141Z",
-      "lastSuccessAt": "2026-10-19T17:44:46.141Z",
+      "checkedAt": "2026-10-19T22:17:31.332Z",
+      "lastSuccessAt": "2026-10-19T22:17:31.332Z",
       "etag": "\"6ad630f1-3f61\"",
       "lastModified": "Mon, 19 Oct 2026 15:02:09 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -260566,11 +260583,11 @@
       "id": "chinanews-finance",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-19T17:44:46.141Z",
-      "lastSuccessAt": "2026-10-19T17:44:46.141Z",
+      "checkedAt": "2026-10-19T22:17:31.332Z",
+      "lastSuccessAt": "2026-10-19T22:17:31.332Z",
       "etag": "\"6ad62f5c-4668\"",
       "lastModified": "Mon, 19 Oct 2026 14:55:24 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -260578,8 +260595,8 @@
       "id": "chinanews-life",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-19T17:44:46.141Z",
-      "lastSuccessAt": "2026-10-19T17:44:46.141Z",
+      "checkedAt": "2026-10-19T22:17:31.332Z",
+      "lastSuccessAt": "2026-10-19T22:17:31.332Z",
       "etag": "\"6ad5d370-17e4\"",
       "lastModified": "Mon, 19 Oct 2026 08:23:12 GMT",
       "discovered": 0,
@@ -260590,8 +260607,8 @@
       "id": "chinanews-jk",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-19T17:44:46.141Z",
-      "lastSuccessAt": "2026-10-19T17:44:46.141Z",
+      "checkedAt": "2026-10-19T22:17:31.332Z",
+      "lastSuccessAt": "2026-10-19T22:17:31.332Z",
       "etag": "\"69aa3e2a-2832\"",
       "lastModified": "Fri, 06 Mar 2026 02:38:34 GMT",
       "discovered": 0,
@@ -260602,11 +260619,11 @@
       "id": "chinanews-culture",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-19T17:44:46.141Z",
-      "lastSuccessAt": "2026-10-19T17:44:46.141Z",
+      "checkedAt": "2026-10-19T22:17:31.332Z",
+      "lastSuccessAt": "2026-10-19T22:17:31.332Z",
       "etag": "\"6ad62650-3f76\"",
       "lastModified": "Mon, 19 Oct 2026 14:16:48 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -260614,8 +260631,8 @@
       "id": "chinanews-edu",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-19T17:44:46.141Z",
-      "lastSuccessAt": "2026-10-19T17:44:46.141Z",
+      "checkedAt": "2026-10-19T22:17:31.332Z",
+      "lastSuccessAt": "2026-10-19T22:17:31.332Z",
       "etag": "\"6ad5f98a-29eb\"",
       "lastModified": "Mon, 19 Oct 2026 11:05:46 GMT",
       "discovered": 0,
@@ -260626,11 +260643,11 @@
       "id": "chinanews-sports",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-19T17:44:46.141Z",
-      "lastSuccessAt": "2026-10-19T17:44:46.141Z",
+      "checkedAt": "2026-10-19T22:17:31.332Z",
+      "lastSuccessAt": "2026-10-19T22:17:31.332Z",
       "etag": "\"6ad655c4-3efe\"",
       "lastModified": "Mon, 19 Oct 2026 17:39:16 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -260638,10 +260655,10 @@
       "id": "chinanews-scroll-news",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-19T17:44:46.141Z",
-      "lastSuccessAt": "2026-10-19T17:44:46.141Z",
-      "etag": "\"6ad655c3-4b1c\"",
-      "lastModified": "Mon, 19 Oct 2026 17:39:15 GMT",
+      "checkedAt": "2026-10-19T22:17:31.332Z",
+      "lastSuccessAt": "2026-10-19T22:17:31.332Z",
+      "etag": "\"6ad6929f-3c27\"",
+      "lastModified": "Mon, 19 Oct 2026 21:58:55 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -260649,8 +260666,8 @@
     "govuk-fulltext": {
       "id": "govuk-fulltext",
       "status": "ok",
-      "checkedAt": "2026-10-19T17:44:46.141Z",
-      "lastSuccessAt": "2026-10-19T17:44:46.141Z",
+      "checkedAt": "2026-10-19T22:17:31.332Z",
+      "lastSuccessAt": "2026-10-19T22:17:31.332Z",
       "discovered": 20,
       "rejected": 0,
       "contentSchema": 3,
