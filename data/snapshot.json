@@ -1,8 +1,957 @@
 {
   "schemaVersion": "1",
-  "collectedAt": "2026-10-18T21:49:02.345Z",
-  "lastSuccessfulCollectionAt": "2026-10-18T21:49:02.345Z",
+  "collectedAt": "2026-10-19T00:10:31.022Z",
+  "lastSuccessfulCollectionAt": "2026-10-19T00:10:31.022Z",
   "items": [
+    {
+      "id": "f82ce4d6563ba5052b544bfb",
+      "title": "Character.AI 申请破产后续：绝大部分员工有望被迪士尼雇佣，前三年总计可获 1.8 亿美元薪酬",
+      "originalUrl": "https://www.ithome.com/1/014/634.htm",
+      "summary": "IT之家 10 月 19 日消息，据彭博社报道，在 Character.AI 递交破产重组保护申请后，相关披露的文件显示，迪士尼已同意雇佣 Character.AI 的 60 多名员工（公开信息显示，该公司只有约 86 名员工），并在前三年累计向这批员工发放约 1.8 亿美元（IT之家注：现汇率约合 12.07 亿元人民币）薪酬。 Character.AI 是一个由大语言模型驱动的虚拟角色互动与聊天机器人平台。该平台拥有数百万由用户或官方创建的 AI 角色，涵盖动漫 / 游戏…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-19T00:09:33.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3df4b0825f839f3f4c28dce0",
+      "title": "SpaceX 总裁肖特韦尔关注特斯拉账号，双方合并传闻再起",
+      "originalUrl": "https://www.ithome.com/1/014/633.htm",
+      "summary": "IT之家 10 月 19 日消息，SpaceX 总裁兼首席运营官格温 · 肖特韦尔（Gwynne Shotwell）已在 X 平台关注特斯拉官方账号，这一微小变动发生在双方合并传闻炒得沸沸扬扬之际。 一次账号关注并不等同于公告，两家公司也尚未就相关交易发表任何言论。但这件事的分量在于时机。巴克莱分析师丹 · 利维（Dan Levy）向客户表示，双方可能在特斯拉股东大会前达成协议，股东大会最晚需在 12 月 6 日召开，该方案可能由 SpaceX 作为收购方，采用全股票交易。韦…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:59:03.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9d6d660a6cf1ad4ca77fa9c5",
+      "title": "IT早报 1019：DeepSeek API 上线网页搜索抓取；苹果 iPhone Duo 首发日不卖现货；Anthropic 称 2030 年 AI 或让美国 GDP 增 50%...",
+      "originalUrl": "https://www.ithome.com/1/014/632.htm",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 19 日星期一，今天的重要科技资讯有： 1. DeepSeek API 已支持网页搜索和抓取，单价为每 1000 次成功请求 5 元 DeepSeek 公告称，Search / Fetch 接口调用此前未计费，将于北京时间 2026 年 11 月 1 日 00:00 起按每 1000 次成功请求 5 元收费，两个接口均由 DeepSeek 自研搜索引擎驱动。>> 查看详情 2. 消息称苹果要求零售店员工劝退无预约顾客：…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:55:04.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "86de4970effce5d819316c70",
+      "title": "中央档案馆向社会集中开放5000余件长征专题档案",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/10-19/10716931.shtml",
+      "summary": "为纪念中国工农红军长征胜利90周年，弘扬伟大长征精神，19日，中央档案馆向社会集中开放一批长征专题档案，共计5千余件。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:54:00.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c9e55287fff3b784d380383e",
+      "title": "受 AI 冲击，游戏反编译平台 decomp.dev 宣布关停",
+      "originalUrl": "https://www.ithome.com/1/014/631.htm",
+      "summary": "IT之家 10 月 19 日消息，AI 氛围编码在模组圈子里的应用本就争议不断，如今这类前所未有的新浪潮，也让专门的平台陷入慌乱。热门平台 decomp.dev 已经选择停止运营。平台关停，不只是因为 AI 生成内容在该领域泛滥，更深层原因来自理念层面。这是一个逆向工程反编译社区，社区成员认为 AI 无法培育社群文化。 网站的告别公告写道：“现在可以明确，在恰当引导、人工参与和代码审查的前提下，AI 能够大幅加快反编译流程。但同样显而易见的是，反编译这项工作所承载的社群属性已…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:52:28.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ccb2f18f6e6a127141410380",
+      "title": "理想智驾迎来技术人才，消息称原华为 ADS 创始团队核心成员杨旭光加盟",
+      "originalUrl": "https://www.ithome.com/1/014/630.htm",
+      "summary": "IT之家 10 月 19 日消息，据雷峰网《新智驾》报道，原华为预测负责人杨旭光近期加入理想。报道提到，杨旭光是华为 ADS 创始团队的核心成员。在当时，杨旭光负责 ADS 预测模块，与动态感知负责人许彬、静态感知孟昭时构成感知部的三大主力。 2020 年初，华为内部酝酿端到端大模型，杨旭光推动了预测模块的神经网络化调整。2021 年，苏菁离开后，感知部门的一些技术骨干也陆续离开，预测部门由天才少年丁文超短暂接手。此后，ADS 将预测部划入规控部，随着 ADS 转入端到端时代…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:50:45.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech",
+        "mobility",
+        "career"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5325701fe9a359ce0d44feef",
+      "title": "老年人口逐年增加 城乡多元模式破解照护难题",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-19/10716930.shtml",
+      "summary": "近几年，我国老年人口的数量在逐年增加，数据显示，截至2023年底、2024年底、2025年底，全国60周岁及以上老年人口分别是2.97亿、3.10亿和3.23亿人。而另一方面，同样是这三年的统计数据，全国各类养老机构和设施中养老床位的数量却在逐年减少。这两个数据一增一减，背后的原因是什么？能否满足社会养老需求？各地有何应对举措？目前我国养老体系建设面临哪些挑战和发展趋势？",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:46:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "2a7254a79735a26c569700a3",
+      "title": "特斯拉 Roadster 跑车会飞归谁管？FAA 称不符合飞行器定义",
+      "originalUrl": "https://www.ithome.com/1/014/629.htm",
+      "summary": "IT之家 10 月 19 日消息，在当地时间 10 月 15 日晚举行的特别活动中，特斯拉在美国得克萨斯州发布新款 Roadster 跑车。 现场视频显示，这辆车从一段卷曲的坡道上冲出，先是倒扣着紧贴坡面行驶，随后腾空飞起，在空中翻滚 180 度后四轮着地。 据 CBS News 报道，在美国，车辆监管职责通常由国家公路交通安全管理局（NHTSA）承担。若 Roadster 具备离地“行驶”能力并进入公共空域，监管管辖权理论上应移交至负责航空器管理的美国联邦航空管理局（FAA…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:45:04.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ed9eab1318d2181a0827130e",
+      "title": "直播外链：长征路上学党史｜云聚陕甘宁 看星火映山河",
+      "originalUrl": "https://www.chinanews.com.cn/iframe/2026/10-19/10716929.shtml",
+      "summary": null,
+      "summaryProvenance": null,
+      "sourcePublishedAt": "2026-10-18T23:42:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "854e4b3790ad545a232892ae",
+      "title": "一杯奶茶钱的惠民保如何更有吸引力？",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/10-19/10716928.shtml",
+      "summary": "因保费低、带病可保而走红，却也因免赔额高被吐槽小病“够不着”——",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:40:01.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a7bdbf5aeb29ad5af345d219",
+      "title": "海外 AI 基建烧钱融资溢价飙升，Anthropic 借钱买芯片利息超 10%",
+      "originalUrl": "https://www.ithome.com/1/014/628.htm",
+      "summary": "IT之家 10 月 19 日消息，据央视财经援引英国《金融时报》16 日报道，美国人工智能企业 Anthropic 正在以超过 10% 的收益率，吸引黑石集团为其芯片交易提供融资。 这笔总额为 600 亿美元（IT之家注：现汇率约合 4,021.75 亿元人民币）的债务融资分为两部分：一是约 420 亿美元（现汇率约合 2,815.22 亿元人民币）优先级债务，由半导体企业博通提供担保。美国银行、花旗集团和摩根士丹利已率先启动银团分销。二是 180 亿美元（现汇率约合 1,2…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:39:06.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "finance"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "fdbdd0097fe51a3f48dd706a",
+      "title": "AI越“懂你”，青年越需要“我再想想”",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-19/10716927.shtml",
+      "summary": "从改论文、做PPT，到投简历、模拟面试，再到深夜里聊一聊情绪和关系，生成式人工智能正在成为不少青年的“学习搭子”“求职搭子”，甚至是随时在线的“参谋”。今年春招，某互联网求职平台一项面向2040名2026届毕业生的调查显示，超过86%的受访者使用过生成式AI工具；另一项面向1333名应届毕业生的调查中，91.1%的受访者表示在AI快速发展的背景下调整了求职规划，超六成会分析AI相关岗位要求、针对性准备简历和面试。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:35:24.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "technology"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6d6bc57923a6e1c08bc21165",
+      "title": "再也不是固定台词，AI 模组 NPCTalk 让《GTA 5》NPC 实现实时无脚本语音对话",
+      "originalUrl": "https://www.ithome.com/1/014/627.htm",
+      "summary": "IT之家 10 月 19 日消息，一款名为 NPCTalk 的全新 AI 模组工具，为《侠盗猎车手 5》（GTA 5）带来了无脚本的实时对话功能。玩家可以直接和非玩家角色对话，角色会使用经 AI 克隆的原声进行回应。这个开源项目由 Universal Modder 开发，其目标是把同类功能拓展到几乎所有支持模组修改的游戏中。 据IT之家了解，传统的非玩家角色对话系统依赖预录制语音和脚本化回复，NPCTalk 则依靠 AI 模型动态生成对话。玩家可以走近《侠盗猎车手 5》里几乎…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:34:59.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0007360f6031a7a23dbf6630",
+      "title": "多期限大额存单上新 大额存单缘何重启？",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/10-19/10716926.shtml",
+      "summary": "大额存单缘何重启(财经深一度)",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:33:10.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "be8e3ed9e8ff27d051b6c629",
+      "title": "日媒：日本首相高市早苗向靖国神社供奉“玉串料”",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-19/10716925.shtml",
+      "summary": "中新网10月19日电 据日本共同社报道，10月19日，日本首相高市早苗向靖国神社供奉“玉串料”(祭祀费)。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:32:54.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a344dc59d622a1e74b6a89d2",
+      "title": "学生个人信息成为黑灰产交易筹码 记者实测注册校园交友软件后骚扰电话频繁",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-19/10716924.shtml",
+      "summary": "近期，四川、山西等地公安机关接连破获非法倒卖学生个人信息大案：校园“内鬼”违规导出数据，运维人员监守自盗，中介层层加价转卖，非法倒卖学生个人信息的黑灰产链条浮出水面。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:32:00.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "technology",
+        "education"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9c7407d8ea6b1cf4fad03aa0",
+      "title": "网传高铁座椅是HPV感染来源？无需过度恐慌",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-19/10716923.shtml",
+      "summary": "真相来了丨网传高铁座椅是HPV感染来源？无需过度恐慌",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:30:18.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1e33e45a98881cd3dcb82a41",
+      "title": "小米 SU9 LUX 商标进入初审公告阶段，新车或瞄准行政豪华旗舰市场",
+      "originalUrl": "https://www.ithome.com/1/014/626.htm",
+      "summary": "IT之家 10 月 19 日消息，第 1986 期商标公告显示，小米 SU9 LUX 商标已进入初步审定阶段，异议期限自 2026 年 06 月 07 日至 2026 年 09 月 06 日止。 据多位博主分享，小米 SU9 LUX 就是此前曝光的小米 SU7L 车型，有望瞄准行政豪华旗舰市场。 参考IT之家此前报道，小米 SU7L 长轴轿车此前已多次曝光。消息源 @Hanschen2007 于 8 月 24 日展示了一款正在进行路测的神秘小米伪装车。相对于标准版 SU7，该…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:29:07.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7791804b537998ef6330e251",
+      "title": "俄乌“能源停火”未果 美调转矛头对伊施压 伊朗：“7日方案”仍可谈",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-19/10716922.shtml",
+      "summary": "在过去一周，美国在推进俄乌“能源停火”上动作频频，却鲜有成果。就在美方所提的俄乌“能源停火”名存实亡之际，美总统特朗普又在10月15日调转方向，将矛头对准伊朗，威胁打击伊朗的核设施，其中包括他此前已多次威胁打击却从未付诸实践的“镐山”核设施。更有美官员在同日披露称，美方正考虑对伊使用“炸弹之母”。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:26:38.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "baea1f6f108f505bb0bb2420",
+      "title": "AI 系统 RFdiffusion3 能从原子层面设计蛋白质，可在实验中实现预期功能",
+      "originalUrl": "https://www.ithome.com/1/014/625.htm",
+      "summary": "IT之家 10 月 19 日消息，可按单个原子组合来设计蛋白质与核酸的生成式人工智能系统 RFdiffusion3，其详细设计方案现已正式对外公布。借助 RFdiffusion3 全新设计出的蛋白质，能够在真实化学反应中实现预期功能。 由美国华盛顿大学、英国牛津大学、英伟达等机构组成的国际联合研究团队，搭建出了这套可对单个原子进行建模，用于设计蛋白质与核酸的系统，并于当地时间 16 日在国际期刊《科学》上发表了相关研究成果。 IT之家注意到，该研究团队已于 2025 年 12…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:22:56.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ba02183a7644c9a75976d1ab",
+      "title": "泽连斯基：若乌克兰被要求举行战时选举，他将竞选连任",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-19/10716921.shtml",
+      "summary": "中新网10月19日电 据外媒报道，乌克兰总统泽连斯基当地时间18日接受媒体采访时称，若美国和俄罗斯方面要求乌方在冲突期间举行选举，他将竞选连任总统。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:20:18.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b75b44573431c104134b0f82",
+      "title": "掌阅推出 Ocean 6 Pro 电纸书阅读器：7 英寸 Carta 1300 云曦柔光屏，1799 元",
+      "originalUrl": "https://www.ithome.com/1/014/624.htm",
+      "summary": "IT之家 10 月 19 日消息，掌阅推出 Ocean 6 Pro 电纸书阅读器，有孤山（黑）、浅草（绿）两种配色，现已开始预约，售价 1799 元。 这款新品采用 7 英寸云曦柔光屏，支持亮度 30 级、色温 30 级精细调节，配备全新定制柔光灯珠，采用微米级贴合技术与纳米蚀刻钢化玻璃；Carta 1300 屏幕技术，300PPI，采用凹屏设计，显示层次感更强。 整机重 196g、厚约 7mm；机身设计经过优化，倒角圆润处理，更贴合掌心，搭配实体翻页按键，单手操作更方便。 …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:09:50.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "2d481748b58fbd46ded6cbf4",
+      "title": "消息称 AI 云厂商 Nscale IPO 估值目标遭投资者反对：砍半才有人买单",
+      "originalUrl": "https://www.ithome.com/1/014/623.htm",
+      "summary": "IT之家 10 月 19 日消息，据彭博社报道，知情人士透露，在人工智能公司遭遇一系列市场挫折后，Nscale 公司的首次公开募股所追求的估值目标正面临阻力。 知情人士称，这家获得英伟达投资的数据中心开发商原本寻求约 300 亿美元（IT之家注：现汇率约合 2,010.87 亿元人民币）的 IPO 估值。部分知情人士表示，考虑到澳大利亚人工智能数据中心企业 Firmus IPO 计划宣告失败等因素，一批投资者近期提出，估值定在 160 亿至 190 亿美元（现汇率约合 1,0…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:09:03.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "finance"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "25e9435f57348fd8341a2526",
+      "title": "以色列大选将至 特朗普发文支持内塔尼亚胡竞选连任以总理",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-19/10716920.shtml",
+      "summary": "中新网10月19日电 综合外媒报道，当地时间18日，美国总统特朗普在“真实社交”平台发文，公开表示对以色列总理内塔尼亚胡的支持，力挺他在以色列即将举行的大选中竞选连任。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T23:03:19.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b8c9213530ef7180a4bc8922",
+      "title": "Share the journey, not the noise: government launches measures to prevent noise and antisocial behaviour on transport",
+      "originalUrl": "https://www.gov.uk/government/news/share-the-journey-not-the-noise-government-launches-measures-to-prevent-noise-and-antisocial-behaviour-on-transport",
+      "sourcePublishedAt": "2026-10-19T00:01:07+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "passengers reminded of rules through coordinated measures tackling antisocial passenger behaviour on trains and buses offenders on buses could face fines of £100 following new powers for local authorities to crack down on nuisance behaviour",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><div>\n  <ul>\n    <li>\n      <p>passengers reminded of rules through coordinated measures tackling antisocial passenger behaviour on trains and buses</p>\n    </li>\n    <li>\n      <p>offenders on buses could face fines of £100 following new powers for local authorities to crack down on nuisance behaviour such as vaping and littering</p>\n    </li>\n    <li>\n      <p>new campaign encourages rail passengers to ‘share the carriage, not the noise’ and those who refuse to comply can face prosecution with fines</p>\n    </li>\n  </ul>\n</div>\n\n<p>Passengers will benefit from new government efforts launched today (19 October 2026) to tackle antisocial behaviour on transport, including £100 fines on buses and a new campaign to discourage ‘loudcasting’ on trains.</p>\n\n<p>Today, <a href=\"https://www.gov.uk/government/publications/using-bus-byelaws-to-tackle-nuisance-behaviour\">guidance was issued for local authorities</a> to support their new powers to crackdown on loud music, littering, vaping and threatening behaviour on buses - including being able to issue fixed penalties of up to £100 for those who cause trouble. </p>\n\n<p>‘Loudcasting’ on public transport has become one of modern life’s most irritating parts of the daily commute, and today a new national campaign aims to encourage rail passengers to ‘share the carriage, not the noise’ to improve the journey experience for all, as part of the government’s everyday fixes. The industry-led campaign will include audio reminders of the <a href=\"https://www.gov.uk/government/publications/railway-byelaws\">rules in place on the rail network</a> and, if a passenger refuses to stop when asked by authorised rail staff, they can be removed from the train at the next station or face fines up to a maximum of £1,000.</p>\n\n<p>Prime Minister Andy Burnham said:</p>\n\n<blockquote>\n  <p>We’ve all been on the train when someone starts blasting music or videos from their phone. It gets on your nerves and can quickly spoil the journey.</p>\n\n  <p>So we’re launching a nationwide campaign reminding passengers to use headphones on trains. On top of that, we’re giving local leaders new powers to tackle loud music, vaping and littering on buses.</p>\n\n  <p>It’s a simple thing, but one that will make journeys that little bit better for all of us.</p>\n</blockquote>\n\n<p>Transport Secretary Heidi Alexander said:</p>\n\n<blockquote>\n  <p>It is so frustrating when the actions of an inconsiderate few spoil journeys for the rest of us, whether that is vaping, littering or blasting music out loud. Even small changes in behaviour can make a massive difference to people’s experience on public transport.</p>\n\n  <p>That’s why we’re empowering local leaders to shape bus services around the needs of their communities and taking advantage of publicly owned train operating companies to encourage people to be considerate of others on public transport and reminding them of the potential consequences if they aren’t.</p>\n</blockquote>\n\n<p>The powers for authorities on bus enforcement were made possible by the Bus Services Act 2025, meaning all local transport authorities across England are able to set and enforce their own local rules. Bus drivers will not be responsible for enforcement. Instead, authorised officers, including transport safety officers and the police will be able to deal with incidents. Officers will follow a 3-step approach:</p>\n\n<ul>\n  <li>engaging with the person</li>\n  <li>explaining the rules and their impact on other passengers</li>\n  <li>taking enforcement action if they refuse to comply</li>\n</ul>\n\n<p>The rail campaign will end the patchwork of current campaigns across different rail operators, helping create a clear, consistent message across the network. Most operators will feature messaging across websites, social media, in carriages and at stations, and will include posters and announcements. The campaign demonstrates how, under public ownership, train operators can push for a more joined-up operation to focus in on passenger experience to effectively tackle antisocial behaviour.</p>\n\n<p>The legal power for all local transport authorities in England to crack down on nuisance behaviour on buses came into force on 5 August 2026. Today’s guidance will help them put these new local rules into practice, with each byelaw needing sign-off from the Secretary of State before it can be enforced.</p>\n\n<p>Richard Parker, Mayor of the West Midlands, said: </p>\n\n<blockquote>\n  <p>People travelling across our region deserve to feel comfortable, respected, and most importantly, safe.</p>\n\n  <p>While the vast majority of journeys happen without incident, anti-social behaviour on our transport network – whether it’s vaping, littering, loud music, videos or shouting – ruins the experience for everyone.</p>\n\n  <p>Our Safer Travel Partnership and transport safety officers are already making a positive difference to people’s journeys on our buses, trains and trams. And with this clear guidance and backing from government we can go further with our commitment to making every journey quieter, cleaner and safer for all.</p>\n</blockquote>\n\n<p>Ben Plowden, Chief Executive, Campaign for Better Transport, said:</p>\n\n<blockquote>\n  <p>Antisocial behaviour, like noisy phone use, vaping and littering, are not just irritating: they can be a real deterrent to people using public transport, especially people with different accessibility requirements. If these new powers are properly and visibly enforced, they should help everyone feel safe and comfortable on public transport and enjoy the ride.</p>\n\n  <p>We can all do our bit by showing consideration to our fellow passengers: keeping bags and feet off seats, looking up and offering our seats to people who need them, or vacating the wheelchair space straight away when required.</p>\n</blockquote>\n\n<div>\n    <p>News desk enquiries</p>\n\n\n    <div>\n\n\n        <p>\n          Media enquiries 0300 7777 878\n        </p>\n        <p>\n          Switchboard 0300 330 3000\n        </p>\n    </div>\n\n\n</div>\n</div>",
+      "bodyText": "\n  \n    \n      passengers reminded of rules through coordinated measures tackling antisocial passenger behaviour on trains and buses\n    \n    \n      offenders on buses could face fines of £100 following new powers for local authorities to crack down on nuisance behaviour such as vaping and littering\n    \n    \n      new campaign encourages rail passengers to ‘share the carriage, not the noise’ and those who refuse to comply can face prosecution with fines\n    \n  \n\n\nPassengers will benefit from new government efforts launched today (19 October 2026) to tackle antisocial behaviour on transport, including £100 fines on buses and a new campaign to discourage ‘loudcasting’ on trains.\n\nToday, guidance was issued for local authorities to support their new powers to crackdown on loud music, littering, vaping and threatening behaviour on buses - including being able to issue fixed penalties of up to £100 for those who cause trouble. \n\n‘Loudcasting’ on public transport has become one of modern life’s most irritating parts of the daily commute, and today a new national campaign aims to encourage rail passengers to ‘share the carriage, not the noise’ to improve the journey experience for all, as part of the government’s everyday fixes. The industry-led campaign will include audio reminders of the rules in place on the rail network and, if a passenger refuses to stop when asked by authorised rail staff, they can be removed from the train at the next station or face fines up to a maximum of £1,000.\n\nPrime Minister Andy Burnham said:\n\n\n  We’ve all been on the train when someone starts blasting music or videos from their phone. It gets on your nerves and can quickly spoil the journey.\n\n  So we’re launching a nationwide campaign reminding passengers to use headphones on trains. On top of that, we’re giving local leaders new powers to tackle loud music, vaping and littering on buses.\n\n  It’s a simple thing, but one that will make journeys that little bit better for all of us.\n\n\nTransport Secretary Heidi Alexander said:\n\n\n  It is so frustrating when the actions of an inconsiderate few spoil journeys for the rest of us, whether that is vaping, littering or blasting music out loud. Even small changes in behaviour can make a massive difference to people’s experience on public transport.\n\n  That’s why we’re empowering local leaders to shape bus services around the needs of their communities and taking advantage of publicly owned train operating companies to encourage people to be considerate of others on public transport and reminding them of the potential consequences if they aren’t.\n\n\nThe powers for authorities on bus enforcement were made possible by the Bus Services Act 2025, meaning all local transport authorities across England are able to set and enforce their own local rules. Bus drivers will not be responsible for enforcement. Instead, authorised officers, including transport safety officers and the police will be able to deal with incidents. Officers will follow a 3-step approach:\n\n\n  engaging with the person\n  explaining the rules and their impact on other passengers\n  taking enforcement action if they refuse to comply\n\n\nThe rail campaign will end the patchwork of current campaigns across different rail operators, helping create a clear, consistent message across the network. Most operators will feature messaging across websites, social media, in carriages and at stations, and will include posters and announcements. The campaign demonstrates how, under public ownership, train operators can push for a more joined-up operation to focus in on passenger experience to effectively tackle antisocial behaviour.\n\nThe legal power for all local transport authorities in England to crack down on nuisance behaviour on buses came into force on 5 August 2026. Today’s guidance will help them put these new local rules into practice, with each byelaw needing sign-off from the Secretary of State before it can be enforced.\n\nRichard Parker, Mayor of the West Midlands, said: \n\n\n  People travelling across our region deserve to feel comfortable, respected, and most importantly, safe.\n\n  While the vast majority of journeys happen without incident, anti-social behaviour on our transport network – whether it’s vaping, littering, loud music, videos or shouting – ruins the experience for everyone.\n\n  Our Safer Travel Partnership and transport safety officers are already making a positive difference to people’s journeys on our buses, trains and trams. And with this clear guidance and backing from government we can go further with our commitment to making every journey quieter, cleaner and safer for all.\n\n\nBen Plowden, Chief Executive, Campaign for Better Transport, said:\n\n\n  Antisocial behaviour, like noisy phone use, vaping and littering, are not just irritating: they can be a real deterrent to people using public transport, especially people with different accessibility requirements. If these new powers are properly and visibly enforced, they should help everyone feel safe and comfortable on public transport and enjoy the ride.\n\n  We can all do our bit by showing consideration to our fellow passengers: keeping bags and feet off seats, looking up and offering our seats to people who need them, or vacating the wheelchair space straight away when required.\n\n\n\n    News desk enquiries\n\n\n    \n\n\n        \n          Media enquiries 0300 7777 878\n        \n        \n          Switchboard 0300 330 3000\n        \n    \n\n\n\n",
+      "bodyHash": "af23d7e765b58ac51c273c9a46e7a952ab6a5e75c34877e9485b0d5b768858e0",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/share-the-journey-not-the-noise-government-launches-measures-to-prevent-noise-and-antisocial-behaviour-on-transport",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Department for Transport",
+          "Prime Minister's Office, 10 Downing Street"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-10-19T00:01:07+01:00",
+        "sourceVersion": "1b3696d4-dafa-4270-9f98-051c5ab2edb4"
+      },
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5815dd06ef60e5f655a88d6c",
+      "title": "MHRA consults on proposals to allow schools to keep spare adrenaline nasal sprays on site",
+      "originalUrl": "https://www.gov.uk/government/news/mhra-consults-on-proposals-to-allow-schools-to-keep-spare-adrenaline-nasal-sprays-on-site",
+      "sourcePublishedAt": "2026-10-19T00:01:07+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "Around 8% of children and young people in the UK have a food allergy. Some are at risk of anaphylaxis, a severe and potentially life-threatening allergic reaction that requires immediate treatment with adrenaline. Today, the Medicines and H",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>Around 8% of children and young people in the UK have a food allergy. Some are at risk of anaphylaxis, a severe and potentially life-threatening allergic reaction that requires immediate treatment with adrenaline. </p>\n\n<p>Today, the Medicines and Healthcare products Regulatory Agency (MHRA) is launching a consultation on proposals that would allow schools to purchase and keep spare adrenaline nasal sprays for emergency use in children with severe allergies. The consultation is being carried out UK-wide, jointly with the Department of Health in Northern Ireland.</p>\n\n<p>Schools can already hold spare adrenaline auto-injectors for emergencies. Given that around 20% of serious allergic reactions to food happen in a school setting, the consultation is seeking views on allowing schools to hold adrenaline nasal sprays in the same way.  </p>\n\n<p>Under the proposals, schools could choose whether to hold adrenaline auto-injectors, adrenaline nasal sprays, or both. The existing safeguards would remain, meaning emergency adrenaline could only be given to children known to be at risk of anaphylaxis and by appropriately trained school staff. </p>\n\n<p>The consultation also seeks views on how the proposals would work in practice.</p>\n\n<h3>Julian Beach, MHRA Executive Director, Operations, said:  </h3>\n\n<p>“Ensuring children and young people with allergies have access to medicines in an emergency situation is vital.  </p>\n\n<p>“Adrenaline nasal sprays would provide an additional treatment option for children at risk of anaphylaxis – a serious and life-threatening condition.  </p>\n\n<p>“Through this consultation we want to understand if schools should be able to buy and hold these products alongside or in place of the adrenaline auto-injectors they can already stock. </p>\n\n<p>“Our proposal is designed to ensure that medicines legislation keeps up with developments in healthcare while ensuring safeguards that support the safe use of emergency adrenaline in schools remain in place.  </p>\n\n<p>“We encourage everyone to share their views, including teachers, healthcare professionals, parents carers and those at risk of anaphylaxis.”</p>\n\n<h3>Amena Warner, Head of Clinical Services, Allergy UK, said:  </h3>\n\n<p>“Many parents of pupils living at risk of a severe allergic reaction may have this thought at the forefront of their minds of parents when they drop a child at school who lives with an allergy. The children themselves will increasingly understand their condition as they grow and move through the school system. </p>\n\n<p>“Anything which can help alleviate worry and treat an allergic reaction promptly is a benefit to the allergic community. </p>\n\n<p>“Storing a needle-free adrenaline device that is administered into the nose will offer parents – plus children and young people at risk of anaphylaxis – an easy to use device, more confidence to use it promptly and will give schools choice in how they prepare for and manage an allergic emergency.” </p>\n\n<h3>Paul Whiteman, general secretary of school leaders’ union NAHT, said: </h3>\n<p> \n“Schools already play an important role in supporting pupils with serious allergies, and we welcome the opportunity to contribute to this consultation. It’s important that any proposals are safe, practical and properly supported, with clear guidance and training for school staff.”</p>\n\n<h3>Prof Adam Fox OBE, Chair, National Allergy Strategy Group said: </h3>\n\n<p>“The obligation of schools to have spare adrenaline pens, alongside allergy safety policies and training, has been a huge leap forward for pupils with allergy.</p>\n\n<p>“It’s therefore important that schools are able to keep up with newer treatment options for patients at risk of anaphylaxis whilst ensuring that these additional options do not create confusion or unintended consequences.</p>\n\n<p>“I am therefore very pleased to hear that everyone will get a chance to have their say in the consultation of this important development.”</p>\n\n<p>As part of the consultation, we would also like to hear from people about whether legislation should use broader terminology for self-administered adrenaline products that might become available in future. This will help ensure that any new authorised adrenaline products can be considered more quickly without requiring a separate legislative amendment each time. </p>\n\n<p>The proposal would not require schools to stock a particular product or brand and would not replace the expectation that children carry their own prescribed adrenaline medicine. The supplies held at the school would continue to act as a backup in an emergency.  </p>\n\n<p>The consultation is open for eight weeks and welcomes responses from everyone, including schools, school staff, parents and carers, healthcare professionals, and anyone with an interest in improving access to emergency treatment for anaphylaxis. </p>\n\n<p><a href=\"https://www.gov.uk/government/news/stronger-protections-for-children-with-allergies-in-school\">New allergy-safety requirements</a> for schools in England came into force in September 2026 as part of the first phase of Benedict’s Law.</p>\n\n<h3>Notes to editors: </h3>\n\n<ul>\n  <li>\n    <p>The full consultation will be <a href=\"https://www.gov.uk/government/consultations/consultation-on-schools-holding-adrenaline-nasal-sprays-for-anaphylaxis\">available here on 19 October</a> and closes on 14 December 2026. </p>\n  </li>\n  <li>\n    <p>The Medicines and Healthcare products Regulatory Agency (MHRA) is responsible for regulating all medicines and medical devices in the UK by ensuring they work and are acceptably safe. All our work is underpinned by robust and fact-based judgements to ensure that the benefits justify any risks.  </p>\n  </li>\n  <li>\n    <p>The MHRA is an executive agency of the Department of Health and Social Care.  </p>\n  </li>\n  <li>\n    <p>For media enquiries, please contact the <a>newscentre@mhra.gov.uk</a>, or call on 020 3080 7651.</p>\n  </li>\n</ul>\n</div>",
+      "bodyText": "Around 8% of children and young people in the UK have a food allergy. Some are at risk of anaphylaxis, a severe and potentially life-threatening allergic reaction that requires immediate treatment with adrenaline. \n\nToday, the Medicines and Healthcare products Regulatory Agency (MHRA) is launching a consultation on proposals that would allow schools to purchase and keep spare adrenaline nasal sprays for emergency use in children with severe allergies. The consultation is being carried out UK-wide, jointly with the Department of Health in Northern Ireland.\n\nSchools can already hold spare adrenaline auto-injectors for emergencies. Given that around 20% of serious allergic reactions to food happen in a school setting, the consultation is seeking views on allowing schools to hold adrenaline nasal sprays in the same way.  \n\nUnder the proposals, schools could choose whether to hold adrenaline auto-injectors, adrenaline nasal sprays, or both. The existing safeguards would remain, meaning emergency adrenaline could only be given to children known to be at risk of anaphylaxis and by appropriately trained school staff. \n\nThe consultation also seeks views on how the proposals would work in practice.\n\nJulian Beach, MHRA Executive Director, Operations, said:  \n\n“Ensuring children and young people with allergies have access to medicines in an emergency situation is vital.  \n\n“Adrenaline nasal sprays would provide an additional treatment option for children at risk of anaphylaxis – a serious and life-threatening condition.  \n\n“Through this consultation we want to understand if schools should be able to buy and hold these products alongside or in place of the adrenaline auto-injectors they can already stock. \n\n“Our proposal is designed to ensure that medicines legislation keeps up with developments in healthcare while ensuring safeguards that support the safe use of emergency adrenaline in schools remain in place.  \n\n“We encourage everyone to share their views, including teachers, healthcare professionals, parents carers and those at risk of anaphylaxis.”\n\nAmena Warner, Head of Clinical Services, Allergy UK, said:  \n\n“Many parents of pupils living at risk of a severe allergic reaction may have this thought at the forefront of their minds of parents when they drop a child at school who lives with an allergy. The children themselves will increasingly understand their condition as they grow and move through the school system. \n\n“Anything which can help alleviate worry and treat an allergic reaction promptly is a benefit to the allergic community. \n\n“Storing a needle-free adrenaline device that is administered into the nose will offer parents – plus children and young people at risk of anaphylaxis – an easy to use device, more confidence to use it promptly and will give schools choice in how they prepare for and manage an allergic emergency.” \n\nPaul Whiteman, general secretary of school leaders’ union NAHT, said: \n \n“Schools already play an important role in supporting pupils with serious allergies, and we welcome the opportunity to contribute to this consultation. It’s important that any proposals are safe, practical and properly supported, with clear guidance and training for school staff.”\n\nProf Adam Fox OBE, Chair, National Allergy Strategy Group said: \n\n“The obligation of schools to have spare adrenaline pens, alongside allergy safety policies and training, has been a huge leap forward for pupils with allergy.\n\n“It’s therefore important that schools are able to keep up with newer treatment options for patients at risk of anaphylaxis whilst ensuring that these additional options do not create confusion or unintended consequences.\n\n“I am therefore very pleased to hear that everyone will get a chance to have their say in the consultation of this important development.”\n\nAs part of the consultation, we would also like to hear from people about whether legislation should use broader terminology for self-administered adrenaline products that might become available in future. This will help ensure that any new authorised adrenaline products can be considered more quickly without requiring a separate legislative amendment each time. \n\nThe proposal would not require schools to stock a particular product or brand and would not replace the expectation that children carry their own prescribed adrenaline medicine. The supplies held at the school would continue to act as a backup in an emergency.  \n\nThe consultation is open for eight weeks and welcomes responses from everyone, including schools, school staff, parents and carers, healthcare professionals, and anyone with an interest in improving access to emergency treatment for anaphylaxis. \n\nNew allergy-safety requirements for schools in England came into force in September 2026 as part of the first phase of Benedict’s Law.\n\nNotes to editors: \n\n\n  \n    The full consultation will be available here on 19 October and closes on 14 December 2026. \n  \n  \n    The Medicines and Healthcare products Regulatory Agency (MHRA) is responsible for regulating all medicines and medical devices in the UK by ensuring they work and are acceptably safe. All our work is underpinned by robust and fact-based judgements to ensure that the benefits justify any risks.  \n  \n  \n    The MHRA is an executive agency of the Department of Health and Social Care.  \n  \n  \n    For media enquiries, please contact the newscentre@mhra.gov.uk, or call on 020 3080 7651.\n  \n\n",
+      "bodyHash": "d5fc5d86fb76e86aa111541ecd8ec018434a102f7528c5fe95a5db1bcb577497",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/mhra-consults-on-proposals-to-allow-schools-to-keep-spare-adrenaline-nasal-sprays-on-site",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Medicines and Healthcare products Regulatory Agency"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-10-19T00:01:07+01:00",
+        "sourceVersion": "e33854cb-5e87-4d5c-9eba-e1fe37b61363"
+      },
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f397c40f1416f05a4d80810e",
+      "title": "Anthropic 拟设立“公共利益”基金，初始注入 5% 股份",
+      "originalUrl": "https://www.ithome.com/1/014/622.htm",
+      "summary": "IT之家 10 月 19 日消息，当地时间 10 月 18 日，Anthropic 宣布，在获得股东批准的前提下，公司计划将 5% 的股份划入新设立的公共利益基金（Public Benefit Fund）；且随着这家人工智能巨头的估值增长，该基金持有的股份比例未来还可能进一步提升。 该拟议的基金将作为一家全资拥有的有限责任公司设立，经董事会裁量，公司估值每较尚未披露的基准上涨 50%，基金就会获得 Anthropic 额外 2% 的股份。 Anthropic 公共利益基金所支…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T22:52:35.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e5ed4505142e78f1e70ac3cb",
+      "title": "古尔曼：苹果本月底发布 OLED MacBook Pro、M6 设备及 iPad mini 8，11 月 6 日上市",
+      "originalUrl": "https://www.ithome.com/1/014/621.htm",
+      "summary": "IT之家 10 月 19 日消息，彭博社的马克 · 古尔曼（Mark Gurman）称，苹果大概率会在 11 月 6 日周五发售多款新品，包括搭载 OLED 屏幕的 MacBook Pro、配备 M6 芯片的 14 英寸 MacBook Pro 与 iMac，以及 / 或一款搭载 OLED 屏幕的 iPad mini 8。 这批产品预计在 10 月 27 日周二或是 10 月 28 日周三正式发布。 IT之家注意到，如果这一时间安排属实，苹果将连续四个周五发售新品，其余产品的…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T22:52:20.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f3a8cbf6b8cfb885701514b1",
+      "title": "苹果发布 iPhone Duo 欧盟能效标签：电池总容量 4883mAh",
+      "originalUrl": "https://www.ithome.com/1/014/620.htm",
+      "summary": "IT之家 10 月 19 日消息，苹果于当地时间周五发布了 iPhone Duo 的欧盟能效标签，文件显示这款设备的电池总容量为 4883 毫安时。 这份文件似乎证实了此前的一则爆料：iPhone Duo 配备两块电池电芯，容量分别为 2962 毫安时与 1921 毫安时，合计 4883 毫安时。IT之家注意到，iPhone Duo 仅支持 eSIM，没有实体 SIM 卡槽，因此这一电池容量数值适用于全球所有版本，不会出现部分机型因预留实体卡槽而压缩电池体积、容量略小的情况。…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T22:43:51.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9e863dadef67d77f64511cc0",
+      "title": "加拿大军事基地火灾致4人死数十人伤 总理卡尼发声",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-19/10716919.shtml",
+      "summary": "中新网10月19日电 综合外媒报道，当地时间18日，加拿大总理卡尼证实，该国西部艾伯塔省韦恩赖特军事基地17日发生的火灾已造成4名军人死亡、数十人受伤。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T22:43:28.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "dcf070b38f8d1507753066a0",
+      "title": "10月19日新闻早报",
+      "originalUrl": "https://www.chinanews.com.cn/iframe/2026/10-19/10716918.shtml",
+      "summary": null,
+      "summaryProvenance": null,
+      "sourcePublishedAt": "2026-10-18T22:41:58.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b57cdb039aa580c2670b2ab3",
+      "title": "特朗普发文支持内塔尼亚胡竞选连任以色列总理",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-19/10716917.shtml",
+      "summary": "美国总统特朗普10月18日在“真实社交”平台上发表致以色列民众的公开信，全力支持内塔尼亚胡竞选连任以色列总理。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T22:03:47.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1bdae31d78d2a4beed76a0f4",
+      "title": "沙特称胡塞武装投射物落入居民区 致6人受伤",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-19/10716916.shtml",
+      "summary": "当地时间10月18日，沙特阿拉伯民防部门发布通报称，当天一枚由胡塞武装发射的投射物落入沙特南部奈季兰市一处居民区，造成6名沙特公民受伤。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T22:02:53.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8a2be5e0c0036b6046f0b57d",
+      "title": "乌克兰首都基辅响起强烈爆炸声",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-19/10716915.shtml",
+      "summary": "当地时间18日23时许，乌克兰首都基辅市不同方向传出多次强烈爆炸声，有消息称一枚导弹落在该市东郊方向并爆炸。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T22:01:29.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e3ae8fd61b6c64ef18b6325e",
+      "title": "睡觉时身体会突然抽动？这几种表现可能是疾病信号",
+      "originalUrl": "https://www.chinanews.com.cn/jk/2026/10-19/10716914.shtml",
+      "summary": "很多人都有过类似经历，刚进入梦乡时身体突然猛地抽动一下，有时还伴随踩空、坠落的失重感，甚至因此瞬间惊醒。这种现象在医学上称为“临睡肌抽跃症”，也叫“入睡抽动”，多数情况下属于正常生理表现。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T22:00:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "health"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9eed7e15a225653acd1e7c13",
+      "title": "黑山总理斯帕伊奇会见王毅",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/10-19/10716913.shtml",
+      "summary": "新华社波德戈里察10月18日电(记者石中玉 张璇)18日，黑山总理斯帕伊奇在波德戈里察会见中共中央政治局委员、外交部长王毅。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-18T21:55:39.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-19T00:10:31.022Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
+      "updatedAt": "2026-10-19T00:10:31.022Z",
+      "version": 1,
+      "history": []
+    },
     {
       "id": "f8475089335b1a355851cf33",
       "title": "尼泊尔一客运吉普车坠河致3人遇难3人失踪",
@@ -23,7 +972,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T19:23:45.250Z",
-      "lastSeenAt": "2026-10-18T19:23:45.250Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T19:23:45.250Z",
       "version": 1,
       "history": []
@@ -48,7 +997,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T19:23:45.250Z",
-      "lastSeenAt": "2026-10-18T19:23:45.250Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T19:23:45.250Z",
       "version": 1,
       "history": []
@@ -73,7 +1022,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T19:23:45.250Z",
-      "lastSeenAt": "2026-10-18T19:23:45.250Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T19:23:45.250Z",
       "version": 1,
       "history": []
@@ -100,7 +1049,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T19:23:45.250Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -127,7 +1076,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T19:23:45.250Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -154,7 +1103,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T19:23:45.250Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -180,7 +1129,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -205,7 +1154,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T19:23:45.250Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -232,7 +1181,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T19:23:45.250Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -257,7 +1206,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T19:23:45.250Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -282,7 +1231,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T19:23:45.250Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -307,7 +1256,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T19:23:45.250Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -359,7 +1308,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -371,8 +1320,8 @@
       "summary": "国庆后的南京红山森林动物园，",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-18T15:21:33.000Z",
@@ -385,7 +1334,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T19:23:45.250Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -411,7 +1360,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -437,7 +1386,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -463,7 +1412,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -488,7 +1437,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -595,7 +1544,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -714,8 +1663,8 @@
       "summary": "中新社北京10月18日电 (记者 陈杭)四足机器人调整重心稳步通过断桥、人形机器人拾取灭火器对准模拟火源喷射……2026机器人勇士挑战赛秋季赛18日在北京举办，全国29支赛队现场“闯关”实景作业。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-18T14:42:11.000Z",
@@ -729,7 +1678,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T19:23:45.250Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -808,7 +1757,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -833,7 +1782,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -859,7 +1808,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -884,7 +1833,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -896,8 +1845,8 @@
       "summary": "中新网铜陵10月18日电 (记者 张强)第六届铜陵田原艺术季暨“梧引金凤·逐梦乡野”文旅招商推介会18日在安徽省铜陵市义安区西联镇犁桥水镇举办，来自全国各地的文旅企业、艺术院校代表及青年创客齐聚于此，共探艺术赋能乡村振兴的发展路径。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-18T14:30:40.000Z",
@@ -911,7 +1860,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T19:23:45.250Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -923,8 +1872,8 @@
       "summary": "中新网杭州10月18日电(蓝伊旎)10月17日至18日，全国极弱磁技术及应用标准化工作组(SAC/SWG44)(以下简称“工作组”)成立大会暨第一次全体委员会议在杭州召开，标志着极弱磁领域标准化工作迈入体系化、规范化、国际化新阶段。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-18T14:29:56.000Z",
@@ -937,7 +1886,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T19:23:45.250Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -949,8 +1898,8 @@
       "summary": "中新网昆明10月18日电 (陈静 贝文)云南数字影视产业园(基地)18日在昆明开园，标志着云南首个集拍摄、制作、译制、出海于一体的数字影视全链条产业基地正式建成。未来将以多语种译制打通面向南亚东南亚文化出海通道，推动云南文化强省建设。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-18T14:29:50.000Z",
@@ -965,7 +1914,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T19:23:45.250Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -977,8 +1926,8 @@
       "summary": "中新网上海10月18日电 (高志苗)近日，沪市公司密集披露三季度业绩预告、股份回购、股东增持及项目进展等公告。数据显示，截至10月16日收盘，科创板已有20余家上市公司披露2026年前三季度业绩预告，盈利向好成为主流趋势。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-18T14:29:12.000Z",
@@ -992,7 +1941,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T19:23:45.250Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1004,8 +1953,8 @@
       "summary": "中新网义乌10月18日电 题：浙江义乌：重阳节里赶一场靠山市集",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-18T14:29:04.000Z",
@@ -1019,7 +1968,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T19:23:45.250Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1125,7 +2074,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1137,8 +2086,8 @@
       "summary": "中新网南宁10月18日电(黄艳梅 梁雨诗)2026年广西国际中文教师教学技能大赛决赛近日在广西民族大学举行，10名从初赛中脱颖而出的国际中文教师同台比拼教学技能，深化教学研讨交流。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-18T14:17:52.000Z",
@@ -1152,7 +2101,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1164,8 +2113,8 @@
       "summary": "中新网陕西黄陵10月18日电 (记者 阿琳娜)丙午(2026)年重阳民祭轩辕黄帝活动18日在陕西省黄陵县黄帝陵轩辕广场举行。来自社会各界的中华儿女齐聚桥山，共祭中华民族人文初祖轩辕黄帝。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-18T14:17:40.000Z",
@@ -1178,7 +2127,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1204,7 +2153,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1230,7 +2179,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1256,7 +2205,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1282,7 +2231,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1307,7 +2256,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1358,7 +2307,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1383,7 +2332,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1408,7 +2357,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1434,7 +2383,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1459,7 +2408,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1484,7 +2433,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1509,7 +2458,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1535,7 +2484,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1560,7 +2509,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1586,7 +2535,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1612,7 +2561,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1638,7 +2587,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1663,7 +2612,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T16:51:07.572Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T16:51:07.572Z",
       "version": 1,
       "history": []
@@ -1688,7 +2637,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -1713,7 +2662,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -1795,7 +2744,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -1867,7 +2816,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -1945,7 +2894,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -1970,7 +2919,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -1997,7 +2946,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -2048,7 +2997,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -2124,7 +3073,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -2150,7 +3099,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -2230,7 +3179,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -2257,7 +3206,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -2334,7 +3283,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -2388,7 +3337,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -2415,7 +3364,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -2470,7 +3419,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -2577,7 +3526,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -2627,7 +3576,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -2702,7 +3651,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -2727,7 +3676,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -2802,7 +3751,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -2905,7 +3854,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3006,7 +3955,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3031,7 +3980,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3056,7 +4005,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3083,7 +4032,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3158,7 +4107,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3209,7 +4158,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3261,7 +4210,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3286,7 +4235,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3312,7 +4261,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3364,7 +4313,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3440,7 +4389,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3490,7 +4439,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3542,7 +4491,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3619,7 +4568,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3645,7 +4594,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3670,7 +4619,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3695,7 +4644,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3720,7 +4669,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3745,7 +4694,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3770,7 +4719,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3795,7 +4744,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3821,7 +4770,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3898,7 +4847,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3949,7 +4898,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -3974,7 +4923,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -4025,7 +4974,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -4050,7 +4999,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -4075,7 +5024,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -4100,7 +5049,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -4125,7 +5074,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -4200,7 +5149,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -4250,7 +5199,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -4301,7 +5250,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-18T13:12:44.038Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T13:12:44.038Z",
       "version": 1,
       "history": []
@@ -4683,7 +5632,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T09:02:44.997Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T09:02:44.997Z",
       "version": 1,
       "history": []
@@ -4711,7 +5660,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T09:02:44.997Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T09:02:44.997Z",
       "version": 1,
       "history": []
@@ -4791,7 +5740,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T09:02:44.997Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T09:02:44.997Z",
       "version": 1,
       "history": []
@@ -4868,7 +5817,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T09:02:44.997Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T09:02:44.997Z",
       "version": 1,
       "history": []
@@ -5252,7 +6201,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-18T09:02:44.997Z",
-      "lastSeenAt": "2026-10-18T16:51:07.572Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T09:02:44.997Z",
       "version": 1,
       "history": []
@@ -6333,7 +7282,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-18T09:02:44.997Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-18T09:02:44.997Z",
       "version": 1,
       "history": []
@@ -10301,7 +11250,7 @@
         "sourceVersion": "2bc83ff6-7c12-4fc4-9d5a-eb2322ce5bc9"
       },
       "firstSeenAt": "2026-10-17T23:59:14.021Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-17T23:59:14.021Z",
       "version": 1,
       "history": []
@@ -16241,7 +17190,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-17T09:15:13.817Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-17T09:15:13.817Z",
       "version": 1,
       "history": []
@@ -23370,7 +24319,7 @@
         "sourceVersion": "ea9de90c-54b8-4954-b699-67146b6e9651"
       },
       "firstSeenAt": "2026-10-16T14:13:07.537Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-16T14:13:07.537Z",
       "version": 1,
       "history": []
@@ -24252,7 +25201,7 @@
         "sourceVersion": "a51be22c-ceee-46df-861a-37c873b0252e"
       },
       "firstSeenAt": "2026-10-16T14:13:07.537Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-16T18:19:16.742Z",
       "version": 2,
       "history": [
@@ -25174,7 +26123,7 @@
         "sourceVersion": "97369b2e-6a5d-48b6-ae4f-ecb4cd80c59a"
       },
       "firstSeenAt": "2026-10-16T14:13:07.537Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-16T18:19:16.742Z",
       "version": 2,
       "history": [
@@ -25254,7 +26203,7 @@
         "sourceVersion": "8ef50fec-1de8-4610-87de-4dfb4df755cf"
       },
       "firstSeenAt": "2026-10-16T14:13:07.537Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-16T14:13:07.537Z",
       "version": 1,
       "history": []
@@ -25432,7 +26381,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-16T14:13:07.537Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-16T14:13:07.537Z",
       "version": 1,
       "history": []
@@ -26175,7 +27124,7 @@
         "sourceVersion": "be75f2e1-9b0b-426e-9efb-6aac3932ceeb"
       },
       "firstSeenAt": "2026-10-16T09:15:32.883Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-16T14:13:07.537Z",
       "version": 2,
       "history": [
@@ -27342,7 +28291,7 @@
         "sourceVersion": "6ab4acd9-2ca7-409c-bf13-547211cf6ab6"
       },
       "firstSeenAt": "2026-10-16T09:15:32.883Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-16T14:13:07.537Z",
       "version": 2,
       "history": [
@@ -27852,7 +28801,7 @@
         "sourceVersion": "c86665cc-914d-4a1c-8531-337bb6d1f9fc"
       },
       "firstSeenAt": "2026-10-16T09:15:32.883Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-16T14:13:07.537Z",
       "version": 2,
       "history": [
@@ -29177,7 +30126,7 @@
         "sourceVersion": "33b9773a-6948-49ba-86bf-43e51bec860c"
       },
       "firstSeenAt": "2026-10-16T09:15:32.883Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-16T18:19:16.742Z",
       "version": 2,
       "history": [
@@ -29517,7 +30466,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-16T09:15:32.883Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-16T09:15:32.883Z",
       "version": 1,
       "history": []
@@ -29844,7 +30793,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-16T09:15:32.883Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-16T09:15:32.883Z",
       "version": 1,
       "history": []
@@ -31707,7 +32656,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-16T04:23:20.158Z",
       "version": 1,
       "history": []
@@ -32701,7 +33650,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-16T04:23:20.158Z",
       "version": 1,
       "history": []
@@ -33361,7 +34310,7 @@
         "sourceVersion": "0e28d560-1036-44dd-821a-695c20d87f3c"
       },
       "firstSeenAt": "2026-10-15T23:49:19.606Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-15T23:49:19.606Z",
       "version": 1,
       "history": []
@@ -35271,7 +36220,7 @@
         "sourceVersion": "c14a9725-e3e6-4fb7-9313-1fcc00009419"
       },
       "firstSeenAt": "2026-10-15T17:44:38.019Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-15T17:44:38.019Z",
       "version": 1,
       "history": []
@@ -35903,7 +36852,7 @@
         "sourceVersion": "39840424-085b-4835-9c94-feebfd2663a8"
       },
       "firstSeenAt": "2026-10-15T17:44:38.019Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-15T17:44:38.019Z",
       "version": 1,
       "history": []
@@ -37150,7 +38099,7 @@
         "sourceVersion": "281a9f1d-b68c-46a7-9cc4-f9c994b06ead"
       },
       "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-15T17:44:38.019Z",
       "version": 2,
       "history": [
@@ -37760,7 +38709,7 @@
         "sourceVersion": "86737b40-fc2b-4fc5-943d-43cb6b5ca773"
       },
       "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-15T12:50:34.712Z",
       "version": 1,
       "history": []
@@ -37853,7 +38802,7 @@
         "sourceVersion": "5528d907-d9cb-4b76-a947-547cf93eadef"
       },
       "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-15T12:50:34.712Z",
       "version": 1,
       "history": []
@@ -38991,7 +39940,7 @@
         "sourceVersion": "fa81ee91-9e35-439d-8ca5-9b8bc7c8fdea"
       },
       "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-16T14:13:07.537Z",
       "version": 2,
       "history": [
@@ -39097,7 +40046,7 @@
         "sourceVersion": "4de5ec56-7e6d-4534-8ba1-6a6aebaf77a2"
       },
       "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-15T12:50:34.712Z",
       "version": 1,
       "history": []
@@ -39738,7 +40687,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-15T12:50:34.712Z",
       "version": 1,
       "history": []
@@ -40312,7 +41261,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-15T12:50:34.712Z",
       "version": 1,
       "history": []
@@ -41714,7 +42663,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-15T12:50:34.712Z",
       "version": 1,
       "history": []
@@ -50134,7 +51083,7 @@
         "sourceVersion": "084406ad-9c70-4a53-b6a9-ed788a771b9c"
       },
       "firstSeenAt": "2026-10-14T15:27:43.898Z",
-      "lastSeenAt": "2026-10-18T21:49:02.345Z",
+      "lastSeenAt": "2026-10-19T00:10:31.022Z",
       "updatedAt": "2026-10-16T18:19:16.742Z",
       "version": 3,
       "history": [
@@ -259573,943 +260522,6 @@
       "updatedAt": "2026-09-23T14:57:12.672Z",
       "version": 1,
       "history": []
-    },
-    {
-      "id": "48e21b8789290de14428166e",
-      "title": "小米穿戴产品首次：小米手环 11 率先上线重庆畅通卡・交通联合版",
-      "originalUrl": "https://www.ithome.com/1/006/478.htm",
-      "summary": "IT之家 9 月 23 日消息，博主 @懒酱的日记本 刚刚透露，小米手环 11 率先上线了重庆畅通卡・交通联合版。值得一提的是，这也是小米穿戴类产品首次上线重庆公交卡（手机端此前已支持）。 全新小米手环 11 已于本月初发布，首发澎湃 OS 4 系统、至高 21 天续航，采用大曲率圆润机身设计，升级专业睡眠 HRV、高精度心率血氧传感器，首销到手价 289 元起。 IT之家注：重庆畅通卡・交通联合版属于全国交通一卡通互联互通卡，除重庆主城区外（主城区刷卡可享折扣优惠），还可以…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T14:09:32.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech",
-        "mobility"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "4295be7f906155a447a64c62",
-      "title": "Supermicro 启动英伟达 Vera Rubin NVL72 机架出货",
-      "originalUrl": "https://www.ithome.com/1/006/477.htm",
-      "summary": "IT之家 9 月 23 日消息，服务器制造商 Supermicro（超微）当地时间今日宣布，该企业已开始出货 NVIDIA（英伟达）Vera Rubin NVL72 机架系统。 Supermicro 基于 Vera Rubin NVL72 打造了完整的 DCBBS（数据中心构建模块解决方案），包括液冷算力机架本身、1.8MW 行内 CDU（冷却分配单元）、可选配的热后门交换器、基于 NVIDIA 参考架构的网络集成和布线服务。 该企业的 Vera Rubin NVL72 DC…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T14:07:56.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "8175755187dcbcbfe9da7393",
-      "title": "重庆举行残疾人书画文化交流活动 100件作品集中亮相",
-      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-23/10702576.shtml",
-      "summary": "中新网重庆9月23日电 (记者 何蓬磊)“此处繁花·馨香一瓣——2026年重庆市残疾人书画文化交流活动”23日在重庆市残疾人体育馆举行，100件书画作品集中亮相。当日，重庆市残疾人文化艺术空间同步启用，为残疾人展示艺术才华、开展文化交流增添新的公共文化阵地。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-culture",
-        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T14:03:54.000Z",
-      "timeIssue": null,
-      "channels": [
-        "entertainment"
-      ],
-      "sourceIds": [
-        "chinanews-culture"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T06:06:49.335Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "972e6b442e04e1fc5e2838bd",
-      "title": "江西篁岭晒秋庆丰收 五谷拼绘种业先辈",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-23/10702599.shtml",
-      "summary": "中新网上饶9月23日电 (熊锦阳)金秋九月，稻浪飘香。9月23日是中国农民丰收节，在江西省上饶市婺源县篁岭古村，篁岭第九届农民丰收节拉开帷幕。今年篁岭丰收节以“晒生活·竞丰收”为主题，村民们以晒台为画布、以五谷作颜料，拼绘出四位中国种业先辈的巨型肖像，成为漫山秋色中最动人的丰收致敬。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T14:03:40.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "4a0400bbbe70dc1fcb3ff8d6",
-      "title": "小米秋季新品发布会一文汇总：18 Pro 系列登场、透明版时隔 6 年回归、平板手环手表齐上新",
-      "originalUrl": "https://www.ithome.com/1/006/476.htm",
-      "summary": "小米 18 Pro 系列，来了！就在今天（9 月 23 日）19:00，小米秋季新品发布会如期举行。 本场发布会的主角自然是全新小米 18 Pro，双尺寸旗舰正式登场；同台亮相的还有小米平板 9 系列、小米手环 11 三彩釉陶瓷版、小米手表 S5 41mm，以及一众生态科技新品。 接下来，IT之家小编就带大家盘一盘，小米这波新品到底有哪些亮点。 一、小米 18 Pro 系列 先把目光拉回小米 18 Pro 系列。还是熟悉的双尺寸，但这一代从里到外，升级幅度可不小。 设计上，新…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T14:03:11.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "f18e352b2038795e4d0e1a90",
-      "title": "一步一景皆活力 重庆沙坪坝展开都市文旅新画卷",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-23/10702602.shtml",
-      "summary": "中新网重庆9月23日电 (记者 钟旖)嘉陵江的江风吹拂脸庞，嘉陵小渡的现场音乐会热闹开演；由老厂房改建的“重棉院院”里，餐厅和书屋迎来年轻人打卡拍照；千年古镇磁器口的后街人声鼎沸，“山城守艺坊”非遗体验街区正式开街……中新网记者近日走进重庆市沙坪坝区看到，一步一景，辖区内涌动着都市文旅的澎湃活力。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T14:02:44.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "travel"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "32cf57dda2ec1c7185c667da",
-      "title": "山西加力民生保障 八成财力投向民生领域",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-23/10702575.shtml",
-      "summary": "中新网太原9月23日电 (杨静 李瑾阳)山西省财政厅副厅长、新闻发言人郭林春23日介绍，“十四五”时期，全省民生支出达2.38万亿元，占一般公共预算支出比重稳定保持在80%左右，财政资源更多投向教育、就业、社保、医疗、养老等关键民生领域。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T14:02:02.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance"
-      ],
-      "sourceIds": [
-        "chinanews-finance"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "455a35c6fd8723f841501202",
-      "title": "上海邮轮口岸联动开通“生命绿色通道” 实现从海上到陆地医疗救治无缝衔接",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-23/10702570.shtml",
-      "summary": "中新网上海9月23日电 (记者 陈静)23日凌晨，浦江边检站、宝山海关等口岸联检单位联合邮轮公司、120急救中心等多家单位，在吴淞口国际邮轮港紧急开通“生命绿色通道”，救助一名在邮轮航行途中突发重病、急需入境接受治疗的中国籍旅客。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T14:01:28.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "health"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "00fc3f6e19ae5f62142fe3cf",
-      "title": "SpaceXAI 智能体 Grok Bot 上线首月，周用户数突破 40 万",
-      "originalUrl": "https://www.ithome.com/1/006/475.htm",
-      "summary": "IT之家 9 月 23 日消息，据彭博社 22 日报道，SpaceXAI 的 AI 智能体 Grok Bot 上线约一个月，周用户数便已突破 40 万。 据伦敦一场活动的演示材料和与会人士透露，截至 9 月 14 日，Grok Bot 用户数达到 41.8 万。彭博社看到的材料显示，用户数较前一周增加 24%。 SpaceX 的 AI 部门于 8 月中旬推出 Grok Bot，希望在不断扩大的 AI 智能体市场上跟上 Anthropic 和 OpenAI。Grok Bot 的…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T14:01:26.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "a33ee8b13fb8e96b93f67e3c",
-      "title": "Historic England Board Appointments",
-      "originalUrl": "https://www.gov.uk/government/news/historic-england-board-appointments",
-      "sourcePublishedAt": "2026-09-23T15:00:01+01:00",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "govuk-fulltext"
-      ],
-      "summary": "Charles Donald Appointed from 1 October 2026 to 30 September 2030 Charles Donald CBE has almost 40 years’ experience across investment banking, public sector finance and corporate governance, including senior leadership roles within UK Gove",
-      "summaryProvenance": {
-        "type": "licensed_body_excerpt",
-        "sourceId": "govuk-fulltext"
-      },
-      "contentMode": "fulltext",
-      "bodyHtml": "<div><h2><b>Charles Donald<b></b></b></h2>\n\n<p><b>Appointed from 1 October 2026 to 30 September 2030<b></b></b></p>\n\n<p>Charles Donald CBE has almost 40 years’ experience across investment banking, public sector finance and corporate governance, including senior leadership roles within UK Government Investments.</p>\n\n<p>In 2018, he joined UK Government Investments as Head of the Financial Institutions Group, before serving as Chief Executive Officer from 2020 to January 2026.</p>\n\n<p>Alongside his UK roles, Charles served as Chair of the OECD’s Working Party on State Ownership and Privatisation Practices from 2021 to 2024. In March 2026, he was appointed as a Non-Executive Director of the Department for Transport Operator Board.</p>\n\n<p>Charles has previously held a number of board and trustee positions, including as a Non-Executive Director of the UK Infrastructure Bank, now the National Wealth Fund, a Trustee of Help for Heroes and Chair of the Lambrook School Trust. In June 2026, he was appointed a CBE for services to public finance.</p>\n\n<h2><b>Dominic Field<b></b></b></h2>\n\n<p><b>Appointed from 1 October 2026 to 30 September 2030<b></b></b></p>\n\n<p>Dominic is an experienced corporate leader with more than 30 years’ experience across consulting, digital transformation and organisational leadership, including a 20 year career at Boston Consulting Group.</p>\n\n<p>During his time at Boston Consulting Group, Dominic held senior leadership roles and was the founding leader of its digital practice. He has worked with a range of organisations and company boards, advising on digital transformation and the implementation of digital solutions.</p>\n\n<p>Dominic currently holds a number of board and trustee positions across the public, cultural and business sectors. He is a Board Member at London &amp; Partners and a Trustee of the Design Museum. He also works as an Executive Coach, supporting senior leaders and organisations.</p>\n\n<h2><b>Anna Keay<b></b></b></h2>\n\n<p><b>Appointed from 1 October 2026 to 30 September 2030<b></b></b></p>\n\n<p>Dr Anna Keay OBE is a historian, curator and specialist in historic buildings, with extensive experience across the heritage and cultural sectors.</p>\n\n<p>She is Director of the Landmark Trust, where she has led work to rescue and restore historic buildings at risk and oversees an estate of more than 200 historic properties. She previously served as Curatorial Director of English Heritage from 2002 to 2012, having earlier worked as a curator at Historic Royal Palaces.</p>\n\n<p>Alongside her executive career, Anna holds a number of board and trustee roles across the heritage, cultural and commercial sectors. She is a Trustee of the Royal Collection Trust, the Pilgrim Trust and the Duke of Lancaster’s Foundation, and a Non-Executive Director of Big Yellow Self Storage.</p>\n\n<p>Anna is also a published historian and biographer. Her books include The Restless Republic, which was named a Sunday Times History Book of the Year in 2022, and The Last Royal Rebel: The Life and Death of James, Duke of Monmouth. In 2026, she was appointed the official biographer of HM Queen Elizabeth II.</p>\n\n<h2><b>Georgina Lynch<b></b></b></h2>\n\n<p><b>Appointed from 1 October 2026 to 30 September 2030<b></b></b></p>\n\n<p>Georgina Lynch is Managing Director of the PJ Livesey Group, a specialist property developer focused on heritage led regeneration. She has more than 20 years’ experience in commercial and residential property, with a particular focus on the conversion and reuse of historic buildings.</p>\n\n<p>Prior to becoming Managing Director of the PJ Livesey Group, Georgina founded and led a health club business operating within heritage buildings. In her current role, she oversees the delivery of residential developments involving the restoration and reuse of former hospitals, mills, schools and other historic buildings, balancing conservation considerations with commercial viability and the needs of local communities.</p>\n\n<p>Georgina has extensive experience of the role heritage can play in supporting housing delivery and the regeneration of towns and cities. She works with local authorities, heritage organisations and policymakers to consider barriers to development and support collaboration between the public and private sectors.</p>\n\n<p>Alongside her executive role, Georgina is a Trustee of the Heritage Trust for the North West.</p>\n\n<h2><b>Claire McColgan<b></b></b></h2>\n\n<p><b>Appointed from 1 October 2026 to 30 September 2030<b></b></b></p>\n\n<p>Claire is an experienced cultural leader with more than 30 years’ experience in culture-led regeneration, major events and community engagement at both a local and national level.</p>\n\n<p>As Director of Culture, Visitor Economy and Major Events for Liverpool and the wider city region, Claire has played a leading role in the delivery of a number of major cultural programmes and events, including Liverpool’s year as European Capital of Culture in 2008, Eurovision 2023 and the UK’s COVID-19 reopening programme. She has also led work supporting Liverpool’s designation as a UNESCO City of Music and its involvement in the UN Accelerator City programme.</p>\n\n<p>Claire has extensive experience of community engagement and cultural participation, including through the development and delivery of Liverpool’s Creative Communities programme. She is also an international adviser and speaker on culture and regeneration.</p>\n\n<p>Claire currently serves as Deputy Chair of the UK City of Culture programme and as a Non-Executive Director of Carnegie UK and Visit Isle of Man. She has been appointed an MBE and subsequently a CBE for her contribution to culture.</p>\n\n<h2><b>Lukman Patel<b></b></b></h2>\n\n<p><b>Appointed from 1 October 2026 to 30 September 2030<b></b></b></p>\n\n<p>Lukman is Chief Executive of Burnley Borough Council, a solicitor and an experienced local government leader with a background spanning regeneration, governance, asset management and organisational change. As Chief Executive, Lukman provides strategic leadership across the council’s regeneration and place agenda, including investment, planning, housing, education and economic development. </p>\n\n<p>Lukman has played a leading role in Burnley’s approach to town centre regeneration, including the use of heritage assets and cultural investment to support economic development and community benefit. His work has included securing investment for the restoration and reuse of listed buildings and supporting heritage-led regeneration initiatives across the borough.</p>\n\n<p>He has also supported Burnley’s development as a university town, with a focus on strengthening educational opportunities and creating opportunities for young people and families. Throughout his local government career, Lukman has worked closely with partners across the public, private and community sectors to support the long-term development of Burnley and the wider area.</p>\n\n<h2><b>Moira Sinclair<b></b></b></h2>\n\n<p><b>Appointed from 1 October 2026 to 30 September 2030<b></b></b></p>\n\n<p>Moira is a skilled Board and Executive leader, with more than 40 years’ experience in funding, policy and delivery across the arts, heritage and charity sectors. </p>\n\n<p>In 2025, she stepped down after 10 years as Chief Executive of the Paul Hamlyn Foundation. Previously from 2005 to 2015, she was Executive Director for London and South East for Arts Council England. She played a key role supporting the cultural programme for the London 2012 Olympic and Paralympic Games. She also chaired the London Mayor’s Cultural Leadership Board until 2024. </p>\n\n<p>Moira is currently Chair of Clore Leadership and Chair of Factory International in Manchester. She is also Chair of the Investment Committee for the Arts &amp; Culture Impact Fund and a trustee of the National Landscapes Association. </p>\n\n<p>She was awarded an OBE in the 2021 New Year Honours List for her contribution to the arts and charity.</p>\n\n<h2><b>Remuneration and Governance Code<b></b></b></h2>\n\n<p>Commissioners of Historic England are remunerated at £4,133 per year.</p>\n\n<p>These appointments have been made in accordance with the <a href=\"https://www.gov.uk/government/publications/governance-code-for-public-appointments\">Governance Code on Public Appointments</a>. The appointments process is regulated by the <a href=\"https://publicappointmentscommissioner.independent.gov.uk/\">Commissioner for Public Appointments</a>. </p>\n\n<p>Under the Code, any significant political activity undertaken by an appointee in the last five years must be declared. This is defined as including holding office, public speaking, making a recordable donation, or candidature for election.Charles Donald, Dominic Field, Anna Keay, Georgina Lynch, Claire McColgan, Lukman Patel, and Moira Sinclair have not declared any significant political activity.</p>\n\n<h2><b>Notes to Editors<b></b></b></h2>\n\n<p>DCMS has around 400 regulated Public Appointment roles across 44 <a href=\"https://www.gov.uk/government/organisations\">Public Bodies</a> including Arts Council England, Theatres Trust, the National Gallery, UK Sport and the Gambling Commission. We encourage applications from talented individuals from all backgrounds and across the whole of the United Kingdom. To find out more about Public Appointments or to apply visit the <a href=\"https://apply-for-public-appointment.service.gov.uk/roles\">HM Government Public Appointments Website</a>.</p>\n</div>",
-      "bodyText": "Charles Donald\n\nAppointed from 1 October 2026 to 30 September 2030\n\nCharles Donald CBE has almost 40 years’ experience across investment banking, public sector finance and corporate governance, including senior leadership roles within UK Government Investments.\n\nIn 2018, he joined UK Government Investments as Head of the Financial Institutions Group, before serving as Chief Executive Officer from 2020 to January 2026.\n\nAlongside his UK roles, Charles served as Chair of the OECD’s Working Party on State Ownership and Privatisation Practices from 2021 to 2024. In March 2026, he was appointed as a Non-Executive Director of the Department for Transport Operator Board.\n\nCharles has previously held a number of board and trustee positions, including as a Non-Executive Director of the UK Infrastructure Bank, now the National Wealth Fund, a Trustee of Help for Heroes and Chair of the Lambrook School Trust. In June 2026, he was appointed a CBE for services to public finance.\n\nDominic Field\n\nAppointed from 1 October 2026 to 30 September 2030\n\nDominic is an experienced corporate leader with more than 30 years’ experience across consulting, digital transformation and organisational leadership, including a 20 year career at Boston Consulting Group.\n\nDuring his time at Boston Consulting Group, Dominic held senior leadership roles and was the founding leader of its digital practice. He has worked with a range of organisations and company boards, advising on digital transformation and the implementation of digital solutions.\n\nDominic currently holds a number of board and trustee positions across the public, cultural and business sectors. He is a Board Member at London &amp; Partners and a Trustee of the Design Museum. He also works as an Executive Coach, supporting senior leaders and organisations.\n\nAnna Keay\n\nAppointed from 1 October 2026 to 30 September 2030\n\nDr Anna Keay OBE is a historian, curator and specialist in historic buildings, with extensive experience across the heritage and cultural sectors.\n\nShe is Director of the Landmark Trust, where she has led work to rescue and restore historic buildings at risk and oversees an estate of more than 200 historic properties. She previously served as Curatorial Director of English Heritage from 2002 to 2012, having earlier worked as a curator at Historic Royal Palaces.\n\nAlongside her executive career, Anna holds a number of board and trustee roles across the heritage, cultural and commercial sectors. She is a Trustee of the Royal Collection Trust, the Pilgrim Trust and the Duke of Lancaster’s Foundation, and a Non-Executive Director of Big Yellow Self Storage.\n\nAnna is also a published historian and biographer. Her books include The Restless Republic, which was named a Sunday Times History Book of the Year in 2022, and The Last Royal Rebel: The Life and Death of James, Duke of Monmouth. In 2026, she was appointed the official biographer of HM Queen Elizabeth II.\n\nGeorgina Lynch\n\nAppointed from 1 October 2026 to 30 September 2030\n\nGeorgina Lynch is Managing Director of the PJ Livesey Group, a specialist property developer focused on heritage led regeneration. She has more than 20 years’ experience in commercial and residential property, with a particular focus on the conversion and reuse of historic buildings.\n\nPrior to becoming Managing Director of the PJ Livesey Group, Georgina founded and led a health club business operating within heritage buildings. In her current role, she oversees the delivery of residential developments involving the restoration and reuse of former hospitals, mills, schools and other historic buildings, balancing conservation considerations with commercial viability and the needs of local communities.\n\nGeorgina has extensive experience of the role heritage can play in supporting housing delivery and the regeneration of towns and cities. She works with local authorities, heritage organisations and policymakers to consider barriers to development and support collaboration between the public and private sectors.\n\nAlongside her executive role, Georgina is a Trustee of the Heritage Trust for the North West.\n\nClaire McColgan\n\nAppointed from 1 October 2026 to 30 September 2030\n\nClaire is an experienced cultural leader with more than 30 years’ experience in culture-led regeneration, major events and community engagement at both a local and national level.\n\nAs Director of Culture, Visitor Economy and Major Events for Liverpool and the wider city region, Claire has played a leading role in the delivery of a number of major cultural programmes and events, including Liverpool’s year as European Capital of Culture in 2008, Eurovision 2023 and the UK’s COVID-19 reopening programme. She has also led work supporting Liverpool’s designation as a UNESCO City of Music and its involvement in the UN Accelerator City programme.\n\nClaire has extensive experience of community engagement and cultural participation, including through the development and delivery of Liverpool’s Creative Communities programme. She is also an international adviser and speaker on culture and regeneration.\n\nClaire currently serves as Deputy Chair of the UK City of Culture programme and as a Non-Executive Director of Carnegie UK and Visit Isle of Man. She has been appointed an MBE and subsequently a CBE for her contribution to culture.\n\nLukman Patel\n\nAppointed from 1 October 2026 to 30 September 2030\n\nLukman is Chief Executive of Burnley Borough Council, a solicitor and an experienced local government leader with a background spanning regeneration, governance, asset management and organisational change. As Chief Executive, Lukman provides strategic leadership across the council’s regeneration and place agenda, including investment, planning, housing, education and economic development. \n\nLukman has played a leading role in Burnley’s approach to town centre regeneration, including the use of heritage assets and cultural investment to support economic development and community benefit. His work has included securing investment for the restoration and reuse of listed buildings and supporting heritage-led regeneration initiatives across the borough.\n\nHe has also supported Burnley’s development as a university town, with a focus on strengthening educational opportunities and creating opportunities for young people and families. Throughout his local government career, Lukman has worked closely with partners across the public, private and community sectors to support the long-term development of Burnley and the wider area.\n\nMoira Sinclair\n\nAppointed from 1 October 2026 to 30 September 2030\n\nMoira is a skilled Board and Executive leader, with more than 40 years’ experience in funding, policy and delivery across the arts, heritage and charity sectors. \n\nIn 2025, she stepped down after 10 years as Chief Executive of the Paul Hamlyn Foundation. Previously from 2005 to 2015, she was Executive Director for London and South East for Arts Council England. She played a key role supporting the cultural programme for the London 2012 Olympic and Paralympic Games. She also chaired the London Mayor’s Cultural Leadership Board until 2024. \n\nMoira is currently Chair of Clore Leadership and Chair of Factory International in Manchester. She is also Chair of the Investment Committee for the Arts &amp; Culture Impact Fund and a trustee of the National Landscapes Association. \n\nShe was awarded an OBE in the 2021 New Year Honours List for her contribution to the arts and charity.\n\nRemuneration and Governance Code\n\nCommissioners of Historic England are remunerated at £4,133 per year.\n\nThese appointments have been made in accordance with the Governance Code on Public Appointments. The appointments process is regulated by the Commissioner for Public Appointments. \n\nUnder the Code, any significant political activity undertaken by an appointee in the last five years must be declared. This is defined as including holding office, public speaking, making a recordable donation, or candidature for election.Charles Donald, Dominic Field, Anna Keay, Georgina Lynch, Claire McColgan, Lukman Patel, and Moira Sinclair have not declared any significant political activity.\n\nNotes to Editors\n\nDCMS has around 400 regulated Public Appointment roles across 44 Public Bodies including Arts Council England, Theatres Trust, the National Gallery, UK Sport and the Gambling Commission. We encourage applications from talented individuals from all backgrounds and across the whole of the United Kingdom. To find out more about Public Appointments or to apply visit the HM Government Public Appointments Website.\n",
-      "bodyHash": "9a562ad7541790203a817afcbed188781eb42c583c3154bedf40d18ce0e297e4",
-      "language": "en",
-      "republication": {
-        "sourceId": "govuk-fulltext",
-        "sourceUrl": "https://www.gov.uk/government/news/historic-england-board-appointments",
-        "license": "Open Government Licence v3.0",
-        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
-        "authors": [
-          "Department for Digital, Culture, Media and Sport",
-          "Historic England"
-        ],
-        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
-        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
-        "sourceUpdatedAt": "2026-09-23T15:00:01+01:00",
-        "sourceVersion": "7710f53d-a64d-427b-83a1-3b61287fde00"
-      },
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T11:42:08.397Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "9ff51cd317db5519ec00107b",
-      "title": "小米 18 Pro 系列手机确认搭载汇顶触控 + 指纹 + 音频方案",
-      "originalUrl": "https://www.ithome.com/1/006/474.htm",
-      "summary": "IT之家 9 月 23 日消息，小米 18 Pro 系列手机已于今晚正式发布，搭载第六代骁龙 8 至尊版系列移动平台，后置徕卡 2 亿大底主摄 + 2 亿大底长焦，配备 AI 百变背屏，售价 5999 元起。 IT之家注意到，汇顶科技官方今日发文，宣布小米 18 Pro 系列搭载汇顶触控 + 指纹 + 音频方案。 触控升级：小米 18 Pro 系列主屏采用汇顶 GT9926 系列触控芯片，可实现毫秒级响应。全新硬件降噪技术加持，信噪比较上一代提升 100%。该系列背屏同样搭载…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:59:45.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "f8b79c16a463f23efdd887c8",
-      "title": "湖南祁阳丰收节搭台促消费 油茶产业赋能乡村振兴",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-23/10702586.shtml",
-      "summary": "中新网祁阳9月23日电(汪洋 何艳飞 蒋敏杰)23日，2026年“中国农民丰收节”湖南祁阳市系列活动在唐家山油茶文化园举办。本次活动以“金秋庆丰收 消费促振兴”为主题，该市22个镇(街道)组队参与，通过农事趣味竞赛、农产品展销等特色活动，展现当地丰收成果，助力乡村振兴与农产品消费提质。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:59:10.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "finance"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "ecb15c20df4b618541ae1f3e",
-      "title": "感悟体育精神的传承 2026年中华全国体育基金会公益研学活动举行",
-      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-23/10702587.shtml",
-      "summary": "中新网淄博9月23日电 一场别开生面的公益研学活动近日在山东淄博举行，来自河北、山东、河南、四川四省的30名受资助体校运动员和4名教练员齐聚淄博，共同踏上了一段融文化研学、体育观摩与冠军交流于一体的成长之旅。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-sports",
-        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:59:04.000Z",
-      "timeIssue": null,
-      "channels": [
-        "sports"
-      ],
-      "sourceIds": [
-        "chinanews-sports"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T06:06:49.335Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "9755b0bfe9d7a2a683ebcd19",
-      "title": "雷蛇推出 Mako 灰鲭鲨音箱系统：2.1 配置，到手价 1199 元",
-      "originalUrl": "https://www.ithome.com/1/006/473.htm",
-      "summary": "IT之家 9 月 23 日消息，Razer（雷蛇）昨晚发布了 Mako（灰鲭鲨）2.1 游戏音箱系统。这一套装由 2 个 2.75\" 全频驱动单元和 1 个 3.5\" 前置低音炮组成，支持 40W RMS 功率和 60W 峰值功率。 Mako 音箱支持三模连接，左右两个单元采用 40° 倾角设计，集成背投式幻彩灯效。其支持虚拟 7.1 环绕声技术，可在桌面上塑造成拟真的 3D 声场，带来细腻的听感。 雷蛇灰鲭鲨游戏音箱到手价 1199 元，10 月 22 日 10:00 开售…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:59:03.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "24b12eb2c699b65eb791c09d",
-      "title": "农民丰收节，和大城市有什么关系",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-23/10702606.shtml",
-      "summary": "马上评｜农民丰收节，和大城市有什么关系",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:58:39.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "344c56e1b9f976b988095a6d",
-      "title": "国家文物局文物古迹司司长：强化文保空间管控 呈现更多文化胜景",
-      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-23/10702589.shtml",
-      "summary": "中新网北京9月23日电 (记者 应妮 徐皇冠)第四次全国文物普查已进入收尾阶段，国家文物局文物古迹司司长邓超23日参加2026北京文化论坛时表示，普查成果转化的一个重要内容，就是要强化文物保护空间管控，通过不可移动文物的“不可移动”，锚定周边历史环境的景观胜迹，让类似佛光寺一眼千年的文化胜景，更多呈现在祖国大地。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-culture",
-        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:55:35.000Z",
-      "timeIssue": null,
-      "channels": [
-        "entertainment"
-      ],
-      "sourceIds": [
-        "chinanews-culture"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T06:06:49.335Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "135285bcbc320953ba9bee2f",
-      "title": "北京市消费者协会开展实验室开放活动",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-23/10702594.shtml",
-      "summary": "中新网北京9月23日电 (记者 吕少威)北京市消费者协会22日面向社会开放实验室，邀请消费者、媒体、网友走进检测机构，实地观摩儿童家具、便携式检测仪器、户外纺织品、日用化学品等民生商品试验过程，把消费教育从结果端前移至检测环节，以公开透明的试验推动消费提质与行业共治。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:55:29.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "finance"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "479e701177eb784df6c72cf6",
-      "title": "川台携手话振兴：台商台青四川宜宾寻合作新机",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-23/10702593.shtml",
-      "summary": "中新网宜宾9月23日电 (王利文)9月21日至23日，第五届川台两地助力乡村振兴高质量发展活动在四川宜宾举行。围绕“川台融合促振兴·同心筑梦谱新篇”主题，250余名在大陆发展的台商台青、涉农涉台企业负责人及“三农”领域专家学者走进果园、企业、古镇，在田间地头探寻答案，在产业一线共谋合作。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:51:47.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance"
-      ],
-      "sourceIds": [
-        "chinanews-finance"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "0a1a11abd13a517b662919d7",
-      "title": "近3万件作品“交卷” 2026成都国际数字文创季启幕",
-      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-23/10702592.shtml",
-      "summary": "中新网成都9月23日电 23日，以“数字星耀蓉城”为主题的2026成都国际数字文创季在成都科幻馆启幕，成都国际数字文创创新应用大赛评选结果同日发布，来自35个国家和地区的29079件原创作品完成“交卷”，五条赛道获奖作品逐一揭晓。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-culture",
-        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:51:27.000Z",
-      "timeIssue": null,
-      "channels": [
-        "entertainment"
-      ],
-      "sourceIds": [
-        "chinanews-culture"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T06:06:49.335Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "845b36e35eb296f52c99084d",
-      "title": "法学专家：海外流失文物追索需加强溯源研究",
-      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-23/10702572.shtml",
-      "summary": "中新网北京9月23日电 (记者 应妮 徐皇冠)中国人民大学教授、联合国教科文组织文化遗产法教席主持人王云霞23日参加2026北京文化论坛接受中新社记者专访时表示，应加强对中国海外流失文物的溯源研究，并推动其制度化、规范化，为追索返还流失文物提供重要支撑。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-culture",
-        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:49:31.000Z",
-      "timeIssue": null,
-      "channels": [
-        "entertainment"
-      ],
-      "sourceIds": [
-        "chinanews-culture"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T06:06:49.335Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "5c6c980a7168cf72a020d302",
-      "title": "融通全球创新资源 重庆借国际“智囊团”深化科技开放合作新局",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-23/10702571.shtml",
-      "summary": "中新网重庆9月23日电 (记者 刘相琳)22日至23日，第二十届重庆市市长国际经济顾问团会议在重庆举行。来自11个国家的32家世界500强及行业龙头企业代表齐聚山城，围绕“融通全球创新资源，深化科技开放合作”贡献智慧，也达成了一批实实在在的投资意向。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:49:05.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance",
-        "technology"
-      ],
-      "sourceIds": [
-        "chinanews-finance"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "bcc707143298045bc20eea37",
-      "title": "上海城市特色商业养老金产品“沪养保”上线",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-23/10702569.shtml",
-      "summary": "中新网上海9月23日电 (高志苗)“沪养保”项目上线新闻通气会23日在上海举行，上海城市特色商业养老金产品“沪养保”正式上线。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:47:47.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance"
-      ],
-      "sourceIds": [
-        "chinanews-finance"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "1075e3331f8099bb5a71c128",
-      "title": "粤西创新创业的“启航地”：广湛园孵化器如何把“种子”养成“森林”？",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-23/10702568.shtml",
-      "summary": "中新网湛江9月23日电 题：粤西创新创业的“启航地”：广湛园孵化器如何把“种子”养成“森林”？",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:47:05.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance",
-        "career"
-      ],
-      "sourceIds": [
-        "chinanews-finance"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "99486883561bbb8eca2a012a",
-      "title": "青海推出五条金秋精品旅游线路及系列文旅活动350余项",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-23/10702567.shtml",
-      "summary": "中新网西宁9月23日电 (潘雨洁)23日青海省文化和旅游厅消息，该省坚持省外引流、省内激活、海外拓客协同发力，秉持近悦远来、主客共享理念，启动“山河万象·青海有约”金秋文旅欢乐月活动，推出五条金秋精品旅游线路及系列文旅活动350余项。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:46:57.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "travel"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "8cdc4e8566132748b73c238e",
-      "title": "以AI技术探索科幻影像新边界 科幻电影《檐下未来》概念片首发",
-      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-23/10702559.shtml",
-      "summary": "中新网杭州9月23日电 由中国科普作家协会科幻作家、青年导演及编剧刘汉霖原创的科幻电影《檐下未来》，日前在2026云栖大会首次公开亮相并发布概念片。《檐下未来》概念片以未来城市、人机共生与生命选择为核心意象，呈现了对未来科技与人类精神世界的想象。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-culture",
-        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:36:04.000Z",
-      "timeIssue": null,
-      "channels": [
-        "entertainment",
-        "technology"
-      ],
-      "sourceIds": [
-        "chinanews-culture"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T06:06:49.335Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "2a3667143c13c07bdab3fe6a",
-      "title": "乘高铁赴秋日邀约 陕西安康借高铁开通激活文旅发展新动能",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-23/10702557.shtml",
-      "summary": "中新网西安9月23日电 (记者 阿琳娜)西康高铁即将开通运营。“乘西康高铁 赴安康之约”安康城市宣传暨文旅推介活动22日晚在西安启幕，活动聚焦文旅资源推介、精品线路展示、跨城文旅协作和沉浸式互动体验等内容，呈现安康的山水之美、人文之韵与烟火之味，邀广大游客乘高铁、越秦岭、品安康。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:35:58.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "travel"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "c19bdfec449b75027fd4ee15",
-      "title": "旱季不再“缺水愁” 湖南祁阳清泉入户润民心",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-23/10702555.shtml",
-      "summary": "中新网永州9月23日电(郑宏)曾经旱季缺水、水质浑浊，如今清泉入户、饮水无忧。今年以来，湖南祁阳靶向整治农村饮水问题，提速供水提质工程，以精准监督护航民生实事，让群众彻底告别季节性“缺水愁”。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:34:36.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "25a7c5fac1b29a92b24fa120",
-      "title": "铁路国庆中秋假期运输启动 国铁北京局预计发送旅客超2200万人次",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-23/10702553.shtml",
-      "summary": "中新网北京9月23日电(记者 贾天勇)记者从中国铁路北京局集团有限公司获悉：2026年铁路国庆中秋假期运输期限为9月23日至10月8日，共计16天。国铁北京局预计发送旅客2232万人次，预计客流高峰日为10月1日，客流以旅游、探亲、学生为主。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:33:50.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "mobility"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "b767c94fb712d9fa6d2c6b58",
-      "title": "融合园林资源与丝路文化 “丝路园博·花咖共生”特色科普活动在重庆举行",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-23/10702550.shtml",
-      "summary": "中新网重庆9月23日电(记者 肖江川)23日，2026年重庆市全国科普月市级学会联合行动“丝路园博·花咖共生”特色活动在重庆园博园举行。活动紧扣“科技改变生活，创新赢得未来”主题，以植物传播为核心载体，融合园林资源与丝绸之路文化，串联起从一粒种子到一杯咖啡的科普之旅。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:33:42.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "entertainment"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "b4f9b79051b9861bd7b6b100",
-      "title": "辐射渝鄂湘黔 百亿级农产品流通枢纽在重庆酉阳投用",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-23/10702547.shtml",
-      "summary": "中新网重庆9月23日电 (罗永皓)23日，红星酉阳武陵山农批中心启动仪式举行。至此，这一辐射渝鄂湘黔四省市约3000万人口的百亿级农产品流通枢纽正式投用。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:32:38.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance"
-      ],
-      "sourceIds": [
-        "chinanews-finance"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "faad11dd36cade6c8d6bbe3a",
-      "title": "新《寂静岭》电影项目曝光，曾操刀《哥斯拉大战金刚》的好莱坞制片人罗伊 · 李将参与",
-      "originalUrl": "https://www.ithome.com/1/006/472.htm",
-      "summary": "IT之家 9 月 23 日消息，当地时间 20 日，《华尔街日报》爆料称，好莱坞制片人罗伊 · 李参与开发了一部新的《寂静岭》电影。 罗伊 · 李制作了 100 多部电影，且持续取得成功，其中不少改编自授权 IP。从担任《午夜凶铃》《咒怨》《鬼水怪谈》《见鬼》等亚洲恐怖片美国翻拍版的执行制片人起步，他此后又制作了多部成功的 IP 改编或电影翻拍作品。 他的作品包括《乐高大电影》及其续集和衍生作品、《哥斯拉 2：怪兽之王》《睡梦医生》《哥斯拉大战金刚》《我的世界大电影》，还有新…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:31:44.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "entertainment"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "3fecdbed7588b7539a086879",
-      "title": "重庆发布商品住房“好房子”项目评价标准 促产业发展",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-23/10702551.shtml",
-      "summary": "中新网重庆9月23日电 (张旭)9月23日，2026重庆市“好房子”产业链对接暨技术创新应用大会在当地举行。政府部门、行业专家、企业及媒体代表齐聚现场，共促产业发展。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:31:16.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "home",
-        "finance"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "f1f22590ab1f3e2d29676e95",
-      "title": "宁夏兴庆：赶集庆丰年 打通农货进城双向路",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-23/10702552.shtml",
-      "summary": "中新网银川9月23日电 (记者 李佩珊)摊位前人头攒动，大锅宴香气漫开，各色瓜果水产摆满展台……9月23日，黄河岸边的宁夏银川市兴庆区通贵大集人声鼎沸，兴庆区2026年中国农民丰收节活动在此拉开帷幕。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:31:10.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "d16f1d50c8027993afb67a5a",
-      "title": "张雨霏亚运会摘银：期待下一次比赛能游出我想要的成绩",
-      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-23/10702605.shtml",
-      "summary": "中新网9月23日电 (记者 朱晨曦)当地时间9月23日，在爱知·名古屋亚运会游泳项目女子100米蝶泳决赛中，中国队选手余依婷以56秒41获得冠军。中国队选手、亚洲纪录保持者张雨霏以56秒44获得亚军。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-sports",
-        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:30:04.000Z",
-      "timeIssue": null,
-      "channels": [
-        "sports"
-      ],
-      "sourceIds": [
-        "chinanews-sports"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T06:06:49.335Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "0ffddb8ef1109a978903e760",
-      "title": "报告：美国人开始问 AI“吃什么零食”，高蛋白和重口味食品需求增长",
-      "originalUrl": "https://www.ithome.com/1/006/471.htm",
-      "summary": "IT之家 9 月 23 日消息，据路透社报道，康尼格拉食品公司（Conagra Brands）称，越来越多美国消费者开始向人工智能询问“该吃什么零食”。这家 Slim Jim 肉类零食棒制造商表示，这一消费习惯正在推动高蛋白食品、浓郁风味产品以及针对特定健康目标定制的食品需求增长。 受减肥药快速普及以及白宫“让美国再次健康”（Make America Healthy Again）倡议等因素影响，美国消费者对更健康食品的需求比以往任何时候都更加旺盛。 康尼格拉食品同时也是亨氏（…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:26:45.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "food"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T00:51:19.877Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "316cbd556e485e2d09ee0c90",
-      "title": "中国体操女团实现亚运会14连冠",
-      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-23/10702590.shtml",
-      "summary": "中新网9月23日电 (记者 金旭)在当地时间23日晚进行的爱知·名古屋亚运会竞技体操女子团体决赛中，由柯沁沁、张清颖、邱祺缘、张怡涵、杜思雨组成的中国女团以166.462分的总成绩夺得金牌，实现了自1974年以来在亚运会该项目上的14连冠。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-sports",
-        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-23T13:19:55.000Z",
-      "timeIssue": null,
-      "channels": [
-        "sports"
-      ],
-      "sourceIds": [
-        "chinanews-sports"
-      ],
-      "firstSeenAt": "2026-09-23T14:57:12.672Z",
-      "lastSeenAt": "2026-09-24T06:06:49.335Z",
-      "updatedAt": "2026-09-23T14:57:12.672Z",
-      "version": 1,
-      "history": []
     }
   ],
   "sourceStatus": {
@@ -260517,8 +260529,8 @@
       "id": "ithome",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-18T21:49:02.345Z",
-      "lastSuccessAt": "2026-10-18T21:49:02.345Z",
+      "checkedAt": "2026-10-19T00:10:31.022Z",
+      "lastSuccessAt": "2026-10-19T00:10:31.022Z",
       "etag": null,
       "lastModified": null,
       "discovered": 60,
@@ -260529,8 +260541,8 @@
       "id": "sspai",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-18T21:49:02.345Z",
-      "lastSuccessAt": "2026-10-18T21:49:02.345Z",
+      "checkedAt": "2026-10-19T00:10:31.022Z",
+      "lastSuccessAt": "2026-10-19T00:10:31.022Z",
       "etag": null,
       "lastModified": null,
       "discovered": 10,
@@ -260541,11 +260553,11 @@
       "id": "chinanews-society",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-18T21:49:02.345Z",
-      "lastSuccessAt": "2026-10-18T21:49:02.345Z",
-      "etag": "\"6ad4e413-3fad\"",
-      "lastModified": "Sun, 18 Oct 2026 15:21:55 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-10-19T00:10:31.022Z",
+      "lastSuccessAt": "2026-10-19T00:10:31.022Z",
+      "etag": "\"6ad55a5c-40b5\"",
+      "lastModified": "Sun, 18 Oct 2026 23:46:36 GMT",
+      "discovered": 30,
       "failures": 0,
       "error": null
     },
@@ -260553,11 +260565,11 @@
       "id": "chinanews-finance",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-18T21:49:02.345Z",
-      "lastSuccessAt": "2026-10-18T21:49:02.345Z",
-      "etag": "\"6ad4d7c5-3e43\"",
-      "lastModified": "Sun, 18 Oct 2026 14:29:25 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-10-19T00:10:31.022Z",
+      "lastSuccessAt": "2026-10-19T00:10:31.022Z",
+      "etag": "\"6ad558dd-3cb1\"",
+      "lastModified": "Sun, 18 Oct 2026 23:40:13 GMT",
+      "discovered": 30,
       "failures": 0,
       "error": null
     },
@@ -260565,8 +260577,8 @@
       "id": "chinanews-life",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-18T21:49:02.345Z",
-      "lastSuccessAt": "2026-10-18T21:49:02.345Z",
+      "checkedAt": "2026-10-19T00:10:31.022Z",
+      "lastSuccessAt": "2026-10-19T00:10:31.022Z",
       "etag": "\"6ad2fa9b-23a8\"",
       "lastModified": "Sat, 17 Oct 2026 04:33:31 GMT",
       "discovered": 0,
@@ -260577,8 +260589,8 @@
       "id": "chinanews-jk",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-18T21:49:02.345Z",
-      "lastSuccessAt": "2026-10-18T21:49:02.345Z",
+      "checkedAt": "2026-10-19T00:10:31.022Z",
+      "lastSuccessAt": "2026-10-19T00:10:31.022Z",
       "etag": "\"69aa3e2a-2832\"",
       "lastModified": "Fri, 06 Mar 2026 02:38:34 GMT",
       "discovered": 0,
@@ -260589,8 +260601,8 @@
       "id": "chinanews-culture",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-18T21:49:02.345Z",
-      "lastSuccessAt": "2026-10-18T21:49:02.345Z",
+      "checkedAt": "2026-10-19T00:10:31.022Z",
+      "lastSuccessAt": "2026-10-19T00:10:31.022Z",
       "etag": "\"6ad4db53-3dec\"",
       "lastModified": "Sun, 18 Oct 2026 14:44:35 GMT",
       "discovered": 0,
@@ -260601,8 +260613,8 @@
       "id": "chinanews-edu",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-18T21:49:02.345Z",
-      "lastSuccessAt": "2026-10-18T21:49:02.345Z",
+      "checkedAt": "2026-10-19T00:10:31.022Z",
+      "lastSuccessAt": "2026-10-19T00:10:31.022Z",
       "etag": "\"6ad371b4-2e2e\"",
       "lastModified": "Sat, 17 Oct 2026 13:01:40 GMT",
       "discovered": 0,
@@ -260613,8 +260625,8 @@
       "id": "chinanews-sports",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-18T21:49:02.345Z",
-      "lastSuccessAt": "2026-10-18T21:49:02.345Z",
+      "checkedAt": "2026-10-19T00:10:31.022Z",
+      "lastSuccessAt": "2026-10-19T00:10:31.022Z",
       "etag": "\"6ad4ed35-3f47\"",
       "lastModified": "Sun, 18 Oct 2026 16:00:53 GMT",
       "discovered": 0,
@@ -260625,19 +260637,19 @@
       "id": "chinanews-scroll-news",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-18T21:49:02.345Z",
-      "lastSuccessAt": "2026-10-18T21:49:02.345Z",
-      "etag": "\"6ad5076f-63f4\"",
-      "lastModified": "Sun, 18 Oct 2026 17:52:47 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-10-19T00:10:31.022Z",
+      "lastSuccessAt": "2026-10-19T00:10:31.022Z",
+      "etag": "\"6ad55c41-5edb\"",
+      "lastModified": "Sun, 18 Oct 2026 23:54:41 GMT",
+      "discovered": 30,
       "failures": 0,
       "error": null
     },
     "govuk-fulltext": {
       "id": "govuk-fulltext",
       "status": "ok",
-      "checkedAt": "2026-10-18T21:49:02.345Z",
-      "lastSuccessAt": "2026-10-18T21:49:02.345Z",
+      "checkedAt": "2026-10-19T00:10:31.022Z",
+      "lastSuccessAt": "2026-10-19T00:10:31.022Z",
       "discovered": 20,
       "rejected": 0,
       "contentSchema": 3,
