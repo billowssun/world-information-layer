@@ -1,13 +1,642 @@
 {
   "schemaVersion": "1",
-  "collectedAt": "2026-10-20T20:31:40.613Z",
-  "lastSuccessfulCollectionAt": "2026-10-20T20:31:40.613Z",
+  "collectedAt": "2026-10-20T23:22:25.747Z",
+  "lastSuccessfulCollectionAt": "2026-10-20T23:22:25.747Z",
   "items": [
+    {
+      "id": "72b7e766646f83c60ebf2256",
+      "title": "马斯克：未来某天金钱将毫无意义，传统货币也不再重要",
+      "originalUrl": "https://www.ithome.com/1/015/628.htm",
+      "summary": "IT之家 10 月 21 日消息，据《商业内幕》今天（21 日）凌晨报道，特斯拉和 SpaceX CEO、全球首富埃隆 · 马斯克认为，金钱有一天可能变得毫无意义，而他的巨额财富也很可能在几代人后所剩无几。 马斯克预测，随着机器人技术和太空旅行的发展，跨行星经济体系将逐渐形成，届时金钱会失去意义，传统货币也不再重要。未来衡量价值的标准，将是物质质量、功率或能量。 今年早些时候，马斯克曾建议人们不必再为 10 年或 20 年后的退休生活攒钱，因为他相信 AI 等技术会极大提高生…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-20T23:21:49.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "bce8bab5edf16202e88ee994",
+      "title": "AI 需求旺盛致内存供应紧张，集邦咨询预估 2026Q4 DRAM 合约价环比涨 20%",
+      "originalUrl": "https://www.ithome.com/1/015/627.htm",
+      "summary": "IT之家 10 月 21 日消息，市场调查机构集邦咨询（TrendForce）援引多方报道称，预估 2026 年第四季度 DRAM 合约价格环比上涨约 20%。从涨幅来看，相比较第二季度（约 80%）和第三季度（约 40%）呈现增速放缓情况，但 DRAM 市场整体依然处于价格高位，处于供应紧张、需求强劲的周期中。 IT之家援引博文介绍，推动价格上涨的核心因素是人工智能推理需求的持续扩张。更大模型、更长上下文窗口以及不断增长的 KV 缓存需求，正在拉动服务器 DRAM 和企业级…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-20T23:17:21.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "50d80a389e368442c8a1e7c7",
+      "title": "谷歌开源 TorchTPU，挑战英伟达 AI 生态主导地位",
+      "originalUrl": "https://www.ithome.com/1/015/626.htm",
+      "summary": "IT之家 10 月 21 日消息，谷歌于当地时间周二宣布，面向谷歌 TPU 的原生 PyTorch 框架 TorchTPU 现已在 GitHub 上开源。借此，谷歌与亚马逊一同尝试打破英伟达在人工智能行业的垄断。目前绝大多数人工智能应用默认都是基于英伟达芯片，也就是图形处理器（GPU）开发运行。 PyTorch 是一款热门开源工具库，人工智能应用开发者与初创企业依靠它搭建、训练和部署人工智能模型。有统计称，85% 的人工智能应用都在使用 PyTorch。PyTorch 最初由…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-20T23:14:01.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "36e1e5de7fea1919cc63b1d1",
+      "title": "地表最强科技联姻：马斯克称特斯拉与 SpaceX 合并“有很多好处”",
+      "originalUrl": "https://www.ithome.com/1/015/625.htm",
+      "summary": "IT之家 10 月 21 日消息，彭博社今天（10 月 21 日）发布博文，报道称在 2026 财年第三财季（2026 年 7 月～2026 年 9 月）财报电话会上，全球首富埃隆 · 马斯克表示 SpaceX 与特斯拉均已成立由独立董事组成的特别委员会，研究两家公司潜在合并的可能性。 若交易最终落地，有望成为有史以来规模最大的企业合并。马斯克称，合并“有很多好处”，尤其是在双方共同开发“超级智能”（SI）软件、推进人工智能与自动驾驶等业务方面，合作空间巨大。不过他强调，目前…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-20T23:08:36.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6e724ff5e7dcd3f18f714397",
+      "title": "通用汽车关闭底特律电池组装厂，因租约到期而非电动化战略调整",
+      "originalUrl": "https://www.ithome.com/1/015/624.htm",
+      "summary": "IT之家 10 月 21 日消息，通用汽车（GM）发言人向科技博客 TechCrunch 证实，公司将关闭底特律南部的一处电池组装工厂。 布朗斯敦电池组装厂负责为凯迪拉克旗舰电动车型 Celestiq 组装电池包，同时也为雪佛兰科尔维特 E-Ray 生产电驱动单元（也就是车辆的驱动电机）以及电池包，科尔维特 E-Ray 是这款经典跑车的插电混动版本。 这名发言人表示，本次关闭工厂和通用汽车的电动汽车战略无关。原因是该厂房为通用租赁，租约即将到期。 布朗斯敦工厂的员工与相关生产…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-20T23:04:10.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e2c9cb391c44b2025b44e218",
+      "title": "10,000 young people to get foot in the door of Britain's tech sector as work placements rolled out across the country",
+      "originalUrl": "https://www.gov.uk/government/news/10000-young-people-to-get-foot-in-the-door-of-britains-tech-sector-as-work-placements-rolled-out-across-the-country",
+      "sourcePublishedAt": "2026-10-21T00:01:05+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "Young people looking for their first job will benefit from 10,000 new work experience placements to open doors into the UK’s digital and tech sector All secondary schools are now able to access government programme TechFirst, with an ambiti",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><div>\n  <ul>\n    <li>Young people looking for their first job will benefit from 10,000 new work experience placements to open doors into the UK’s digital and tech sector</li>\n    <li>All secondary schools are now able to access government programme TechFirst, with an ambition to reach 1 million students by 2028 - a year earlier than planned - including 400,000 from the most disadvantaged schools</li>\n    <li>The rollout builds on the PM’s call to arms to employers to provide an additional 200,000 work experience placements to ensure all young people have vital exposure to the workplace between 14 and 16</li>\n  </ul>\n</div>\n\n<p>10,000 young people will get the chance to get experience under their belt, build up their CVs, and get their foot in the door of Britain’s digital and tech sector.</p>\n\n<p>With nearly 1 million young people not in employment, education or training, Britain faces a generational challenge, requiring a generational shake up in how young people get the right skills and experience. That means creating more choices, more chances and more pathways for young people to chart their course from learning to earning.</p>\n\n<p>Some of Britain’s key tech employers, including Microsoft, Cisco, IBM, Cognizant, AtkinsRéalis, Arm, Kainos and QinetiQ, are backing the drive, opening up 10,000 opportunities over the next three years.</p>\n\n<p>We are also calling on more employers to join them in offering new roles, with an aim of 20,000 entry-level jobs each year, as part of our mission to give young people in Britain, particularly those not in education, employment or training, a clear line of sight into a job.</p>\n\n<p>This comes on top of support for at least 1 million secondary students – including 400,000 from disadvantaged schools – to get the skills and opportunities needed to build a future in tech, as government announces the rollout of the TechFirst skills programme across the UK.</p>\n\n<p>Secondary students will receive workshops, skills sessions, career talks, industry workplace experiences, tech clubs, inter-school competitions, and access to the digital learning platform <a href=\"https://adacomputerscience.org/\">Ada Computer Science</a> – giving every UK student the chance to build tech skills that lead to better jobs, higher earnings and brighter futures. </p>\n\n<p>Only last week, the Prime Minister said that the challenges facing young people cannot be solved through traditional welfare reform alone. </p>\n\n<p>Instead, change requires a whole-system approach, working in partnership with mayors, local leaders and employers to create more work opportunities and intervening earlier to tackle the wider systemic reasons young people fall out of education, training and employment in the first place.</p>\n\n<p>The Prime Minister also made a call to arms to employers to provide an additional 200,000 work experience placements to ensure all young people have vital exposure to the workplace between 14 and 16. This could include spending time in key sectors including accountancy firms, digital media companies and construction companies. Employers can contact their <a href=\"https://www.careersandenterprise.co.uk/careers-hubs/contact-your-local-careers-hub\">local Careers Hubs</a> to pledge new work experience placements.</p>\n\n<p><strong>Prime Minister Andy Burnham said:</strong></p>\n\n<blockquote>\n  <p>It’s one of the biggest frustrations when you’re starting out. Everyone tells you that you need experience to get a job, but nobody gives you the chance to get that experience in the first place.</p>\n\n  <p>Thousands of young people will get the chance to get their foot in the door in one of the UK’s biggest growth sectors, build their confidence and skills, and get something meaningful on their CV.</p>\n\n  <p>Our job is to back this generation, open those doors and give every young person a fair chance to build a good future for themselves, wherever they come from.</p>\n</blockquote>\n\n<p>Last week, the Prime Minister also said that the state is not set up to meet the needs of young people today, as they face new challenges in an age of social media and AI, rising costs and a more volatile and uncertain global context. He warned that the longer young people are left adrift from education, employment or training, the more likely they are to become disconnected from society, damaging not only their own prospects but the strength and cohesion of our communities. </p>\n\n<p><strong>Secretary of State for Digital, Culture, Media and Sport Lisa Nandy, said:</strong></p>\n\n<blockquote>\n  <p>Our country is grappling a generational challenge - we cannot and will not let our young people be locked out of the British workforce.</p>\n\n  <p>Getting a good job in our thriving digital and tech industry shouldn’t be determined by where you live or what school you go to. Talent is everywhere. Opportunity is not.</p>\n\n  <p>That’s why we’re making it easier for young people to build the skills and experience that lead to a fulfilling career through our TechFirst youth programme and Digital and Tech Skills Deal. Young people will be able to develop tech skills and gain work experience in the sector while at school, and we’re ensuring the industry then leaves its doors open for them when they finish education, with proper job opportunities and career pathways.</p>\n\n  <p>We’re wrapping our arms around the next generation, making sure they get the skills and opportunities that match their talent and ambition, helping a whole generation thrive.</p>\n</blockquote>\n\n<p>This comes as DCMS publishes the <a href=\"https://www.gov.uk/government/publications/digital-and-technologies-jobs-plan\">Digital and Technologies Jobs Plan</a>, setting a target of 20,000 entry level jobs a year, aligning Government, industry and education providers to work collaboratively to build the skills and opportunities people will need for the future roles of the UK’s digital and tech sector. </p>\n\n<p>The plan includes a new commitment to provide workplace experiences to help open the door to the sector - launching with an initial 10,000 experiences on offer from TechFirst industry partners.</p>\n\n<p>Government is now putting the call out to employers across the tech sector to sign up as a <a href=\"https://forms.cloud.microsoft/pages/responsepage.aspx?id=BXCsy8EC60O0l-ZJLRst2BTLXI8pc0pDib41WSlmofhUM0lRMjk1RVhCVk8xVUlTMlozOFkzRTNFNC4u&amp;route=shorturl\">Skills Deal partner</a> and offer digital and tech work experiences.</p>\n\n<p>The publication of the Digital and Technologies Jobs Plan follows the publication of the Professional and Business Services and Construction Jobs Plans on Monday, which marked the start of a week of Jobs Plans, with the Defence Jobs Plan due later this week.</p>\n\n<p>Together, these Industrial Strategy Jobs Plans are opening up routes into good jobs while building the skilled workforce Britain needs to grow and reindustrialise. Bringing government and industry together, they will create more apprenticeship, training and vocational opportunities, helping more people access rewarding careers in the sectors that will power future economic growth.</p>\n\n<p>The plans are being published ahead of the forthcoming Milburn Review into opportunities for young people and form part of the Modern Industrial Strategy, which is backing the industries where Britain can lead globally while ensuring people across the country benefit from economic growth and industrial renewal.</p>\n\n<p><strong>Minister for Skills Baroness Jacqui Smith said:</strong></p>\n\n<blockquote>\n  <p>Every young person deserves the chance to build a career they’re proud of, whatever their background and wherever they live.</p>\n\n  <p>TechFirst helps make that possible, giving students the skills, confidence and experience they need to see a future for themselves in the sector.</p>\n\n  <p>Alongside our Youth Guarantee, which aims to offer every young person the chance to earn or learn, programmes like this mean that ambition is matched by real opportunity with the right support at the right time.</p>\n</blockquote>\n\n<p>The TechFirst programme has been designed for all young people, but will also work to boost skills for underrepresented groups in tech, including women and girls, and young people from disadvantaged areas.</p>\n\n<p>This follows the Prime Minister’s announcement last week to give young people a direct route into skilled, well-paid rail careers. Great British Railways will open up 600 foundation apprenticeships over the next 4 years for 16 to 21 year olds, offering a chance to earn while they learn in an industry where currently less than 7% of the workforce is under 25.</p>\n\n<p>The package also builds on Government work strengthening digital and media literacy across the curriculum to help young people navigate the online world confidently, evaluate information critically and tackle misinformation and disinformation. Alongside this, reforms to computing education, including a new Computing GCSE, will ensure all pupils develop the digital and AI skills needed for future jobs and careers.</p>\n\n<p>These are underpinned by wider government action to put technical education on a par with academic learning and ensure more young people have access to high-quality technical education. As well as the UK’s world-leading universities, Technical Excellence Colleges, new V Levels, expanded T Levels, and new Vocational GCSEs, all helping arm young people with the skills and confidence for the world of work.</p>\n\n<p><strong>NOTES TO EDITORS:</strong></p>\n\n<ul>\n  <li>According to Skills England, Sector Skills Needs Assessment – Digital and Technologies (June 2026), 800,000 digital and tech roles needing filling by 2035.</li>\n  <li>As part of the Digital and Tech Sector Jobs Plan, government aims for employers to collectively create or fill 20,000 entry-level roles each year. This may involve some employers establishing new positions, while others fill existing entry-level vacancies they might not otherwise have prioritised.</li>\n  <li>Earlier this month, government opened registration to the first ever TechFirst Girls Competition in collaboration with IBM, giving girls across the UK the chance to take on tech challenges, build their confidence, and see what a future career in technology could look like for them. Schools can register for the Tech First Girls Competition here: <a href=\"https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.techfirstgirls.co.uk%2F&amp;data=05%7C02%7CAlice.Fletcher%40dsit.gov.uk%7C8d208948de164fa69b3b08df2b98160a%7Ccbac700502c143ebb497e6492d1b2dd8%7C0%7C0%7C639277604330076301%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=TjR2pTdAdGwrNBQvIyXtz8YxiuPVipEoXfUlt7y3n7M%3D&amp;reserved=0\">Welcome - TechFirst Girls Competition</a>\n</li>\n</ul>\n\n<p><strong>Ada platform delivered by Raspberry Pi Foundation</strong>\n- Every student aged 11 to 18 will be able to access the Ada Computer Science online platform delivered in partnership between UK Government and the Raspberry Pi Foundation. The platform will feature curriculum-linked tech lessons, so no student misses out on the chance to build the skills they need to thrive in the workplace. From the end of the 26/27 academic year the platform will replace the Issac platform currently funded by the DfE as part of the National Centre for Computing Education. The platform covers everything from coding and AI to cyber security, letting students learn at their own pace and build real, practical skills alongside their regular lessons. </p>\n\n<p><strong>TechFirst Delivery Partners:</strong></p>\n\n<p>Teachers can sign their school up to the TechFirst Youth Programme by emailing their regional delivery partner: \n- North East: <a>TechFirst@rtcnorth.co.uk</a> \n- North West: <a>TechFirst@in4group.co.uk</a> \n- Yorkshire &amp; Humber: <a>TechFirst@rtcnorth.co.uk</a> \n- East Midlands: <a>TechFirst@in4group.co.uk</a> \n- West Midlands: <a>TechFirst@digitalinnovators.co.uk</a> \n- East of England: <a>TechFirst@techeducators.co.uk</a> \n- London: <a>TechFirst@stem.org.uk</a> \n- South East: <a>TechFirst@stem.org.uk</a> \n- South West: <a>TechFirst@techspark.co</a> \n- Wales: <a>Wales@cyberfirstschools.co.uk</a> \n- Northern Ireland: <a>TechFirst@belfastmet.ac.uk</a>\n- Scotland: <a>TechFirst@EducationScotland.gov.scot</a></p>\n\n<p><strong>Digital and Technologies Skills Deal</strong>\n- Current Digital and Tech Skills Deal partners: ARM, Cisco, AtkinsRéalis, Cognizant, IBM, Kainos, Microsoft, Qinetiq. Employers across the tech sector can sign up as a Skills Deal partner to offer digital and tech work experiences here: <a href=\"https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.cloud.microsoft%2Fpages%2Fresponsepage.aspx%3Fid%3DBXCsy8EC60O0l-ZJLRst2BTLXI8pc0pDib41WSlmofhUM0lRMjk1RVhCVk8xVUlTMlozOFkzRTNFNC4u%26route%3Dshorturl&amp;data=05%7C02%7CAlice.Fletcher%40dsit.gov.uk%7C8d208948de164fa69b3b08df2b98160a%7Ccbac700502c143ebb497e6492d1b2dd8%7C0%7C0%7C639277604330091830%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=4b%2BIWydhHcFwI55v%2FpefCBUUM%2B6ReBpIN31GVmBmnSI%3D&amp;reserved=0\">TechFirst Community Sign Up</a></p>\n\n<p><strong>TechFirst Women’s programme</strong>\n- Government will also support women at all career stages, from early-career professionals to career changers and returners, to move into paid jobs in artificial intelligence, cyber security and other high-growth technology sectors. \n- Through the TechFirst Women’s Programme, 300 women across the UK will receive mentoring, skills development and matching with live vacancies, with the aim of securing paid roles lasting at least six months by March 2027.\n- Individuals can sign up to the programme here: <a href=\"https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.techfirstwomen.com%2F&amp;data=05%7C02%7CAlice.Fletcher%40dsit.gov.uk%7C8d208948de164fa69b3b08df2b98160a%7Ccbac700502c143ebb497e6492d1b2dd8%7C0%7C0%7C639277604330106804%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=8mAPF2GspqS0JsQ4BU5%2FIbEOgKykifMoBHwHP%2Bqgm%2F0%3D&amp;reserved=0\">techfirstwomen.com</a></p>\n</div>",
+      "bodyText": "\n  \n    Young people looking for their first job will benefit from 10,000 new work experience placements to open doors into the UK’s digital and tech sector\n    All secondary schools are now able to access government programme TechFirst, with an ambition to reach 1 million students by 2028 - a year earlier than planned - including 400,000 from the most disadvantaged schools\n    The rollout builds on the PM’s call to arms to employers to provide an additional 200,000 work experience placements to ensure all young people have vital exposure to the workplace between 14 and 16\n  \n\n\n10,000 young people will get the chance to get experience under their belt, build up their CVs, and get their foot in the door of Britain’s digital and tech sector.\n\nWith nearly 1 million young people not in employment, education or training, Britain faces a generational challenge, requiring a generational shake up in how young people get the right skills and experience. That means creating more choices, more chances and more pathways for young people to chart their course from learning to earning.\n\nSome of Britain’s key tech employers, including Microsoft, Cisco, IBM, Cognizant, AtkinsRéalis, Arm, Kainos and QinetiQ, are backing the drive, opening up 10,000 opportunities over the next three years.\n\nWe are also calling on more employers to join them in offering new roles, with an aim of 20,000 entry-level jobs each year, as part of our mission to give young people in Britain, particularly those not in education, employment or training, a clear line of sight into a job.\n\nThis comes on top of support for at least 1 million secondary students – including 400,000 from disadvantaged schools – to get the skills and opportunities needed to build a future in tech, as government announces the rollout of the TechFirst skills programme across the UK.\n\nSecondary students will receive workshops, skills sessions, career talks, industry workplace experiences, tech clubs, inter-school competitions, and access to the digital learning platform Ada Computer Science – giving every UK student the chance to build tech skills that lead to better jobs, higher earnings and brighter futures. \n\nOnly last week, the Prime Minister said that the challenges facing young people cannot be solved through traditional welfare reform alone. \n\nInstead, change requires a whole-system approach, working in partnership with mayors, local leaders and employers to create more work opportunities and intervening earlier to tackle the wider systemic reasons young people fall out of education, training and employment in the first place.\n\nThe Prime Minister also made a call to arms to employers to provide an additional 200,000 work experience placements to ensure all young people have vital exposure to the workplace between 14 and 16. This could include spending time in key sectors including accountancy firms, digital media companies and construction companies. Employers can contact their local Careers Hubs to pledge new work experience placements.\n\nPrime Minister Andy Burnham said:\n\n\n  It’s one of the biggest frustrations when you’re starting out. Everyone tells you that you need experience to get a job, but nobody gives you the chance to get that experience in the first place.\n\n  Thousands of young people will get the chance to get their foot in the door in one of the UK’s biggest growth sectors, build their confidence and skills, and get something meaningful on their CV.\n\n  Our job is to back this generation, open those doors and give every young person a fair chance to build a good future for themselves, wherever they come from.\n\n\nLast week, the Prime Minister also said that the state is not set up to meet the needs of young people today, as they face new challenges in an age of social media and AI, rising costs and a more volatile and uncertain global context. He warned that the longer young people are left adrift from education, employment or training, the more likely they are to become disconnected from society, damaging not only their own prospects but the strength and cohesion of our communities. \n\nSecretary of State for Digital, Culture, Media and Sport Lisa Nandy, said:\n\n\n  Our country is grappling a generational challenge - we cannot and will not let our young people be locked out of the British workforce.\n\n  Getting a good job in our thriving digital and tech industry shouldn’t be determined by where you live or what school you go to. Talent is everywhere. Opportunity is not.\n\n  That’s why we’re making it easier for young people to build the skills and experience that lead to a fulfilling career through our TechFirst youth programme and Digital and Tech Skills Deal. Young people will be able to develop tech skills and gain work experience in the sector while at school, and we’re ensuring the industry then leaves its doors open for them when they finish education, with proper job opportunities and career pathways.\n\n  We’re wrapping our arms around the next generation, making sure they get the skills and opportunities that match their talent and ambition, helping a whole generation thrive.\n\n\nThis comes as DCMS publishes the Digital and Technologies Jobs Plan, setting a target of 20,000 entry level jobs a year, aligning Government, industry and education providers to work collaboratively to build the skills and opportunities people will need for the future roles of the UK’s digital and tech sector. \n\nThe plan includes a new commitment to provide workplace experiences to help open the door to the sector - launching with an initial 10,000 experiences on offer from TechFirst industry partners.\n\nGovernment is now putting the call out to employers across the tech sector to sign up as a Skills Deal partner and offer digital and tech work experiences.\n\nThe publication of the Digital and Technologies Jobs Plan follows the publication of the Professional and Business Services and Construction Jobs Plans on Monday, which marked the start of a week of Jobs Plans, with the Defence Jobs Plan due later this week.\n\nTogether, these Industrial Strategy Jobs Plans are opening up routes into good jobs while building the skilled workforce Britain needs to grow and reindustrialise. Bringing government and industry together, they will create more apprenticeship, training and vocational opportunities, helping more people access rewarding careers in the sectors that will power future economic growth.\n\nThe plans are being published ahead of the forthcoming Milburn Review into opportunities for young people and form part of the Modern Industrial Strategy, which is backing the industries where Britain can lead globally while ensuring people across the country benefit from economic growth and industrial renewal.\n\nMinister for Skills Baroness Jacqui Smith said:\n\n\n  Every young person deserves the chance to build a career they’re proud of, whatever their background and wherever they live.\n\n  TechFirst helps make that possible, giving students the skills, confidence and experience they need to see a future for themselves in the sector.\n\n  Alongside our Youth Guarantee, which aims to offer every young person the chance to earn or learn, programmes like this mean that ambition is matched by real opportunity with the right support at the right time.\n\n\nThe TechFirst programme has been designed for all young people, but will also work to boost skills for underrepresented groups in tech, including women and girls, and young people from disadvantaged areas.\n\nThis follows the Prime Minister’s announcement last week to give young people a direct route into skilled, well-paid rail careers. Great British Railways will open up 600 foundation apprenticeships over the next 4 years for 16 to 21 year olds, offering a chance to earn while they learn in an industry where currently less than 7% of the workforce is under 25.\n\nThe package also builds on Government work strengthening digital and media literacy across the curriculum to help young people navigate the online world confidently, evaluate information critically and tackle misinformation and disinformation. Alongside this, reforms to computing education, including a new Computing GCSE, will ensure all pupils develop the digital and AI skills needed for future jobs and careers.\n\nThese are underpinned by wider government action to put technical education on a par with academic learning and ensure more young people have access to high-quality technical education. As well as the UK’s world-leading universities, Technical Excellence Colleges, new V Levels, expanded T Levels, and new Vocational GCSEs, all helping arm young people with the skills and confidence for the world of work.\n\nNOTES TO EDITORS:\n\n\n  According to Skills England, Sector Skills Needs Assessment – Digital and Technologies (June 2026), 800,000 digital and tech roles needing filling by 2035.\n  As part of the Digital and Tech Sector Jobs Plan, government aims for employers to collectively create or fill 20,000 entry-level roles each year. This may involve some employers establishing new positions, while others fill existing entry-level vacancies they might not otherwise have prioritised.\n  Earlier this month, government opened registration to the first ever TechFirst Girls Competition in collaboration with IBM, giving girls across the UK the chance to take on tech challenges, build their confidence, and see what a future career in technology could look like for them. Schools can register for the Tech First Girls Competition here: Welcome - TechFirst Girls Competition\n\n\n\nAda platform delivered by Raspberry Pi Foundation\n- Every student aged 11 to 18 will be able to access the Ada Computer Science online platform delivered in partnership between UK Government and the Raspberry Pi Foundation. The platform will feature curriculum-linked tech lessons, so no student misses out on the chance to build the skills they need to thrive in the workplace. From the end of the 26/27 academic year the platform will replace the Issac platform currently funded by the DfE as part of the National Centre for Computing Education. The platform covers everything from coding and AI to cyber security, letting students learn at their own pace and build real, practical skills alongside their regular lessons. \n\nTechFirst Delivery Partners:\n\nTeachers can sign their school up to the TechFirst Youth Programme by emailing their regional delivery partner: \n- North East: TechFirst@rtcnorth.co.uk \n- North West: TechFirst@in4group.co.uk \n- Yorkshire &amp; Humber: TechFirst@rtcnorth.co.uk \n- East Midlands: TechFirst@in4group.co.uk \n- West Midlands: TechFirst@digitalinnovators.co.uk \n- East of England: TechFirst@techeducators.co.uk \n- London: TechFirst@stem.org.uk \n- South East: TechFirst@stem.org.uk \n- South West: TechFirst@techspark.co \n- Wales: Wales@cyberfirstschools.co.uk \n- Northern Ireland: TechFirst@belfastmet.ac.uk\n- Scotland: TechFirst@EducationScotland.gov.scot\n\nDigital and Technologies Skills Deal\n- Current Digital and Tech Skills Deal partners: ARM, Cisco, AtkinsRéalis, Cognizant, IBM, Kainos, Microsoft, Qinetiq. Employers across the tech sector can sign up as a Skills Deal partner to offer digital and tech work experiences here: TechFirst Community Sign Up\n\nTechFirst Women’s programme\n- Government will also support women at all career stages, from early-career professionals to career changers and returners, to move into paid jobs in artificial intelligence, cyber security and other high-growth technology sectors. \n- Through the TechFirst Women’s Programme, 300 women across the UK will receive mentoring, skills development and matching with live vacancies, with the aim of securing paid roles lasting at least six months by March 2027.\n- Individuals can sign up to the programme here: techfirstwomen.com\n",
+      "bodyHash": "3637578f7c687d1adca1b8615a025d82852a970d887010f1aab47f2ca2ea3c68",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/10000-young-people-to-get-foot-in-the-door-of-britains-tech-sector-as-work-placements-rolled-out-across-the-country",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Department for Digital, Culture, Media and Sport",
+          "Department for Business, Innovation, Science and Trade"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-10-21T00:01:05+01:00",
+        "sourceVersion": "291e4cc6-8c9d-451a-91f7-247630d37906"
+      },
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e3d2473a374721b583610dc1",
+      "title": "Drivers to save up to £300 when installing EV chargers at home, as government slashes unnecessary red tape",
+      "originalUrl": "https://www.gov.uk/government/news/drivers-to-save-up-to-300-when-installing-ev-chargers-at-home-as-government-slashes-unnecessary-red-tape",
+      "sourcePublishedAt": "2026-10-21T00:01:05+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "People can now save up to £300 on charging at home without a driveway from today (21 October 2026) as the government has slashed red tape to make it cheaper, easier and quicker to install. Drivers will no longer need planning permission to ",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>People can now save up to £300 on charging at home without a driveway from today (21 October 2026) as the government has slashed red tape to make it cheaper, easier and quicker to install.</p>\n\n<p>Drivers will no longer need planning permission to install cross-pavement chargers which run under pavements from people’s homes to their cars. This will save drivers up to £300 on installation and open up home charging for as little as 2p per mile. This is all part of the government’s bid to deliver ‘everyday fixes’ that help people with the cost of living.</p>\n\n<p>It comes as September 2026 saw another record-breaking month for UK electric car sales – up 36% in a year, with nearly 100,000 electric cars sold in a single month alone. Sales have been boosted by the government’s <a href=\"https://www.gov.uk/zero-emission-vehicle-grants/cars\">Electric Car Grant (ECG)</a>, which has now helped over 190,000 drivers save up to £3,750 off a new electric vehicle (EV).</p>\n\n<p>Buses and Local Transport Minister Simon Lightwood said:</p>\n\n<blockquote>\n  <p>We’re saving drivers up to £300 off the cost of installing home charging by cutting unnecessary red tape.</p>\n\n  <p>The EV transition is in full swing – sales are up 36% on last year and over 190,000 have saved thousands making the switch in the last year alone.</p>\n</blockquote>\n\n<p>Cross-pavement charging means residents without off-street parking can plug into cheaper domestic electricity prices, helping them access savings of up to £1,750 on running costs.</p>\n\n<p>By slashing unnecessary red tape for these home chargers, the government is speeding up installations, putting money back in drivers’ pockets and revving up the transition to electric.</p>\n\n<p>Changes to permitted development rights also mean it will be quicker and cheaper for charge point operators to install larger, higher-powered public EV charging hubs.</p>\n\n<p>Vicky Edmonds, CEO of EVA England, said:</p>\n\n<blockquote>\n  <p>This might look like a small planning change, but for someone without a driveway, it could make the difference between being able to afford an electric car and ruling one out altogether. Removing the need for planning permission for cross-pavement charging is a really welcome and meaningful step towards a fairer transition.</p>\n\n  <p>Our research found that 60% of petrol and diesel drivers without off-street parking would never consider an EV. Being able to connect a car parked on the street to cheaper home electricity could help change that. It’s now up to local authorities and landlords to make these solutions easier to access in practice.</p>\n</blockquote>\n\n<p>Dickson Abegunde, Director of Strategic Partnerships at Zoopla, said:</p>\n\n<blockquote>\n  <p>For buyers considering an electric vehicle, access to charging can be an important factor when choosing a home. Zoopla was proud to be the first property website to help buyers discover nearby on-street chargers and search for homes with EV charging facilities.</p>\n\n  <p>The government’s decision to remove planning permission requirements for qualifying cross pavement charging solutions is another welcome step towards making EV ownership more accessible, particularly for households without off-street parking.</p>\n</blockquote>\n\n<p>Alongside this, the government has launched 2 consultations to make home charging easier and ensure new buildings are equipped with chargers, so people can plug in with ease.</p>\n\n<p>Tenants and leaseholders could get a clearer, quicker, and more consistent route to installing a charge point, thanks to clear guidance for landlords on how to handle the process. The government is also considering mandatory requirements for landlords and freeholders to make it harder to refuse renters’ applications.</p>\n\n<p>Building regulations could also be updated to ensure that charge points are installed in new and refurbished covered car parks.</p>\n\n<h2>Consultations on other changes to home charging</h2>\n\n<p>Respond to government consultations by 16 December 2026:</p>\n\n<ul>\n  <li>\n    <p><a href=\"https://www.gov.uk/government/consultations/amending-the-building-regulations-electric-vehicle-charging-infrastructure\">amending the building regulations: electric vehicle charging infrastructure</a></p>\n  </li>\n  <li>\n    <p><a href=\"https://www.gov.uk/government/consultations/expanding-electric-vehicle-charging-access-for-tenants-and-leaseholders\">expanding electric vehicle charging access for tenants and leaseholders</a></p>\n  </li>\n</ul>\n\n<div>\n    <p>Roads media enquiries</p>\n\n\n    <div>\n\n\n        <p>\n          Media enquiries 0300 7777 878\n        </p>\n        <p>\n          Switchboard 0300 330 3000\n        </p>\n    </div>\n\n\n</div>\n\n</div>",
+      "bodyText": "People can now save up to £300 on charging at home without a driveway from today (21 October 2026) as the government has slashed red tape to make it cheaper, easier and quicker to install.\n\nDrivers will no longer need planning permission to install cross-pavement chargers which run under pavements from people’s homes to their cars. This will save drivers up to £300 on installation and open up home charging for as little as 2p per mile. This is all part of the government’s bid to deliver ‘everyday fixes’ that help people with the cost of living.\n\nIt comes as September 2026 saw another record-breaking month for UK electric car sales – up 36% in a year, with nearly 100,000 electric cars sold in a single month alone. Sales have been boosted by the government’s Electric Car Grant (ECG), which has now helped over 190,000 drivers save up to £3,750 off a new electric vehicle (EV).\n\nBuses and Local Transport Minister Simon Lightwood said:\n\n\n  We’re saving drivers up to £300 off the cost of installing home charging by cutting unnecessary red tape.\n\n  The EV transition is in full swing – sales are up 36% on last year and over 190,000 have saved thousands making the switch in the last year alone.\n\n\nCross-pavement charging means residents without off-street parking can plug into cheaper domestic electricity prices, helping them access savings of up to £1,750 on running costs.\n\nBy slashing unnecessary red tape for these home chargers, the government is speeding up installations, putting money back in drivers’ pockets and revving up the transition to electric.\n\nChanges to permitted development rights also mean it will be quicker and cheaper for charge point operators to install larger, higher-powered public EV charging hubs.\n\nVicky Edmonds, CEO of EVA England, said:\n\n\n  This might look like a small planning change, but for someone without a driveway, it could make the difference between being able to afford an electric car and ruling one out altogether. Removing the need for planning permission for cross-pavement charging is a really welcome and meaningful step towards a fairer transition.\n\n  Our research found that 60% of petrol and diesel drivers without off-street parking would never consider an EV. Being able to connect a car parked on the street to cheaper home electricity could help change that. It’s now up to local authorities and landlords to make these solutions easier to access in practice.\n\n\nDickson Abegunde, Director of Strategic Partnerships at Zoopla, said:\n\n\n  For buyers considering an electric vehicle, access to charging can be an important factor when choosing a home. Zoopla was proud to be the first property website to help buyers discover nearby on-street chargers and search for homes with EV charging facilities.\n\n  The government’s decision to remove planning permission requirements for qualifying cross pavement charging solutions is another welcome step towards making EV ownership more accessible, particularly for households without off-street parking.\n\n\nAlongside this, the government has launched 2 consultations to make home charging easier and ensure new buildings are equipped with chargers, so people can plug in with ease.\n\nTenants and leaseholders could get a clearer, quicker, and more consistent route to installing a charge point, thanks to clear guidance for landlords on how to handle the process. The government is also considering mandatory requirements for landlords and freeholders to make it harder to refuse renters’ applications.\n\nBuilding regulations could also be updated to ensure that charge points are installed in new and refurbished covered car parks.\n\nConsultations on other changes to home charging\n\nRespond to government consultations by 16 December 2026:\n\n\n  \n    amending the building regulations: electric vehicle charging infrastructure\n  \n  \n    expanding electric vehicle charging access for tenants and leaseholders\n  \n\n\n\n    Roads media enquiries\n\n\n    \n\n\n        \n          Media enquiries 0300 7777 878\n        \n        \n          Switchboard 0300 330 3000\n        \n    \n\n\n\n\n",
+      "bodyHash": "0e17b98813d2d3fd9c8c1a5a1808426d5ecc72bf63442102b4519edaf2a1e5c5",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/drivers-to-save-up-to-300-when-installing-ev-chargers-at-home-as-government-slashes-unnecessary-red-tape",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Department for Transport"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-10-21T00:01:05+01:00",
+        "sourceVersion": "c481affd-d494-4441-abe5-ba77e7c7f17c"
+      },
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "81e988c3c694c4136e2752e8",
+      "title": "以军宣布：打死哈马斯安全机构高级成员",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-21/10718228.shtml",
+      "summary": "中新网10月21日电 据《以色列时报》20日报道，以色列国防军与以色列国家安全局(辛贝特)发表联合声明称，当天早些时候对加沙城地区发动空袭，打死了哈马斯安全机构高级成员亚辛。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-20T22:59:52.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "44786a07c9ccd72bcf3af05b",
+      "title": "谷歌为车载 Gemini 新增个人智能功能，可跨 Gmail、日历、地图调取数据",
+      "originalUrl": "https://www.ithome.com/1/015/623.htm",
+      "summary": "IT之家 10 月 21 日消息，谷歌正在为已搭载在数百万辆轿车、卡车与 SUV 上的 Gemini 人工智能助手增添更强的个性化能力，这一举措或将进一步把用户牢牢锁定在谷歌的产品生态当中。 该公司于当地时间周二宣布，将为车载版 Gemini 新增个人智能功能。这项功能可以调取来自谷歌邮箱（Gmail）、谷歌日历（Google Calendar）、YouTube、谷歌地图（Maps）、谷歌搜索记录以及其他关联谷歌服务里的信息，以此理解用户的偏好、行程安排与过往使用记录。 谷歌…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-20T22:57:54.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f51245fc49923b1035be5106",
+      "title": "新任 CEO 特努斯：设计仍是苹果的首要任务，产品也要有奇思妙想",
+      "originalUrl": "https://www.ithome.com/1/015/622.htm",
+      "summary": "IT之家 10 月 21 日消息，昨日（10 月 20 日）接受《时代》（Time）杂志采访时，苹果现任首席执行官约翰 · 特努斯（John Ternus）表示，设计依然是苹果公司的核心，尊重用户、打造真正有益的产品是“首要任务”。他强调，苹果不会因技术趋势或新角色而改变自己的工作方式。 IT之家附上相关采访视频如下： 特努斯 25 年前以产品设计团队成员身份加入苹果，在工业设计领域摸爬滚打多年，拥有丰富的设计经验。在采访中，特努斯认为苹果的独特之处在于硬件与软件设计师都理解…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-20T22:54:33.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "767d0812742dd0d4449fcc0c",
+      "title": "OpenAI 宣布收购 AI 生物科技初创企业 Orchestra Bio",
+      "originalUrl": "https://www.ithome.com/1/015/621.htm",
+      "summary": "IT之家 10 月 21 日消息，OpenAI 于当地时间周二宣布，收购成立四年的人工智能生物科技软件初创企业 Orchestra Bio，相关消息由该公司在官网发布。本次交易的具体条款并未对外披露，但有报道称，截至 2025 年，这家初创公司已从安德里森 · 霍罗威茨（Andreessen Horowitz）、阿特里亚（Atria）和 8VC 等投资方筹集约 2,000 万美元（IT之家注：现汇率约合 1.34 亿元人民币）资金。 Orchestra Bio 开发 AI 智…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-20T22:51:11.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "finance"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d3a35ff303b8c19132613790",
+      "title": "10月21日新闻早报",
+      "originalUrl": "https://www.chinanews.com.cn/iframe/2026/10-21/10718227.shtml",
+      "summary": null,
+      "summaryProvenance": null,
+      "sourcePublishedAt": "2026-10-20T22:42:39.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "607536c50d39ba0081879b55",
+      "title": "SpaceX 2026 财年第三财季归母净利润 44.04 亿美元，同比扭亏为盈",
+      "originalUrl": "https://www.ithome.com/1/015/617.htm",
+      "summary": "IT之家 10 月 21 日消息，SpaceX 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入：145.75 亿美元（IT之家注：现汇率约合 975.6 亿元人民币），同比增长 161%，环比增长 86.52% 毛利润：90.97 亿美元（现汇率约合 608.92 亿元人民币），同比增长 216.86% 毛利率：62.42%，同比增长 10.93 个百分点 归母净利润：44.04…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-20T22:37:22.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "finance"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b8e2d5095134ee9da9506f21",
+      "title": "美战略石油储备降至44年来最低 美以伊战火重燃概率上升",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-21/10718226.shtml",
+      "summary": "当地时间20日，两艘油轮在霍尔木兹海峡触雷，美国能源部的数据显示，美国战略石油储备计划中的原油储量已降至44年来的最低水平。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-20T22:32:30.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6995fe51e5881adc58682ebc",
+      "title": "巴黎等多个法国城市继续实施局部宵禁",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-21/10718225.shtml",
+      "summary": "中新社巴黎10月20日电 (记者 李洋)巴黎、里昂等多个法国城市当地时间20日晚继续实施局部宵禁。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-20T22:29:36.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "86afc001c5cd868b5e329f96",
+      "title": "头发是早上洗还是晚上洗好？这些伤发行为，真的别再做了→",
+      "originalUrl": "https://www.chinanews.com.cn/jk/2026/10-21/10718224.shtml",
+      "summary": "头发多久洗一次比较好？",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-20T22:23:56.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0e1124919ba6132d21a435f3",
+      "title": "罗马尼亚新一届政府宣誓就职",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-21/10718223.shtml",
+      "summary": "当地时间10月20日，罗马尼亚总理尼古列斯库领导的新一届政府通过议会信任投票，随后在总统府宣誓就职。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-20T22:01:21.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "cca73d03bdf765385e6aade5",
+      "title": "胡塞武装称过去24小时也门遭沙特空袭93次",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-21/10718222.shtml",
+      "summary": "当地时间10月20日，也门胡塞武装发言人叶海亚称，过去24小时内，沙特战机对也门焦夫省、塔伊兹省、萨达省、马里卜省、哈杰省、拉赫季省、阿姆兰省和伊卜省的民用目标发动93次空袭及导弹袭击。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-20T21:58:41.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c7a299094000e2afe53ec587",
+      "title": "乌克兰问题会谈在挪威举行 美特使将赴俄转达相关内容",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-21/10718221.shtml",
+      "summary": "当地时间20日，美国总统特朗普的特使威特科夫和乌克兰总统泽连斯基在挪威奥斯陆举行会晤，参会者还包括来自挪威、芬兰等其他欧洲国家的领导人，特朗普女婿库什纳以视频方式参会。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-20T21:56:33.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6ea4a5e907fe6573d0a49009",
+      "title": "以军称打死哈马斯安全机构高级成员",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-21/10718220.shtml",
+      "summary": "当地时间20日晚，以色列国防军与以色列国家安全局(辛贝特)发表联合声明，称当天早些时候对加沙城地区发动精准空袭，打死了哈马斯安全机构高级成员亚辛。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-20T21:54:34.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d3523330f029753b6c64f8e9",
+      "title": "美官员：美总统特使将于21日与普京会面",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-21/10718219.shtml",
+      "summary": "当地时间10月20日，据美国官员透露，美国总统特使威特科夫将于21日与俄罗斯总统普京会面，特朗普女婿库什纳将以视频方式参与。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-20T21:53:22.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "589d04ba9d13954d02324c46",
+      "title": "Domestic abusers face eviction as survivors gain housing rights",
+      "originalUrl": "https://www.gov.uk/government/news/domestic-abusers-face-eviction-as-survivors-gain-housing-rights",
+      "sourcePublishedAt": "2026-10-20T22:30:05+01:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "For the first time, domestic abuse survivors will be protected in social housing law without having to flee, helping them keep their tenancy and stay safely in their home while the perpetrator is made to leave. A new measure tabled for the ",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>For the first time, domestic abuse survivors will be protected in social housing law without having to flee, helping them keep their tenancy and stay safely in their home while the perpetrator is made to leave.</p>\n\n<p>A new measure tabled for the Social Housing Bill today (Tuesday 20 October) will stop survivors having to prove abuse again where a protection order is already in place. The proposals strengthen reforms in the Bill that will protect joint tenancies from abusive partners, helping end the choice between staying in danger and losing a home and support network.</p>\n\n<p>Council tenants will also get stronger support to take charge of repairs, maintenance and communal services through a simpler Right to Manage, giving residents a clearer route to demand better when services fail.</p>\n\n<p>Together, the reforms will put tenants first, raise standards and protect social homes, alongside the biggest investment in new social and affordable housing in a generation.</p>\n\n<h3>Housing Secretary Angela Rayner said:</h3>\n\n<blockquote>\n  <p>No survivor should have to choose between staying with their abuser or losing their home, community and support network. We are changing the law so the perpetrator, not the survivor, can be made to leave.</p>\n\n  <p>Abusers will no longer be able to use a shared home as a weapon of control. Survivors will get the certainty of knowing their tenancy and their social home are protected.</p>\n\n  <p>We are also putting power back in tenants’ hands so they can demand better when services fail, while protecting the social homes communities need for generations to come.</p>\n</blockquote>\n\n<p>New laws will help keep more social homes in the hands of communities, giving councils and housing associations twice as long to consider buying them before they leave the sector, alongside better information to help them make that decision.</p>\n\n<p>Recognising that affordable homes can be particularly difficult to replace in rural communities, councils will have more control over protecting eligible areas from the Right to Buy, with the wider package of reforms expected to keep an additional 18,000 homes in the social sector over the next decade.</p>\n\n<p>Alongside our £442 million investment to tackle rough sleeping, the Bill will also help tackle homelessness earlier by requiring councils and public services to identify people at risk and work together before they lose their home, while housing associations will be required to offer suitable homes to households referred by councils unless there is good reason not to. Veterans will also face fewer barriers to getting help, with plans to ensure they can seek homelessness support from any council in England regardless of local connection rules.</p>\n\n<h3>Kate Henderson, Chief Executive of the National Housing Federation, said:</h3>\n\n<blockquote>\n  <p>Housing associations strongly support the government’s objectives in the Social Housing Bill to safeguard our social homes for future generations, tackle homelessness and to strengthen protections for survivors of domestic abuse.</p>\n\n  <p>No one should be forced to lose their home to escape abuse. We strongly welcome new powers to protect survivors’ ability to remain safely in their homes and reduce their risk of homelessness.</p>\n\n  <p>With almost 180,000 children growing up in temporary accommodation, we need councils, housing associations, mayors and the government all working together to end the housing crisis. Housing associations are committed to tackling homelessness in all its forms, as well as other damaging consequences of our broken housing system, such as overcrowding. We will continue to work with government to ensure these proposals deliver on our shared objectives, while strengthening our partnerships with councils to help more families access safe, secure and affordable homes.</p>\n</blockquote>\n\n<h3>Rachael Williamson, Executive Director of Policy, Communications and External Affairs, Chartered Institute of Housing, said:</h3>\n\n<blockquote>\n  <p>We welcome these measures, particularly the strengthened protections for domestic abuse survivors, which reflect the importance of ensuring people are not forced to choose between their safety and their home. CIH has worked closely with government and sector partners throughout the development of the Bill to make the case for stronger protections for tenants, earlier action to prevent homelessness and measures that support the long-term future of social housing. We will continue to do so as the Bill progresses.</p>\n\n  <p>Alongside long-term investment in social and affordable housing, these reforms have the potential to improve outcomes for residents, strengthen communities and help ensure social housing continues to meet the needs of current and future generations.</p>\n</blockquote>\n\n<p>Also confirmed today, from April 2027 Tenant Management Organisations that manage council housing will be brought under Freedom of Information rules. This means residents will be able to request information about services such as repairs, estate management, and rent collection, improving transparency and making these organisations more open and accountable.</p>\n\n<p>Backed by £39 billion investment in council, social and affordable housing, the biggest in a generation, the measures will help protect the homes communities rely on while building the new homes they need.</p>\n\n<h3>Additional Information:</h3>\n\n<ul>\n  <li>The Social Housing Bill was introduced to Parliament on 14 May 2026. The amendments will be tabled as the Bill progresses through its Commons stages. These include:</li>\n  <li>Extending the notification period for social housing disposals from 4 to 8 weeks;</li>\n  <li>Including additional property information in the notification for social housing disposals to include type of rent the home was previously let at;</li>\n  <li>Allowing councils to designate eligible rural areas themselves against specified criteria in order to exempt them from the Right to Buy. Currently councils are required to apply formally to Government for designation, and this will reduce bureaucracy;</li>\n  <li>Bolstering the discretionary possession grounds within the Bill’s domestic abuse tenancy reforms, streamlining the process for victims by ensuring the existence of a relevant protective order is sufficient for the court to consider to take action;</li>\n  <li>Modernising the social housing Right to Manage framework, including clearer and more proportionate governance requirements, stronger information-sharing requirements and new safeguards where serious failures put residents at risk</li>\n  <li>Introducing a new statutory ‘Duty to Collaborate’, requiring key public bodies to take proactive steps to identify households at risk of homelessness and take coordinated action to prevent homelessness or address it sooner;</li>\n  <li>Introducing a new statutory ‘Duty to Offer’, which will require a private registered provider to offer suitable accommodation to a homeless household referred to them by a local housing authority, unless they have a good reason not to do so; and</li>\n  <li>Providing a power for the Secretary of State to set out circumstances where local connection referrals must not apply, which the government intends to use for armed forces veterans.</li>\n  <li>This is backed by the government’s £39bn investment in social and affordable housing, the biggest in a generation</li>\n  <li>The social housing Right to Manage allows local authority tenants to take responsibility for managing housing services through a Tenant Management Organisation. It is separate from the Right to Manage available to qualifying leaseholders. This comes as new strengthened measures will be introduced to submit Freedom of Information requests to Tenant Management Organisations.</li>\n</ul>\n</div>",
+      "bodyText": "For the first time, domestic abuse survivors will be protected in social housing law without having to flee, helping them keep their tenancy and stay safely in their home while the perpetrator is made to leave.\n\nA new measure tabled for the Social Housing Bill today (Tuesday 20 October) will stop survivors having to prove abuse again where a protection order is already in place. The proposals strengthen reforms in the Bill that will protect joint tenancies from abusive partners, helping end the choice between staying in danger and losing a home and support network.\n\nCouncil tenants will also get stronger support to take charge of repairs, maintenance and communal services through a simpler Right to Manage, giving residents a clearer route to demand better when services fail.\n\nTogether, the reforms will put tenants first, raise standards and protect social homes, alongside the biggest investment in new social and affordable housing in a generation.\n\nHousing Secretary Angela Rayner said:\n\n\n  No survivor should have to choose between staying with their abuser or losing their home, community and support network. We are changing the law so the perpetrator, not the survivor, can be made to leave.\n\n  Abusers will no longer be able to use a shared home as a weapon of control. Survivors will get the certainty of knowing their tenancy and their social home are protected.\n\n  We are also putting power back in tenants’ hands so they can demand better when services fail, while protecting the social homes communities need for generations to come.\n\n\nNew laws will help keep more social homes in the hands of communities, giving councils and housing associations twice as long to consider buying them before they leave the sector, alongside better information to help them make that decision.\n\nRecognising that affordable homes can be particularly difficult to replace in rural communities, councils will have more control over protecting eligible areas from the Right to Buy, with the wider package of reforms expected to keep an additional 18,000 homes in the social sector over the next decade.\n\nAlongside our £442 million investment to tackle rough sleeping, the Bill will also help tackle homelessness earlier by requiring councils and public services to identify people at risk and work together before they lose their home, while housing associations will be required to offer suitable homes to households referred by councils unless there is good reason not to. Veterans will also face fewer barriers to getting help, with plans to ensure they can seek homelessness support from any council in England regardless of local connection rules.\n\nKate Henderson, Chief Executive of the National Housing Federation, said:\n\n\n  Housing associations strongly support the government’s objectives in the Social Housing Bill to safeguard our social homes for future generations, tackle homelessness and to strengthen protections for survivors of domestic abuse.\n\n  No one should be forced to lose their home to escape abuse. We strongly welcome new powers to protect survivors’ ability to remain safely in their homes and reduce their risk of homelessness.\n\n  With almost 180,000 children growing up in temporary accommodation, we need councils, housing associations, mayors and the government all working together to end the housing crisis. Housing associations are committed to tackling homelessness in all its forms, as well as other damaging consequences of our broken housing system, such as overcrowding. We will continue to work with government to ensure these proposals deliver on our shared objectives, while strengthening our partnerships with councils to help more families access safe, secure and affordable homes.\n\n\nRachael Williamson, Executive Director of Policy, Communications and External Affairs, Chartered Institute of Housing, said:\n\n\n  We welcome these measures, particularly the strengthened protections for domestic abuse survivors, which reflect the importance of ensuring people are not forced to choose between their safety and their home. CIH has worked closely with government and sector partners throughout the development of the Bill to make the case for stronger protections for tenants, earlier action to prevent homelessness and measures that support the long-term future of social housing. We will continue to do so as the Bill progresses.\n\n  Alongside long-term investment in social and affordable housing, these reforms have the potential to improve outcomes for residents, strengthen communities and help ensure social housing continues to meet the needs of current and future generations.\n\n\nAlso confirmed today, from April 2027 Tenant Management Organisations that manage council housing will be brought under Freedom of Information rules. This means residents will be able to request information about services such as repairs, estate management, and rent collection, improving transparency and making these organisations more open and accountable.\n\nBacked by £39 billion investment in council, social and affordable housing, the biggest in a generation, the measures will help protect the homes communities rely on while building the new homes they need.\n\nAdditional Information:\n\n\n  The Social Housing Bill was introduced to Parliament on 14 May 2026. The amendments will be tabled as the Bill progresses through its Commons stages. These include:\n  Extending the notification period for social housing disposals from 4 to 8 weeks;\n  Including additional property information in the notification for social housing disposals to include type of rent the home was previously let at;\n  Allowing councils to designate eligible rural areas themselves against specified criteria in order to exempt them from the Right to Buy. Currently councils are required to apply formally to Government for designation, and this will reduce bureaucracy;\n  Bolstering the discretionary possession grounds within the Bill’s domestic abuse tenancy reforms, streamlining the process for victims by ensuring the existence of a relevant protective order is sufficient for the court to consider to take action;\n  Modernising the social housing Right to Manage framework, including clearer and more proportionate governance requirements, stronger information-sharing requirements and new safeguards where serious failures put residents at risk\n  Introducing a new statutory ‘Duty to Collaborate’, requiring key public bodies to take proactive steps to identify households at risk of homelessness and take coordinated action to prevent homelessness or address it sooner;\n  Introducing a new statutory ‘Duty to Offer’, which will require a private registered provider to offer suitable accommodation to a homeless household referred to them by a local housing authority, unless they have a good reason not to do so; and\n  Providing a power for the Secretary of State to set out circumstances where local connection referrals must not apply, which the government intends to use for armed forces veterans.\n  This is backed by the government’s £39bn investment in social and affordable housing, the biggest in a generation\n  The social housing Right to Manage allows local authority tenants to take responsibility for managing housing services through a Tenant Management Organisation. It is separate from the Right to Manage available to qualifying leaseholders. This comes as new strengthened measures will be introduced to submit Freedom of Information requests to Tenant Management Organisations.\n\n",
+      "bodyHash": "f6f5ba2740b424fba9840c6393c22efd019e1c9835265db35a31ce683cf24405",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/domestic-abusers-face-eviction-as-survivors-gain-housing-rights",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Ministry of Housing, Communities and Local Government"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-10-20T22:30:05+01:00",
+        "sourceVersion": "30205c79-73a2-41a5-b953-b4bf59651cda"
+      },
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "07e135d8801495d61f2f7e2a",
+      "title": "超微电脑 2027 财年第一财季预计营收 185 亿-195 亿美元，高于此前预期",
+      "originalUrl": "https://www.ithome.com/1/015/619.htm",
+      "summary": "IT之家 10 月 21 日消息，超微电脑今日发布 2027 财年（2026 年 7 月 1 日～2027 年 6 月 30 日）第一财季（2026 年 7 月 1 日～2026 年 9 月 30 日）业绩预告报告： 营业总收入：185 亿美元 ~195 亿美元（IT之家注：现汇率约合 1238.33 亿元 ~1305.26 亿元人民币） 毛利率：12%~12.5% AI 解读 本次 2027 财年第一财季业绩预告大幅超出市场预期，营收和毛利率均显著高于此前指引。 公司主营业…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-20T20:47:02.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech",
+        "finance"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-20T23:22:25.747Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 1,
+      "history": []
+    },
     {
       "id": "8ad382658cf4825c4cd96d10",
       "title": "Netflix 2026 财年第三财季归母净利润 36.64 亿美元，同比增长 43.86%",
       "originalUrl": "https://www.ithome.com/1/015/618.htm",
-      "summary": "IT之家 10 月 21 日消息，Netflix今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入：128.74 亿美元（IT之家注：现汇率约合 861.75 亿元人民币），同比增长 11.8%，环比增长 2.5% 毛利润：67.95 亿美元（现汇率约合 454.84 亿元人民币），同比增长 27.11% 毛利率：52.78%，同比增长 6.33 个百分点 归母净利润：36.64 亿…",
+      "summary": "IT之家 10 月 21 日消息，Netflix 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入：128.74 亿美元（IT之家注：现汇率约合 861.75 亿元人民币），同比增长 11.8%，环比增长 2.5% 毛利润：67.95 亿美元（现汇率约合 454.84 亿元人民币），同比增长 27.11% 毛利率：52.78%，同比增长 6.33 个百分点 归母净利润：36.64 …",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
         "sourceId": "ithome",
@@ -24,10 +653,24 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T20:31:40.613Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
-      "updatedAt": "2026-10-20T20:31:40.613Z",
-      "version": 1,
-      "history": []
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 2,
+      "history": [
+        {
+          "title": "Netflix 2026 财年第三财季归母净利润 36.64 亿美元，同比增长 43.86%",
+          "summary": "IT之家 10 月 21 日消息，Netflix今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入：128.74 亿美元（IT之家注：现汇率约合 861.75 亿元人民币），同比增长 11.8%，环比增长 2.5% 毛利润：67.95 亿美元（现汇率约合 454.84 亿元人民币），同比增长 27.11% 毛利率：52.78%，同比增长 6.33 个百分点 归母净利润：36.64 亿…",
+          "summaryProvenance": {
+            "type": "publisher_feed_excerpt",
+            "sourceId": "ithome",
+            "feedUrl": "https://www.ithome.com/rss/",
+            "maxCharacters": 240
+          },
+          "sourcePublishedAt": "2026-10-20T20:06:20.000Z",
+          "version": 1,
+          "updatedAt": "2026-10-20T20:31:40.613Z"
+        }
+      ]
     },
     {
       "id": "f69981ec346b2921f06edceb",
@@ -51,7 +694,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T20:31:40.613Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T20:31:40.613Z",
       "version": 1,
       "history": []
@@ -77,7 +720,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T20:31:40.613Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T20:31:40.613Z",
       "version": 1,
       "history": []
@@ -104,7 +747,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -146,7 +789,7 @@
         "sourceVersion": "81a73ba8-4115-4a48-9d97-dcae6afd852a"
       },
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -171,7 +814,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -198,7 +841,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -224,7 +867,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -250,7 +893,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -275,7 +918,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -301,7 +944,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -326,7 +969,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -351,7 +994,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -376,7 +1019,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -402,7 +1045,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -430,7 +1073,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -456,7 +1099,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -483,7 +1126,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -510,7 +1153,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -535,7 +1178,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -561,7 +1204,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -588,7 +1231,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -616,7 +1259,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -641,7 +1284,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -666,7 +1309,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -693,7 +1336,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -719,7 +1362,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -747,7 +1390,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -772,7 +1415,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -800,7 +1443,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -851,7 +1494,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -928,7 +1571,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -1008,7 +1651,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -1086,7 +1729,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -1129,7 +1772,7 @@
         "sourceVersion": "e35c390d-e964-41d6-8fdd-7a0d1254a075"
       },
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -1179,7 +1822,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -1205,7 +1848,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -1334,7 +1977,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -1385,7 +2028,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -1436,7 +2079,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -1513,7 +2156,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -1589,7 +2232,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -1615,7 +2258,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -1640,7 +2283,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -1666,7 +2309,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -1692,7 +2335,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -1792,7 +2435,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -1843,7 +2486,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -1969,7 +2612,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -2096,7 +2739,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -2123,7 +2766,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -2148,7 +2791,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -2174,7 +2817,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -2226,7 +2869,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -2252,7 +2895,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -2302,7 +2945,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -2352,7 +2995,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -2403,7 +3046,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -2429,7 +3072,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -2455,7 +3098,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -2481,7 +3124,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -2557,7 +3200,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -2677,7 +3320,7 @@
         "sourceVersion": "2a35402e-b93a-4261-832b-c5e2441df763"
       },
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -2703,7 +3346,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -2728,7 +3371,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -2931,7 +3574,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -3058,7 +3701,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -3133,7 +3776,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -3158,7 +3801,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -3184,7 +3827,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -3236,7 +3879,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -3387,7 +4030,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T16:58:56.789Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T16:58:56.789Z",
       "version": 1,
       "history": []
@@ -5537,7 +6180,7 @@
         "sourceVersion": "e39725f9-90b1-480e-b0a1-b2b6c9b2bb54"
       },
       "firstSeenAt": "2026-10-20T12:06:01.578Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T12:06:01.578Z",
       "version": 1,
       "history": []
@@ -5621,7 +6264,7 @@
       "id": "930eaa05f6736803eb2465df",
       "title": "Operational update 20 October – UK military support to the Kingdom of Saudi Arabia",
       "originalUrl": "https://www.gov.uk/government/news/operational-update-20-october-uk-military-support-to-the-kingdom-of-saudi-arabia",
-      "sourcePublishedAt": "2026-10-20T11:59:33+01:00",
+      "sourcePublishedAt": "2026-10-20T11:59:00+01:00",
       "timeIssue": null,
       "channels": [
         "local-life"
@@ -5650,14 +6293,26 @@
         ],
         "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
         "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
-        "sourceUpdatedAt": "2026-10-20T11:59:33+01:00",
+        "sourceUpdatedAt": "2026-10-20T11:59:00+01:00",
         "sourceVersion": "4e95ce0f-086c-4694-87c8-0f34a9c92988"
       },
       "firstSeenAt": "2026-10-20T12:06:01.578Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
-      "updatedAt": "2026-10-20T12:06:01.578Z",
-      "version": 1,
-      "history": []
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
+      "updatedAt": "2026-10-20T23:22:25.747Z",
+      "version": 2,
+      "history": [
+        {
+          "title": "Operational update 20 October – UK military support to the Kingdom of Saudi Arabia",
+          "summary": "The UK will provide additional defensive military support to the Kingdom of Saudi Arabia, given escalating Houthi attacks in the region. The UK will fly defensive counter air missions to support the protection of Saudi cities and critical n",
+          "summaryProvenance": {
+            "type": "licensed_body_excerpt",
+            "sourceId": "govuk-fulltext"
+          },
+          "sourcePublishedAt": "2026-10-20T11:59:33+01:00",
+          "version": 1,
+          "updatedAt": "2026-10-20T12:06:01.578Z"
+        }
+      ]
     },
     {
       "id": "9b93ffbfd946029bcb98d6b6",
@@ -6770,7 +7425,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-20T12:06:01.578Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T12:06:01.578Z",
       "version": 1,
       "history": []
@@ -6915,7 +7570,7 @@
         "sourceVersion": "610f4645-925d-41a3-9225-2d277853752b"
       },
       "firstSeenAt": "2026-10-20T12:06:01.578Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T12:06:01.578Z",
       "version": 1,
       "history": []
@@ -7340,7 +7995,7 @@
         "sourceVersion": "0fa35d18-9899-402f-b5f4-5e12af98df41"
       },
       "firstSeenAt": "2026-10-20T12:06:01.578Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T12:06:01.578Z",
       "version": 1,
       "history": []
@@ -7391,7 +8046,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-20T12:06:01.578Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T12:06:01.578Z",
       "version": 1,
       "history": []
@@ -7846,7 +8501,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-20T12:06:01.578Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T12:06:01.578Z",
       "version": 1,
       "history": []
@@ -8603,7 +9258,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-20T06:32:58.065Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T06:32:58.065Z",
       "version": 1,
       "history": []
@@ -10968,7 +11623,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-20T06:32:58.065Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T06:32:58.065Z",
       "version": 1,
       "history": []
@@ -11810,7 +12465,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-20T06:32:58.065Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T06:32:58.065Z",
       "version": 1,
       "history": []
@@ -12853,7 +13508,7 @@
         "sourceVersion": "2e7f66b6-f890-4051-ac5d-5ebc780508cb"
       },
       "firstSeenAt": "2026-10-20T01:14:03.517Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T06:32:58.065Z",
       "version": 2,
       "history": [
@@ -13202,7 +13857,7 @@
         "sourceVersion": "724c2647-3896-4466-9ba4-5adb121208d6"
       },
       "firstSeenAt": "2026-10-19T22:17:31.332Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-20T12:06:01.578Z",
       "version": 2,
       "history": [
@@ -13493,7 +14148,7 @@
         "sourceVersion": "d4640712-4958-4145-8e3d-e9353ac1fa82"
       },
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -13561,7 +14216,7 @@
         "sourceVersion": "2c8bd4f2-808f-4802-b021-7602acc9e0b6"
       },
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -13630,7 +14285,7 @@
         "sourceVersion": "881e0a60-bd80-4905-b044-078adc6c8a6b"
       },
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -13802,7 +14457,7 @@
         "sourceVersion": "5802f477-b060-4df1-b23b-9ca3c3a5da76"
       },
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -13845,7 +14500,7 @@
         "sourceVersion": "89cd5e6b-b592-4dbc-9c97-8c8b2da70418"
       },
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -16062,7 +16717,7 @@
         "sourceVersion": "a10b8e37-f5ee-4597-9b03-cb0d6cf9c39e"
       },
       "firstSeenAt": "2026-10-19T17:44:46.141Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-19T17:44:46.141Z",
       "version": 1,
       "history": []
@@ -16918,7 +17573,7 @@
         "sourceVersion": "dadabae6-a786-4c6b-9515-19c635b483f0"
       },
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -17576,7 +18231,7 @@
         "sourceVersion": "5f89b1c7-7a67-40d7-9764-b12ea6905a36"
       },
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -18440,7 +19095,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -19157,7 +19812,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -20025,7 +20680,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-19T11:12:38.441Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-19T11:12:38.441Z",
       "version": 1,
       "history": []
@@ -22713,7 +23368,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-19T05:15:36.857Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-19T05:15:36.857Z",
       "version": 1,
       "history": []
@@ -25129,7 +25784,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-19T05:15:36.857Z",
-      "lastSeenAt": "2026-10-20T20:31:40.613Z",
+      "lastSeenAt": "2026-10-20T23:22:25.747Z",
       "updatedAt": "2026-10-19T05:15:36.857Z",
       "version": 1,
       "history": []
@@ -259789,607 +260444,6 @@
       "updatedAt": "2026-09-25T18:31:40.033Z",
       "version": 1,
       "history": []
-    },
-    {
-      "id": "d0509a0ae6105a5a4c7b8100",
-      "title": "陕南民歌中秋唱响中国非遗馆 好物市集带来汉中活态非遗",
-      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-25/10703865.shtml",
-      "summary": "中新网北京9月25日电 (记者 应妮)9月25日(农历八月十五)中秋节，中国工艺美术馆(中国非物质文化遗产馆)推出“月满中秋节·相约非遗馆”中秋主题系列活动，邀观众在歌声、匠心与月色中，共度一个既有烟火气又具风雅韵的中秋佳节。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-culture",
-        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:38:05.000Z",
-      "timeIssue": null,
-      "channels": [
-        "entertainment"
-      ],
-      "sourceIds": [
-        "chinanews-culture"
-      ],
-      "firstSeenAt": "2026-09-25T18:31:40.033Z",
-      "lastSeenAt": "2026-09-27T05:12:01.631Z",
-      "updatedAt": "2026-09-25T18:31:40.033Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "f3aae1eb5bc3ade72aab07a2",
-      "title": "雪域高原上守护“天使之心”",
-      "originalUrl": "https://www.chinanews.com.cn/txy/2026/09-25/10703831.shtml",
-      "summary": "中新网长春9月25日电 题：雪域高原上守护“天使之心”",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:37:41.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-25T13:40:44.616Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "173b01eeca8d8abd160c1180",
-      "title": "福州孤独症青年制作200盒月饼被退单 爱心接力半天售罄",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-25/10703823.shtml",
-      "summary": "中新网福州9月25日电 题：福州孤独症青年制作200盒月饼被退单 爱心接力半天售罄",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:37:05.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "food"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news",
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-26T05:26:59.216Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "21f482f2f37dc4ae6da4d5c6",
-      "title": "巴西华人协会举办庆祝中华人民共和国成立77周年招待会",
-      "originalUrl": "https://www.chinanews.com.cn/hr/2026/09-25/10703885.shtml",
-      "summary": "中新网圣保罗9月25日电(记者林春茵)当地时间24日晚，巴西华人协会在巴西圣保罗举办庆祝中华人民共和国成立77周年招待会。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:36:51.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-25T13:40:44.616Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "8a019850450470e8a43c2096",
-      "title": "（爱知·名古屋亚运会）中国选手张雨霏获得亚运会女子50米蝶泳冠军",
-      "originalUrl": "http://www.chinanews.com.cn/tp/hd2011/2026/09-25/1205923.shtml",
-      "summary": null,
-      "summaryProvenance": null,
-      "sourcePublishedAt": "2026-09-25T13:36:06.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "sports"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-25T13:40:44.616Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "d18b737320129b4f5582b7cc",
-      "title": "港股全周冲高回落 机构料今年IPO融资额至少4800亿港元",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-25/10703845.shtml",
-      "summary": "中新社香港9月25日电 (记者 戴小橦)9月21日至25日全周，港股三大指数走出冲高回落行情。周初市场做多情绪回暖，香港恒生指数于21日站稳25000点整数关口，并在22日刷新阶段新高。受外部多重因素扰动影响，香港恒生指数于23日至25日连续三个交易日回调。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:35:33.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "finance"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news",
-        "chinanews-finance"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-26T14:42:49.700Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "800b6dd1b9e1b4802202d4c3",
-      "title": "“数贸非洲日”对接活动举办 300余名非洲代表齐聚杭州",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-25/10703888.shtml",
-      "summary": "中新网杭州9月25日电(蓝伊旎)9月24日，2026“数贸非洲日——数智中非·园启数贸”对接活动在浙江杭州举办。本次活动由全球数字贸易博览会组委会主办，旨在进一步拓展中非经贸合作新空间。来自南非、肯尼亚、尼日利亚、埃及、加纳、塞拉利昂、津巴布韦、喀麦隆、乌干达、赞比亚等国家的企业代表近300人参会。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:34:57.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "finance"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news",
-        "chinanews-finance"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-26T10:12:54.198Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "066e0087393443a71436ba85",
-      "title": "陕西西安：月满长安 沉浸式唐风中秋月宴吸引游人",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-25/10703889.shtml",
-      "summary": "中新网西安9月25日电 (记者 张一辰 李一璠)正值中秋节，为丰富游客体验、推动传统节日与国风文旅深度融合，位于陕西西安的长安十二时辰主题街区25日开展“金玉满堂·悦长安”中秋主题活动。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:33:05.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-26T05:26:59.216Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "583e17506260c699c2ec195e",
-      "title": "中秋假期前一天 广东高速公路车流量超964万车次",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-25/10703830.shtml",
-      "summary": "中新网广州9月25日电 (记者 蔡敏婕)记者25日从广东省交通运输厅获悉，中秋假期前一天(9月24日)，全省高速公路网单日车流量约964.83万车次。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:33:01.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance",
-        "mobility",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-finance",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-26T10:12:54.198Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "b0039369aacc6b49b9d1119f",
-      "title": "广西秦城遗址考古：实证岭南融入统一多民族国家历史进程",
-      "originalUrl": "https://www.chinanews.com.cn/gn/2026/09-25/10703829.shtml",
-      "summary": "中新网广西兴安9月25日电 (记者 孙自法)广西是秦汉王朝经略岭南的重要区域，而桂林市兴安县地处中原联通岭南的咽喉要地，其秦城遗址考古发掘研究备受关注。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:32:51.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-25T13:40:44.616Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "f15364293981b84f360a3e72",
-      "title": "中秋启科普 第二届Comic Jam即时漫画创作赛在北京举办",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-25/10703890.shtml",
-      "summary": "中新网北京9月25日电 (记者 张素)今年9月25日恰逢农历中秋佳节，作为2026北京科学传播大赛科普动漫大赛重要线下板块，第二届Comic Jam“与科学同行”即时漫画创作赛在北京举办。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:31:49.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-26T05:26:59.216Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "9d100d0b27bf6123a6f6af4f",
-      "title": "2026中秋、国庆档电影片单发布会在京举办",
-      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-25/10703842.shtml",
-      "summary": "中新网北京9月25日电 (记者 高凯)“绽放——2026中秋、国庆档暨纪念红军长征胜利90周年电影片单发布会”日前在京举行，多部长征题材影片及中秋、国庆档佳片主创到场推介。发布活动由国家电影局主办。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-culture",
-        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:31:17.000Z",
-      "timeIssue": null,
-      "channels": [
-        "entertainment",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-culture",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-27T05:12:01.631Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "b84fc761e67c8983a5f33354",
-      "title": "艺术x心理学x科技 北京时代美术馆邀观众开启“情绪星球”之旅",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-25/10703891.shtml",
-      "summary": "中新网北京9月25日电 (记者 应妮)把手掌轻轻放上感应装置，闭上眼睛三秒，你的情绪感受便化作一片独一无二的水墨山水；对着AI树洞说出心底憋了很久的话，它会安静听完并温柔抚慰；靠近软乎乎的机械毛绒，它会根据你的触碰做出不同的回应……这不是在某个心理研究机构，而是在北京时代美术馆的展览现场。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:29:53.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "technology",
-        "entertainment"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-26T05:26:59.216Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "12d92f4cc09f32f41e3aebc6",
-      "title": "（文化中国行）一座图书馆的“一千零一夜”",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-25/10703837.shtml",
-      "summary": "中新网宁波9月25日电 (张斌 刘子琳)浙江宁波图书馆推出的“天一夜读”栏目即将迎来自己的“一千零一夜”。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:29:49.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "entertainment"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-26T00:34:55.764Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "b60160e58e30efefc05a57d1",
-      "title": "贵州：用光影叙事绘就山地旅居图",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-25/10703840.shtml",
-      "summary": "中新网贵阳9月25日电 题：贵州：用光影叙事绘就山地间的旅居图",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:29:17.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-26T00:34:55.764Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "f4fbc62a1f4b4c9eb1c68432",
-      "title": "国际友人浙江宁波赛中文庆中秋",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-25/10703841.shtml",
-      "summary": "中新网宁波9月25日电(林波)“阁下·好中文”2026在甬外国人汉语风采秀25日在浙江宁波天一阁举行。来自丹麦、摩洛哥、爱尔兰等国家的国际友人齐聚这座亚洲现存最古老的私家藏书楼前，以中文会友、以诗词传情，共迎中秋佳节。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:29:07.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-26T00:34:55.764Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "815be5ef579461f8a3e91651",
-      "title": "深耕中医药国际服务 业界擦亮“三亚中医”名片",
-      "originalUrl": "https://www.chinanews.com.cn/jk/2026/09-25/10703892.shtml",
-      "summary": "中新网海口9月25日电 (张月和)“依托海南自贸港区位优势，我们将中医药国际服务贸易作为差异化发展和提质增效的核心抓手。”农工党党员、三亚市中医院国际中医诊疗中心主任蔡海鑫说。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:28:05.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "health"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-25T13:40:44.616Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "8f06d0ed277be5bbd05d99da",
-      "title": "浙江应急观察：AI如何成为安全“前哨”？",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-25/10703839.shtml",
-      "summary": "中新网杭州9月25日电 (钱晨菲)晚上的工业企业车间里，机器仍在运转。虽然工作人员已下班离开，另一双“眼睛”却没有停下。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:27:53.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance",
-        "technology",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-finance",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-26T10:12:54.198Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "e651934526f624a462d90e7f",
-      "title": "台胞在“浙”过中秋：此心安处是吾乡",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-25/10703838.shtml",
-      "summary": "中新网杭州9月25日电(项菁)“中秋依旧没有返乡，吃了月饼、和家人通了电话。此前还参加了中秋主题活动，我觉得很心安、很满足。”“90后”台湾青年容沛辰在浙江绍兴一所小学教授空竹技艺，今年已是他在大陆度过的第8个中秋。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:27:43.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-26T00:34:55.764Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "672dc4788d521999f226aa19",
-      "title": "北京越野 BJ40 增程 15.6 英寸联屏车型首次 OTA 推送，新增苹果 CarPlay 等",
-      "originalUrl": "https://www.ithome.com/1/007/243.htm",
-      "summary": "IT之家 9 月 25 日消息，9 月 24 日，北京越野旗下 BJ40 增程 15.6 英寸联屏车型开启首次 OTA 推送，适配版本包括标准版 I / 元境智行版 / 赤兔版 / 长续航版。 IT之家整理如下： 新增雷石 KTV，适配版本 新增苹果 CarPlay ，适配版本 新增车机电子宠物-熊猫奇奇 新增 AES 自动紧急转向辅助 新增哨兵模式及北京越野 App 远程查看 优化 ATS 全地形模式 在售北京越野 BJ40 增程 SUV 指导价 17.98 万元起，车身尺…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:27:38.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-26T00:34:55.764Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "986578d66381d678dff26894",
-      "title": "四川眉山：民众苏祠游园度中秋",
-      "originalUrl": "https://www.chinanews.com.cn/tp/2026/09-25/10703899.shtml",
-      "summary": "9月25日，三苏祠披风榭前的快闪活动吸引不少游客驻足欣赏或拍摄。 中新社记者 刘忠俊 摄 9月25日，三苏祠东坡盘陀像前机器人“苏小芯”为游客朗诵东坡诗词。 中新社记者 刘忠俊 摄 9月25日，游客在三苏祠内合影留念。 中新社记者 刘忠俊 摄 9月25日，游客从三苏祠南大门有序进入参观。 中新社记者 刘忠俊 摄 9月25日，游客在三苏父子大殿内参观，右侧雕像为苏轼。 中新社记者 刘忠俊 摄 9月25日，三苏祠东坡盘陀像前的快闪活动吸引游客驻足欣赏。 中新社记者 刘忠俊 摄 9…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:27:17.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-25T13:40:44.616Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "2c28ef95866f793e0a3995d0",
-      "title": "2026“丝路电商日”在浙江杭州启动 共探数贸新机遇",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-25/10703895.shtml",
-      "summary": "中新网杭州9月25日电(蓝伊旎)9月24日，2026“丝路电商日”启动仪式暨“丝路电商”资源对接会在浙江杭州举办，超过34个国家的600多位代表出席。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:27:09.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-finance",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-26T10:12:54.198Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "2c54921bb7823ff116c12996",
-      "title": "2026梵净山（非遗）戏剧季系列活动在贵州铜仁启幕",
-      "originalUrl": "https://www.chinanews.com.cn/cul/2026/09-25/10703894.shtml",
-      "summary": "中新网贵州铜仁9月25日电 (张伟 何诗颖)2026梵净山(非遗)戏剧季开幕式演出暨中秋诗会25日晚在贵州铜仁博物馆精彩上演。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-culture",
-        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-25T13:26:35.000Z",
-      "timeIssue": null,
-      "channels": [
-        "entertainment",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-culture",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-09-25T13:40:44.616Z",
-      "lastSeenAt": "2026-09-26T18:32:45.742Z",
-      "updatedAt": "2026-09-25T13:40:44.616Z",
-      "version": 1,
-      "history": []
     }
   ],
   "sourceStatus": {
@@ -260397,8 +260451,8 @@
       "id": "ithome",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-20T20:31:40.613Z",
-      "lastSuccessAt": "2026-10-20T20:31:40.613Z",
+      "checkedAt": "2026-10-20T23:22:25.747Z",
+      "lastSuccessAt": "2026-10-20T23:22:25.747Z",
       "etag": null,
       "lastModified": null,
       "discovered": 60,
@@ -260409,8 +260463,8 @@
       "id": "sspai",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-20T20:31:40.613Z",
-      "lastSuccessAt": "2026-10-20T20:31:40.613Z",
+      "checkedAt": "2026-10-20T23:22:25.747Z",
+      "lastSuccessAt": "2026-10-20T23:22:25.747Z",
       "etag": null,
       "lastModified": null,
       "discovered": 10,
@@ -260421,8 +260475,8 @@
       "id": "chinanews-society",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-20T20:31:40.613Z",
-      "lastSuccessAt": "2026-10-20T20:31:40.613Z",
+      "checkedAt": "2026-10-20T23:22:25.747Z",
+      "lastSuccessAt": "2026-10-20T23:22:25.747Z",
       "etag": "\"6ad78817-45e7\"",
       "lastModified": "Tue, 20 Oct 2026 15:26:15 GMT",
       "discovered": 0,
@@ -260433,8 +260487,8 @@
       "id": "chinanews-finance",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-20T20:31:40.613Z",
-      "lastSuccessAt": "2026-10-20T20:31:40.613Z",
+      "checkedAt": "2026-10-20T23:22:25.747Z",
+      "lastSuccessAt": "2026-10-20T23:22:25.747Z",
       "etag": "\"6ad79821-458f\"",
       "lastModified": "Tue, 20 Oct 2026 16:34:41 GMT",
       "discovered": 0,
@@ -260445,8 +260499,8 @@
       "id": "chinanews-life",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-20T20:31:40.613Z",
-      "lastSuccessAt": "2026-10-20T20:31:40.613Z",
+      "checkedAt": "2026-10-20T23:22:25.747Z",
+      "lastSuccessAt": "2026-10-20T23:22:25.747Z",
       "etag": "\"6ad74530-116d\"",
       "lastModified": "Tue, 20 Oct 2026 10:40:48 GMT",
       "discovered": 0,
@@ -260457,8 +260511,8 @@
       "id": "chinanews-jk",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-20T20:31:40.613Z",
-      "lastSuccessAt": "2026-10-20T20:31:40.613Z",
+      "checkedAt": "2026-10-20T23:22:25.747Z",
+      "lastSuccessAt": "2026-10-20T23:22:25.747Z",
       "etag": "\"69aa3e2a-2832\"",
       "lastModified": "Fri, 06 Mar 2026 02:38:34 GMT",
       "discovered": 0,
@@ -260469,8 +260523,8 @@
       "id": "chinanews-culture",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-20T20:31:40.613Z",
-      "lastSuccessAt": "2026-10-20T20:31:40.613Z",
+      "checkedAt": "2026-10-20T23:22:25.747Z",
+      "lastSuccessAt": "2026-10-20T23:22:25.747Z",
       "etag": "\"6ad78857-3b5a\"",
       "lastModified": "Tue, 20 Oct 2026 15:27:19 GMT",
       "discovered": 0,
@@ -260481,8 +260535,8 @@
       "id": "chinanews-edu",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-20T20:31:40.613Z",
-      "lastSuccessAt": "2026-10-20T20:31:40.613Z",
+      "checkedAt": "2026-10-20T23:22:25.747Z",
+      "lastSuccessAt": "2026-10-20T23:22:25.747Z",
       "etag": "\"6ad775f8-37a7\"",
       "lastModified": "Tue, 20 Oct 2026 14:08:56 GMT",
       "discovered": 0,
@@ -260493,11 +260547,11 @@
       "id": "chinanews-sports",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-20T20:31:40.613Z",
-      "lastSuccessAt": "2026-10-20T20:31:40.613Z",
+      "checkedAt": "2026-10-20T23:22:25.747Z",
+      "lastSuccessAt": "2026-10-20T23:22:25.747Z",
       "etag": "\"6ad7b009-427e\"",
       "lastModified": "Tue, 20 Oct 2026 18:16:41 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -260505,10 +260559,10 @@
       "id": "chinanews-scroll-news",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-20T20:31:40.613Z",
-      "lastSuccessAt": "2026-10-20T20:31:40.613Z",
-      "etag": "\"6ad7b026-4433\"",
-      "lastModified": "Tue, 20 Oct 2026 18:17:10 GMT",
+      "checkedAt": "2026-10-20T23:22:25.747Z",
+      "lastSuccessAt": "2026-10-20T23:22:25.747Z",
+      "etag": "\"6ad7f279-39b0\"",
+      "lastModified": "Tue, 20 Oct 2026 23:00:09 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -260516,8 +260570,8 @@
     "govuk-fulltext": {
       "id": "govuk-fulltext",
       "status": "ok",
-      "checkedAt": "2026-10-20T20:31:40.613Z",
-      "lastSuccessAt": "2026-10-20T20:31:40.613Z",
+      "checkedAt": "2026-10-20T23:22:25.747Z",
+      "lastSuccessAt": "2026-10-20T23:22:25.747Z",
       "discovered": 20,
       "rejected": 0,
       "contentSchema": 3,
