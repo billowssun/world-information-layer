@@ -1,8 +1,458 @@
 {
   "schemaVersion": "1",
-  "collectedAt": "2026-10-24T21:51:10.127Z",
-  "lastSuccessfulCollectionAt": "2026-10-24T21:51:10.127Z",
+  "collectedAt": "2026-10-25T00:16:52.463Z",
+  "lastSuccessfulCollectionAt": "2026-10-25T00:16:52.463Z",
   "items": [
+    {
+      "id": "205c11709ae77877e6a47b5f",
+      "title": "《塞尔达传说》制作人青沼英二获颁法国艺术与文学骑士勋章",
+      "originalUrl": "https://www.ithome.com/1/017/536.htm",
+      "summary": "IT之家 10 月 25 日消息，《塞尔达传说》系列资深制作人青沼英二（Eiji Aonuma），自《时之笛》起就一直守护着时光勇者挺身而出对抗邪恶的故事。如今青沼英二本人也获封英雄头衔，只是没配上一把帅气的剑。本周，法国文化部邀请这位海拉鲁世界的缔造者，出席授勋仪式，接受骑士荣誉。 法国文化部长卡特琳 · 佩加尔（Catherine Pégard）称赞他是“总能为玩家留出想象空间的故事讲述者”，法国政府授予青沼英二艺术与文学骑士勋章。佩加尔为他佩戴勋章，感谢他让“全世界的孩…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-25T00:08:25.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-25T00:16:52.463Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
+      "updatedAt": "2026-10-25T00:16:52.463Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3a818db256a37f6fde1dd1ce",
+      "title": "微软 Edge 浏览器已原生支持 GPC 隐私控制功能，Chrome 也已开展相关测试",
+      "originalUrl": "https://www.ithome.com/1/017/535.htm",
+      "summary": "IT之家 10 月 25 日消息，微软在 Edge 浏览器中推出了一项和隐私相关的更新：浏览器原生内置了全球隐私控制（GPC）开关。 据IT之家了解，万维网联盟（W3C）在 2020 年 10 月推出了全球隐私控制（GPC）规范，用来帮助用户落实《加州消费者隐私法案》（CCPA）和《通用数据保护条例》（GDPR）赋予的权利。这是一套基于浏览器的技术标准，用户可以自动向外传递隐私偏好，告知网站不要出售、共享自己的个人信息。 火狐、Brave 这类浏览器早已内置 GPC 并默认开…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-24T23:57:53.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-25T00:16:52.463Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
+      "updatedAt": "2026-10-25T00:16:52.463Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "36f58ed1078b25d03e75840d",
+      "title": "搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出",
+      "originalUrl": "https://www.ithome.com/1/017/534.htm",
+      "summary": "IT之家 10 月 25 日消息，如果你本周末身在洛杉矶，就有机会亲眼见到特斯拉新款 Roadster。特斯拉在 X 平台宣布，这辆 Roadster 正在彼得森汽车博物馆展出，展览时间为 10 月 24 日至 27 日，展出地点在主大厅。 这是继本月早些时候特斯拉在得克萨斯州麦格雷戈的 SpaceX 试验场首发新车之后，公众首次有机会近距离观赏新款 Roadster。展期只到周二，参观时间比较紧张。 彼得森博物馆将这辆展车标注为 2028 款特斯拉 Roadster 推力版…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-24T23:48:40.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-25T00:16:52.463Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
+      "updatedAt": "2026-10-25T00:16:52.463Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7c66250505f0533a07d054d7",
+      "title": "同人变官方：《赛博朋克 2077》续作设计团队中，半数是被“收编”的模组作者",
+      "originalUrl": "https://www.ithome.com/1/017/533.htm",
+      "summary": "IT之家 10 月 25 日消息，当地时间 23 日，据外媒 VGC 报道，《赛博朋克 2077》续作副总监帕维尔 · 萨斯科透露，续作任务设计团队约有一半成员曾是游戏模组作者。 萨斯科认为，玩家能够随时在游戏内启用或关闭模组，不仅操作更加方便，也有助于保持游戏的新鲜感。“假如你已经玩了 800 个小时的《赛博朋克 2077》…… 那么模组就是让游戏体验保持新鲜感的最好办法，对吧？可以试试以前从未接触过的内容，无论是改变玩法、增加剧情、添加新元素，还是调整角色外观的模组。” …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-24T23:47:48.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-25T00:16:52.463Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
+      "updatedAt": "2026-10-25T00:16:52.463Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ab78788d181d2a034d0ea8f6",
+      "title": "三体宇宙全新剧集《三体・智子灾变》官宣：主创阵容首曝，概念海报同步首发",
+      "originalUrl": "https://www.ithome.com/1/017/532.htm",
+      "summary": "IT之家 10 月 25 日消息，三体宇宙衍生真人剧《三体：智子灾变》已正式官宣，并首发概念海报。 本片将由路阳监制，忻钰坤执导，剧集聚焦三体危机下的年轻一代。当倒计时笼罩全球，熟悉的世界逐渐失序，普通人将如何面对未知、做出抉择？文明危机之下，讲述更多“无名者”的故事。 三体宇宙（上海）文化发展有限公司还宣布「智子世界观」全面升级，并发布了首支 PV。 据IT之家昨日报道，2026 年是《三体》小说发表 20 周年，在 2026 年三体日活动现场，导演杨磊确认《三体 · 大史…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-24T23:40:51.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-25T00:16:52.463Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
+      "updatedAt": "2026-10-25T00:16:52.463Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5fdff8276647cea45f7dca2d",
+      "title": "任天堂 Switch 2 破解取得进展，《三角符文》《黄昏之血》资源包流出",
+      "originalUrl": "https://www.ithome.com/1/017/531.htm",
+      "summary": "IT之家 10 月 25 日消息，Switch 2 的破解给这台主机的自制程序生态注入了活力。任天堂已经采取措施封堵 ns2jb 漏洞，但又有一则消息正在传开：《三角符文》第 1 至 4 章以及《黄昏之血》测试版的首批次世代游戏资源包已经流出。 据IT之家了解，ns2jb 由 pepsipu 开发，属于软件层面的破解手段，利用了主机文件系统中的一处漏洞。现已下架的《SmileBASIC 4》是这次破解的入口。虽然在没有内核漏洞的前提下，盗版和模拟器运行暂时还无法实现，但它已经…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-24T23:36:38.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-25T00:16:52.463Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
+      "updatedAt": "2026-10-25T00:16:52.463Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d6fa8d35e04853cee878c801",
+      "title": "李小龙：2.4G / 5G 频段同时工作是 Wi-Fi 7 特性，华为在 Wi-Fi 6 时代通过私有协议提前支持",
+      "originalUrl": "https://www.ithome.com/1/017/530.htm",
+      "summary": "IT之家 10 月 25 日消息，博主 @不是郑小康 昨晚发文，谈及了华为鸿蒙 HarmonyOS 7 系统的使用感受。他称在华为 Pura X View 的鸿蒙 7 系统中，“貌似”不能 2.4G 和 5G Wi-Fi 一起连加速上网。 随后，华为终端 BG CTO 李小龙发文解答了上述问题： Pura X View 可以的，Wi-Fi 2.4G 和 Wi-Fi 5G 同时工作，已经是 Wi-Fi 7 的标准特性了。只要是 Wi-Fi 7 的手机，都应该支持这个特性。在 W…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-24T23:34:50.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-25T00:16:52.463Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
+      "updatedAt": "2026-10-25T00:16:52.463Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "80d78587fb85a05c210d2ff7",
+      "title": "全球最大“电力超市”开业，南方区域电力市场正式运行",
+      "originalUrl": "https://www.ithome.com/1/017/529.htm",
+      "summary": "IT之家 10 月 25 日消息，据央视财经报道，10 月 24 日，我国首个区域电力市场 —— 南方区域电力市场正式运行。 此举标志着全国统一电力市场建设迎来重大里程碑式节点。它打通了广东、广西、云南、贵州、海南五个省区的市场，把煤电、水电、核电、风电、光伏等都放到一个市场里买卖，按同一套规则竞价交易。值得一提的是，这是目前世界上最大、最繁忙的“电力超市”。五省区市场经营主体注册数量已经超过 29 万家，约占全国总量四分之一，将在同一个市场上开展常态化交易。 报道指出，从试…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-24T23:30:42.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-25T00:16:52.463Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
+      "updatedAt": "2026-10-25T00:16:52.463Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4a134ac39ed0cc391d27e79d",
+      "title": "PHP 基金会负责人坦言资金不足：仅 1 名全职员工",
+      "originalUrl": "https://www.ithome.com/1/017/528.htm",
+      "summary": "IT之家 10 月 25 日消息，本周，PHP 曝出两处高危漏洞，全球随即紧急行动，保护网站免遭黑客攻击。这件事也让人们看到，这门已有三十年历史的开源编程语言，对互联网而言有多重要。 据估算，全球最高有约七成网站依托 PHP 搭建，但负责维护 PHP 的非营利基金会，经费却十分紧张。 PHP 基金会执行董事伊丽莎白 · 巴伦（Elizabeth Barron）在当地时间周五的邮件采访中表示：“我们只有一名全职员工，也就是我，另外还有十四名大多是兼职的外包人员。”基金会董事会成…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-24T23:27:45.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-25T00:16:52.463Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
+      "updatedAt": "2026-10-25T00:16:52.463Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9ec39ce1f0abc8a4b38ad165",
+      "title": "BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限",
+      "originalUrl": "https://www.ithome.com/1/017/527.htm",
+      "summary": "IT之家 10 月 25 日消息，英国广播公司（BBC）的《蓝色星球 3》纪录片打算保留那些不算完美的镜头，以此证明内容的真实性。该系列前作的标志性特点是画面精美、通透清晰，美得近乎不真实。而人工智能生成内容的一大破绽，就是画面过度精致、毫无瑕疵。为了避开这种观感，《蓝色星球 3》选择如实呈现，不刻意美化。 IT之家注意到，执行制片人伊丽莎白 · 怀特（Elizabeth White）此前接受《卫报》采访时提到，放在以往，水里漂浮的大量浮游生物之类的杂物，就足以让团队剪掉这段…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-24T23:19:32.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-25T00:16:52.463Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
+      "updatedAt": "2026-10-25T00:16:52.463Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "fdf39441327894a9507b0c69",
+      "title": "不只是要卖车，消息称奇瑞汽车计划在加拿大建厂",
+      "originalUrl": "https://www.ithome.com/1/017/526.htm",
+      "summary": "IT之家 10 月 25 日消息，据彭博社 23 日报道，奇瑞汽车计划明年进入加拿大市场，同时考虑在当地生产汽车。如果建厂计划落地，奇瑞将在美国北部边境建立生产基地。 尽管进入美国市场的前景尚不明朗，奇瑞认为，加拿大本身就值得投资。奇瑞汽车常务副总裁张贵兵在安徽芜湖总部接受采访时，谈到了接手现有工厂闲置产能、与合作伙伴共同开展生产等方案。 即使不考虑美国市场，加拿大也值得我们设厂生产。我们正在寻找合适的机会，并就可能采取的合作方式进行沟通。…… 如果能够找到合适的合作方式，让…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-24T23:18:48.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-25T00:16:52.463Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
+      "updatedAt": "2026-10-25T00:16:52.463Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1443823177cc1881290e6aba",
+      "title": "10月25日新闻早报",
+      "originalUrl": "https://www.chinanews.com.cn/iframe/2026/10-25/10720544.shtml",
+      "summary": null,
+      "summaryProvenance": null,
+      "sourcePublishedAt": "2026-10-24T23:15:51.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-25T00:16:52.463Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
+      "updatedAt": "2026-10-25T00:16:52.463Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "24ce5b98ac6d787f5c782afe",
+      "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
+      "originalUrl": "https://www.ithome.com/1/017/525.htm",
+      "summary": "IT之家 10 月 25 日消息，英伟达已经上市一段时间的 GeForce RTX 30 系列（代号安培，Ampere）显卡，显然还有大量尚未释放的计算潜力。GitHub 用户扎吉塔（Zagitta）开发了一款名为 GPU Unlock 的开源新项目，可以解除安培架构显卡上部分人为设置的性能限制，在特定负载下，张量核心的计算吞吐量几乎可以翻倍，而且不需要修改英伟达驱动，也不用永久刷写显卡的 VBIOS。 IT之家注意到，这个项目专门针对一项指令发射速率限制：在使用 FP32 …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-24T23:09:54.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-25T00:16:52.463Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
+      "updatedAt": "2026-10-25T00:16:52.463Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d583980eb00642d7eb9d75cf",
+      "title": "微软测试 Reactor 实验性框架，澄清 WinUI 和 XAML 不会被停用",
+      "originalUrl": "https://www.ithome.com/1/017/524.htm",
+      "summary": "IT之家 10 月 25 日消息，微软推出一款名为 Microsoft.UI.Reactor 的实验性框架并开启测试后，出面澄清，并不会停用 WinUI 和 XAML。鉴于微软此前放弃 UWP、关停 Silverlight 的过往，不少开发者心存疑虑也并不意外。 据IT之家了解，WinUI 是微软的原生界面框架，用它开发的应用一般遵循 Windows 11 的设计规范，系统设置应用就是典型例子。而 XAML 是开发者用来描述应用界面的标记语言。 Reactor 基于 WinU…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-24T22:59:07.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-25T00:16:52.463Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
+      "updatedAt": "2026-10-25T00:16:52.463Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "2c53e166babd7be54c3e09e1",
+      "title": "俄乌将为阿列什基人道主义行动同步停火",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-25/10720543.shtml",
+      "summary": "当地时间24日，俄罗斯人权事务专员兰特拉托娃表示，她与乌克兰最高拉达(议会)人权事务专员卢比涅茨就阿列什基的人道主义任务举行了在线会议。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-24T22:49:14.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-25T00:16:52.463Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
+      "updatedAt": "2026-10-25T00:16:52.463Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "80e52e99a546c48ba2fe4a3f",
+      "title": "也门胡塞武装称沙特一天内发动百次空袭",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-25/10720542.shtml",
+      "summary": "当地时间24日晚，也门胡塞武装发表声明称，过去24小时，沙特方面发动100次空袭，袭击了也门首都萨那及其他地区的民用目标，造成数十人死伤。声明称，自局势升级以来，沙特方面发动的空袭和导弹袭击总数已达3123次。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-24T22:41:35.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-25T00:16:52.463Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
+      "updatedAt": "2026-10-25T00:16:52.463Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0accff273e707c901cd0686e",
+      "title": "泽连斯基：不会为结束冲突放弃更多领土",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-25/10720541.shtml",
+      "summary": "据乌克兰方面24日消息，乌总统泽连斯基23日接受采访时称，乌克兰准备尽快结束同俄罗斯的军事冲突，但不会为了结束冲突而放弃更多领土。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-24T22:40:07.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-25T00:16:52.463Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
+      "updatedAt": "2026-10-25T00:16:52.463Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0c2281cfb17d64e83bb8c74e",
+      "title": "马里军方在梅纳卡市附近发现54具遗体",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-25/10720540.shtml",
+      "summary": "马里武装部队总参谋部24日发布公报说，一支联合巡逻队在该国东北部梅纳卡区首府梅纳卡市附近发现54具平民遗体。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-24T22:38:37.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-25T00:16:52.463Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
+      "updatedAt": "2026-10-25T00:16:52.463Z",
+      "version": 1,
+      "history": []
+    },
     {
       "id": "3b5f693a46318c271a677d2f",
       "title": "第五届亚洲残疾人运动会在日本名古屋闭幕",
@@ -25,7 +475,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -50,7 +500,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -77,7 +527,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -102,7 +552,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -127,7 +577,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -153,7 +603,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -179,7 +629,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -205,7 +655,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -230,7 +680,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -255,7 +705,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -280,7 +730,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -306,7 +756,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -333,7 +783,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -358,7 +808,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -383,7 +833,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -408,7 +858,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -435,7 +885,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -461,7 +911,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -486,7 +936,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -511,7 +961,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -536,7 +986,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -561,7 +1011,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -586,7 +1036,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -611,7 +1061,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -636,7 +1086,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -661,7 +1111,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -688,7 +1138,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -716,7 +1166,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -742,7 +1192,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -767,7 +1217,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -793,7 +1243,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -820,7 +1270,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -847,7 +1297,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -874,7 +1324,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -900,7 +1350,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -927,7 +1377,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -952,7 +1402,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -977,7 +1427,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T16:55:04.875Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T16:55:04.875Z",
       "version": 1,
       "history": []
@@ -1003,7 +1453,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -1028,7 +1478,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -1054,7 +1504,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T16:55:04.875Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -1255,7 +1705,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -1309,7 +1759,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -1361,7 +1811,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -1439,7 +1889,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -1670,7 +2120,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -1802,7 +2252,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -1856,7 +2306,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -1962,7 +2412,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -2117,7 +2567,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -2169,7 +2619,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -2246,7 +2696,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -2296,7 +2746,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -2322,7 +2772,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -2373,7 +2823,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -2424,7 +2874,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -2651,7 +3101,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -2701,7 +3151,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -2953,7 +3403,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -2978,7 +3428,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -3131,7 +3581,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -3181,7 +3631,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -3206,7 +3656,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -3232,7 +3682,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -3257,7 +3707,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -3282,7 +3732,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -3308,7 +3758,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -3333,7 +3783,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -3385,7 +3835,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -3461,7 +3911,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -3512,7 +3962,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -3614,7 +4064,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -4142,7 +4592,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -5087,7 +5537,7 @@
         "sourceVersion": "3a006067-d8be-41f7-9215-7caa3881e391"
       },
       "firstSeenAt": "2026-10-24T09:05:15.044Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 2,
       "history": [
@@ -9737,7 +10187,7 @@
         "sourceVersion": "a83563de-62d0-46f6-9ee4-3cb67fe6c5d2"
       },
       "firstSeenAt": "2026-10-23T21:20:18.610Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-23T21:20:18.610Z",
       "version": 1,
       "history": []
@@ -9779,7 +10229,7 @@
         "sourceVersion": "47765a47-2c67-45f3-9ae3-1c7f1a0f87b1"
       },
       "firstSeenAt": "2026-10-23T21:20:18.610Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-23T21:20:18.610Z",
       "version": 1,
       "history": []
@@ -9821,7 +10271,7 @@
         "sourceVersion": "e6c48849-c6e0-4b3b-9f29-80d0d7573a80"
       },
       "firstSeenAt": "2026-10-23T21:20:18.610Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-23T21:20:18.610Z",
       "version": 1,
       "history": []
@@ -10678,7 +11128,7 @@
         "sourceVersion": "e778351b-b261-4719-8011-7bc223dbedcb"
       },
       "firstSeenAt": "2026-10-23T17:51:08.399Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-23T17:51:08.399Z",
       "version": 1,
       "history": []
@@ -10798,7 +11248,7 @@
         "sourceVersion": "68fade00-c497-435d-9a17-70af7fcbe691"
       },
       "firstSeenAt": "2026-10-23T17:51:08.399Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-23T23:58:02.949Z",
       "version": 2,
       "history": [
@@ -11794,7 +12244,7 @@
         "sourceVersion": "4f5d7f91-130c-47a7-a1f9-f2b4a947494e"
       },
       "firstSeenAt": "2026-10-23T17:51:08.399Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-23T17:51:08.399Z",
       "version": 1,
       "history": []
@@ -12647,7 +13097,7 @@
         "sourceVersion": "da698d7e-8e8c-4304-bd76-a88922d89604"
       },
       "firstSeenAt": "2026-10-23T17:51:08.399Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-23T17:51:08.399Z",
       "version": 1,
       "history": []
@@ -14106,7 +14556,7 @@
         "sourceVersion": "aa1f991f-3024-4b47-bd02-2f7b29dfc06c"
       },
       "firstSeenAt": "2026-10-23T12:50:56.217Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-23T12:50:56.217Z",
       "version": 1,
       "history": []
@@ -14403,7 +14853,7 @@
         "sourceVersion": "4b865779-503c-41dc-8a02-b3258bada3e0"
       },
       "firstSeenAt": "2026-10-23T12:50:56.217Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-23T12:50:56.217Z",
       "version": 1,
       "history": []
@@ -14637,7 +15087,7 @@
         "sourceVersion": "6f95c059-9343-474f-9e6e-511b0a53b1b7"
       },
       "firstSeenAt": "2026-10-23T12:50:56.217Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-23T12:50:56.217Z",
       "version": 1,
       "history": []
@@ -15399,7 +15849,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-23T12:50:56.217Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-23T12:50:56.217Z",
       "version": 1,
       "history": []
@@ -16050,7 +16500,7 @@
         "sourceVersion": "54b0f9e4-fb4c-4200-8602-3844ac138f13"
       },
       "firstSeenAt": "2026-10-23T12:50:56.217Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-23T12:50:56.217Z",
       "version": 1,
       "history": []
@@ -16499,7 +16949,7 @@
         "sourceVersion": "7a27bc2b-b43a-42eb-a357-1588599e864c"
       },
       "firstSeenAt": "2026-10-23T12:50:56.217Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-23T12:50:56.217Z",
       "version": 1,
       "history": []
@@ -16846,7 +17296,7 @@
         "sourceVersion": "7ad70abd-d3af-4dff-bdd5-ad4d0aea8aa0"
       },
       "firstSeenAt": "2026-10-23T12:50:56.217Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-23T12:50:56.217Z",
       "version": 1,
       "history": []
@@ -17517,7 +17967,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-23T12:50:56.217Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-23T12:50:56.217Z",
       "version": 1,
       "history": []
@@ -19017,7 +19467,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-23T07:26:02.977Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-23T07:26:02.977Z",
       "version": 1,
       "history": []
@@ -20876,7 +21326,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-23T01:55:13.225Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-23T01:55:13.225Z",
       "version": 1,
       "history": []
@@ -22049,7 +22499,7 @@
         "sourceVersion": "866a24f1-cf02-4578-9dc4-46fd097e9638"
       },
       "firstSeenAt": "2026-10-22T23:34:16.987Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-22T23:34:16.987Z",
       "version": 1,
       "history": []
@@ -23218,7 +23668,7 @@
         "sourceVersion": "fdc483d0-c158-4333-9c9b-27da04cead47"
       },
       "firstSeenAt": "2026-10-22T17:05:03.653Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-22T17:05:03.653Z",
       "version": 1,
       "history": []
@@ -24793,7 +25243,7 @@
         "sourceVersion": "6eaf91e2-2104-42ed-9a20-a0832cf1c1cd"
       },
       "firstSeenAt": "2026-10-22T17:05:03.653Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-22T17:05:03.653Z",
       "version": 1,
       "history": []
@@ -25522,7 +25972,7 @@
         "sourceVersion": "454078c2-24d0-4136-a88e-4b9d7772560b"
       },
       "firstSeenAt": "2026-10-22T17:05:03.653Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-22T17:05:03.653Z",
       "version": 1,
       "history": []
@@ -28399,7 +28849,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-22T11:43:16.973Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-22T11:43:16.973Z",
       "version": 1,
       "history": []
@@ -29759,7 +30209,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-22T11:43:16.973Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-22T11:43:16.973Z",
       "version": 1,
       "history": []
@@ -31428,7 +31878,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-22T06:03:34.446Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-22T06:03:34.446Z",
       "version": 1,
       "history": []
@@ -32956,7 +33406,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-22T06:03:34.446Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-22T06:03:34.446Z",
       "version": 1,
       "history": []
@@ -40134,7 +40584,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-21T13:11:28.833Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-21T13:11:28.833Z",
       "version": 1,
       "history": []
@@ -41725,7 +42175,7 @@
         "sourceVersion": "566a89a8-7c71-4a38-8beb-7d52f41fe32f"
       },
       "firstSeenAt": "2026-10-21T07:30:11.986Z",
-      "lastSeenAt": "2026-10-24T21:51:10.127Z",
+      "lastSeenAt": "2026-10-25T00:16:52.463Z",
       "updatedAt": "2026-10-23T17:51:08.399Z",
       "version": 3,
       "history": [
@@ -260416,460 +260866,6 @@
       "updatedAt": "2026-09-30T05:25:35.158Z",
       "version": 1,
       "history": []
-    },
-    {
-      "id": "df147817a144e64e5e07b78a",
-      "title": "弥合鸿沟，共塑数字贸易秩序",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706028.shtml",
-      "summary": "本报记者 于景浩 刘军国",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-30T01:57:19.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance"
-      ],
-      "sourceIds": [
-        "chinanews-finance"
-      ],
-      "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T05:25:35.158Z",
-      "updatedAt": "2026-09-30T05:25:35.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "d4c03c7e5577f5246846d065",
-      "title": "9月中国制造业采购经理指数为50.1% 升至扩张区间",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706023.shtml",
-      "summary": "中新网9月30日电 据中国物流与采购联合会网站消息，国家统计局服务业调查中心、中国物流与采购联合会发布的2026年9月份中国制造业采购经理指数(PMI)为50.1%，较上月上升0.3个百分点，在连续2个月运行在50%以下后回到扩张区间，显示9月份制造业运行有所回升。从分项指数和行业指数来看，市场需求整体稳定扩张，企业生产加快上升，市场价格联动上升，大型企业稳定增长，中小企业景气改善，整体来看制造业向好运行。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-30T01:56:33.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance"
-      ],
-      "sourceIds": [
-        "chinanews-finance"
-      ],
-      "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T05:25:35.158Z",
-      "updatedAt": "2026-09-30T05:25:35.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "910bade62cbf6ed2e811c3ff",
-      "title": "更多选手进入世界第一梯队 亚洲体育整体提升进步（亚运纵横）",
-      "originalUrl": "https://www.chinanews.com.cn/ty/2026/09-30/10706025.shtml",
-      "summary": "记者 陈晨曦 孙龙飞 刘硕阳",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-sports",
-        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-30T01:55:21.000Z",
-      "timeIssue": null,
-      "channels": [
-        "sports"
-      ],
-      "sourceIds": [
-        "chinanews-sports"
-      ],
-      "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-10-01T07:09:15.592Z",
-      "updatedAt": "2026-09-30T05:25:35.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "3967e8669a56569c14d030c6",
-      "title": "第二十三届中国国际运输与物流博览会将于11月在郑州举行",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706009.shtml",
-      "summary": "中新网郑州9月30日电 (陈贵洋)29日在郑州航空港经济综合实验区(以下简称郑州航空港区)举行的第二十三届中国国际运输与物流博览会推介会通报，本届博览会将于11月19日至21日在中原国际会展中心举办，这是该博览会创办以来首次落户河南。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-30T01:53:41.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance"
-      ],
-      "sourceIds": [
-        "chinanews-finance"
-      ],
-      "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T05:25:35.158Z",
-      "updatedAt": "2026-09-30T05:25:35.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "65b3b2a9dfbf290f6e727b9f",
-      "title": "“山海相逢·遇见林芝” 交流季亮相广州",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706016.shtml",
-      "summary": "中新网广州9月30日电 (记者 蔡敏婕)“山海相逢·遇见林芝”沙面——鲁朗文化经贸交流季开幕式29日在广州举行。本次活动立足粤林对口支援协作，把林芝的雪域山水风光、多彩非遗人文搬到珠江之畔，打造集文化展示、文旅推广、经贸交流于一体的沉浸式交流平台，推动林芝文旅品牌走进粤港澳大湾区。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-30T01:52:36.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance"
-      ],
-      "sourceIds": [
-        "chinanews-finance"
-      ],
-      "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T05:25:35.158Z",
-      "updatedAt": "2026-09-30T05:25:35.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "5a995f63cc3b51bcfcb7a500",
-      "title": "多地将迎客流高峰 预计北京口岸出入境人次将达51.1万",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706022.shtml",
-      "summary": "根据国家移民管理局的预测，全国各大口岸，在国庆假期即将迎来一波出入境客流高峰。尤其是北京口岸，受免签政策、金秋旅游等因素影响，客流持续走高。假期出行，也提醒大家提前做好出行准备，顺畅通关。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-30T01:49:56.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance",
-        "travel"
-      ],
-      "sourceIds": [
-        "chinanews-finance"
-      ],
-      "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T05:25:35.158Z",
-      "updatedAt": "2026-09-30T05:25:35.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "90250feb65a68e49988d7feb",
-      "title": "海南：20款App违法违规收集使用个人信息被责令限期整改",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-30/10706014.shtml",
-      "summary": "中新网海口9月30日电 (记者 张茜翼)海南省互联网信息办公室29日举办新闻通气会介绍，2026年第三季度，该办对网络社交类和AI工具类移动应用程序违法违规收集使用个人信息问题进行集中采集检测，结果显示20款App均存在不同程度的违规行为。当前，海南省网信办集中向社会通报并责令相关运营单位限期整改。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-30T01:49:12.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T05:25:35.158Z",
-      "updatedAt": "2026-09-30T05:25:35.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "2b49bab5faef783e6ce131f6",
-      "title": "鸿蒙智行尚界 Z7/Z7T 汽车国庆 OTA 升级，肖战专属语音包上线",
-      "originalUrl": "https://www.ithome.com/1/008/593.htm",
-      "summary": "IT之家 9 月 30 日消息，鸿蒙智行旗下尚界汽车今日宣布国庆 OTA 正式推送，带来 3 大维度提升，20+ 项体验进化。 交互焕新，新增肖战专属泊车语音； 安全守护及导航设置升级，出行更省心； 细节功能优化，体验更舒适。 具体来看，尚界 Z7/Z7T 新增防误打方向盘功能，在 NCA / LCC 开启且车速 60 公里每小时以上时，系统检测到驾驶员注意力不集中会自动提升方向盘接管力矩。 尚界 Z7/Z7T 新增转向时 HUD 边缘告警光晕，打转向灯后若侧后方触发告警，影…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-30T01:48:22.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "mobility"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T05:25:35.158Z",
-      "updatedAt": "2026-09-30T05:25:35.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "86e0ca5b5b609dfb25efd4de",
-      "title": "消息称 AI 失控前 OpenAI 已接到员工警告，但高层选择无视",
-      "originalUrl": "https://www.ithome.com/1/008/592.htm",
-      "summary": "IT之家 9 月 30 日消息，据《纽约时报》报道，早在 OpenAI 的人工智能出现脱离管控行为的数月之前，就已有两名员工向公司高层发出安全预警，但他们的警示遭到忽视。 《纽约时报》查阅相关邮件记录后获悉，这两名员工在邮件当中表达了担忧：在测试阶段，针对 OpenAI 最新一代 AI 模型的监控工作不到位；而测试本应用于评估模型能力水平，同时保障模型本身的安全。 对此，OpenAI 管理层答复员工，测试必须尽快向前推进，保障 AI 模型能够按期发布。据这两名不便公开发声的员…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-30T01:48:21.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T05:25:35.158Z",
-      "updatedAt": "2026-09-30T05:25:35.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "b7380ddc5bb9195ee1b18630",
-      "title": "破解水稻防虫难题 湖南两项植保黑科技大面积推广应用",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-30/10706010.shtml",
-      "summary": "中新网长沙9月30日电 (青晓彤)稻飞虱是威胁湖南水稻生产的重大害虫，虫体细小、密度大，传统人工查虫、计数费时费力、效率偏低，难以满足现代农业精准测报需求。针对这一痛点，湖南农业大学植物保护学院院长李有志依托深耕植保领域20余年的科研积淀，牵头国家重点研发计划项目，成功研发出AI智能识虫眼镜，为稻田虫情高效精准测报提供科技新方案。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-30T01:46:56.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "technology"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T05:25:35.158Z",
-      "updatedAt": "2026-09-30T05:25:35.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "1513eeb3c4892604c0229c00",
-      "title": "中国乡村何以发生巨变（我眼中的中国）",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-30/10706019.shtml",
-      "summary": "汉森·尼克·勒内",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-30T01:45:54.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T05:25:35.158Z",
-      "updatedAt": "2026-09-30T05:25:35.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "d15fd69487a754b6cfdf933b",
-      "title": "前高通 / 苹果工程师组队开发 WarpCore：核心优先，声称要颠覆半导体 / 芯片行业规则",
-      "originalUrl": "https://www.ithome.com/1/008/591.htm",
-      "summary": "IT之家 9 月 30 日消息，科技媒体 NotebookCheck 今天（9 月 30 日）发布博文，报道称 Nuvacore 公司公开 WarpCore 处理器核心开发模式，在确定指令集（例如 x86、Arm 或 RISC-V）之前，先构建大部分底层微架构。 IT之家曾于今年 4 月报道，Nuvacore 公司由 Gerard Williams III、John Bruno 和 Ram Srinivasan 三人共同创立，都拥有丰富的定制 CPU 设计经验。 Willia…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-30T01:44:26.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T05:25:35.158Z",
-      "updatedAt": "2026-09-30T05:25:35.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "12752dca3eef3e443a98f9ab",
-      "title": "购房贷款贴息明起全国实施，哪些人受益、月供能省多少？",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706018.shtml",
-      "summary": "财政部、中国人民银行、金融监管总局昨天发布通知，明确自明天起，在全国范围内实施居民购房贷款贴息政策，政策实施期暂定1年。符合条件的居民房贷可享受1个百分点的贴息支持。这是中央财政首次对商业性个人住房贷款进行贴息。那么，享受这项政策支持需要符合哪些条件？具体又能享受到多少优惠？",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-30T01:43:52.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance"
-      ],
-      "sourceIds": [
-        "chinanews-finance"
-      ],
-      "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T05:25:35.158Z",
-      "updatedAt": "2026-09-30T05:25:35.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "54c34079aa1786707b87f93e",
-      "title": "Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天发通知解除",
-      "originalUrl": "https://www.ithome.com/1/008/589.htm",
-      "summary": "IT之家 9 月 30 日消息，随着 AI 巨头 Anthropic 筹备 IPO 上市，路透社查阅的文件显示，这家企业已经和 SpaceX 签署了价值数百亿美元的算力协议。SpaceX 完成 IPO 之后向美国证券交易委员会（SEC）提交了披露材料；这批新的合同文件进一步揭开了两家公司合作的细节。协议当中有一项关键条款：Anthropic 仅需提前三个月发出通知，就可以解除这份合作。就在签署该协议的同一时期，埃隆 · 马斯克正大举扩张自家的数据中心，目标是在今年年底之前上线…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-30T01:41:26.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T05:25:35.158Z",
-      "updatedAt": "2026-09-30T05:25:35.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "4a64ea0347bf632b36df4bc5",
-      "title": "赛睿正式推出 Sensei / Rival Pro 鼠标：UWB + 换电 + PAW3955",
-      "originalUrl": "https://www.ithome.com/1/008/588.htm",
-      "summary": "IT之家 9 月 30 日消息，SteelSeries（赛睿）当地时间 29 日正式推出了新一代旗舰鼠标 Sensei Pro（对称）、Rival Pro（右手），均提供标准尺寸和 Mini 小尺寸版本。 Sensei / Rival Pro 鼠标采用 UWB（超宽带）无线连接技术，通过 6.4~9.056GHz 频段传输数据，享受低干扰大频宽优势。其每 8 个数据包配套 1 个额外的备份数据包，实现 9kHz 轮询率，点击延迟 0.35ms。 其配备基于原相 PAW3955…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-30T01:38:33.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T05:25:35.158Z",
-      "updatedAt": "2026-09-30T05:25:35.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "1772523b4bf91a7fd01f9996",
-      "title": "我国持续深化大熊猫保护研究国际合作 守护旗舰物种 架起友谊桥梁（美丽中国）",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/09-30/10706012.shtml",
-      "summary": "记者 董丝雨",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-30T01:38:00.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T05:25:35.158Z",
-      "updatedAt": "2026-09-30T05:25:35.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "6e40570897ccf45c5de0e7f7",
-      "title": "2030年融资翻番 未来亚投行投资重点聚焦这些领域",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706011.shtml",
-      "summary": "当地时间28日至29日，亚洲基础设施投资银行第十一届理事会年会在卡塔尔首都多哈举行。与会嘉宾围绕“面向未来的基础设施：影响与创新”主题，共商可持续基础设施发展与合作。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-30T01:37:46.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance"
-      ],
-      "sourceIds": [
-        "chinanews-finance"
-      ],
-      "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-09-30T05:25:35.158Z",
-      "updatedAt": "2026-09-30T05:25:35.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "1bfee3f8b3e202930c8772f6",
-      "title": "破解亲子难题，四招给初中孩子留出心理空间",
-      "originalUrl": "https://www.chinanews.com.cn/edu/2026/09-30/10706007.shtml",
-      "summary": "家长求助：孩子进入初中，初二是最难相处的一年。亲子之间关系的远近、松紧，全都很难拿捏。如何与孩子一起顺利走过青春期成长时光？",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-edu",
-        "feedUrl": "https://www.chinanews.com.cn/rss/edu.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-09-30T01:32:51.000Z",
-      "timeIssue": null,
-      "channels": [
-        "education"
-      ],
-      "sourceIds": [
-        "chinanews-edu"
-      ],
-      "firstSeenAt": "2026-09-30T05:25:35.158Z",
-      "lastSeenAt": "2026-10-04T14:45:19.117Z",
-      "updatedAt": "2026-09-30T05:25:35.158Z",
-      "version": 1,
-      "history": []
     }
   ],
   "sourceStatus": {
@@ -260877,8 +260873,8 @@
       "id": "ithome",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-24T21:51:10.127Z",
-      "lastSuccessAt": "2026-10-24T21:51:10.127Z",
+      "checkedAt": "2026-10-25T00:16:52.463Z",
+      "lastSuccessAt": "2026-10-25T00:16:52.463Z",
       "etag": null,
       "lastModified": null,
       "discovered": 60,
@@ -260889,8 +260885,8 @@
       "id": "sspai",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-24T21:51:10.127Z",
-      "lastSuccessAt": "2026-10-24T21:51:10.127Z",
+      "checkedAt": "2026-10-25T00:16:52.463Z",
+      "lastSuccessAt": "2026-10-25T00:16:52.463Z",
       "etag": null,
       "lastModified": null,
       "discovered": 10,
@@ -260901,8 +260897,8 @@
       "id": "chinanews-society",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-24T21:51:10.127Z",
-      "lastSuccessAt": "2026-10-24T21:51:10.127Z",
+      "checkedAt": "2026-10-25T00:16:52.463Z",
+      "lastSuccessAt": "2026-10-25T00:16:52.463Z",
       "etag": "\"6adcae82-3e86\"",
       "lastModified": "Sat, 24 Oct 2026 13:11:30 GMT",
       "discovered": 0,
@@ -260913,8 +260909,8 @@
       "id": "chinanews-finance",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-24T21:51:10.127Z",
-      "lastSuccessAt": "2026-10-24T21:51:10.127Z",
+      "checkedAt": "2026-10-25T00:16:52.463Z",
+      "lastSuccessAt": "2026-10-25T00:16:52.463Z",
       "etag": "\"6adcb028-3e82\"",
       "lastModified": "Sat, 24 Oct 2026 13:18:32 GMT",
       "discovered": 0,
@@ -260925,8 +260921,8 @@
       "id": "chinanews-life",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-24T21:51:10.127Z",
-      "lastSuccessAt": "2026-10-24T21:51:10.127Z",
+      "checkedAt": "2026-10-25T00:16:52.463Z",
+      "lastSuccessAt": "2026-10-25T00:16:52.463Z",
       "etag": "\"6adb6d3d-fc5\"",
       "lastModified": "Fri, 23 Oct 2026 14:20:45 GMT",
       "discovered": 0,
@@ -260937,8 +260933,8 @@
       "id": "chinanews-jk",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-24T21:51:10.127Z",
-      "lastSuccessAt": "2026-10-24T21:51:10.127Z",
+      "checkedAt": "2026-10-25T00:16:52.463Z",
+      "lastSuccessAt": "2026-10-25T00:16:52.463Z",
       "etag": "\"69aa3e2a-2832\"",
       "lastModified": "Fri, 06 Mar 2026 02:38:34 GMT",
       "discovered": 0,
@@ -260949,8 +260945,8 @@
       "id": "chinanews-culture",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-24T21:51:10.127Z",
-      "lastSuccessAt": "2026-10-24T21:51:10.127Z",
+      "checkedAt": "2026-10-25T00:16:52.463Z",
+      "lastSuccessAt": "2026-10-25T00:16:52.463Z",
       "etag": "\"6adcbaaf-3e92\"",
       "lastModified": "Sat, 24 Oct 2026 14:03:27 GMT",
       "discovered": 0,
@@ -260961,8 +260957,8 @@
       "id": "chinanews-edu",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-24T21:51:10.127Z",
-      "lastSuccessAt": "2026-10-24T21:51:10.127Z",
+      "checkedAt": "2026-10-25T00:16:52.463Z",
+      "lastSuccessAt": "2026-10-25T00:16:52.463Z",
       "etag": "\"6adcb1f5-43a6\"",
       "lastModified": "Sat, 24 Oct 2026 13:26:13 GMT",
       "discovered": 0,
@@ -260973,8 +260969,8 @@
       "id": "chinanews-sports",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-24T21:51:10.127Z",
-      "lastSuccessAt": "2026-10-24T21:51:10.127Z",
+      "checkedAt": "2026-10-25T00:16:52.463Z",
+      "lastSuccessAt": "2026-10-25T00:16:52.463Z",
       "etag": "\"6adcd6d3-3e3f\"",
       "lastModified": "Sat, 24 Oct 2026 16:03:31 GMT",
       "discovered": 0,
@@ -260985,19 +260981,19 @@
       "id": "chinanews-scroll-news",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-24T21:51:10.127Z",
-      "lastSuccessAt": "2026-10-24T21:51:10.127Z",
-      "etag": "\"6adcd6d2-4a8b\"",
-      "lastModified": "Sat, 24 Oct 2026 16:03:30 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-10-25T00:16:52.463Z",
+      "lastSuccessAt": "2026-10-25T00:16:52.463Z",
+      "etag": "\"6add3c2f-41be\"",
+      "lastModified": "Sat, 24 Oct 2026 23:15:59 GMT",
+      "discovered": 30,
       "failures": 0,
       "error": null
     },
     "govuk-fulltext": {
       "id": "govuk-fulltext",
       "status": "ok",
-      "checkedAt": "2026-10-24T21:51:10.127Z",
-      "lastSuccessAt": "2026-10-24T21:51:10.127Z",
+      "checkedAt": "2026-10-25T00:16:52.463Z",
+      "lastSuccessAt": "2026-10-25T00:16:52.463Z",
       "discovered": 20,
       "rejected": 0,
       "contentSchema": 3,
