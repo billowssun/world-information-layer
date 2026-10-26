@@ -1,8 +1,538 @@
 {
   "schemaVersion": "1",
-  "collectedAt": "2026-10-26T15:07:45.803Z",
-  "lastSuccessfulCollectionAt": "2026-10-26T15:07:45.803Z",
+  "collectedAt": "2026-10-26T20:43:53.392Z",
+  "lastSuccessfulCollectionAt": "2026-10-26T20:43:53.392Z",
   "items": [
+    {
+      "id": "d0c61e21a06bb81062e8e894",
+      "title": "Cadence 2026 财年第三财季归母净利润 2.9 亿美元，同比增长 0.91%",
+      "originalUrl": "https://www.ithome.com/1/018/193.htm",
+      "summary": "IT之家 10 月 27 日消息，Cadence今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入：16.33 亿美元（IT之家注：现汇率约合 109.06 亿元人民币），同比增长 22% 毛利润：13.98 亿美元（现汇率约合 93.33 亿元人民币），同比增长 20.84% 毛利率：85.57%，同比下降 0.82 个百分点 归母净利润：2.9 亿美元（现汇率约合 19.35 亿…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-26T20:06:48.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "finance"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-26T20:43:53.392Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "68e5094084ccf2d3bf113359",
+      "title": "苹果 iOS/iPadOS 18.7.11 正式版发布",
+      "originalUrl": "https://www.ithome.com/1/018/192.htm",
+      "summary": "IT之家 10 月 27 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 18.7.11 更新（内部版本号：22H384），本次更新距离上次发布正式版间隔 77 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 18 发布历史： 2026-08-11：iOS 18.7.10 (22H37…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-26T18:44:04.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-26T20:43:53.392Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8290b1b2f10091d280419e20",
+      "title": "苹果 iPadOS 26.7.2 正式版发布",
+      "originalUrl": "https://www.ithome.com/1/018/191.htm",
+      "summary": "IT之家 10 月 27 日消息，苹果今日向 iPad 用户推送了 iPadOS 26.7.2 更新，本次更新距离上次发布正式版间隔 28 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 26 发布历史： 2026-09-29：iPadOS 26.7.1 (23H30) 2026-09-10：iPadOS 26.7 (…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-26T18:44:04.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-26T20:43:53.392Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ce3651fb78673c077922114a",
+      "title": "苹果 watchOS 27.2 正式版发布",
+      "originalUrl": "https://www.ithome.com/1/018/190.htm",
+      "summary": "IT之家 10 月 27 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 更新（内部版本号：24S118），本次更新距离上次发布正式版间隔 27 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 watchOS 27 发布历史： 2026-10-20：watchOS 27.2 RC (24S116) 2026…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-26T18:44:03.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-26T20:43:53.392Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "247528c981a199a02a836297",
+      "title": "苹果 visionOS 27.2 正式版发布",
+      "originalUrl": "https://www.ithome.com/1/018/189.htm",
+      "summary": "IT之家 10 月 27 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 更新（内部版本号：24N120），本次更新距离上次发布正式版间隔 28 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-10-20：visionOS 27.2 RC (24N118) 20…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-26T18:44:03.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-26T20:43:53.392Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3ae046a54bec1b4766806da8",
+      "title": "苹果 macOS 27.2 正式版发布",
+      "originalUrl": "https://www.ithome.com/1/018/188.htm",
+      "summary": "IT之家 10 月 27 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 更新（内部版本号：26B123），本次更新距离上次发布正式版间隔 28 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 macOS 27 发布历史： 2026-10-20：macOS 27.2 RC (26B118) 2026-10-14：macOS…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-26T18:44:03.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-26T20:43:53.392Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "82e20f72679e9b422bc7d96a",
+      "title": "苹果 iOS/iPadOS 27.2 正式版发布",
+      "originalUrl": "https://www.ithome.com/1/018/187.htm",
+      "summary": "IT之家 10 月 27 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 更新（内部版本号：24B119），本次更新距离上次发布正式版间隔 28 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 27 发布历史： 2026-10-20：iOS 27.2 RC (24B115) …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-26T18:44:02.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-26T20:43:53.392Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "60a120e91b1d56923d67e9a9",
+      "title": "苹果 iOS/iPadOS 27.2 正式版发布",
+      "originalUrl": "https://www.ithome.com/1/018/186.htm",
+      "summary": "IT之家 10 月 27 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 更新（内部版本号：24B91020），本次更新距离上次发布正式版间隔 28 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 27 发布历史： 2026-10-20：iOS 27.2 RC (24B115…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-26T18:44:02.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-26T20:43:53.392Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "cde21a2255a1ae588a13ca90",
+      "title": "E5 Defence Ministers' Statement: 26 October 2026",
+      "originalUrl": "https://www.gov.uk/government/news/e5-defence-ministers-statement-26-october-2026",
+      "sourcePublishedAt": "2026-10-26T17:44:22+00:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "Our countries share the assessment that Russia represents the most acute and long-term threat to Euro-Atlantic security and stability. Russia’s ongoing war of aggression against Ukraine, on the one hand, and its continued violations of Alli",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>Our countries share the assessment that Russia represents the most acute and long-term threat to Euro-Atlantic security and stability. Russia’s ongoing war of aggression against Ukraine, on the one hand, and its continued violations of Allied airspace, acts of sabotage and growing use of multi-domain hybrid attacks, on the other, do not undermine our unity, solidarity and cohesion. On the contrary, they strengthen our determination to pursue the efforts already undertaken to safeguard the integrity and security of Allied territory, through a 360-degree approach that takes into account threats from all strategic directions.</p>\n\n<p>We, the Defence Ministers of France, Germany, Italy, Poland and the United Kingdom (the Group of Five/E5), share a deep conviction: Europe must assume greater responsibility for its own security. We are determined to work in close coordination with the United States and all Allies in order to implement this concrete ambition. The United States is and will remain an indispensable Ally, and continued United States engagement in European security is essential to a strong and credible NATO.</p>\n\n<h3>This greater responsibility must begin with the empowerment of European Allies within NATO.</h3>\n\n<p>With the aim of building a stronger Europe within a stronger NATO, we are already taking concrete measures to implement the commitments taken in The Hague, emphasized in Ankara, and to meet agreed capability targets.</p>\n\n<p>We will assume greater political and military leadership within the Alliance, modernising forces and capabilities, including through closer defence-industrial cooperation based on common and standardised requirements,. We reaffirm our commitment to further strengthening NATO’s collective defence in order to rapidly adapt to current and future challenges, including with a more proactive deterrence and defence posture.</p>\n\n<p>We will bolster our contributions to enhance readiness, resilience and our ability to respond to evolving threats across all domains, by promoting the development of the necessary capabilities, in line with NATO-agreed priorities and targets, including through an appropriate, tailored and effective mix of complementary capabilities to meet the full range of operational requirements.</p>\n\n<h3>NATO remains the cornerstone of our collective security. The Group of Five/E5 will support greater European ability to act through different frameworks and initiatives, including the European Union, complementing the sovereign responsibilities of States and intergovernmental cooperation.</h3>\n\n<p>We emphasise the importance of a nation-led, coordinated approach, aligned with NATO. We commend the European Union’s efforts to support nations in meeting NATO’s defence capability requirements and in strengthening European defence readiness. The EU’s regulatory and financial capacity is a valuable tool in support of our nations’ efforts and ambition. EU defence initiatives should complement NATO, avoid duplication and remain open, under certain conditions, to meaningful cooperation with non-EU NATO Allies.</p>\n\n<h3>We will maintain our unwavering commitment to supporting Ukraine in its fight back against Russian aggression. Ukraine’s ability to defend itself now and in the future is critically important to Euro-Atlantic collective security.</h3>\n\n<p>We stress the need to keep supporting Ukraine by all available means — politically, militarily and financially.</p>\n\n<p>We reaffirm our determination to continue tackling the activities of Russia’s shadow fleet, in accordance with international law and in coordination with relevant partners.</p>\n\n<p>We stand united with Ukraine in its determination to secure a lasting peace, underpinned by robust security guarantees. The Coalition of the Willing will contribute to robust and credible security guarantees once a cease-fire or a peace agreement is in place.</p>\n</div>",
+      "bodyText": "Our countries share the assessment that Russia represents the most acute and long-term threat to Euro-Atlantic security and stability. Russia’s ongoing war of aggression against Ukraine, on the one hand, and its continued violations of Allied airspace, acts of sabotage and growing use of multi-domain hybrid attacks, on the other, do not undermine our unity, solidarity and cohesion. On the contrary, they strengthen our determination to pursue the efforts already undertaken to safeguard the integrity and security of Allied territory, through a 360-degree approach that takes into account threats from all strategic directions.\n\nWe, the Defence Ministers of France, Germany, Italy, Poland and the United Kingdom (the Group of Five/E5), share a deep conviction: Europe must assume greater responsibility for its own security. We are determined to work in close coordination with the United States and all Allies in order to implement this concrete ambition. The United States is and will remain an indispensable Ally, and continued United States engagement in European security is essential to a strong and credible NATO.\n\nThis greater responsibility must begin with the empowerment of European Allies within NATO.\n\nWith the aim of building a stronger Europe within a stronger NATO, we are already taking concrete measures to implement the commitments taken in The Hague, emphasized in Ankara, and to meet agreed capability targets.\n\nWe will assume greater political and military leadership within the Alliance, modernising forces and capabilities, including through closer defence-industrial cooperation based on common and standardised requirements,. We reaffirm our commitment to further strengthening NATO’s collective defence in order to rapidly adapt to current and future challenges, including with a more proactive deterrence and defence posture.\n\nWe will bolster our contributions to enhance readiness, resilience and our ability to respond to evolving threats across all domains, by promoting the development of the necessary capabilities, in line with NATO-agreed priorities and targets, including through an appropriate, tailored and effective mix of complementary capabilities to meet the full range of operational requirements.\n\nNATO remains the cornerstone of our collective security. The Group of Five/E5 will support greater European ability to act through different frameworks and initiatives, including the European Union, complementing the sovereign responsibilities of States and intergovernmental cooperation.\n\nWe emphasise the importance of a nation-led, coordinated approach, aligned with NATO. We commend the European Union’s efforts to support nations in meeting NATO’s defence capability requirements and in strengthening European defence readiness. The EU’s regulatory and financial capacity is a valuable tool in support of our nations’ efforts and ambition. EU defence initiatives should complement NATO, avoid duplication and remain open, under certain conditions, to meaningful cooperation with non-EU NATO Allies.\n\nWe will maintain our unwavering commitment to supporting Ukraine in its fight back against Russian aggression. Ukraine’s ability to defend itself now and in the future is critically important to Euro-Atlantic collective security.\n\nWe stress the need to keep supporting Ukraine by all available means — politically, militarily and financially.\n\nWe reaffirm our determination to continue tackling the activities of Russia’s shadow fleet, in accordance with international law and in coordination with relevant partners.\n\nWe stand united with Ukraine in its determination to secure a lasting peace, underpinned by robust security guarantees. The Coalition of the Willing will contribute to robust and credible security guarantees once a cease-fire or a peace agreement is in place.\n",
+      "bodyHash": "4641a1da1fccc7f1e1ffcd8f2ccde0cb08dd25d5c2b2ef37c11e6d54f975a3cf",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/e5-defence-ministers-statement-26-october-2026",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Ministry of Defence"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-10-26T17:44:22+00:00",
+        "sourceVersion": "174d1f5e-2e93-47cf-8754-18ccf800fa3f"
+      },
+      "firstSeenAt": "2026-10-26T20:43:53.392Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d21b7ccd235f35cf9337afb6",
+      "title": "德国总统施泰因迈尔抵达安徽开始访华",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/10-27/10721432.shtml",
+      "summary": "新华社合肥10月27日电(记者郭晨)德国总统施泰因迈尔10月27日抵达安徽合肥，开始对中国进行为期5天的国事访问。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-26T16:34:27.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-26T20:43:53.392Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4aded32d7024a00d970d2ce6",
+      "title": "中国新发现或完全海生两栖动物化石 距今逾2.3亿年命名海异螈",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/10-27/10721431.shtml",
+      "summary": "中新网北京10月27日电 (记者 孙自法)如今地球上，并没有完全生活在海洋中的两栖动物。而几亿年前的远古地质时期是何情况，此前因缺乏化石证据而一直不得而知。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-26T16:03:28.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-26T20:43:53.392Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c8fd3ce2a19742f5e15f45bb",
+      "title": "Thousands of young people put down roots in agricultural careers at Jobs Fair",
+      "originalUrl": "https://www.gov.uk/government/news/thousands-of-young-people-put-down-roots-in-agricultural-careers-at-jobs-fair",
+      "sourcePublishedAt": "2026-10-26T15:58:07+00:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "More than 1,000 young people attended Norfolk’s first Youth Guarantee Jobs Fair, learning the trades through welding and farming simulations. The fair brought together 65 employers and partners to provide opportunities for young people from",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><div>\n  <ul>\n    <li>More than 1,000 young people attended Norfolk’s first Youth Guarantee Jobs Fair, learning the trades through welding and farming simulations.</li>\n    <li>The fair brought together 65 employers and partners to provide opportunities for young people from rural and countryside communities.</li>\n    <li>Jobs fairs are a part of Government’s wider youth employment support, backed by £2.5 billion investment to help young people build a strong career path.</li>\n  </ul>\n</div>\n\n<p>At AgriFest, young people were given an opportunity to test out a range of agricultural professions through virtual reality welding simulations, HGV training, and a water irrigation network building exercise.</p>\n\n<p>An additional ‘employability zone’ provided advice on looking for job opportunities, completing applications, interview preparation, giving them the confidence and skills they need to take the first step towards employment.</p>\n\n<h2>Work and Pensions Secretary Pat McFadden said:</h2>\n\n<blockquote>\n  <p>Every young person deserves the chance to fulfil their potential, which is why we’re bringing jobs, training and support directly into communities.</p>\n</blockquote>\n\n<blockquote>\n  <p>I’m delighted to see businesses and local partners opening doors for hundreds of young people, offering not just interviews, but also mentorship and career advice.</p>\n</blockquote>\n\n<blockquote>\n  <p>Through the Youth Guarantee, we’re determined to give every young person the chance to earn or learn.</p>\n</blockquote>\n\n<p>Youth Guarantee Jobs Fairs have already been delivered in Bristol, Glasgow, Cardiff, Nottingham and London. These events have resulted in over 1,000 young people already moving into jobs, work experience or training opportunities.</p>\n\n<h2>Influencer and Farmer, Farmer Will said:</h2>\n\n<blockquote>\n  <p>I think giving young people the chance to meet employers and find out what opportunities are actually out there is really important. It can be hard to know what you want to do when you’re starting out, and sometimes you just need that first conversation or bit of encouragement to see what’s possible.</p>\n</blockquote>\n\n<blockquote>\n  <p>I’m really pleased to be supporting the Agrifest Jobs Fair. There are some great opportunities in agriculture and across the wider industry, and hopefully the event gives young people the confidence to take that first step and find something they really enjoy.</p>\n</blockquote>\n\n<p>The event reinforced the government’s commitment that all young people under 25 should be offered one of the following high-quality pathways:</p>\n\n<ul>\n  <li>\n    <p>Employment</p>\n  </li>\n  <li>\n    <p>Continued education</p>\n  </li>\n  <li>\n    <p>An apprenticeship</p>\n  </li>\n  <li>\n    <p>A traineeship, a work experience placement or Sector-Based Work Academy Programme (SWAP)</p>\n  </li>\n</ul>\n\n<p>This Jobs Fair is the latest example of the Government’s work to support young people into employment or training. The youth employment support package, backed by £2.5 billion investment, will support almost one million young people, and create 500,000 opportunities.</p>\n\n<h2>Additional information</h2>\n\n<p>Over 65 employers and providers from across Norfolk attended the jobs fair, including:</p>\n\n<ul>\n  <li>\n    <p>Contract Personnel</p>\n  </li>\n  <li>\n    <p>Cranswick</p>\n  </li>\n  <li>\n    <p>Elveden Farms</p>\n  </li>\n  <li>\n    <p>Earnest Doe</p>\n  </li>\n  <li>\n    <p>Everblue Solar</p>\n  </li>\n  <li>\n    <p>AF Group</p>\n  </li>\n  <li>\n    <p>Anglian Water</p>\n  </li>\n  <li>\n    <p>Arnold Keys</p>\n  </li>\n  <li>\n    <p>Ben Burges</p>\n  </li>\n  <li>\n    <p>Gressingham Foods</p>\n  </li>\n  <li>\n    <p>Holiday Inn</p>\n  </li>\n  <li>\n    <p>Kier Group</p>\n  </li>\n  <li>\n    <p>Lidl</p>\n  </li>\n  <li>\n    <p>MIG Anglia</p>\n  </li>\n  <li>\n    <p>Livetec</p>\n  </li>\n  <li>\n    <p>TNP</p>\n  </li>\n  <li>\n    <p>Connect to Work</p>\n  </li>\n  <li>\n    <p>Catch 22</p>\n  </li>\n  <li>\n    <p>Kings Trust</p>\n  </li>\n  <li>\n    <p>Poultec</p>\n  </li>\n  <li>\n    <p>Mervyn Lambert</p>\n  </li>\n  <li>\n    <p>Place UK</p>\n  </li>\n  <li>\n    <p>Jonah’s Handling</p>\n  </li>\n  <li>\n    <p>Mitie</p>\n  </li>\n  <li>\n    <p>Norfolk FWAG</p>\n  </li>\n  <li>\n    <p>Owies Catering</p>\n  </li>\n  <li>\n    <p>Reagit</p>\n  </li>\n  <li>\n    <p>Roger Warnes</p>\n  </li>\n  <li>\n    <p>Royal Navy</p>\n  </li>\n  <li>\n    <p>Starbucks</p>\n  </li>\n  <li>\n    <p>Sunenviro</p>\n  </li>\n  <li>\n    <p>Thurlow Nunn Standen</p>\n  </li>\n  <li>\n    <p>Sizewell C</p>\n  </li>\n  <li>\n    <p>Warbutons</p>\n  </li>\n  <li>\n    <p>Yana</p>\n  </li>\n  <li>\n    <p>Anglian Remote Clear</p>\n  </li>\n  <li>\n    <p>TMAF – The Morley Agricultural Foundation</p>\n  </li>\n  <li>\n    <p>Albert Bartlett</p>\n  </li>\n  <li>\n    <p>British Pest Control</p>\n  </li>\n  <li>\n    <p>Pilgrims Europe</p>\n  </li>\n  <li>\n    <p>Condimentum</p>\n  </li>\n  <li>\n    <p>Greenhouse Growers</p>\n  </li>\n  <li>\n    <p>Griffith Elder</p>\n  </li>\n  <li>\n    <p>Norfolk Young Farmers</p>\n  </li>\n  <li>\n    <p>Easton College</p>\n  </li>\n  <li>\n    <p>City College</p>\n  </li>\n  <li>\n    <p>Eastern Education Group</p>\n  </li>\n  <li>\n    <p>Adult Learning</p>\n  </li>\n  <li>\n    <p>Future Horisons</p>\n  </li>\n  <li>\n    <p>Kickstart</p>\n  </li>\n  <li>\n    <p>Seetec</p>\n  </li>\n  <li>\n    <p>Norfolk and Suffolk Career Hub</p>\n  </li>\n  <li>\n    <p>Nova Training</p>\n  </li>\n  <li>\n    <p>ACE</p>\n  </li>\n  <li>\n    <p>Active Norfolk</p>\n  </li>\n  <li>\n    <p>Boost</p>\n  </li>\n  <li>\n    <p>Breckland Council</p>\n  </li>\n  <li>\n    <p>Mind</p>\n  </li>\n  <li>\n    <p>Joe Dix Foundation</p>\n  </li>\n  <li>\n    <p>MENTA</p>\n  </li>\n  <li>\n    <p>Tony Perkins</p>\n  </li>\n  <li>\n    <p>Steadfast</p>\n  </li>\n</ul>\n\n</div>",
+      "bodyText": "\n  \n    More than 1,000 young people attended Norfolk’s first Youth Guarantee Jobs Fair, learning the trades through welding and farming simulations.\n    The fair brought together 65 employers and partners to provide opportunities for young people from rural and countryside communities.\n    Jobs fairs are a part of Government’s wider youth employment support, backed by £2.5 billion investment to help young people build a strong career path.\n  \n\n\nAt AgriFest, young people were given an opportunity to test out a range of agricultural professions through virtual reality welding simulations, HGV training, and a water irrigation network building exercise.\n\nAn additional ‘employability zone’ provided advice on looking for job opportunities, completing applications, interview preparation, giving them the confidence and skills they need to take the first step towards employment.\n\nWork and Pensions Secretary Pat McFadden said:\n\n\n  Every young person deserves the chance to fulfil their potential, which is why we’re bringing jobs, training and support directly into communities.\n\n\n\n  I’m delighted to see businesses and local partners opening doors for hundreds of young people, offering not just interviews, but also mentorship and career advice.\n\n\n\n  Through the Youth Guarantee, we’re determined to give every young person the chance to earn or learn.\n\n\nYouth Guarantee Jobs Fairs have already been delivered in Bristol, Glasgow, Cardiff, Nottingham and London. These events have resulted in over 1,000 young people already moving into jobs, work experience or training opportunities.\n\nInfluencer and Farmer, Farmer Will said:\n\n\n  I think giving young people the chance to meet employers and find out what opportunities are actually out there is really important. It can be hard to know what you want to do when you’re starting out, and sometimes you just need that first conversation or bit of encouragement to see what’s possible.\n\n\n\n  I’m really pleased to be supporting the Agrifest Jobs Fair. There are some great opportunities in agriculture and across the wider industry, and hopefully the event gives young people the confidence to take that first step and find something they really enjoy.\n\n\nThe event reinforced the government’s commitment that all young people under 25 should be offered one of the following high-quality pathways:\n\n\n  \n    Employment\n  \n  \n    Continued education\n  \n  \n    An apprenticeship\n  \n  \n    A traineeship, a work experience placement or Sector-Based Work Academy Programme (SWAP)\n  \n\n\nThis Jobs Fair is the latest example of the Government’s work to support young people into employment or training. The youth employment support package, backed by £2.5 billion investment, will support almost one million young people, and create 500,000 opportunities.\n\nAdditional information\n\nOver 65 employers and providers from across Norfolk attended the jobs fair, including:\n\n\n  \n    Contract Personnel\n  \n  \n    Cranswick\n  \n  \n    Elveden Farms\n  \n  \n    Earnest Doe\n  \n  \n    Everblue Solar\n  \n  \n    AF Group\n  \n  \n    Anglian Water\n  \n  \n    Arnold Keys\n  \n  \n    Ben Burges\n  \n  \n    Gressingham Foods\n  \n  \n    Holiday Inn\n  \n  \n    Kier Group\n  \n  \n    Lidl\n  \n  \n    MIG Anglia\n  \n  \n    Livetec\n  \n  \n    TNP\n  \n  \n    Connect to Work\n  \n  \n    Catch 22\n  \n  \n    Kings Trust\n  \n  \n    Poultec\n  \n  \n    Mervyn Lambert\n  \n  \n    Place UK\n  \n  \n    Jonah’s Handling\n  \n  \n    Mitie\n  \n  \n    Norfolk FWAG\n  \n  \n    Owies Catering\n  \n  \n    Reagit\n  \n  \n    Roger Warnes\n  \n  \n    Royal Navy\n  \n  \n    Starbucks\n  \n  \n    Sunenviro\n  \n  \n    Thurlow Nunn Standen\n  \n  \n    Sizewell C\n  \n  \n    Warbutons\n  \n  \n    Yana\n  \n  \n    Anglian Remote Clear\n  \n  \n    TMAF – The Morley Agricultural Foundation\n  \n  \n    Albert Bartlett\n  \n  \n    British Pest Control\n  \n  \n    Pilgrims Europe\n  \n  \n    Condimentum\n  \n  \n    Greenhouse Growers\n  \n  \n    Griffith Elder\n  \n  \n    Norfolk Young Farmers\n  \n  \n    Easton College\n  \n  \n    City College\n  \n  \n    Eastern Education Group\n  \n  \n    Adult Learning\n  \n  \n    Future Horisons\n  \n  \n    Kickstart\n  \n  \n    Seetec\n  \n  \n    Norfolk and Suffolk Career Hub\n  \n  \n    Nova Training\n  \n  \n    ACE\n  \n  \n    Active Norfolk\n  \n  \n    Boost\n  \n  \n    Breckland Council\n  \n  \n    Mind\n  \n  \n    Joe Dix Foundation\n  \n  \n    MENTA\n  \n  \n    Tony Perkins\n  \n  \n    Steadfast\n  \n\n\n",
+      "bodyHash": "ca922a06e4347f8dc900474e4dcae50fd5667090ebfe230f1ad8bf81556279b6",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/thousands-of-young-people-put-down-roots-in-agricultural-careers-at-jobs-fair",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Department for Work and Pensions"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-10-26T15:58:07+00:00",
+        "sourceVersion": "6f826c5d-0926-47d8-b4c9-346cea8ac034"
+      },
+      "firstSeenAt": "2026-10-26T20:43:53.392Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "52777e463ab9de9d632a2721",
+      "title": "全国短池游泳锦标赛：李冰洁刷新亚洲纪录 张雨霏一日两金",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/10-26/10721430.shtml",
+      "summary": "中新社北京10月26日电 (记者 国璇)2026年全国游泳锦标赛(25米)26日在北京国家游泳中心“水立方”继续举行。李冰洁刷新短池女子1500米自由泳亚洲纪录，张雨霏夺得女子100米个人混合泳金牌。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-26T15:57:17.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-26T20:43:53.392Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "18b774aa48ff6f0996f8ba7a",
+      "title": "Investigation launched as dispute risks bringing disability charity to a halt",
+      "originalUrl": "https://www.gov.uk/government/news/investigation-launched-into-disability-charity-as-dispute-risks-bringing-charity-to-a-halt",
+      "sourcePublishedAt": "2026-10-26T15:47:00+00:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "ADAPT (North East) was set up to improve the quality of life of people with sensory, physical and learning disabilities and those experiencing mental health problems, as well as their families and carers. The charity provides services inclu",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p><a href=\"https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/3948802/charity-overview?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=3948802\">ADAPT (North East)</a> was set up to improve the quality of life of people with sensory, physical and learning disabilities and those experiencing mental health problems, as well as their families and carers. The charity provides services including community transport, social prescribing and wheelchair hire and is based in the North East of England. </p>\n\n<p>In July 2026, the Commission began assessing financial and governance concerns raised about the charity. This included allegations of significant payments being made without full approval of the trustee board. </p>\n\n<p>In September, the Commission opened a regulatory compliance case to examine concerns of possible misconduct and/or mismanagement further. </p>\n\n<p>During its regulatory engagement, the Commission quickly became aware of an internal dispute at the charity impacting its ability to operate and its trustees’ ability to engage as a collective with the regulator’s enquiries. </p>\n\n<p>The regulator is concerned about the potential impact the ongoing dispute, and any disruption it has caused, is likely to have on those who rely on its services and the charity’s staff. It is therefore escalating its engagement to a statutory inquiry to investigate the concerns further. </p>\n\n<h4>Scope of the inquiry </h4>\n\n<p>The inquiry will examine the extent to which the trustees, past and present, have complied and are able to comply with their legal duties in respect to the administration, governance and management of the charity, and in particular: </p>\n\n<ul>\n  <li>\n    <p>whether the charity has a properly composed board of trustees who are willing and capable of managing it in accordance with its governing document </p>\n  </li>\n  <li>\n    <p>the trustees’ decision making including whether there has been any unauthorised personal benefit and potential conflicts of interest </p>\n  </li>\n  <li>\n    <p>the financial management of the charity including whether the charity has appropriate financial controls in place </p>\n  </li>\n  <li>\n    <p>the potential impact on the charity’s beneficiaries at the current time </p>\n  </li>\n</ul>\n\n<p>The scope of the inquiry can be extended if additional regulatory issues emerge. </p>\n\n<p>It is the Commission’s policy, after it has concluded an inquiry, to publish a report detailing the issues examined, any action taken, and the inquiry’s outcomes. </p>\n\n<p>ENDS </p>\n\n<h4>Notes to editors: </h4>\n\n<ol>\n  <li>\n    <p>The Charity Commission is the independent, non-ministerial government department that registers and regulates charities in England and Wales. Its ambition is to be an expert regulator that is fair, balanced, and independent so that charity can thrive. This ambition will help to create and sustain an environment where charities further build public trust and ultimately fulfil their essential role in enhancing lives and strengthening society. Read <a href=\"https://www.gov.uk/government/organisations/charity-commission/about\">further information about what the Commission does</a>. </p>\n  </li>\n  <li>\n    <p>On 16 October 2026, the Charity Commission opened a statutory inquiry into the charity under section 46 of the Charities Act 2011 as a result of its regulatory concerns that there may be significant risk to charity property, the charity’s beneficiaries and to public trust and confidence in the sector. </p>\n  </li>\n  <li>\n    <p>A statutory inquiry is a legal power enabling the Commission to formally investigate matters of regulatory concern within a charity and to use protective powers for the benefit of the charity and its beneficiaries, assets, or reputation. <a href=\"https://www.gov.uk/government/collections/inquiry-reports-charity-commission\">Reports of previous inquiries</a> are available on GOV.UK. </p>\n  </li>\n  <li>\n    <p>We also provide charities with <a href=\"https://www.gov.uk/government/publications/statutory-inquiries-into-charities-guidance-for-charities-cc46\">guidance on what happens when the Commission opens an inquiry</a>. </p>\n  </li>\n  <li>\n    <p>The Commission is not a mediation service, so cannot resolve trustee disputes. We can only get involved in a dispute in limited circumstances. For example, instances where all other methods to resolve the dispute (such as mediation) have been tried and failed or when the charity, its beneficiaries and/or public trust are put at risk as a result of the dispute. Our guidance can be found here: <a href=\"https://www.gov.uk/guidance/disagreements-and-disputes-in-charities\">https://www.gov.uk/guidance/disagreements-and-disputes-in-charities</a>.</p>\n  </li>\n</ol>\n\n<div>\n    <p>Press office</p>\n\n\n    <div>\n        <p>\n          Email <a>pressenquiries@charitycommission.gov.uk</a>\n        </p>\n\n\n        <p>\n          Out of hours press office contact number:  07785 748787\n        </p>\n    </div>\n\n\n</div>\n</div>",
+      "bodyText": "ADAPT (North East) was set up to improve the quality of life of people with sensory, physical and learning disabilities and those experiencing mental health problems, as well as their families and carers. The charity provides services including community transport, social prescribing and wheelchair hire and is based in the North East of England. \n\nIn July 2026, the Commission began assessing financial and governance concerns raised about the charity. This included allegations of significant payments being made without full approval of the trustee board. \n\nIn September, the Commission opened a regulatory compliance case to examine concerns of possible misconduct and/or mismanagement further. \n\nDuring its regulatory engagement, the Commission quickly became aware of an internal dispute at the charity impacting its ability to operate and its trustees’ ability to engage as a collective with the regulator’s enquiries. \n\nThe regulator is concerned about the potential impact the ongoing dispute, and any disruption it has caused, is likely to have on those who rely on its services and the charity’s staff. It is therefore escalating its engagement to a statutory inquiry to investigate the concerns further. \n\nScope of the inquiry \n\nThe inquiry will examine the extent to which the trustees, past and present, have complied and are able to comply with their legal duties in respect to the administration, governance and management of the charity, and in particular: \n\n\n  \n    whether the charity has a properly composed board of trustees who are willing and capable of managing it in accordance with its governing document \n  \n  \n    the trustees’ decision making including whether there has been any unauthorised personal benefit and potential conflicts of interest \n  \n  \n    the financial management of the charity including whether the charity has appropriate financial controls in place \n  \n  \n    the potential impact on the charity’s beneficiaries at the current time \n  \n\n\nThe scope of the inquiry can be extended if additional regulatory issues emerge. \n\nIt is the Commission’s policy, after it has concluded an inquiry, to publish a report detailing the issues examined, any action taken, and the inquiry’s outcomes. \n\nENDS \n\nNotes to editors: \n\n\n  \n    The Charity Commission is the independent, non-ministerial government department that registers and regulates charities in England and Wales. Its ambition is to be an expert regulator that is fair, balanced, and independent so that charity can thrive. This ambition will help to create and sustain an environment where charities further build public trust and ultimately fulfil their essential role in enhancing lives and strengthening society. Read further information about what the Commission does. \n  \n  \n    On 16 October 2026, the Charity Commission opened a statutory inquiry into the charity under section 46 of the Charities Act 2011 as a result of its regulatory concerns that there may be significant risk to charity property, the charity’s beneficiaries and to public trust and confidence in the sector. \n  \n  \n    A statutory inquiry is a legal power enabling the Commission to formally investigate matters of regulatory concern within a charity and to use protective powers for the benefit of the charity and its beneficiaries, assets, or reputation. Reports of previous inquiries are available on GOV.UK. \n  \n  \n    We also provide charities with guidance on what happens when the Commission opens an inquiry. \n  \n  \n    The Commission is not a mediation service, so cannot resolve trustee disputes. We can only get involved in a dispute in limited circumstances. For example, instances where all other methods to resolve the dispute (such as mediation) have been tried and failed or when the charity, its beneficiaries and/or public trust are put at risk as a result of the dispute. Our guidance can be found here: https://www.gov.uk/guidance/disagreements-and-disputes-in-charities.\n  \n\n\n\n    Press office\n\n\n    \n        \n          Email pressenquiries@charitycommission.gov.uk\n        \n\n\n        \n          Out of hours press office contact number:  07785 748787\n        \n    \n\n\n\n",
+      "bodyHash": "0d97250cda7e077a8000d8dbb8e7876ee856f632e14f00751d4b37a2bd0225d7",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/investigation-launched-into-disability-charity-as-dispute-risks-bringing-charity-to-a-halt",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "The Charity Commission"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-10-26T15:47:00+00:00",
+        "sourceVersion": "652d5684-57a6-490d-86a8-35bb2f5b3df1"
+      },
+      "firstSeenAt": "2026-10-26T20:43:53.392Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "be92cd4bda9ab4c17fb5e37c",
+      "title": "£12,000 fine for Cheltenham waste operator for disposal of diesel",
+      "originalUrl": "https://www.gov.uk/government/news/12000-fine-for-cheltenham-waste-operator-for-disposal-of-diesel",
+      "sourcePublishedAt": "2026-10-26T15:32:19+00:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "The operator of a waste site in Cheltenham has been issued a hefty £47,000 fine and costs after deliberately disposing of red diesel from one of its screening machines at its yard in Lower Slaughter in November 2022. J. Gilder Earthmoving a",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>The operator of a waste site in Cheltenham has been issued a hefty £47,000 fine and costs after deliberately disposing of red diesel from one of its screening machines at its yard in Lower Slaughter in November 2022.</p>\n\n<p>J. Gilder Earthmoving and Aggregates Ltd appeared in Gloucester crown court on 5 October 2026, represented by its director, Joseph Gilder, to be sentenced for an offence of unlawfully discharging red diesel onto the ground on or before 17 November 2022. The company had already pleaded guilty to the charge at an earlier date.</p>\n\n<p>In his remarks, judge Rupert Lowe said: </p>\n\n<blockquote>\n  <p>The company had deliberately chosen to ignore the red diesel rules and then deliberately spilled the fuel.” He added: “There was no reason for this offence to be committed at all – it was a deliberate and blatant attempt to get round the law and obstruct those who care for the environment.</p>\n</blockquote>\n\n<p>On 17 November 2022, there was an unannounced visit byHis Majesty’s Revenue and Customs to the site, to establish whether the company was still using illegal red diesel. Although the site was open for business, and Gilder was present, the inspectors were not initially allowed in. Instead, either Gilder or someone else acting on the company’s behalf emptied red diesel from a scalping screener - a separator for bulky construction waste - to avoid detection.</p>\n\n<p>After being kept waiting for more than 2 hours, the HMRC officers were granted entry, after which they spotted 2 large puddles of red diesel on the ground. HMRC informed the Environment Agency, which visited the site and took soil samples to determine the extent of any ground contamination.</p>\n\n<p>A spokesperson for the Environment Agency said:</p>\n\n<blockquote>\n  <p>J. Gilder Earthmoving &amp; Aggregates Ltd deliberately caused pollution by pouring red diesel, which it was illegally using, onto the ground. It was a reckless act to avoid detection by HMRC.</p>\n\n  <p>Where we find evidence of illegal polluting activity, we will not hesitate to take enforcement action.</p>\n</blockquote>\n\n<p>HMRC issued a fine for the unlawful use of red diesel, and the Environment Agency subsequently charged J. Gilder Earthmoving &amp; Aggregates Ltd with environmental offences relating to the discharge of fuel onto the ground.</p>\n\n<p>After the incident, the Environment Agency ensured that around 3.5 tonnes of the most contaminated soil was removed by the company from the site that reduced the ongoing effect of the spillage and the risk of seepage into the groundwater.</p>\n\n<p>J. Gilder Earthmoving &amp; Aggregates Ltd was fined £12,000, as well as being ordered to pay costs of £33,610.06 and a £2,000 statutory surcharge.</p>\n\n<p>Background:</p>\n\n<ul>\n  <li>The Environment Agency’s 10-point plan is taking the fight against waste criminals up a gear. Specialist officers are acting earlier on larger sites, sharing more information with the public, making greater use of enforcement tools, and actively naming and shaming illegal waste sites.</li>\n  <li>The Environment Agency has secured almost 250 prosecutions for waste offences across England since 2023, with courts handing out fines of more than £2.2m and nearly 90 custodial or suspended prison sentences.</li>\n  <li>In 2024/25 alone, the Environment Agency closed 743 illegal waste sites over the country. Some 143 were high risk.</li>\n  <li>The Environment Agency’s economic crime unit has secured more than £1.5m in confiscation orders in recent years, along with freezing almost £21m through investigations into money laundering linked to waste crime.</li>\n  <li>10-point plan: <a href=\"https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fengageenvironmentagency.uk.engagementhq.com%2Fwaste-crime-stand-with-us-to-end-waste-crime&amp;data=05%7C02%7CAndrew.Turton1%40defra.gov.uk%7Cbc40e20cbb2e40560f0d08df3361def5%7C770a245002274c6290c74e38537f1102%7C0%7C0%7C639286167721750768%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=Y0XcVEa1En0ONSAQftwa6S%2BIMj7PUhmdqTtV98i1hrs%3D&amp;reserved=0\">https://engageenvironmentagency.uk.engagementhq.com/waste-crime-stand-with-us-to-end-waste-crime</a>\n</li>\n</ul>\n\n<h2>Contact us - journalists only:</h2>\n<p>Media enquiries: 0800 141 2743. E-mail: <a>Communications_SE@environment-agency.gov.uk</a></p>\n</div>",
+      "bodyText": "The operator of a waste site in Cheltenham has been issued a hefty £47,000 fine and costs after deliberately disposing of red diesel from one of its screening machines at its yard in Lower Slaughter in November 2022.\n\nJ. Gilder Earthmoving and Aggregates Ltd appeared in Gloucester crown court on 5 October 2026, represented by its director, Joseph Gilder, to be sentenced for an offence of unlawfully discharging red diesel onto the ground on or before 17 November 2022. The company had already pleaded guilty to the charge at an earlier date.\n\nIn his remarks, judge Rupert Lowe said: \n\n\n  The company had deliberately chosen to ignore the red diesel rules and then deliberately spilled the fuel.” He added: “There was no reason for this offence to be committed at all – it was a deliberate and blatant attempt to get round the law and obstruct those who care for the environment.\n\n\nOn 17 November 2022, there was an unannounced visit byHis Majesty’s Revenue and Customs to the site, to establish whether the company was still using illegal red diesel. Although the site was open for business, and Gilder was present, the inspectors were not initially allowed in. Instead, either Gilder or someone else acting on the company’s behalf emptied red diesel from a scalping screener - a separator for bulky construction waste - to avoid detection.\n\nAfter being kept waiting for more than 2 hours, the HMRC officers were granted entry, after which they spotted 2 large puddles of red diesel on the ground. HMRC informed the Environment Agency, which visited the site and took soil samples to determine the extent of any ground contamination.\n\nA spokesperson for the Environment Agency said:\n\n\n  J. Gilder Earthmoving &amp; Aggregates Ltd deliberately caused pollution by pouring red diesel, which it was illegally using, onto the ground. It was a reckless act to avoid detection by HMRC.\n\n  Where we find evidence of illegal polluting activity, we will not hesitate to take enforcement action.\n\n\nHMRC issued a fine for the unlawful use of red diesel, and the Environment Agency subsequently charged J. Gilder Earthmoving &amp; Aggregates Ltd with environmental offences relating to the discharge of fuel onto the ground.\n\nAfter the incident, the Environment Agency ensured that around 3.5 tonnes of the most contaminated soil was removed by the company from the site that reduced the ongoing effect of the spillage and the risk of seepage into the groundwater.\n\nJ. Gilder Earthmoving &amp; Aggregates Ltd was fined £12,000, as well as being ordered to pay costs of £33,610.06 and a £2,000 statutory surcharge.\n\nBackground:\n\n\n  The Environment Agency’s 10-point plan is taking the fight against waste criminals up a gear. Specialist officers are acting earlier on larger sites, sharing more information with the public, making greater use of enforcement tools, and actively naming and shaming illegal waste sites.\n  The Environment Agency has secured almost 250 prosecutions for waste offences across England since 2023, with courts handing out fines of more than £2.2m and nearly 90 custodial or suspended prison sentences.\n  In 2024/25 alone, the Environment Agency closed 743 illegal waste sites over the country. Some 143 were high risk.\n  The Environment Agency’s economic crime unit has secured more than £1.5m in confiscation orders in recent years, along with freezing almost £21m through investigations into money laundering linked to waste crime.\n  10-point plan: https://engageenvironmentagency.uk.engagementhq.com/waste-crime-stand-with-us-to-end-waste-crime\n\n\n\nContact us - journalists only:\nMedia enquiries: 0800 141 2743. E-mail: Communications_SE@environment-agency.gov.uk\n",
+      "bodyHash": "747133e7e501e0b54fe28c72807f5ca069dffc60ba5d2ef9ee73ce931955d7b5",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/12000-fine-for-cheltenham-waste-operator-for-disposal-of-diesel",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Environment Agency"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-10-26T15:32:19+00:00",
+        "sourceVersion": "c9169f5c-b1e6-40d0-bc5e-704e378be5c3"
+      },
+      "firstSeenAt": "2026-10-26T20:43:53.392Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "359704814154676cf733202b",
+      "title": "“理响中国·讲好‘中国式商量’故事”网络主题采访活动走进上海市政协",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/10-26/10721429.shtml",
+      "summary": "中新网上海10月26日电(记者 王诗尧)10月26日，由人民政协报社指导，人民政协网承办，中国互联网发展基金会中国正能量网络传播专项基金资助支持的“理响中国·讲好‘中国式商量’故事”网络主题采访活动走进上海市政协，开启为期两天的深入采访。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-26T15:24:29.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-26T20:43:53.392Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d51575f3df379a102f2747f4",
+      "title": "iPad Pro 级配置下放：苹果 iPad mini （A20 Pro）配备自适应原彩闪光灯",
+      "originalUrl": "https://www.ithome.com/1/018/179.htm",
+      "summary": "IT之家 10 月 26 日消息，苹果今天发布的 iPad mini （A20 Pro）配备了自适应原彩闪光灯。这项配置原本在 iPad 产品线中由 iPad Pro 独占，如今下放到了 iPad mini。 苹果表示，iPad mini 的自适应原彩闪光灯能够改善拍摄效果和文档扫描体验。该平板还带有一颗 1200 万像素后置摄像头，支持智能 HDR 4，最高可录制 4K 60FPS 视频。 据IT之家了解，自适应原彩闪光灯于 2022 年首次应用在 iPhone 14 Pr…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-26T15:20:31.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-26T20:43:53.392Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9809e15ee8269d82eda93a29",
+      "title": "美国 NHTSA 监管压力下，特斯拉仍推进 Cybercab 无人驾驶出租车交付",
+      "originalUrl": "https://www.ithome.com/1/018/178.htm",
+      "summary": "IT之家 10 月 26 日消息，据汽车媒体 CarBuzz 今天报道，特斯拉正为 Cybercab 无人驾驶出租车大规模交付做准备，该公司已在得州奥斯汀启动了小规模部署。不过美国国家公路交通安全管理局（NHTSA）已经盯上了特斯拉，重点审查这辆没有方向盘和踏板的车辆是如何获得认证的。 IT之家从原报道获悉，特斯拉截至目前并未彻底解决这一法律问题。特斯拉车辆工程副总裁拉尔斯 · 莫拉维曾强调，特斯拉致力于尽快大规模推出无人驾驶出租车，努力在今年年底前将 Cybercab 交付…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-26T15:13:46.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-26T20:43:53.392Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
+      "version": 1,
+      "history": []
+    },
     {
       "id": "0accb861984f53de719258ea",
       "title": "苹果 iPad mini （A20 Pro）支持 35W 或更高功率充电头，但包装盒内送的头还是 20W",
@@ -25,7 +555,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -51,7 +581,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -77,7 +607,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -103,7 +633,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -128,7 +658,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -154,7 +684,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -181,7 +711,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -206,7 +736,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -233,7 +763,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -258,8 +788,33 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1c99dc7de8527e8f0f4b7eec",
+      "title": "小新Talkshow：西藏震后安置点飘出糌粑牛肉粥香：板房通了电 冰柜进了户",
+      "originalUrl": "http://www.chinanews.com.cn/sh/shipin/2026/10-26/news1073043.shtml",
+      "summary": "2026年10月22日22时33分，西藏自治区那曲市巴青县发生7.0级地震。记者26日在玛如乡二村安置点看到，这里60套板房已搭建完成，仅用时8小时实现全部通电。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-26T14:29:01.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-26T20:43:53.392Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
       "version": 1,
       "history": []
     },
@@ -284,7 +839,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -309,7 +864,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -334,7 +889,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -359,7 +914,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -386,7 +941,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -411,7 +966,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -436,7 +991,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -461,7 +1016,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -486,7 +1041,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -512,7 +1067,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -539,7 +1094,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -564,7 +1119,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -590,7 +1145,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -615,7 +1170,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -641,7 +1196,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -667,7 +1222,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -693,7 +1248,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -718,7 +1273,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -744,7 +1299,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -771,7 +1326,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -813,7 +1368,7 @@
         "sourceVersion": "aa58e44c-50c8-4e30-9c33-08a258887759"
       },
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -838,7 +1393,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -865,7 +1420,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -892,7 +1447,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -918,7 +1473,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -945,7 +1500,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -970,7 +1525,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -1560,7 +2115,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -1661,7 +2216,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -1687,7 +2242,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -1738,7 +2293,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -1839,7 +2394,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -1889,7 +2444,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2018,7 +2573,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2043,7 +2598,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2094,7 +2649,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2145,7 +2700,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2171,7 +2726,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2222,7 +2777,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2248,7 +2803,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2350,7 +2905,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2376,7 +2931,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2402,7 +2957,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2428,7 +2983,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2453,7 +3008,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2479,7 +3034,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2504,7 +3059,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2579,7 +3134,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2656,7 +3211,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2681,7 +3236,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2707,7 +3262,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2887,7 +3442,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2955,7 +3510,7 @@
         "sourceVersion": "9e6b416b-4806-4b3a-9997-5899814576d4"
       },
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -2980,7 +3535,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -3158,7 +3713,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -3184,7 +3739,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -3234,7 +3789,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -3276,7 +3831,7 @@
         "sourceVersion": "3617cb9e-d3c0-402d-bc2a-ba5181a5010a"
       },
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -3302,7 +3857,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -3495,7 +4050,7 @@
         "sourceVersion": "388271df-5513-4430-ac99-36456d595350"
       },
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -3546,7 +4101,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -3571,7 +4126,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -3596,7 +4151,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -3621,7 +4176,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -3648,7 +4203,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -3673,7 +4228,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -3698,7 +4253,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -3773,7 +4328,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -3815,7 +4370,7 @@
         "sourceVersion": "035f4389-f035-40c4-9087-1f7356e9ed05"
       },
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -3840,7 +4395,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -3866,7 +4421,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -3908,7 +4463,7 @@
         "sourceVersion": "dd3c87b7-7986-4b8f-9872-27af7c71f9c5"
       },
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -3934,7 +4489,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -4104,7 +4659,7 @@
         "sourceVersion": "d4d06c42-88bc-4d1c-88e2-b7d1d3458581"
       },
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -4257,7 +4812,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -4488,7 +5043,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-26T07:43:32.856Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T07:43:32.856Z",
       "version": 1,
       "history": []
@@ -5338,7 +5893,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-26T15:07:45.803Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 1,
       "history": []
@@ -5602,7 +6157,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T07:43:32.856Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T07:43:32.856Z",
       "version": 1,
       "history": []
@@ -6311,7 +6866,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-26T07:43:32.856Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T07:43:32.856Z",
       "version": 1,
       "history": []
@@ -6388,7 +6943,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-26T07:43:32.856Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T07:43:32.856Z",
       "version": 1,
       "history": []
@@ -6953,7 +7508,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-26T07:43:32.856Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T07:43:32.856Z",
       "version": 1,
       "history": []
@@ -7487,7 +8042,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-26T07:43:32.856Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T07:43:32.856Z",
       "version": 1,
       "history": []
@@ -7614,7 +8169,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-26T07:43:32.856Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T07:43:32.856Z",
       "version": 1,
       "history": []
@@ -7743,7 +8298,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-26T07:43:32.856Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T07:43:32.856Z",
       "version": 1,
       "history": []
@@ -7844,7 +8399,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-26T07:43:32.856Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T07:43:32.856Z",
       "version": 1,
       "history": []
@@ -7869,7 +8424,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-26T07:43:32.856Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T07:43:32.856Z",
       "version": 1,
       "history": []
@@ -7894,7 +8449,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-26T07:43:32.856Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T07:43:32.856Z",
       "version": 1,
       "history": []
@@ -7970,7 +8525,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-26T07:43:32.856Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T07:43:32.856Z",
       "version": 1,
       "history": []
@@ -7995,7 +8550,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-26T07:43:32.856Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T07:43:32.856Z",
       "version": 1,
       "history": []
@@ -8359,7 +8914,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-26T01:38:56.402Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T01:38:56.402Z",
       "version": 1,
       "history": []
@@ -9232,9 +9787,9 @@
         "sourceId": "govuk-fulltext"
       },
       "contentMode": "fulltext",
-      "bodyHtml": "<div><p>Pigs will be spared unnecessary pain and distress before slaughter under new government plans to phase out the use of high-concentration carbon dioxide stunning. </p>\n\n<p>New proposals set out today (26 October 2026) would see the pork industry move towards more humane methods of stunning pigs, helping to prevent animals experiencing panic and breathing difficulties before losing consciousness. </p>\n\n<p>Pigs are highly sentient and intelligent animals, capable of experiencing pain and fear. Minimising distress during handling and slaughter is an important part of safeguarding their welfare. </p>\n\n<p>High concentration carbon dioxide is widely used to stun pigs in British slaughterhouses, <a href=\"https://www.gov.uk/government/publications/opinion-on-carbon-dioxide-gas-stunning-of-pigs-and-alternative-methods\">but independent evidence</a> has highlighted serious concerns about the suffering it causes animals. </p>\n\n<p>The government has now put forward proposals to replace the practice with more humane alternatives, such as argon gas and automated electrical stunning. Both methods are proven to substantially reduce animal suffering.  </p>\n\n<p>The plans form part of the government’s world leading animal welfare strategy, which sets out ambitions to improve the lives of farmed animals and ensure they are treated humanely throughout their lives, and at slaughter.  </p>\n\n<h3>Farming Minister, Stephen Morgan said:  </h3>\n\n<blockquote>\n  <p>We are a nation of animal lovers - pigs are intelligent animals that deserve to be treated with care and respect throughout their lives including at slaughter.  </p>\n\n  <p>The public want to know the meat they buy in the shops is produced in a way that supports high standards of animal welfare. These plans will help deliver that and reduce unnecessary suffering.</p>\n\n  <p>We are committed to supporting farmers and businesses make this transition which will bring long-term benefits.</p>\n</blockquote>\n\n<h3>Chair of the Animal Welfare Committee, Madeline Campbell said:</h3>\n\n<blockquote>\n  <p>It was the clear view of the Animal Welfare Committee  that the continued use of high concentration CO2 when more humane, legally permitted alternatives are available is ethically unacceptable.  The evidence-based argument for moving away from the use of high concentration CO2  on animal welfare grounds is incontrovertible.</p>\n\n  <p>I hope that all stakeholders will now work together to overcome the acknowledged challenges for industry which such a move presents and deliver that change within a transition period which is as short as possible.</p>\n</blockquote>\n\n<p>The government has been working with pig processors, equipment manufacturers, gas suppliers and animal welfare organisations since April 2024 to examine the practicalities of introducing alternative measures and to ensure minimal impact of costs to consumers.  </p>\n\n<p>The consultation launched today will seek views on the proposals, including the welfare benefits, costs, feasibility and potential timescales for moving away from carbon dioxide, recognising businesses will need time to adapt. </p>\n\n<p>The plans will also reduce the industry’s dependence on carbon dioxide supplies, which can be affected by international events. Concerns over potential shortages linked to conflict in the Middle East earlier this year highlighted the vulnerability of global gas supply chains.  </p>\n\n<p>The <a href=\"https://www.gov.uk/government/consultations/phasing-out-carbon-dioxide-stunning-of-pigs\">consultation</a> is open from today and runs until 21 December 2026.</p>\n</div>",
-      "bodyText": "Pigs will be spared unnecessary pain and distress before slaughter under new government plans to phase out the use of high-concentration carbon dioxide stunning. \n\nNew proposals set out today (26 October 2026) would see the pork industry move towards more humane methods of stunning pigs, helping to prevent animals experiencing panic and breathing difficulties before losing consciousness. \n\nPigs are highly sentient and intelligent animals, capable of experiencing pain and fear. Minimising distress during handling and slaughter is an important part of safeguarding their welfare. \n\nHigh concentration carbon dioxide is widely used to stun pigs in British slaughterhouses, but independent evidence has highlighted serious concerns about the suffering it causes animals. \n\nThe government has now put forward proposals to replace the practice with more humane alternatives, such as argon gas and automated electrical stunning. Both methods are proven to substantially reduce animal suffering.  \n\nThe plans form part of the government’s world leading animal welfare strategy, which sets out ambitions to improve the lives of farmed animals and ensure they are treated humanely throughout their lives, and at slaughter.  \n\nFarming Minister, Stephen Morgan said:  \n\n\n  We are a nation of animal lovers - pigs are intelligent animals that deserve to be treated with care and respect throughout their lives including at slaughter.  \n\n  The public want to know the meat they buy in the shops is produced in a way that supports high standards of animal welfare. These plans will help deliver that and reduce unnecessary suffering.\n\n  We are committed to supporting farmers and businesses make this transition which will bring long-term benefits.\n\n\nChair of the Animal Welfare Committee, Madeline Campbell said:\n\n\n  It was the clear view of the Animal Welfare Committee  that the continued use of high concentration CO2 when more humane, legally permitted alternatives are available is ethically unacceptable.  The evidence-based argument for moving away from the use of high concentration CO2  on animal welfare grounds is incontrovertible.\n\n  I hope that all stakeholders will now work together to overcome the acknowledged challenges for industry which such a move presents and deliver that change within a transition period which is as short as possible.\n\n\nThe government has been working with pig processors, equipment manufacturers, gas suppliers and animal welfare organisations since April 2024 to examine the practicalities of introducing alternative measures and to ensure minimal impact of costs to consumers.  \n\nThe consultation launched today will seek views on the proposals, including the welfare benefits, costs, feasibility and potential timescales for moving away from carbon dioxide, recognising businesses will need time to adapt. \n\nThe plans will also reduce the industry’s dependence on carbon dioxide supplies, which can be affected by international events. Concerns over potential shortages linked to conflict in the Middle East earlier this year highlighted the vulnerability of global gas supply chains.  \n\nThe consultation is open from today and runs until 21 December 2026.\n",
-      "bodyHash": "240653281460618e00131b804732d6b0915d8b9daa1f92c7f0f07332448c2118",
+      "bodyHtml": "<div><p>Pigs will be spared unnecessary pain and distress before slaughter under new government plans to phase out the use of high-concentration carbon dioxide stunning. </p>\n\n<p>New proposals set out today (26 October 2026) would see the pork industry move towards more humane methods of stunning pigs, helping to prevent animals experiencing panic and breathing difficulties before losing consciousness. </p>\n\n<p>Pigs are highly sentient and intelligent animals, capable of experiencing pain and fear. Minimising distress during handling and slaughter is an important part of safeguarding their welfare. </p>\n\n<p>High concentration carbon dioxide is widely used to stun pigs in British slaughterhouses, <a href=\"https://www.gov.uk/government/publications/opinion-on-carbon-dioxide-gas-stunning-of-pigs-and-alternative-methods\">but independent evidence</a> has highlighted serious concerns about the suffering it causes animals. </p>\n\n<p>The government has now put forward proposals to replace the practice with more humane alternatives, such as argon gas and automated electrical stunning. Both methods are proven to substantially reduce animal suffering.  </p>\n\n<p>The plans form part of the government’s world leading animal welfare strategy, which sets out ambitions to improve the lives of farmed animals and ensure they are treated humanely throughout their lives, and at slaughter.  </p>\n\n<h3>Farming Minister, Stephen Morgan said:  </h3>\n\n<blockquote>\n  <p>We are a nation of animal lovers - pigs are intelligent animals that deserve to be treated with care and respect throughout their lives including at slaughter.  </p>\n\n  <p>The public want to know the meat they buy in the shops is produced in a way that supports high standards of animal welfare. These plans will help deliver that and reduce unnecessary suffering.</p>\n\n  <p>We are committed to supporting farmers and businesses make this transition which will bring long-term benefits.</p>\n</blockquote>\n\n<h3>Chair of the Animal Welfare Committee, Madeleine Campbell said:</h3>\n\n<blockquote>\n  <p>It was the clear view of the Animal Welfare Committee  that the continued use of high concentration CO2 when more humane, legally permitted alternatives are available is ethically unacceptable.  The evidence-based argument for moving away from the use of high concentration CO2  on animal welfare grounds is incontrovertible.</p>\n\n  <p>I hope that all stakeholders will now work together to overcome the acknowledged challenges for industry which such a move presents and deliver that change within a transition period which is as short as possible.</p>\n</blockquote>\n\n<p>The government has been working with pig processors, equipment manufacturers, gas suppliers and animal welfare organisations since April 2024 to examine the practicalities of introducing alternative measures and to ensure minimal impact of costs to consumers.  </p>\n\n<p>The consultation launched today will seek views on the proposals, including the welfare benefits, costs, feasibility and potential timescales for moving away from carbon dioxide, recognising businesses will need time to adapt. </p>\n\n<p>The plans will also reduce the industry’s dependence on carbon dioxide supplies, which can be affected by international events. Concerns over potential shortages linked to conflict in the Middle East earlier this year highlighted the vulnerability of global gas supply chains.  </p>\n\n<p>The <a href=\"https://www.gov.uk/government/consultations/phasing-out-carbon-dioxide-stunning-of-pigs\">consultation</a> is open from today and runs until 21 December 2026.</p>\n</div>",
+      "bodyText": "Pigs will be spared unnecessary pain and distress before slaughter under new government plans to phase out the use of high-concentration carbon dioxide stunning. \n\nNew proposals set out today (26 October 2026) would see the pork industry move towards more humane methods of stunning pigs, helping to prevent animals experiencing panic and breathing difficulties before losing consciousness. \n\nPigs are highly sentient and intelligent animals, capable of experiencing pain and fear. Minimising distress during handling and slaughter is an important part of safeguarding their welfare. \n\nHigh concentration carbon dioxide is widely used to stun pigs in British slaughterhouses, but independent evidence has highlighted serious concerns about the suffering it causes animals. \n\nThe government has now put forward proposals to replace the practice with more humane alternatives, such as argon gas and automated electrical stunning. Both methods are proven to substantially reduce animal suffering.  \n\nThe plans form part of the government’s world leading animal welfare strategy, which sets out ambitions to improve the lives of farmed animals and ensure they are treated humanely throughout their lives, and at slaughter.  \n\nFarming Minister, Stephen Morgan said:  \n\n\n  We are a nation of animal lovers - pigs are intelligent animals that deserve to be treated with care and respect throughout their lives including at slaughter.  \n\n  The public want to know the meat they buy in the shops is produced in a way that supports high standards of animal welfare. These plans will help deliver that and reduce unnecessary suffering.\n\n  We are committed to supporting farmers and businesses make this transition which will bring long-term benefits.\n\n\nChair of the Animal Welfare Committee, Madeleine Campbell said:\n\n\n  It was the clear view of the Animal Welfare Committee  that the continued use of high concentration CO2 when more humane, legally permitted alternatives are available is ethically unacceptable.  The evidence-based argument for moving away from the use of high concentration CO2  on animal welfare grounds is incontrovertible.\n\n  I hope that all stakeholders will now work together to overcome the acknowledged challenges for industry which such a move presents and deliver that change within a transition period which is as short as possible.\n\n\nThe government has been working with pig processors, equipment manufacturers, gas suppliers and animal welfare organisations since April 2024 to examine the practicalities of introducing alternative measures and to ensure minimal impact of costs to consumers.  \n\nThe consultation launched today will seek views on the proposals, including the welfare benefits, costs, feasibility and potential timescales for moving away from carbon dioxide, recognising businesses will need time to adapt. \n\nThe plans will also reduce the industry’s dependence on carbon dioxide supplies, which can be affected by international events. Concerns over potential shortages linked to conflict in the Middle East earlier this year highlighted the vulnerability of global gas supply chains.  \n\nThe consultation is open from today and runs until 21 December 2026.\n",
+      "bodyHash": "206860bc03301a2c7d526f1153b122639fa8044cce606c43bd87604269ed71ef",
       "language": "en",
       "republication": {
         "sourceId": "govuk-fulltext",
@@ -9251,9 +9806,9 @@
         "sourceVersion": "c345f635-0946-4a26-88d2-c0403714b1a6"
       },
       "firstSeenAt": "2026-10-26T01:38:56.402Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
-      "updatedAt": "2026-10-26T15:07:45.803Z",
-      "version": 2,
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
+      "updatedAt": "2026-10-26T20:43:53.392Z",
+      "version": 3,
       "history": [
         {
           "title": "New plans to end carbon dioxide stunning of pigs to prevent suffering",
@@ -9265,6 +9820,17 @@
           "sourcePublishedAt": "2026-10-26T00:01:05+00:00",
           "version": 1,
           "updatedAt": "2026-10-26T01:38:56.402Z"
+        },
+        {
+          "title": "New plans to end carbon dioxide stunning of pigs to prevent suffering",
+          "summary": "Pigs will be spared unnecessary pain and distress before slaughter under new government plans to phase out the use of high-concentration carbon dioxide stunning. New proposals set out today (26 October 2026) would see the pork industry move",
+          "summaryProvenance": {
+            "type": "licensed_body_excerpt",
+            "sourceId": "govuk-fulltext"
+          },
+          "sourcePublishedAt": "2026-10-26T00:01:00+00:00",
+          "version": 2,
+          "updatedAt": "2026-10-26T15:07:45.803Z"
         }
       ]
     },
@@ -9568,7 +10134,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-26T01:38:56.402Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T07:43:32.856Z",
       "version": 2,
       "history": [
@@ -10146,7 +10712,7 @@
         "sourceVersion": "29c5d134-759b-43fe-a226-3d0e35240fca"
       },
       "firstSeenAt": "2026-10-25T23:11:02.606Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-25T23:11:02.606Z",
       "version": 1,
       "history": []
@@ -10274,7 +10840,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-25T23:11:02.606Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-25T23:11:02.606Z",
       "version": 1,
       "history": []
@@ -10301,7 +10867,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-25T17:49:37.326Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-25T17:49:37.326Z",
       "version": 1,
       "history": []
@@ -10328,7 +10894,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-25T17:49:37.326Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-25T17:49:37.326Z",
       "version": 1,
       "history": []
@@ -10380,7 +10946,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-25T17:49:37.326Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-25T17:49:37.326Z",
       "version": 1,
       "history": []
@@ -11408,7 +11974,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-25T14:20:54.754Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-25T14:20:54.754Z",
       "version": 1,
       "history": []
@@ -11764,7 +12330,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-25T14:20:54.754Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-25T14:20:54.754Z",
       "version": 1,
       "history": []
@@ -12044,7 +12610,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-25T14:20:54.754Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-25T14:20:54.754Z",
       "version": 1,
       "history": []
@@ -12094,7 +12660,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-25T14:20:54.754Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-25T14:20:54.754Z",
       "version": 1,
       "history": []
@@ -12170,7 +12736,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-25T14:20:54.754Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-25T14:20:54.754Z",
       "version": 1,
       "history": []
@@ -12195,7 +12761,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-25T14:20:54.754Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-25T14:20:54.754Z",
       "version": 1,
       "history": []
@@ -12271,7 +12837,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-25T14:20:54.754Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-25T14:20:54.754Z",
       "version": 1,
       "history": []
@@ -12372,7 +12938,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-25T14:20:54.754Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-25T14:20:54.754Z",
       "version": 1,
       "history": []
@@ -12778,7 +13344,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-25T14:20:54.754Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-25T14:20:54.754Z",
       "version": 1,
       "history": []
@@ -13111,7 +13677,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-25T10:06:28.879Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-25T10:06:28.879Z",
       "version": 1,
       "history": []
@@ -13285,7 +13851,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-25T10:06:28.879Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-25T10:06:28.879Z",
       "version": 1,
       "history": []
@@ -15320,7 +15886,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-25T10:06:28.879Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-25T10:06:28.879Z",
       "version": 1,
       "history": []
@@ -22511,7 +23077,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-24T13:17:38.809Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 1,
       "history": []
@@ -23456,7 +24022,7 @@
         "sourceVersion": "3a006067-d8be-41f7-9215-7caa3881e391"
       },
       "firstSeenAt": "2026-10-24T09:05:15.044Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-24T13:17:38.809Z",
       "version": 2,
       "history": [
@@ -28106,7 +28672,7 @@
         "sourceVersion": "a83563de-62d0-46f6-9ee4-3cb67fe6c5d2"
       },
       "firstSeenAt": "2026-10-23T21:20:18.610Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-23T21:20:18.610Z",
       "version": 1,
       "history": []
@@ -28148,7 +28714,7 @@
         "sourceVersion": "47765a47-2c67-45f3-9ae3-1c7f1a0f87b1"
       },
       "firstSeenAt": "2026-10-23T21:20:18.610Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-23T21:20:18.610Z",
       "version": 1,
       "history": []
@@ -28190,7 +28756,7 @@
         "sourceVersion": "e6c48849-c6e0-4b3b-9f29-80d0d7573a80"
       },
       "firstSeenAt": "2026-10-23T21:20:18.610Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-23T21:20:18.610Z",
       "version": 1,
       "history": []
@@ -29047,7 +29613,7 @@
         "sourceVersion": "e778351b-b261-4719-8011-7bc223dbedcb"
       },
       "firstSeenAt": "2026-10-23T17:51:08.399Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-23T17:51:08.399Z",
       "version": 1,
       "history": []
@@ -33768,7 +34334,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-23T12:50:56.217Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-23T12:50:56.217Z",
       "version": 1,
       "history": []
@@ -35886,7 +36452,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-23T12:50:56.217Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-23T12:50:56.217Z",
       "version": 1,
       "history": []
@@ -37386,7 +37952,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-23T07:26:02.977Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-23T07:26:02.977Z",
       "version": 1,
       "history": []
@@ -60094,7 +60660,7 @@
         "sourceVersion": "566a89a8-7c71-4a38-8beb-7d52f41fe32f"
       },
       "firstSeenAt": "2026-10-21T07:30:11.986Z",
-      "lastSeenAt": "2026-10-26T15:07:45.803Z",
+      "lastSeenAt": "2026-10-26T20:43:53.392Z",
       "updatedAt": "2026-10-26T15:07:45.803Z",
       "version": 4,
       "history": [
@@ -259962,491 +260528,6 @@
       "updatedAt": "2026-10-02T06:07:56.029Z",
       "version": 1,
       "history": []
-    },
-    {
-      "id": "f6960cdea546ea360174b9c1",
-      "title": "（寻味中华｜非遗）鄂尔多斯古如歌：千年礼乐 古韵悠扬",
-      "originalUrl": "https://www.chinanews.com.cn/cul/2026/10-02/10706996.shtml",
-      "summary": "中新社内蒙古鄂尔多斯10月2日电 题：鄂尔多斯古如歌：千年礼乐 古韵悠扬",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-culture",
-        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-02T00:54:46.000Z",
-      "timeIssue": null,
-      "channels": [
-        "entertainment"
-      ],
-      "sourceIds": [
-        "chinanews-culture"
-      ],
-      "firstSeenAt": "2026-10-02T06:07:56.029Z",
-      "lastSeenAt": "2026-10-03T12:28:45.520Z",
-      "updatedAt": "2026-10-02T06:07:56.029Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "62971422591a5b6afcefd30a",
-      "title": "英伟达黄仁勋将出席：微软预热本月 Surface 发布会，聚焦本地 AI 重塑下一代 PC",
-      "originalUrl": "https://www.ithome.com/1/009/212.htm",
-      "summary": "IT之家 10 月 2 日消息，微软官方开发者账号 @windowsdev 今天（10 月 2 日）在 X 平台发布推文，宣布将于太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）举办一场面向开发者与构建者的线上活动。 IT之家曾于 9 月 16 日报道，微软宣布将在美国旧金山举办本次活动，主题为本地人工智能如何塑造 PC 的下一阶段，预估展示 Windows 和 Surface 设备的未来规划。 而最新预告中，微软表示将会携手英伟达公司，介…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-02T00:53:03.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-02T06:07:56.029Z",
-      "lastSeenAt": "2026-10-02T06:07:56.029Z",
-      "updatedAt": "2026-10-02T06:07:56.029Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "96facf9a474efbc444c16ee0",
-      "title": "“低价票、内部票”是真是假？这些诈骗套路要当心",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-02/10706999.shtml",
-      "summary": "真相来了丨“低价票、内部票”是真是假？这些诈骗套路要当心",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-02T00:52:44.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-10-02T06:07:56.029Z",
-      "lastSeenAt": "2026-10-02T06:07:56.029Z",
-      "updatedAt": "2026-10-02T06:07:56.029Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "98c62dc1e1350245163a90c8",
-      "title": "雷蛇推出 60% 配列光轴键盘猎魂光蛛 V3 专业迷你版 8KHZ",
-      "originalUrl": "https://www.ithome.com/1/009/211.htm",
-      "summary": "IT之家 10 月 2 日消息，Razer（雷蛇）当地时间 1 日宣布推出 Huntsman V3 Pro Mini 8KHz（猎魂光蛛 V3 专业迷你版 8KHZ）键盘。其提供黑 / 白 2 种配色，到手价约为 759 元。 这一型号延续了猎魂光蛛 V3 Pro 家族的特质，依旧搭载第二代雷蛇模拟光轴，同时尺寸缩小至 60% 配列，进一步优化了在 FPS 等类型游戏中的操作体验。 猎魂光蛛 V3 专业迷你版 8KHZ 自然支持 8000Hz 轮询率，延迟短至 0.48ms。…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-02T00:44:54.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-02T06:07:56.029Z",
-      "lastSeenAt": "2026-10-02T06:07:56.029Z",
-      "updatedAt": "2026-10-02T06:07:56.029Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "ad4dfc9b83607ef8e1450de9",
-      "title": "索尼 PlayStation 为标准版 PS5 游戏主机带来轻量级 AI 超分辨率技术 QSSR",
-      "originalUrl": "https://www.ithome.com/1/009/210.htm",
-      "summary": "IT之家 10 月 2 日消息，Sony（索尼）PlayStation 官方当地时间 1 日宣布为标准版 PS5 游戏主机推出基于人工智能的超分辨率 QSSR。该技术率先在《漫威金刚狼》《羊蹄山之魂》上得到支持。 QSSR 全称 \"Quick Spectral Super Resolution\"，是 PSSR 的“快速”演进版本，也是 PlayStation 与 AMD 合作项目 \"Project Amethyst\" 的一部分。 其采用精简的神经网络架构，通过精心调校以最大限…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-02T00:35:19.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "entertainment"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-02T06:07:56.029Z",
-      "lastSeenAt": "2026-10-02T06:07:56.029Z",
-      "updatedAt": "2026-10-02T06:07:56.029Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "95bd98422ef8c298f522d57c",
-      "title": "《007：初露锋芒》免费 DLC“进阶行动”上线，带来更高难度模式等",
-      "originalUrl": "https://www.ithome.com/1/009/209.htm",
-      "summary": "IT之家 10 月 2 日消息，当地时间 1 日，IO Interactive 宣布，《007：初露锋芒》推出免费 DLC“进阶行动”，为游戏增加多项新功能。 其中包括“新游戏 +”模式。玩家以任意难度通关主线剧情后，就可以从头开始或选择任一检查点重新游玩，同时使用此前解锁的所有服装和装置。 “新游戏 +”还会解锁难度更高的“00”模式，战斗、潜行和社交互动都会更具挑战性。IO Interactive 称，敌人发现尸体或异常动静后的反应会更快，部分守卫会换成实力更强的类型，玩…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-02T00:34:57.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-02T06:07:56.029Z",
-      "lastSeenAt": "2026-10-02T06:07:56.029Z",
-      "updatedAt": "2026-10-02T06:07:56.029Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "bb70bb83193ba3615f5feca1",
-      "title": "苹果首款 AI 智能安防摄像头曝光：金属圆柱造型，不录视频、仅推送文本提醒",
-      "originalUrl": "https://www.ithome.com/1/009/208.htm",
-      "summary": "IT之家 10 月 2 日消息，在首期 Power On 播客节目中，彭博社的马克 · 古尔曼（Mark Gurman）爆料称，苹果正筹备推出家用智能摄像头（代号为 J450），将配套协同苹果首款智能家居中枢（Home Hub）工作。 外观方面，J450 采用金属圆柱体，看起来像是“巨型金属润唇膏”，其摄像头将以低帧率运行，依赖 AI 模型分析周围环境。 在隐私方面，IT之家援引博文介绍，该产品定位并非传统监控录像设备，不会向用户提供或保存可回看的视频，通过 AI 分析低帧率…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-02T00:34:07.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-02T06:07:56.029Z",
-      "lastSeenAt": "2026-10-02T06:07:56.029Z",
-      "updatedAt": "2026-10-02T06:07:56.029Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "35d5454a3f6d4b4ea868d1ba",
-      "title": "古尔曼：苹果首款智能家居中枢支持 AI 面部识别，为家人切换呈现专属内容",
-      "originalUrl": "https://www.ithome.com/1/009/206.htm",
-      "summary": "IT之家 10 月 2 日消息，在首期 Power On 播客节目中，彭博社的马克 · 古尔曼（Mark Gurman）爆料称，苹果公司首款智能家居中枢（Home Hub）将采用 AI 面部识别，会判断当前家庭成员并显示对应内容。 关于苹果公司首款智能家居中枢的相关介绍，可以参考IT之家此前发布的《苹果首款智能家居中枢前瞻：8GB 内存、homeOS 系统、6 英寸屏，10 月 13 日发布》。 假想图，非官方实物 在最新播客节目中，古尔曼称该智能家居中枢可以通过 AI 智能…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-02T00:23:29.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech",
-        "home"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-02T06:07:56.029Z",
-      "lastSeenAt": "2026-10-02T06:07:56.029Z",
-      "updatedAt": "2026-10-02T06:07:56.029Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "5708a630348ef56e8c9ef404",
-      "title": "苹果视频剪辑应用 Final Cut Pro 13 曝光：支持 Pixelmator Pro 往返编辑等",
-      "originalUrl": "https://www.ithome.com/1/009/205.htm",
-      "summary": "IT之家 10 月 2 日消息，科技媒体 AppleInsider 昨日（10 月 1 日）发布博文，报道称 Final Cut Pro 13 应用部分新功能 / 新特性提前泄露，新版本有望加入多语言转录、Pixelmator Pro 图像往返编辑、自然运动模糊、捏合缩放、剪辑断开和关键帧缓动等功能。 Final Cut Pro 是苹果面向专业视频创作者推出的视频剪辑应用，目前最新版本是 9 月 29 日发布的 12.4 版本更新，主要用于视频导入、剪辑、调色、字幕、音频处理…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-02T00:09:22.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-02T00:09:59.076Z",
-      "lastSeenAt": "2026-10-02T06:07:56.029Z",
-      "updatedAt": "2026-10-02T00:09:59.076Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "d3c001d49e2810636a639a3e",
-      "title": "加州检察长向 OpenAI 发出传票，调查 AI 网络安全风险",
-      "originalUrl": "https://www.ithome.com/1/009/204.htm",
-      "summary": "IT之家 10 月 2 日消息，据路透社今天（2 日）凌晨报道，加利福尼亚州总检察长罗布 · 邦塔办公室宣布，邦塔本人已向 OpenAI 发出调查传票，要求其就 AI 模型涉及的网络安全事件和风险提供更多信息。 邦塔上个月宣布，加州司法部已就“Hugging Face 事件”正式展开调查。随着 AI 行业面临更严格的审视，该事件受到持续关注。 今年早些时候，OpenAI 开发的 AI 智能体入侵开源平台 Hugging Face，取得了后者部分基础设施的访问权限，也暴露出能力…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-02T00:06:15.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-02T00:09:59.076Z",
-      "lastSeenAt": "2026-10-02T06:07:56.029Z",
-      "updatedAt": "2026-10-02T00:09:59.076Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "b8e5957d2d6f9e6595767752",
-      "title": "Steam 2026 年 9 月软硬件调查报告：32GB 内存占比首超 16GB，简体中文占比大幅提升",
-      "originalUrl": "https://www.ithome.com/1/009/203.htm",
-      "summary": "IT之家 10 月 2 日消息，Steam 发布了 2026 年 9 月的软硬件调查结果，数据显示 PC 游戏硬件持续向更高配置升级，Windows 11 系统占比进一步提升，英伟达显卡份额保持领先，32GB 内存占比首次超过 16GB，成为 Steam 用户最主流的内存配置，同时 2K 分辨率占比大幅提升，简体中文占比大幅增长。 系统内存： 32GB 占比达 42.22%，首次超越 16GB 在内存容量方面，32GB 内存本月占比达到 42.22%，较上月增长 4.77%，…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-02T00:01:40.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-02T06:07:56.029Z",
-      "lastSeenAt": "2026-10-02T06:07:56.029Z",
-      "updatedAt": "2026-10-02T06:07:56.029Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "4b02556f89aa6f23b535c490",
-      "title": "缓解折痕加深：苹果首款折叠 iPhone Duo 支持更换保护膜",
-      "originalUrl": "https://www.ithome.com/1/009/202.htm",
-      "summary": "IT之家 10 月 2 日消息，在 TikTok 平台对话 @angietutorials 时，苹果硬件工程副总裁凯特 · 伯杰龙（Kate Bergeron）表示，为了缓解长期使用中折痕加深的问题，苹果首款折叠 iPhone Duo 支持更换屏幕保护层，AppleCare 用户更换费用为 19 美元（IT之家注：现汇率约合 127.6 元人民币）。 伯杰龙在采访中表示，iPhone Duo 折叠显示屏上方设有一层可更换的保护层（cover layer），配合哑光显示涂层，共…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-01T23:54:32.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-02T00:09:59.076Z",
-      "lastSeenAt": "2026-10-02T00:09:59.076Z",
-      "updatedAt": "2026-10-02T00:09:59.076Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "f1338071d4ae4ef955e1e3ee",
-      "title": "IT早报 1002：5999 元起华为 Mate 90 系列旗舰手机发布；2026 年 9 月车企销量交付汇总；华为与赛力斯达成新五年合作；曝苹果 HomeHub 宣传物料已送往苹果门店...",
-      "originalUrl": "https://www.ithome.com/1/009/201.htm",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 2 日星期五，今天的重要科技资讯有： 1. 华为 Mate 90 手机发布：麒麟 9030 旗舰 τ 芯片，5999 元起 在 10 月 1 日举行的华为 Mate 90 系列及全场景新品发布会上，华为 Mate 90 手机正式发布。>> 查看详情 2. 2026 年 9 月汽车销量 / 交付榜出炉：比亚迪 46.36 万辆稳坐头把交椅，小米澎程上市首月交付破万 比亚迪以超 46 万辆稳居榜首，上汽、奇瑞、吉利紧随其后…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-01T23:52:26.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech",
-        "mobility"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-02T00:09:59.076Z",
-      "lastSeenAt": "2026-10-02T00:09:59.076Z",
-      "updatedAt": "2026-10-02T00:09:59.076Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "d29a6fce24813f5f9e99406e",
-      "title": "法国政府公布2027年预算草案 确认540亿欧元节支计划",
-      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-02/10706991.shtml",
-      "summary": "中新社巴黎10月1日电 (记者 李洋)法国政府当地时间1日公布2027年预算草案，确认540亿欧元节支计划，旨在努力减少财政赤字。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-01T23:52:16.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-02T00:09:59.076Z",
-      "lastSeenAt": "2026-10-02T00:09:59.076Z",
-      "updatedAt": "2026-10-02T00:09:59.076Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "0dd60abb4daa260ea2a2203c",
-      "title": "Crew-13 任务完成对接，刷新美国载人飞船赴国际空间站最快纪录",
-      "originalUrl": "https://www.ithome.com/1/009/199.htm",
-      "summary": "IT之家 10 月 2 日消息，美国宇航局（NASA）发布公告，宣布 Crew-13 载人飞行任务已经于美国东部时间 10 月 1 日 19:05（北京时间 10 月 2 日早上 7:05）和国际空间站对接，从发射到对接耗时约 7 小时 50 分钟，刷新美国太空旅行纪录。 IT之家援引官方公告内容，附上本次 Crew-13 载人飞行任务相关时间节点如下： 美国东部时间 11:10（北京时间：10 月 1 日 23:10）：猎鹰 9 号火箭从 SLC-40 点火升空。 美国东部…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-01T23:42:27.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-02T00:09:59.076Z",
-      "lastSeenAt": "2026-10-02T00:09:59.076Z",
-      "updatedAt": "2026-10-02T00:09:59.076Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "5db5b342a0a083d99d2b76ba",
-      "title": "谷歌首次送先进芯片上天，估算 SpaceX 星舰发射 1800 次才能让太空数据中心“飞起来”",
-      "originalUrl": "https://www.ithome.com/1/009/198.htm",
-      "summary": "IT之家 10 月 2 日消息，据外媒 TechCrunch 报道，当地时间 1 日，谷歌的在轨计算原型卫星搭乘 SpaceX 火箭，从美国加利福尼亚州升空，启动在地球轨道上建立大规模计算集群的“太阳捕手”项目。卫星由 Planet Labs 制造，用于验证谷歌的 Tensor 处理器能否在太空正常运行。测试需要持续供应 1kW 电力、给芯片散热，并运行一系列模型，检查有没有问题。 据IT之家了解，这是谷歌首次把先进芯片送入太空。负责项目的谷歌高管特拉维斯 · 比尔斯说：“我…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-01T23:41:50.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-02T00:09:59.076Z",
-      "lastSeenAt": "2026-10-02T00:09:59.076Z",
-      "updatedAt": "2026-10-02T00:09:59.076Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "bac9befab9015cf2ac3d239b",
-      "title": "泰国全国灾害保险体系正式实施",
-      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-02/10706983.shtml",
-      "summary": "中新社曼谷10月1日电 (王茜 李映民)泰国总理府公共关系部1日发布消息称，泰国全国灾害保险体系当天正式实施，覆盖洪灾、风灾和地震，约3000万户住宅纳入保障。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-01T23:30:39.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-02T00:09:59.076Z",
-      "lastSeenAt": "2026-10-02T00:09:59.076Z",
-      "updatedAt": "2026-10-02T00:09:59.076Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "00edaadbc6d75bda85de7c12",
-      "title": "OpenAI 上线“虚拟试穿”功能：ChatGPT 能帮你试衣，还能找“明星同款”",
-      "originalUrl": "https://www.ithome.com/1/009/197.htm",
-      "summary": "IT之家 10 月 2 日消息，当地时间 1 日，OpenAI 再次扩展 ChatGPT 的购物能力。公司宣布在全球推出两项新功能，一项是让用户虚拟试穿服装和配饰，另一项是新增收藏功能，方便用户先把看中的商品存起来，之后再查看。 据IT之家了解，新功能基于不久前推出的 ChatGPT Images 2.5 模型。按照 OpenAI 的说法，这一模型生成的画面光线更自然、纹理更丰富，执行编辑指令也更稳定，同时还能缩短生成图片所需时间。 ChatGPT 用户可以上传自拍照或全身照…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-01T23:18:01.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-02T00:09:59.076Z",
-      "lastSeenAt": "2026-10-02T00:09:59.076Z",
-      "updatedAt": "2026-10-02T00:09:59.076Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "77acc1920b3bddc72f483aad",
-      "title": "马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半",
-      "originalUrl": "https://www.ithome.com/1/009/196.htm",
-      "summary": "IT之家 10 月 2 日消息，全球首富埃隆 · 马斯克今天（10 月 2 日）在 X 平台发布推文，宣布为了调配充足的内存满足 Optimus 机器人量产，计划削减特斯拉 AI5 和 AI6 芯片的内存用量。 本次调整可以追溯到美光科技的预测，在其最新财报电话会议上，美光科技首席财务官指出人形机器人将成为内存需求新引擎：每台设备需超 200GB DRAM 及数 TB NAND 闪存。即便人工智能泡沫破裂，内存价格亦难回落。 网友 @DirtyTesLa 转发该推测，指出马斯…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-01T23:16:54.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "mobility"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-02T00:09:59.076Z",
-      "lastSeenAt": "2026-10-02T00:09:59.076Z",
-      "updatedAt": "2026-10-02T00:09:59.076Z",
-      "version": 1,
-      "history": []
     }
   ],
   "sourceStatus": {
@@ -260454,8 +260535,8 @@
       "id": "ithome",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-26T15:07:45.803Z",
-      "lastSuccessAt": "2026-10-26T15:07:45.803Z",
+      "checkedAt": "2026-10-26T20:43:53.392Z",
+      "lastSuccessAt": "2026-10-26T20:43:53.392Z",
       "etag": null,
       "lastModified": null,
       "discovered": 60,
@@ -260466,8 +260547,8 @@
       "id": "sspai",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-26T15:07:45.803Z",
-      "lastSuccessAt": "2026-10-26T15:07:45.803Z",
+      "checkedAt": "2026-10-26T20:43:53.392Z",
+      "lastSuccessAt": "2026-10-26T20:43:53.392Z",
       "etag": null,
       "lastModified": null,
       "discovered": 10,
@@ -260478,11 +260559,11 @@
       "id": "chinanews-society",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-26T15:07:45.803Z",
-      "lastSuccessAt": "2026-10-26T15:07:45.803Z",
+      "checkedAt": "2026-10-26T20:43:53.392Z",
+      "lastSuccessAt": "2026-10-26T20:43:53.392Z",
       "etag": "\"6adf6448-3ef3\"",
       "lastModified": "Mon, 26 Oct 2026 14:31:36 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -260490,11 +260571,11 @@
       "id": "chinanews-finance",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-26T15:07:45.803Z",
-      "lastSuccessAt": "2026-10-26T15:07:45.803Z",
+      "checkedAt": "2026-10-26T20:43:53.392Z",
+      "lastSuccessAt": "2026-10-26T20:43:53.392Z",
       "etag": "\"6adf5ed6-3dcc\"",
       "lastModified": "Mon, 26 Oct 2026 14:08:22 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -260502,11 +260583,11 @@
       "id": "chinanews-life",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-26T15:07:45.803Z",
-      "lastSuccessAt": "2026-10-26T15:07:45.803Z",
+      "checkedAt": "2026-10-26T20:43:53.392Z",
+      "lastSuccessAt": "2026-10-26T20:43:53.392Z",
       "etag": "\"6adf3a4d-129e\"",
       "lastModified": "Mon, 26 Oct 2026 11:32:29 GMT",
-      "discovered": 10,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -260514,8 +260595,8 @@
       "id": "chinanews-jk",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-26T15:07:45.803Z",
-      "lastSuccessAt": "2026-10-26T15:07:45.803Z",
+      "checkedAt": "2026-10-26T20:43:53.392Z",
+      "lastSuccessAt": "2026-10-26T20:43:53.392Z",
       "etag": "\"69aa3e2a-2832\"",
       "lastModified": "Fri, 06 Mar 2026 02:38:34 GMT",
       "discovered": 0,
@@ -260526,11 +260607,11 @@
       "id": "chinanews-culture",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-26T15:07:45.803Z",
-      "lastSuccessAt": "2026-10-26T15:07:45.803Z",
+      "checkedAt": "2026-10-26T20:43:53.392Z",
+      "lastSuccessAt": "2026-10-26T20:43:53.392Z",
       "etag": "\"6adf6208-40d3\"",
       "lastModified": "Mon, 26 Oct 2026 14:22:00 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -260538,8 +260619,8 @@
       "id": "chinanews-edu",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-26T15:07:45.803Z",
-      "lastSuccessAt": "2026-10-26T15:07:45.803Z",
+      "checkedAt": "2026-10-26T20:43:53.392Z",
+      "lastSuccessAt": "2026-10-26T20:43:53.392Z",
       "etag": "\"6adefc57-386a\"",
       "lastModified": "Mon, 26 Oct 2026 07:08:07 GMT",
       "discovered": 0,
@@ -260550,10 +260631,10 @@
       "id": "chinanews-sports",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-26T15:07:45.803Z",
-      "lastSuccessAt": "2026-10-26T15:07:45.803Z",
-      "etag": "\"6adf3e64-3b9f\"",
-      "lastModified": "Mon, 26 Oct 2026 11:49:56 GMT",
+      "checkedAt": "2026-10-26T20:43:53.392Z",
+      "lastSuccessAt": "2026-10-26T20:43:53.392Z",
+      "etag": "\"6adf786e-3bc5\"",
+      "lastModified": "Mon, 26 Oct 2026 15:57:34 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -260562,10 +260643,10 @@
       "id": "chinanews-scroll-news",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-26T15:07:45.803Z",
-      "lastSuccessAt": "2026-10-26T15:07:45.803Z",
-      "etag": "\"6adf65a5-55ff\"",
-      "lastModified": "Mon, 26 Oct 2026 14:37:25 GMT",
+      "checkedAt": "2026-10-26T20:43:53.392Z",
+      "lastSuccessAt": "2026-10-26T20:43:53.392Z",
+      "etag": "\"6adf814d-4e7d\"",
+      "lastModified": "Mon, 26 Oct 2026 16:35:25 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -260573,8 +260654,8 @@
     "govuk-fulltext": {
       "id": "govuk-fulltext",
       "status": "ok",
-      "checkedAt": "2026-10-26T15:07:45.803Z",
-      "lastSuccessAt": "2026-10-26T15:07:45.803Z",
+      "checkedAt": "2026-10-26T20:43:53.392Z",
+      "lastSuccessAt": "2026-10-26T20:43:53.392Z",
       "discovered": 20,
       "rejected": 0,
       "contentSchema": 3,
