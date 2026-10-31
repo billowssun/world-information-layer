@@ -1,8 +1,383 @@
 {
   "schemaVersion": "1",
-  "collectedAt": "2026-10-31T20:16:03.190Z",
-  "lastSuccessfulCollectionAt": "2026-10-31T20:16:03.190Z",
+  "collectedAt": "2026-10-31T23:40:48.088Z",
+  "lastSuccessfulCollectionAt": "2026-10-31T23:40:48.088Z",
   "items": [
+    {
+      "id": "9107e56607096bc6954846bf",
+      "title": "IT早报 1101：苹果中国官网上线 Apple 智能介绍页面；新款小米 SU7 Ultra 无伪装实车曝光；我国首次载人登月任务乘组计划由三人组成...",
+      "originalUrl": "https://www.ithome.com/1/020/641.htm",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 1 日星期日，今天的重要科技资讯有： 1. 苹果中国官网上线 Apple 智能介绍页面：首批核心功能今年稍晚推出，千问整合一体 苹果中国区官网 10 月 31 日上线了 Apple 智能的介绍页面，提示 Apple 智能的首批核心功能将于今年稍晚推出。>> 查看详情 2. 新款小米 SU7 Ultra 无伪装实车曝光，消息称预计 2027 年上市 知情人士透露，新车将对外观造型进行调整升级，整套空气动力学套件全面优化，…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-31T23:40:23.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-31T23:40:48.088Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
+      "updatedAt": "2026-10-31T23:40:48.088Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5d663c4d0858af80a2dc0729",
+      "title": "特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分",
+      "originalUrl": "https://www.ithome.com/1/020/640.htm",
+      "summary": "IT之家 11 月 1 日消息，特斯拉最近在海外市场推出全新推荐奖励计划，车主可邀请朋友（也得是特斯拉车主）体验一个月 FSD 监督版，最终双方都能拿到免费权益。 据介绍，现有特斯拉车主可以分享自己的推荐链接，被邀请人打开后可获一个月 FSD 监督版体验权益，真正使用后，发送推荐链接的人将得到奖励。 特斯拉车主必须拥有买断版 FSD 或订阅制 FSD 才能邀请其他人。使用 FSD 一年体验的车主不符合参与条件，既不能推荐其他人，也不能获得推荐链接。发送链接的车主若订阅 FSD…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-31T23:38:59.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-31T23:40:48.088Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
+      "updatedAt": "2026-10-31T23:40:48.088Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b0b80477767cc04622159805",
+      "title": "消息称华硕可能结束手机业务：现有产品纷纷下市，已无零售商提供报价",
+      "originalUrl": "https://www.ithome.com/1/020/639.htm",
+      "summary": "IT之家 11 月 1 日消息，据台媒经济日报消息，PC 品牌华硕今年初证实，2026 年暂无推出手机新机型的计划。 如今市场传出，华硕手机库存到了第 4 季度已几乎销售一空，上周已无手机零售商（通讯行）提供报价，显示现货已经售罄，产品步入退市阶段。 根据中国台湾地区最大手机报价网站“SOGI 手机王”消息（该网站提供由品牌商、通讯门店给出的最新 3C 产品平均报价），原本市场上仍有门店刊登报价的华硕 Zenfone 12 Ultra 256GB 版本，近期已无门店提供报价，…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-31T23:33:51.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-31T23:40:48.088Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
+      "updatedAt": "2026-10-31T23:40:48.088Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "64fada968c7c7ea86c2b1c68",
+      "title": "Linux Mint 系统将重新支持合盖休眠，带来全新终端和文件预览功能",
+      "originalUrl": "https://www.ithome.com/1/020/638.htm",
+      "summary": "IT之家 11 月 1 日消息，Linux Mint 是较为适合新手的热门 Linux 发行版之一，尤其适合想从 Windows 转向 Linux 的用户。然而，该系统基于 Ubuntu 打造，受制于 Ubuntu 的许多上游决策，比如之前取消休眠支持。 在 10 月 31 日的一篇关于 Linux Mint 的博客文章中，Linux Mint 开发团队表示，目前的休眠功能大多数情况下会导致虚幻的电池消耗，甚至可能导致笔记本电池在 2-3 天内耗尽。 基于这一理由，开发团队确…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-31T23:30:22.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-31T23:40:48.088Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
+      "updatedAt": "2026-10-31T23:40:48.088Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ccec9a0b07952ebfff97ff30",
+      "title": "微信支付智慧经营机器人首次进店：支持迎宾、导购、点单等，基于腾讯混元打造",
+      "originalUrl": "https://www.ithome.com/1/020/637.htm",
+      "summary": "IT之家 11 月 1 日消息，10 月 29 日，广东 7-ELEVEN 第 2000 家门店在深圳腾讯总部园区开业。 当天，一台印有微信支付标识的智慧经营机器人第一次进店“打工”，这款机器人能推荐商品和优惠套餐，帮忙下单。选好了，再自己扫码买单。 ▲ 图源微信支付，下同 官方表示，迎宾、导购、点单，智慧经营机器人分担一部分，店员就能腾出手补货、热饭、照顾现场。 IT之家获悉，这款机器人基于腾讯混元打造，通过模型出色的多轮对话和 Agent 能力，辅助门店的日常销售、收款和…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-31T23:16:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-31T23:40:48.088Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
+      "updatedAt": "2026-10-31T23:40:48.088Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d967da4352a65381762d6fab",
+      "title": "消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身",
+      "originalUrl": "https://www.ithome.com/1/020/636.htm",
+      "summary": "IT之家 11 月 1 日消息，据 The Information 昨天报道，Meta 最近与中国企业傅利叶（Fourier）合作，打造一款名为 Max 的人形机器人原型。 据介绍，这款机器人研发用时三个月，其身高接近 5 英尺（IT之家注：约 1.5 米），体重约 106 磅（约 48.1 千克），搭载英伟达 Thor 芯片。Meta 首席执行官马克 · 扎克伯格将这款人形机器人，视为 Muse 人工智能模型的“物理化身”，认为它能够承担日常家务。 IT之家从原报道获悉，两…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-31T23:12:21.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "finance"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-31T23:40:48.088Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
+      "updatedAt": "2026-10-31T23:40:48.088Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "7f8c153c5edbef245942d9d4",
+      "title": "微软 Turn 10 与 Playground Games 游戏工作室合并，《极限竞速》负责人 Dan Greenawalt 辞职",
+      "originalUrl": "https://www.ithome.com/1/020/635.htm",
+      "summary": "IT之家 11 月 1 日消息，微软旗下游戏部门 Xbox 今年进行大规模裁员，将《极限竞速》开发商 Turn 10 和《极限竞速：地平线》开发商 Playground Games 合并为一家游戏工作室。 据 The Verge 本周报道，《极限竞速》系列主创、Turn 10 工作室负责人 Dan Greenawalt 在任职近 27 年后离开了工作室。 Playground Games 工作室负责人 Trevor Williams 在最近一份内部备忘录中披露了这一消息： D…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-31T23:06:29.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-31T23:40:48.088Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
+      "updatedAt": "2026-10-31T23:40:48.088Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "eb0fddd409c8bfca80da8fc2",
+      "title": "11月1日新闻早报",
+      "originalUrl": "https://www.chinanews.com.cn/iframe/2026/11-01/10724127.shtml",
+      "summary": null,
+      "summaryProvenance": null,
+      "sourcePublishedAt": "2026-10-31T23:05:06.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-31T23:40:48.088Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
+      "updatedAt": "2026-10-31T23:40:48.088Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "41a5a4cfdd726adeb045928e",
+      "title": "金标联盟发布 SharedView Kit 一镜到底 / 无缝动画，荣耀、OPPO、vivo、小米联合推动",
+      "originalUrl": "https://www.ithome.com/1/020/634.htm",
+      "summary": "IT之家 11 月 1 日消息，2026 年 10 月，金标联盟（ITGSA）正式发布 SharedView Kit「一镜到底 / 无缝动画」。荣耀、OPPO、vivo、小米四家头部手机厂商联合推动该 Kit 落地。 据介绍，所谓「一镜到底 / 无缝动画」，在手机上，它指的是从列表点开内容、看完再返回的这一段过渡：页面从点击处自然展开，返回时又精准地收回原位，中间过程连贯自然。 对用户而言，整体体验更跟手、更丝滑：点开与返回一气呵成，转场响应自然而细腻，应用内的流畅体验也随之…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-31T22:56:41.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-31T23:40:48.088Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
+      "updatedAt": "2026-10-31T23:40:48.088Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e07d57941fe1793116aeb22e",
+      "title": "美国白宫科学与技术顾问会议主席：Anthropic 很可能成为资本主义历史最伟大企业",
+      "originalUrl": "https://www.ithome.com/1/020/633.htm",
+      "summary": "IT之家 11 月 1 日消息，美国白宫科学与技术顾问会议主席戴维 · 奥利弗 · 萨克斯（David Oliver Sacks）最近出席 All-In 播客，深入分析 Anthropic 的 S-1 注册文件，称这家人工智能初创公司很可能成为资本主义历史上最伟大的企业。 Anthropic 在文件中透露，公司 2026 年上半年营收 163 亿美元（IT之家注：现汇率约合 1,087.14 亿元人民币），账面现金 1,120 亿美元（现汇率约合 7,469.91 亿元人民币…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-31T22:56:28.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "finance"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-10-31T23:40:48.088Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
+      "updatedAt": "2026-10-31T23:40:48.088Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ce9b2d3e69e3aa72c318ba9f",
+      "title": "教室采光照明新国标11月1日起实施 如何让学生们“看得舒适”？",
+      "originalUrl": "https://www.chinanews.com.cn/edu/2026/11-01/10724126.shtml",
+      "summary": "11月1日，强制性国家标准《中小学校教室采光和照明卫生标准》正式实施。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-31T22:39:35.000Z",
+      "timeIssue": null,
+      "channels": [
+        "education",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-edu",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-31T23:40:48.088Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
+      "updatedAt": "2026-10-31T23:40:48.088Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5b17153a23535afbf48f52e5",
+      "title": "'See it. Say it. Sorted.' marks a decade of keeping Britain's railways safe",
+      "originalUrl": "https://www.gov.uk/government/news/see-it-say-it-sorted-marks-a-decade-of-keeping-britains-railways-safe",
+      "sourcePublishedAt": "2026-10-31T22:30:00+00:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "‘See it. Say it. Sorted.’ campaign marks 10 years, having helped prompt over 1.5 million texts to British Transport Police, leading to almost 83,000 crimes recorded passengers using 61016 led to 175,000 police deployments over the past deca",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><div>\n  <ul>\n    <li>‘See it. Say it. Sorted.’ campaign marks 10 years, having helped prompt over 1.5 million texts to British Transport Police, leading to almost 83,000 crimes recorded</li>\n    <li>passengers using 61016 led to 175,000 police deployments over the past decade, showing how a single text can lead to an arrest, investigation and conviction</li>\n    <li>government work under nationalisation puts passengers at the heart of transport, with £17 million to improve CCTV at stations, and the British Transport Police receiving a £63 million boost over 3 years - funding over 200 additional officers</li>\n  </ul>\n</div>\n\n<p>Passengers have helped the British Transport Police record almost 83,000 crimes over the past decade by texting 61016, according to new figures released today, as the ‘See it. Say it. Sorted.’ campaign reaches its tenth anniversary.</p>\n\n<p>Since its launch in 2016, the campaign has become one of the most recognised public safety messages in the country, encouraging passengers to trust their instincts and report anything that doesn’t feel right to the British Transport Police.</p>\n\n<p>This has led to real action – more than 200,000 texts are now sent to the British Transport Police each year using 61016, and last year saw an almost tenfold increase since the campaign was launched in 2016. These texts alone – more than 1.5 million exchanged over the last 10 years – have led to more than 175,000 police deployments across the rail network.</p>\n\n<p>Rail Minister Lord Hendy said:</p>\n\n<blockquote>\n  <p>We’re committed to making our railways safe, and for a decade, ‘See it. Say it. Sorted.’ has played a vital role in doing this, supporting the British Transport Police, transforming how people report crimes and issues across the network.</p>\n\n  <p>Almost 83,000 crimes have been recorded through the 61016 number – proof that reporting leads to real action, showing the difference passengers can make simply by speaking up.</p>\n</blockquote>\n\n<p>Over 60% of people say they feel safer because of visible security measures when travelling and ‘See it. Say it. Sorted.’ is mandated across every train operator and station in England, Scotland and Wales, making it one of the most visible and widely deployed public safety campaigns in the country.</p>\n\n<p>While the campaign is primarily a counter-terrorism campaign, it has evolved as a way of promoting the 61016 number, giving people another way to report a wide range of other crimes and safety issues to the British Transport Police.</p>\n\n<p>This includes an incident in March 2025, where a passenger on a train to London Euston witnessed a man viewing graphic child abuse material on his phone and discreetly reported it by texting 61016.</p>\n\n<p>Officers intercepted the train, arrested the man and he was sentenced to over 2 years in prison – showing the difference a single text can make to bring offenders to justice.</p>\n\n<p>British Transport Police Chief Constable, Lucy D’Orsi, said:</p>\n\n<blockquote>\n  <p>For 10 years, ‘See it. Say it. Sorted.’ has encouraged passengers to report anything that doesn’t feel right, helping raise awareness of British Transport Police’s 61016 text service, which now receives more than 25,000 messages each month.</p>\n\n  <p>The free, discreet service allows passengers to report crime, suspicious behaviour and sexual harassment directly to us, enabling swift action to keep people safe and bring offenders to justice. The public are our eyes and ears on the railway and their vigilance continues to play a vital role in helping keep the network safe.</p>\n</blockquote>\n\n<p>The government is committed to making sure our railways are safe, and the British Transport Police are receiving an extra £63 million in funding over 3 years for 200 more officers, including 36 officers as part of a new team dedicated specifically to reducing violence and intimidation against women and girls.</p>\n\n<p>This is alongside a £17 million investment to improve CCTV at stations, and for the first time rail operators are being assessed on their commitments to tackle violence against women and girls.</p>\n\n<div>\n    <p>Rail and major projects media enquiries</p>\n\n\n    <div>\n\n\n        <p>\n          Media enquiries 0300 7777878\n        </p>\n        <p>\n          Switchboard 0300 330 3000\n        </p>\n    </div>\n\n\n</div>\n</div>",
+      "bodyText": "\n  \n    ‘See it. Say it. Sorted.’ campaign marks 10 years, having helped prompt over 1.5 million texts to British Transport Police, leading to almost 83,000 crimes recorded\n    passengers using 61016 led to 175,000 police deployments over the past decade, showing how a single text can lead to an arrest, investigation and conviction\n    government work under nationalisation puts passengers at the heart of transport, with £17 million to improve CCTV at stations, and the British Transport Police receiving a £63 million boost over 3 years - funding over 200 additional officers\n  \n\n\nPassengers have helped the British Transport Police record almost 83,000 crimes over the past decade by texting 61016, according to new figures released today, as the ‘See it. Say it. Sorted.’ campaign reaches its tenth anniversary.\n\nSince its launch in 2016, the campaign has become one of the most recognised public safety messages in the country, encouraging passengers to trust their instincts and report anything that doesn’t feel right to the British Transport Police.\n\nThis has led to real action – more than 200,000 texts are now sent to the British Transport Police each year using 61016, and last year saw an almost tenfold increase since the campaign was launched in 2016. These texts alone – more than 1.5 million exchanged over the last 10 years – have led to more than 175,000 police deployments across the rail network.\n\nRail Minister Lord Hendy said:\n\n\n  We’re committed to making our railways safe, and for a decade, ‘See it. Say it. Sorted.’ has played a vital role in doing this, supporting the British Transport Police, transforming how people report crimes and issues across the network.\n\n  Almost 83,000 crimes have been recorded through the 61016 number – proof that reporting leads to real action, showing the difference passengers can make simply by speaking up.\n\n\nOver 60% of people say they feel safer because of visible security measures when travelling and ‘See it. Say it. Sorted.’ is mandated across every train operator and station in England, Scotland and Wales, making it one of the most visible and widely deployed public safety campaigns in the country.\n\nWhile the campaign is primarily a counter-terrorism campaign, it has evolved as a way of promoting the 61016 number, giving people another way to report a wide range of other crimes and safety issues to the British Transport Police.\n\nThis includes an incident in March 2025, where a passenger on a train to London Euston witnessed a man viewing graphic child abuse material on his phone and discreetly reported it by texting 61016.\n\nOfficers intercepted the train, arrested the man and he was sentenced to over 2 years in prison – showing the difference a single text can make to bring offenders to justice.\n\nBritish Transport Police Chief Constable, Lucy D’Orsi, said:\n\n\n  For 10 years, ‘See it. Say it. Sorted.’ has encouraged passengers to report anything that doesn’t feel right, helping raise awareness of British Transport Police’s 61016 text service, which now receives more than 25,000 messages each month.\n\n  The free, discreet service allows passengers to report crime, suspicious behaviour and sexual harassment directly to us, enabling swift action to keep people safe and bring offenders to justice. The public are our eyes and ears on the railway and their vigilance continues to play a vital role in helping keep the network safe.\n\n\nThe government is committed to making sure our railways are safe, and the British Transport Police are receiving an extra £63 million in funding over 3 years for 200 more officers, including 36 officers as part of a new team dedicated specifically to reducing violence and intimidation against women and girls.\n\nThis is alongside a £17 million investment to improve CCTV at stations, and for the first time rail operators are being assessed on their commitments to tackle violence against women and girls.\n\n\n    Rail and major projects media enquiries\n\n\n    \n\n\n        \n          Media enquiries 0300 7777878\n        \n        \n          Switchboard 0300 330 3000\n        \n    \n\n\n\n",
+      "bodyHash": "a67009eb854c2fb444cc09345fd2954b23c5645cd369ea7bae9b9dc880ef7cb1",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/see-it-say-it-sorted-marks-a-decade-of-keeping-britains-railways-safe",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Department for Transport",
+          "British Transport Police Authority"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-10-31T22:30:00+00:00",
+        "sourceVersion": "2c517df4-db50-4e7e-8378-9de869670735"
+      },
+      "firstSeenAt": "2026-10-31T23:40:48.088Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
+      "updatedAt": "2026-10-31T23:40:48.088Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "cfc895c73a2419e0f87c8f95",
+      "title": "二十国集团外长会未就地缘和经济安全问题达成共识",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/11-01/10724125.shtml",
+      "summary": "为期两天的二十国集团(G20)外长会10月31日在美国南部佐治亚州首府亚特兰大结束。会议笼罩在乌克兰危机和美伊冲突的阴影下，未能就重要全球地缘和经济安全问题达成共识。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-31T22:29:54.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "finance"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-31T23:40:48.088Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
+      "updatedAt": "2026-10-31T23:40:48.088Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "3bf916a33dd46bac00cb2529",
+      "title": "北控队主场力克新疆队 取得CBA常规赛两连胜",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/11-01/10724124.shtml",
+      "summary": "中新社北京11月1日电 (记者 国璇)10月31日晚在北京国家奥林匹克体育中心体育馆举行的2026-2027赛季中国男子篮球职业联赛(CBA)常规赛第七轮较量中，主场作战的北京控股队(简称“北控队”)以106:84力克新疆广汇能源队(简称“新疆队”)，取得常规赛两连胜。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-10-31T22:29:16.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-10-31T23:40:48.088Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
+      "updatedAt": "2026-10-31T23:40:48.088Z",
+      "version": 1,
+      "history": []
+    },
     {
       "id": "9101cfd53c4d1893c8791325",
       "title": "AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元",
@@ -23,7 +398,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -49,7 +424,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -74,7 +449,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -99,7 +474,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -124,7 +499,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -149,7 +524,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -174,7 +549,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -200,7 +575,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -226,7 +601,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -252,7 +627,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -277,7 +652,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -304,7 +679,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -331,7 +706,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -359,7 +734,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -384,7 +759,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -411,7 +786,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -438,7 +813,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -465,7 +840,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -491,7 +866,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -517,7 +892,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -543,7 +918,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -569,7 +944,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -595,7 +970,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -621,7 +996,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -647,7 +1022,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -672,7 +1047,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -697,7 +1072,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -724,7 +1099,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -750,7 +1125,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -776,7 +1151,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -801,7 +1176,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -826,7 +1201,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -851,7 +1226,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -876,7 +1251,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -901,7 +1276,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -926,7 +1301,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -951,7 +1326,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -979,7 +1354,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -1004,7 +1379,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -1031,7 +1406,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -1160,7 +1535,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -1186,7 +1561,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -1236,7 +1611,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -1261,7 +1636,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -1286,7 +1661,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -1312,7 +1687,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -1389,7 +1764,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -1515,7 +1890,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -1590,7 +1965,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -1690,7 +2065,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -1765,7 +2140,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -1843,7 +2218,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -1919,7 +2294,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -2070,7 +2445,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -2147,7 +2522,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -2222,7 +2597,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -2272,7 +2647,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -2348,7 +2723,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -2424,7 +2799,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -2450,7 +2825,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -2475,7 +2850,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -2501,7 +2876,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -2526,7 +2901,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -2603,7 +2978,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -2678,7 +3053,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -2704,7 +3079,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -2729,7 +3104,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T16:17:38.728Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 1,
       "history": []
@@ -2935,7 +3310,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -3011,7 +3386,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -3109,7 +3484,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -3160,7 +3535,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -3210,7 +3585,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -3222,8 +3597,8 @@
       "summary": "中新网上海10月31日电 (记者 缪璐)没有一本辅导书，家长们却觉得获益良多。这是很多家长在近日举行的“家在浦东”小升初家庭服务包试点发放暨座谈会上谈及的感受。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-edu",
+        "feedUrl": "https://www.chinanews.com.cn/rss/edu.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-31T10:33:41.000Z",
@@ -3237,7 +3612,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T11:11:11.638Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -3262,7 +3637,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -3287,7 +3662,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T16:17:38.728Z",
       "version": 2,
       "history": [
@@ -3326,7 +3701,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -3353,7 +3728,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -3406,7 +3781,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -3432,7 +3807,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -3510,7 +3885,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -3535,7 +3910,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -3587,7 +3962,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -3716,7 +4091,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -4009,8 +4384,8 @@
       "summary": "中新网南京10月31日电 (吴涵玉 吕晔灵)10月30日，由东南大学主办的以“重塑教育边界·共创全球未来”为主题的中英卓越大学校长论坛在南京举行。来自牛津大学、剑桥大学、东南大学等20余所中英两国高校的校领导及代表齐聚一堂，共同探讨人工智能时代的高等教育变革，现场发布了关于重塑全球教育未来的共同倡议。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-edu",
+        "feedUrl": "https://www.chinanews.com.cn/rss/edu.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-10-31T09:11:12.000Z",
@@ -4024,7 +4399,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T11:11:11.638Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -4283,7 +4658,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -5149,7 +5524,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T11:11:11.638Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -5455,7 +5830,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -5632,7 +6007,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -5657,7 +6032,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -5810,7 +6185,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T11:11:11.638Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -5936,7 +6311,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-31T11:11:11.638Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T11:11:11.638Z",
       "version": 1,
       "history": []
@@ -6641,7 +7016,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-31T05:27:42.905Z",
-      "lastSeenAt": "2026-10-31T11:11:11.638Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T05:27:42.905Z",
       "version": 1,
       "history": []
@@ -6879,7 +7254,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-31T05:27:42.905Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T05:27:42.905Z",
       "version": 1,
       "history": []
@@ -7262,7 +7637,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-10-31T05:27:42.905Z",
-      "lastSeenAt": "2026-10-31T11:11:11.638Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T05:27:42.905Z",
       "version": 1,
       "history": []
@@ -7314,7 +7689,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-10-31T05:27:42.905Z",
-      "lastSeenAt": "2026-10-31T11:11:11.638Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T05:27:42.905Z",
       "version": 1,
       "history": []
@@ -9211,7 +9586,7 @@
         "sourceVersion": "b6b97882-a807-4598-a83e-5854023b2cf1"
       },
       "firstSeenAt": "2026-10-31T05:27:42.905Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T05:27:42.905Z",
       "version": 1,
       "history": []
@@ -9388,7 +9763,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-31T05:27:42.905Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-31T05:27:42.905Z",
       "version": 1,
       "history": []
@@ -9970,7 +10345,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-30T23:42:53.230Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T23:42:53.230Z",
       "version": 1,
       "history": []
@@ -10141,7 +10516,7 @@
         "sourceVersion": "cec93202-84c8-4ff4-9ec1-9f936d88ba0a"
       },
       "firstSeenAt": "2026-10-30T23:42:53.230Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T23:42:53.230Z",
       "version": 1,
       "history": []
@@ -10235,7 +10610,7 @@
         "sourceVersion": "8453d2e8-0905-4b4e-a1d3-8c4da8a73c2d"
       },
       "firstSeenAt": "2026-10-30T20:06:58.621Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T20:06:58.621Z",
       "version": 1,
       "history": []
@@ -10356,7 +10731,7 @@
         "sourceVersion": "cdc7f361-a4e5-4d23-8ce4-f41621a3f326"
       },
       "firstSeenAt": "2026-10-30T20:06:58.621Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T20:06:58.621Z",
       "version": 1,
       "history": []
@@ -10528,7 +10903,7 @@
         "sourceVersion": "2dfdf14d-0aa4-4aea-a8d3-8a1a44e6c6b6"
       },
       "firstSeenAt": "2026-10-30T20:06:58.621Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T20:06:58.621Z",
       "version": 1,
       "history": []
@@ -10789,7 +11164,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-30T20:06:58.621Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T20:06:58.621Z",
       "version": 1,
       "history": []
@@ -10816,7 +11191,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-30T20:06:58.621Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T20:06:58.621Z",
       "version": 1,
       "history": []
@@ -10936,7 +11311,7 @@
         "sourceVersion": "bd9d36f2-3b64-4d67-aed0-cc98c82310bc"
       },
       "firstSeenAt": "2026-10-30T20:06:58.621Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T20:06:58.621Z",
       "version": 1,
       "history": []
@@ -10978,7 +11353,7 @@
         "sourceVersion": "55447b8a-7e12-46fa-9c08-10dc60384ce2"
       },
       "firstSeenAt": "2026-10-30T20:06:58.621Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T20:06:58.621Z",
       "version": 1,
       "history": []
@@ -11226,7 +11601,7 @@
         "sourceVersion": "bb809064-ad08-4755-8f13-492df731e646"
       },
       "firstSeenAt": "2026-10-30T20:06:58.621Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T20:06:58.621Z",
       "version": 1,
       "history": []
@@ -11472,7 +11847,7 @@
         "sourceVersion": "186ad963-4367-4c63-9bf4-2988854c5a8a"
       },
       "firstSeenAt": "2026-10-30T15:18:10.788Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T15:18:10.788Z",
       "version": 1,
       "history": []
@@ -11618,7 +11993,7 @@
         "sourceVersion": "c7e2968a-ec1f-4265-aaef-64274fe8b485"
       },
       "firstSeenAt": "2026-10-30T15:18:10.788Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T15:18:10.788Z",
       "version": 1,
       "history": []
@@ -12239,7 +12614,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-30T15:18:10.788Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T15:18:10.788Z",
       "version": 1,
       "history": []
@@ -12893,7 +13268,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-30T15:18:10.788Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T15:18:10.788Z",
       "version": 1,
       "history": []
@@ -13673,7 +14048,7 @@
         "sourceVersion": "47d507f5-c62e-45e4-96cb-b16f10edb4a8"
       },
       "firstSeenAt": "2026-10-30T15:18:10.788Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T15:18:10.788Z",
       "version": 1,
       "history": []
@@ -13981,7 +14356,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-10-30T15:18:10.788Z",
-      "lastSeenAt": "2026-10-31T11:11:11.638Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T15:18:10.788Z",
       "version": 1,
       "history": []
@@ -14276,7 +14651,7 @@
         "sourceVersion": "e7eeb6f8-ab0f-428c-bdbd-8477f5858d2a"
       },
       "firstSeenAt": "2026-10-30T15:18:10.788Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T15:18:10.788Z",
       "version": 1,
       "history": []
@@ -14755,7 +15130,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-30T15:18:10.788Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T15:18:10.788Z",
       "version": 1,
       "history": []
@@ -14849,7 +15224,7 @@
         "sourceVersion": "627944d6-83a9-4e2e-a777-79383c3d858b"
       },
       "firstSeenAt": "2026-10-30T15:18:10.788Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T15:18:10.788Z",
       "version": 1,
       "history": []
@@ -14924,7 +15299,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-30T15:18:10.788Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T15:18:10.788Z",
       "version": 1,
       "history": []
@@ -14975,7 +15350,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-30T15:18:10.788Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T15:18:10.788Z",
       "version": 1,
       "history": []
@@ -15219,7 +15594,7 @@
         "sourceVersion": "8a6e01b7-076b-48a6-8507-11df978fb9dd"
       },
       "firstSeenAt": "2026-10-30T15:18:10.788Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T15:18:10.788Z",
       "version": 1,
       "history": []
@@ -15244,7 +15619,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-10-30T15:18:10.788Z",
-      "lastSeenAt": "2026-10-31T11:11:11.638Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T15:18:10.788Z",
       "version": 1,
       "history": []
@@ -15269,7 +15644,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-30T15:18:10.788Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T15:18:10.788Z",
       "version": 1,
       "history": []
@@ -15371,7 +15746,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-10-30T15:18:10.788Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T15:18:10.788Z",
       "version": 1,
       "history": []
@@ -15546,7 +15921,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-30T08:31:46.341Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T08:31:46.341Z",
       "version": 1,
       "history": []
@@ -17365,7 +17740,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-30T08:31:46.341Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T08:31:46.341Z",
       "version": 1,
       "history": []
@@ -18988,7 +19363,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-30T08:31:46.341Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T08:31:46.341Z",
       "version": 1,
       "history": []
@@ -19065,7 +19440,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-30T08:31:46.341Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T08:31:46.341Z",
       "version": 1,
       "history": []
@@ -19091,7 +19466,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-30T08:31:46.341Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T08:31:46.341Z",
       "version": 1,
       "history": []
@@ -19191,7 +19566,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-30T08:31:46.341Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T08:31:46.341Z",
       "version": 1,
       "history": []
@@ -19241,7 +19616,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-30T08:31:46.341Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T08:31:46.341Z",
       "version": 1,
       "history": []
@@ -19549,7 +19924,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-30T01:53:48.845Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T01:53:48.845Z",
       "version": 1,
       "history": []
@@ -20043,7 +20418,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-30T01:53:48.845Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T01:53:48.845Z",
       "version": 1,
       "history": []
@@ -20942,7 +21317,7 @@
         "sourceVersion": "8f0a6299-52cd-4615-b0fd-223e501c4920"
       },
       "firstSeenAt": "2026-10-30T01:53:48.845Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T15:18:10.788Z",
       "version": 2,
       "history": [
@@ -20979,7 +21354,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-30T01:53:48.845Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T01:53:48.845Z",
       "version": 1,
       "history": []
@@ -21151,7 +21526,7 @@
         "sourceVersion": "5dfa1d2d-199e-452e-bf0b-6d650ea8b5bf"
       },
       "firstSeenAt": "2026-10-30T01:53:48.845Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T01:53:48.845Z",
       "version": 1,
       "history": []
@@ -21193,7 +21568,7 @@
         "sourceVersion": "c8cdec81-b3b8-4db9-9c3a-7f5920c2bad6"
       },
       "firstSeenAt": "2026-10-30T01:53:48.845Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T01:53:48.845Z",
       "version": 1,
       "history": []
@@ -21497,7 +21872,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-30T01:53:48.845Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-30T01:53:48.845Z",
       "version": 1,
       "history": []
@@ -21771,7 +22146,7 @@
         "sourceVersion": "e8b84fde-6527-45fe-94bc-c4d55553e386"
       },
       "firstSeenAt": "2026-10-29T21:44:56.343Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-29T21:44:56.343Z",
       "version": 1,
       "history": []
@@ -21838,7 +22213,7 @@
         "sourceVersion": "0301b234-8df7-4474-9577-bb4d60369b11"
       },
       "firstSeenAt": "2026-10-29T16:52:40.679Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-29T16:52:40.679Z",
       "version": 1,
       "history": []
@@ -22024,7 +22399,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-29T16:52:40.679Z",
-      "lastSeenAt": "2026-10-31T11:11:11.638Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-29T16:52:40.679Z",
       "version": 1,
       "history": []
@@ -22154,7 +22529,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-10-29T16:52:40.679Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-29T16:52:40.679Z",
       "version": 1,
       "history": []
@@ -24069,7 +24444,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-10-29T16:52:40.679Z",
-      "lastSeenAt": "2026-10-31T11:11:11.638Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-29T16:52:40.679Z",
       "version": 1,
       "history": []
@@ -25563,7 +25938,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-10-29T16:52:40.679Z",
-      "lastSeenAt": "2026-10-31T16:17:38.728Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-29T16:52:40.679Z",
       "version": 1,
       "history": []
@@ -26164,7 +26539,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-29T16:52:40.679Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-29T16:52:40.679Z",
       "version": 1,
       "history": []
@@ -26697,7 +27072,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-29T16:52:40.679Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-29T16:52:40.679Z",
       "version": 1,
       "history": []
@@ -29722,7 +30097,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-10-29T09:49:45.876Z",
-      "lastSeenAt": "2026-10-31T20:16:03.190Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-29T09:49:45.876Z",
       "version": 1,
       "history": []
@@ -37071,7 +37446,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-10-28T13:29:33.122Z",
-      "lastSeenAt": "2026-10-31T11:11:11.638Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-28T13:29:33.122Z",
       "version": 1,
       "history": []
@@ -40145,7 +40520,7 @@
         "chinanews-edu"
       ],
       "firstSeenAt": "2026-10-28T13:29:33.122Z",
-      "lastSeenAt": "2026-10-31T11:11:11.638Z",
+      "lastSeenAt": "2026-10-31T23:40:48.088Z",
       "updatedAt": "2026-10-28T13:29:33.122Z",
       "version": 1,
       "history": []
@@ -260240,396 +260615,6 @@
       "updatedAt": "2026-10-08T14:01:53.457Z",
       "version": 1,
       "history": []
-    },
-    {
-      "id": "d0095fd7edde6194673f0654",
-      "title": "Alphacool 带来多款 GPU 单槽冷头，支持 NVIDIA、AMD 专业显卡",
-      "originalUrl": "https://www.ithome.com/1/010/709.htm",
-      "summary": "IT之家 10 月 8 日消息，Alphacool 当地时间今日宣布扩展其 ES 1-Slot Design 系列分体式液冷显卡单槽冷头家族，为 4 款最新一代专业显卡提供支持。 此次发布的冷头分别兼容 NVIDIA RTX PRO 4000 / 4500 / 6000（工作站版本）Blackwell Edition、AMD Radeon AI PRO R9700。 这 4 款冷头均采用全覆盖设计，拥有镀铬铜底和碳纤维饰面，进出水口位于末端，适用于多卡工作站与服务器系统。 N…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-08T13:43:39.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-08T14:01:53.457Z",
-      "lastSeenAt": "2026-10-09T00:17:28.439Z",
-      "updatedAt": "2026-10-08T14:01:53.457Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "67b0a34147b0fb2f036b43e4",
-      "title": "成都一小区楼顶发现7岁男童坟墓系谣言 警方通报",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-08/10709381.shtml",
-      "summary": "近日，网传“金堂县某小区楼顶发现可疑骨头”引发市民关注，成都警方通报：",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-08T13:43:35.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-08T14:01:53.457Z",
-      "lastSeenAt": "2026-10-09T00:17:28.439Z",
-      "updatedAt": "2026-10-08T14:01:53.457Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "7053d10066bd2a8a55eb5087",
-      "title": "专家：AI赋能泌尿肿瘤早筛早诊 精准评估成临床创新“发力点”",
-      "originalUrl": "https://www.chinanews.com.cn/jk/2026/10-08/10709349.shtml",
-      "summary": "中新网上海10月8日电 (记者 陈静)“作为泌尿系统肿瘤全周期精准治疗的‘前沿哨’，精准早筛提高早期检出率、精准诊断筛选可用靶点，对于提高患者生存率极为关键。”上海的泌尿肿瘤专家叶定伟教授18日对记者强调，“随着人工智能技术的创新发展，早筛早诊、精准评估已成为临床创新的‘发力点’。”",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-08T13:42:37.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "technology"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-08T14:01:53.457Z",
-      "lastSeenAt": "2026-10-08T14:01:53.457Z",
-      "updatedAt": "2026-10-08T14:01:53.457Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "6a544141cf895193fa395587",
-      "title": "辽上京考古：实证宋元时期农耕文明与草原文明交融互鉴",
-      "originalUrl": "https://www.chinanews.com.cn/cul/2026/10-08/10709354.shtml",
-      "summary": "中新网内蒙古巴林左旗10月8日电 (记者 孙自法)这里是中国古代契丹辽王朝营建最早、沿用时间最长的都城；这里有中华民族多元一体格局形成、民族交往交流交融的珍贵物质遗存；这里是草原丝绸之路的关键节点……",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-culture",
-        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-08T13:42:29.000Z",
-      "timeIssue": null,
-      "channels": [
-        "entertainment",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-culture",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-08T14:01:53.457Z",
-      "lastSeenAt": "2026-10-10T05:43:06.351Z",
-      "updatedAt": "2026-10-08T14:01:53.457Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "16ea03d2939b38df1aa4e570",
-      "title": "10月8日新闻夜读",
-      "originalUrl": "https://www.chinanews.com.cn/iframe/2026/10-08/10709378.shtml",
-      "summary": null,
-      "summaryProvenance": null,
-      "sourcePublishedAt": "2026-10-08T13:39:55.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-08T14:01:53.457Z",
-      "lastSeenAt": "2026-10-08T14:01:53.457Z",
-      "updatedAt": "2026-10-08T14:01:53.457Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "39d9e073afa86eb3adcf3288",
-      "title": "假日出行折射深度“慢游”新风尚",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-08/10709377.shtml",
-      "summary": "今年中秋节与国庆节时间相近，不少游客拼出13天长假在“远方”度过。体验一门非遗手艺、学做一道特色菜、在古村落里放空、在热带雨林里“飞跃”……拥有新奇体验又不失惬意的深度“慢游”受到越来越多人青睐。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-08T13:38:49.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-08T14:01:53.457Z",
-      "lastSeenAt": "2026-10-09T00:17:28.439Z",
-      "updatedAt": "2026-10-08T14:01:53.457Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "c7deccf16eb7fadf75f3174a",
-      "title": "Joint UK-Germany Statement  - Berlin, 8 October 2026 ",
-      "originalUrl": "https://www.gov.uk/government/news/joint-uk-germany-statement-berlin-8-october-2026",
-      "sourcePublishedAt": "2026-10-08T14:36:40+01:00",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "govuk-fulltext"
-      ],
-      "summary": "At the occasion of the meeting of Prime Minister Andy Burnham and Federal Chancellor Friedrich Merz in Berlin on 8 October 2026, the following milestones and way forward have been agreed: Kensington Treaty ratification - Federal Chancellor ",
-      "summaryProvenance": {
-        "type": "licensed_body_excerpt",
-        "sourceId": "govuk-fulltext"
-      },
-      "contentMode": "fulltext",
-      "bodyHtml": "<div><p>At the occasion of the meeting of Prime Minister Andy Burnham and Federal Chancellor Friedrich Merz in Berlin on 8 October 2026, the following milestones and way forward have been agreed: </p>\n\n<ul>\n  <li>Kensington Treaty ratification - Federal Chancellor Merz and Prime Minister Burnham finalised the ratification of the Kensington Treaty through the official exchange of documents. The Kensington Treaty, signed in July 2025 in London, spans the breadth of the bilateral relationship, enhancing cooperation in the face of global challenges, and delivering tangible benefits for UK and German citizens. </li>\n  <li>Industrial Tech Corridor – To connect AI and critical technology scale-ups with industrial demand, this initiative supports the progression of UK &amp; German Tech to developed scaled industrial use cases. The focus will be initially on AI and high-value industrial applications. A first dedicated Tech Corridor roundtable convening CEOs of selected primes, AI scale-ups, and senior officials will be held later in the autumn. </li>\n  <li>Counter Hybrid threat partnership - The UK and Germany will deepen cooperation in order to prepare for and respond to growing Hybrid threats. Through this partnership we will work together to build democratic and societal resilience, better protect critical national infrastructure, and improve our ability to monitor, mitigate and counter Hybrid threats. </li>\n  <li>Space cooperation – The UK and Germany intend to deepen their strategic cooperation in space, spanning civil, commercial, security and defence interests. To this end, we will work towards a Memorandum of Understanding to be signed at the upcoming UK-GER government consultations in early 2027. In the immediate, we will deepen cooperation on launch and assured access to space, including SaxaVord Spaceport to support a more resilient and responsive European access to space. On the space security and defence side, Germany and the UK will strengthen bilateral and multilateral cooperation. </li>\n  <li>Quantum Technology Cooperation - Financial backing for research and development of quantum technology will be increased to a total of 19.5 Mio EUR. The additional grants will support a further 5 selected research projects across Germany and the UK, making use of the existing bilateral quantum cooperation and increasing the total amount of funded projects to 10. </li>\n  <li>Regional Growth Forum - To further deepen UK-Germany economic cooperation, the two Leaders convened senior business leaders for a Regional Growth Forum. The Forum focused on fostering business-government collaboration, regional growth and innovation. They agreed to develop a deeper Regional Dialogue to be held in 2027, involving local and regional stakeholders.</li>\n</ul>\n</div>",
-      "bodyText": "At the occasion of the meeting of Prime Minister Andy Burnham and Federal Chancellor Friedrich Merz in Berlin on 8 October 2026, the following milestones and way forward have been agreed: \n\n\n  Kensington Treaty ratification - Federal Chancellor Merz and Prime Minister Burnham finalised the ratification of the Kensington Treaty through the official exchange of documents. The Kensington Treaty, signed in July 2025 in London, spans the breadth of the bilateral relationship, enhancing cooperation in the face of global challenges, and delivering tangible benefits for UK and German citizens. \n  Industrial Tech Corridor – To connect AI and critical technology scale-ups with industrial demand, this initiative supports the progression of UK &amp; German Tech to developed scaled industrial use cases. The focus will be initially on AI and high-value industrial applications. A first dedicated Tech Corridor roundtable convening CEOs of selected primes, AI scale-ups, and senior officials will be held later in the autumn. \n  Counter Hybrid threat partnership - The UK and Germany will deepen cooperation in order to prepare for and respond to growing Hybrid threats. Through this partnership we will work together to build democratic and societal resilience, better protect critical national infrastructure, and improve our ability to monitor, mitigate and counter Hybrid threats. \n  Space cooperation – The UK and Germany intend to deepen their strategic cooperation in space, spanning civil, commercial, security and defence interests. To this end, we will work towards a Memorandum of Understanding to be signed at the upcoming UK-GER government consultations in early 2027. In the immediate, we will deepen cooperation on launch and assured access to space, including SaxaVord Spaceport to support a more resilient and responsive European access to space. On the space security and defence side, Germany and the UK will strengthen bilateral and multilateral cooperation. \n  Quantum Technology Cooperation - Financial backing for research and development of quantum technology will be increased to a total of 19.5 Mio EUR. The additional grants will support a further 5 selected research projects across Germany and the UK, making use of the existing bilateral quantum cooperation and increasing the total amount of funded projects to 10. \n  Regional Growth Forum - To further deepen UK-Germany economic cooperation, the two Leaders convened senior business leaders for a Regional Growth Forum. The Forum focused on fostering business-government collaboration, regional growth and innovation. They agreed to develop a deeper Regional Dialogue to be held in 2027, involving local and regional stakeholders.\n\n",
-      "bodyHash": "9dd2fd2235fe0fe47b6586e93791c24bef8db2a466f2962d256d34a84f7dfb18",
-      "language": "en",
-      "republication": {
-        "sourceId": "govuk-fulltext",
-        "sourceUrl": "https://www.gov.uk/government/news/joint-uk-germany-statement-berlin-8-october-2026",
-        "license": "Open Government Licence v3.0",
-        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
-        "authors": [
-          "Prime Minister's Office, 10 Downing Street"
-        ],
-        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
-        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
-        "sourceUpdatedAt": "2026-10-08T14:36:40+01:00",
-        "sourceVersion": "f2fc8b13-d571-4159-8584-b3e3bb6ede5f"
-      },
-      "firstSeenAt": "2026-10-08T14:01:53.457Z",
-      "lastSeenAt": "2026-10-09T14:19:35.388Z",
-      "updatedAt": "2026-10-08T14:01:53.457Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "1fe2c7b8c9c764a04a924a81",
-      "title": "港口繁忙，外贸活力澎湃涌动",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/10-08/10709376.shtml",
-      "summary": "国庆假期，多个港口作业不息、建设不停",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-08T13:36:02.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-finance",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-08T14:01:53.457Z",
-      "lastSeenAt": "2026-10-09T06:39:03.649Z",
-      "updatedAt": "2026-10-08T14:01:53.457Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "36e8a14457a2fc5c3545f9b7",
-      "title": "有望成为人类首次：我国计划 2028 年前后开启火星取样返回任务",
-      "originalUrl": "https://www.ithome.com/1/010/708.htm",
-      "summary": "IT之家 10 月 8 日消息，中国航天事业走过 70 年，不断刷新深空探测的中国坐标。据央视新闻今日报道，按计划，天问三号 2028 年前后发射，2031 年前后将火星样品带回地球，有望成为人类首次完成火星取样返回。 深空领域专家孙泽洲表示，在整个太阳系八大行星里，火星是跟地球最为相似的天体，地球现在是个青壮年，火星已经变得比较衰老、像个暮年的状态。对于火星的探测，最简单直接地讲，想了解我们这个近邻的演化过程，对我们有些什么启示。 他坦言，一开始觉得火星离我们很远。但放眼太…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-08T13:35:16.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-08T14:01:53.457Z",
-      "lastSeenAt": "2026-10-09T00:17:28.439Z",
-      "updatedAt": "2026-10-08T14:01:53.457Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "f1eaa2b92257c27aad6d9d04",
-      "title": "长春大冬会｜火种将越千山 青春奔赴长春",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-08/10709375.shtml",
-      "summary": "国庆假期刚过，“北国春城”长春，一场关于冰雪的“大考”迈入倒计时99天。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-08T13:33:46.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-08T14:01:53.457Z",
-      "lastSeenAt": "2026-10-09T00:17:28.439Z",
-      "updatedAt": "2026-10-08T14:01:53.457Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "20d9026df16ff7131de3567e",
-      "title": "五菱星光 L 达成新里程碑，上市 80 天销量突破 20000 台",
-      "originalUrl": "https://www.ithome.com/1/010/707.htm",
-      "summary": "IT之家 10 月 8 日消息，五菱汽车今日宣布星光 L 达成新里程碑，上市 80 天销量突破 20000 台。 该车于今年 7 月 16 日上市，共推出 3 款车型，上市权益价区间为 10.98 万元-13.28 万元。该车定位中大型 SUV，采用六座布局；可选苍松绿、沁湖蓝、墨竹黑、山岩银、晨霜白五种配色；新车长宽高分别为 4980/1930/1760mm，轴距 2950mm。 座舱方面，该车搭载 8.8 英寸仪表屏 +15.6 英寸中控屏，配备 256 色全色域呼吸氛围…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-08T13:32:14.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-08T14:01:53.457Z",
-      "lastSeenAt": "2026-10-09T00:17:28.439Z",
-      "updatedAt": "2026-10-08T14:01:53.457Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "3f5382d58712c6dd6e2f8a6f",
-      "title": "“超长待机”的假期有哪些新亮点？",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-08/10709369.shtml",
-      "summary": "新华社上海10月7日电(记者 陈爱平)今年中秋、国庆假期时间相邻，人们可收获“请3休13”的“超长假”，有足够的时间走得更远、玩得更深、体验更多元。这个“超长待机”的假期里，文旅消费有哪些新亮点？",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-08T13:29:46.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-08T14:01:53.457Z",
-      "lastSeenAt": "2026-10-09T00:17:28.439Z",
-      "updatedAt": "2026-10-08T14:01:53.457Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "d0b6ff211949b458b1121f0b",
-      "title": "£33.2m to protect public from future epidemics and pandemics",
-      "originalUrl": "https://www.gov.uk/government/news/332m-to-protect-public-from-future-epidemics-and-pandemics",
-      "sourcePublishedAt": "2026-10-08T14:27:43+01:00",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "govuk-fulltext"
-      ],
-      "summary": "Eight projects will target diseases including Ebola, Plague, Marburg and Lassa fever as overseas outbreaks continue to highlight global risks Funding will strengthen the UK’s ability to develop, test and deploy vaccines at speed during futu",
-      "summaryProvenance": {
-        "type": "licensed_body_excerpt",
-        "sourceId": "govuk-fulltext"
-      },
-      "contentMode": "fulltext",
-      "bodyHtml": "<div><ul>\n  <li>Eight projects will target diseases including Ebola, Plague, Marburg and Lassa fever as overseas outbreaks continue to highlight global risks</li>\n  <li>Funding will strengthen the UK’s ability to develop, test and deploy vaccines at speed during future outbreaks</li>\n  <li>Programme previously supported the development of the Oxford/AstraZeneca COVID-19 vaccine</li>\n</ul>\n\n<p>Lives could be saved and the public better protected against future epidemic and pandemic threats through a £33.2 million government investment in vaccines against some of the world’s deadliest infectious diseases.</p>\n\n<p>Infectious diseases do not respect borders and outbreaks overseas can escalate quickly and pose risks to people in the UK and abroad.</p>\n\n<p>This investment will help scientists develop, test and deploy vaccines faster when new health threats emerge both supporting people in low and middle-income countries (LMICs) and in turn protecting the UK by strengthening pandemic preparedness and improving resilience to future epidemic and pandemic threats.</p>\n\n<p>The programme has already demonstrated the value of investing having supported development of the Oxford/AstraZeneca COVID-19 vaccine. This latest investment will help researchers respond more quickly to future threats.</p>\n\n<p>Supported by the UK Vaccine Network and delivered through Innovate UK, the funding will target diseases including Ebola, Plague, Marburg, Lassa fever, Nipah virus, chikungunya and Mayaro.</p>\n\n<p>Eight projects will advance promising vaccines, clinical trials and technologies that can make vaccine design and manufacture faster and more effective.</p>\n\n<p>The new awards will build the research, clinical trial and technical capability needed to develop, test and deploy vaccines at speed. They will also help make vaccines affordable, accessible and ready for use in countries at greatest risk.</p>\n\n<p>Health Minister for Science, Innovation and Investment, Chris McDonald said:</p>\n\n<blockquote>\n  <p>The world remains at risk from new and re-emerging infectious diseases, and outbreaks overseas can quickly become threats to people here at home.</p>\n\n  <p>This £33.2 million investment will back leading scientists to develop and deploy vaccines faster and strengthen our pandemic preparedness while supporting our world-leading life sciences sector.</p>\n\n  <p>By investing before a crisis hits, we can better protect the public, save lives and ensure the UK is ready to respond to future threats.</p>\n</blockquote>\n\n<p>Ebola has an average case-fatality rate of around 50%, while Marburg outbreaks were reported in Rwanda in 2024 and Tanzania in 2025 and there is still no approved Marburg vaccine or antiviral treatment. Sustained research between outbreaks can shorten response times and reduce risks internationally and in the UK.</p>\n\n<p>Recent reports of a suspected pneumonic plague case linked to a laboratory worker’s death in Russia’s Irkutsk region — with nearly 200 contacts placed under precautionary medical observation — are a reminder that the world remains at risk from serious infectious diseases.</p>\n\n<p>Chief Medical Officer for England, Professor Sir Chris Whitty said:</p>\n\n<blockquote>\n  <p>These projects aim to prevent some of the most dangerous infectious diseases in the world today.</p>\n\n  <p>The development of safe and effective vaccines for these diseases will strengthen our ability to protect people around the world.</p>\n</blockquote>\n\n<p>The Department of Health and Social Care is delivering the awards through the UK Vaccine Network, which accelerates vaccine development against diseases with epidemic potential.</p>\n\n<p>The government is working with Innovate UK, part of UK Research and Innovation (UKRI), to deliver the funding. This includes Official Development Assistance (ODA), which supports the economic development and welfare of eligible developing countries and will fund five of the projects.</p>\n\n<p>Claire Spooner, Director of Innovation as a Service at Innovate UK, said:</p>\n\n<blockquote>\n  <p>Innovation is essential to combat the future threat of emerging infectious diseases.</p>\n\n  <p>These projects, delivered by Innovate UK on behalf of the DHSC UK Vaccine Network programme, bring together cutting-edge science, technical expertise and international collaboration to advance vaccine development for priority pathogens. </p>\n\n  <p>Together, they will strengthen pandemic preparedness and contribute to global health security.</p>\n</blockquote>\n\n<p>Richard Pebody, director of epidemic and emerging infections at UKHSA:</p>\n\n<blockquote>\n  <p>The ongoing Ebola outbreak in the Democratic Republic of the Congo is a reminder that emerging infectious diseases are not a distant threat. UKHSA plays a critical role in responding to disease outbreaks, both at home and through our work with international partners. But preparedness, detection and response are only part of the picture.</p>\n\n  <p>Having effective vaccines and the manufacturing capability to produce them at speed is essential. This investment will help ensure that the UK is ready to respond quickly and effectively to a range of emerging health threats. By working in partnership with affected countries we can help stop outbreaks, protect vulnerable populations and make the world, including the UK, safer from future epidemic and pandemic threats.</p>\n</blockquote>\n</div>",
-      "bodyText": "\n  Eight projects will target diseases including Ebola, Plague, Marburg and Lassa fever as overseas outbreaks continue to highlight global risks\n  Funding will strengthen the UK’s ability to develop, test and deploy vaccines at speed during future outbreaks\n  Programme previously supported the development of the Oxford/AstraZeneca COVID-19 vaccine\n\n\nLives could be saved and the public better protected against future epidemic and pandemic threats through a £33.2 million government investment in vaccines against some of the world’s deadliest infectious diseases.\n\nInfectious diseases do not respect borders and outbreaks overseas can escalate quickly and pose risks to people in the UK and abroad.\n\nThis investment will help scientists develop, test and deploy vaccines faster when new health threats emerge both supporting people in low and middle-income countries (LMICs) and in turn protecting the UK by strengthening pandemic preparedness and improving resilience to future epidemic and pandemic threats.\n\nThe programme has already demonstrated the value of investing having supported development of the Oxford/AstraZeneca COVID-19 vaccine. This latest investment will help researchers respond more quickly to future threats.\n\nSupported by the UK Vaccine Network and delivered through Innovate UK, the funding will target diseases including Ebola, Plague, Marburg, Lassa fever, Nipah virus, chikungunya and Mayaro.\n\nEight projects will advance promising vaccines, clinical trials and technologies that can make vaccine design and manufacture faster and more effective.\n\nThe new awards will build the research, clinical trial and technical capability needed to develop, test and deploy vaccines at speed. They will also help make vaccines affordable, accessible and ready for use in countries at greatest risk.\n\nHealth Minister for Science, Innovation and Investment, Chris McDonald said:\n\n\n  The world remains at risk from new and re-emerging infectious diseases, and outbreaks overseas can quickly become threats to people here at home.\n\n  This £33.2 million investment will back leading scientists to develop and deploy vaccines faster and strengthen our pandemic preparedness while supporting our world-leading life sciences sector.\n\n  By investing before a crisis hits, we can better protect the public, save lives and ensure the UK is ready to respond to future threats.\n\n\nEbola has an average case-fatality rate of around 50%, while Marburg outbreaks were reported in Rwanda in 2024 and Tanzania in 2025 and there is still no approved Marburg vaccine or antiviral treatment. Sustained research between outbreaks can shorten response times and reduce risks internationally and in the UK.\n\nRecent reports of a suspected pneumonic plague case linked to a laboratory worker’s death in Russia’s Irkutsk region — with nearly 200 contacts placed under precautionary medical observation — are a reminder that the world remains at risk from serious infectious diseases.\n\nChief Medical Officer for England, Professor Sir Chris Whitty said:\n\n\n  These projects aim to prevent some of the most dangerous infectious diseases in the world today.\n\n  The development of safe and effective vaccines for these diseases will strengthen our ability to protect people around the world.\n\n\nThe Department of Health and Social Care is delivering the awards through the UK Vaccine Network, which accelerates vaccine development against diseases with epidemic potential.\n\nThe government is working with Innovate UK, part of UK Research and Innovation (UKRI), to deliver the funding. This includes Official Development Assistance (ODA), which supports the economic development and welfare of eligible developing countries and will fund five of the projects.\n\nClaire Spooner, Director of Innovation as a Service at Innovate UK, said:\n\n\n  Innovation is essential to combat the future threat of emerging infectious diseases.\n\n  These projects, delivered by Innovate UK on behalf of the DHSC UK Vaccine Network programme, bring together cutting-edge science, technical expertise and international collaboration to advance vaccine development for priority pathogens. \n\n  Together, they will strengthen pandemic preparedness and contribute to global health security.\n\n\nRichard Pebody, director of epidemic and emerging infections at UKHSA:\n\n\n  The ongoing Ebola outbreak in the Democratic Republic of the Congo is a reminder that emerging infectious diseases are not a distant threat. UKHSA plays a critical role in responding to disease outbreaks, both at home and through our work with international partners. But preparedness, detection and response are only part of the picture.\n\n  Having effective vaccines and the manufacturing capability to produce them at speed is essential. This investment will help ensure that the UK is ready to respond quickly and effectively to a range of emerging health threats. By working in partnership with affected countries we can help stop outbreaks, protect vulnerable populations and make the world, including the UK, safer from future epidemic and pandemic threats.\n\n",
-      "bodyHash": "b7ce0b67ab83123d787a03cac6f5a31bfa19e958324e8461f6cfc953b046221a",
-      "language": "en",
-      "republication": {
-        "sourceId": "govuk-fulltext",
-        "sourceUrl": "https://www.gov.uk/government/news/332m-to-protect-public-from-future-epidemics-and-pandemics",
-        "license": "Open Government Licence v3.0",
-        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
-        "authors": [
-          "Department of Health and Social Care",
-          "UK Health Security Agency",
-          "Innovate UK"
-        ],
-        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
-        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
-        "sourceUpdatedAt": "2026-10-08T14:27:43+01:00",
-        "sourceVersion": "54e6ae48-f15c-49b0-8309-baa094645bbd"
-      },
-      "firstSeenAt": "2026-10-08T14:01:53.457Z",
-      "lastSeenAt": "2026-10-09T06:39:03.649Z",
-      "updatedAt": "2026-10-08T14:01:53.457Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "bac8b02da5cee26fa005d4e6",
-      "title": "零时差｜还在怪中国？德国这份报告讲了句大实话",
-      "originalUrl": "https://www.chinanews.com.cn/ll/2026/10-08/10709368.shtml",
-      "summary": "最近一段时间，多家欧洲媒体和智库集中讨论所谓“中国冲击”对欧洲的影响，欧盟甚至出现酝酿新一轮对华贸易限制措施的苗头。但欧洲内部，也不乏理性声音——德国联邦经济部经济顾问委员会日前发布贸易政策评估报告，以翔实经济数据与产业调研为依据，对当前欧洲内部的对华恐慌论调形成有力反驳。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-08T13:26:48.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-08T14:01:53.457Z",
-      "lastSeenAt": "2026-10-08T14:01:53.457Z",
-      "updatedAt": "2026-10-08T14:01:53.457Z",
-      "version": 1,
-      "history": []
     }
   ],
   "sourceStatus": {
@@ -260637,8 +260622,8 @@
       "id": "ithome",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-31T20:16:03.190Z",
-      "lastSuccessAt": "2026-10-31T20:16:03.190Z",
+      "checkedAt": "2026-10-31T23:40:48.088Z",
+      "lastSuccessAt": "2026-10-31T23:40:48.088Z",
       "etag": null,
       "lastModified": null,
       "discovered": 60,
@@ -260649,8 +260634,8 @@
       "id": "sspai",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-31T20:16:03.190Z",
-      "lastSuccessAt": "2026-10-31T20:16:03.190Z",
+      "checkedAt": "2026-10-31T23:40:48.088Z",
+      "lastSuccessAt": "2026-10-31T23:40:48.088Z",
       "etag": null,
       "lastModified": null,
       "discovered": 10,
@@ -260661,8 +260646,8 @@
       "id": "chinanews-society",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-31T20:16:03.190Z",
-      "lastSuccessAt": "2026-10-31T20:16:03.190Z",
+      "checkedAt": "2026-10-31T23:40:48.088Z",
+      "lastSuccessAt": "2026-10-31T23:40:48.088Z",
       "etag": "\"6ae5fea6-4070\"",
       "lastModified": "Sat, 31 Oct 2026 14:43:50 GMT",
       "discovered": 0,
@@ -260673,8 +260658,8 @@
       "id": "chinanews-finance",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-31T20:16:03.190Z",
-      "lastSuccessAt": "2026-10-31T20:16:03.190Z",
+      "checkedAt": "2026-10-31T23:40:48.088Z",
+      "lastSuccessAt": "2026-10-31T23:40:48.088Z",
       "etag": "\"6ae5fa8a-43df\"",
       "lastModified": "Sat, 31 Oct 2026 14:26:18 GMT",
       "discovered": 0,
@@ -260685,8 +260670,8 @@
       "id": "chinanews-life",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-31T20:16:03.190Z",
-      "lastSuccessAt": "2026-10-31T20:16:03.190Z",
+      "checkedAt": "2026-10-31T23:40:48.088Z",
+      "lastSuccessAt": "2026-10-31T23:40:48.088Z",
       "etag": "\"6ae587b8-2399\"",
       "lastModified": "Sat, 31 Oct 2026 06:16:24 GMT",
       "discovered": 0,
@@ -260697,8 +260682,8 @@
       "id": "chinanews-jk",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-31T20:16:03.190Z",
-      "lastSuccessAt": "2026-10-31T20:16:03.190Z",
+      "checkedAt": "2026-10-31T23:40:48.088Z",
+      "lastSuccessAt": "2026-10-31T23:40:48.088Z",
       "etag": "\"69aa3e2a-2832\"",
       "lastModified": "Fri, 06 Mar 2026 02:38:34 GMT",
       "discovered": 0,
@@ -260709,8 +260694,8 @@
       "id": "chinanews-culture",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-31T20:16:03.190Z",
-      "lastSuccessAt": "2026-10-31T20:16:03.190Z",
+      "checkedAt": "2026-10-31T23:40:48.088Z",
+      "lastSuccessAt": "2026-10-31T23:40:48.088Z",
       "etag": "\"6ae5fa86-3e7d\"",
       "lastModified": "Sat, 31 Oct 2026 14:26:14 GMT",
       "discovered": 0,
@@ -260721,11 +260706,11 @@
       "id": "chinanews-edu",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-31T20:16:03.190Z",
-      "lastSuccessAt": "2026-10-31T20:16:03.190Z",
-      "etag": "\"6ae5c417-252d\"",
-      "lastModified": "Sat, 31 Oct 2026 10:33:59 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-10-31T23:40:48.088Z",
+      "lastSuccessAt": "2026-10-31T23:40:48.088Z",
+      "etag": "\"6ae66e34-2159\"",
+      "lastModified": "Sat, 31 Oct 2026 22:39:48 GMT",
+      "discovered": 14,
       "failures": 0,
       "error": null
     },
@@ -260733,11 +260718,11 @@
       "id": "chinanews-sports",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-31T20:16:03.190Z",
-      "lastSuccessAt": "2026-10-31T20:16:03.190Z",
-      "etag": "\"6ae5f1be-3d80\"",
-      "lastModified": "Sat, 31 Oct 2026 13:48:46 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-10-31T23:40:48.088Z",
+      "lastSuccessAt": "2026-10-31T23:40:48.088Z",
+      "etag": "\"6ae66bcc-3dab\"",
+      "lastModified": "Sat, 31 Oct 2026 22:29:32 GMT",
+      "discovered": 30,
       "failures": 0,
       "error": null
     },
@@ -260745,19 +260730,19 @@
       "id": "chinanews-scroll-news",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-10-31T20:16:03.190Z",
-      "lastSuccessAt": "2026-10-31T20:16:03.190Z",
-      "etag": "\"6ae6080e-3fec\"",
-      "lastModified": "Sat, 31 Oct 2026 15:23:58 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-10-31T23:40:48.088Z",
+      "lastSuccessAt": "2026-10-31T23:40:48.088Z",
+      "etag": "\"6ae6742b-3e2d\"",
+      "lastModified": "Sat, 31 Oct 2026 23:05:15 GMT",
+      "discovered": 30,
       "failures": 0,
       "error": null
     },
     "govuk-fulltext": {
       "id": "govuk-fulltext",
       "status": "ok",
-      "checkedAt": "2026-10-31T20:16:03.190Z",
-      "lastSuccessAt": "2026-10-31T20:16:03.190Z",
+      "checkedAt": "2026-10-31T23:40:48.088Z",
+      "lastSuccessAt": "2026-10-31T23:40:48.088Z",
       "discovered": 20,
       "rejected": 0,
       "contentSchema": 3,
