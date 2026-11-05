@@ -1,8 +1,487 @@
 {
   "schemaVersion": "1",
-  "collectedAt": "2026-11-05T15:47:00.056Z",
-  "lastSuccessfulCollectionAt": "2026-11-05T15:47:00.056Z",
+  "collectedAt": "2026-11-05T21:56:42.958Z",
+  "lastSuccessfulCollectionAt": "2026-11-05T21:56:42.958Z",
   "items": [
+    {
+      "id": "585dab18e7c4326287d4ac08",
+      "title": "UK citizen returned from DRC for specialist Ebola care",
+      "originalUrl": "https://www.gov.uk/government/news/uk-citizen-returned-from-drc-for-specialist-ebola-care",
+      "sourcePublishedAt": "2026-11-05T19:47:15+00:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "A UK medical doctor who was working on the Ebola epidemic in the Democratic Republic of the Congo (DRC) has returned to the UK for specialist treatment after testing positive for the disease. The UK government worked with the DRC government",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>A UK medical doctor who was working on the Ebola epidemic in the Democratic Republic of the Congo (DRC) has returned to the UK for specialist treatment after testing positive for the disease.</p>\n\n<p>The UK government worked with the DRC government and international health partners to bring the patient home safely on a medical evacuation flight. The journey followed established infection prevention and control procedures, which also apply to everyone involved in the individual’s care.</p>\n\n<p>They are now being cared for in a high-level isolation unit at the Royal Free Hospital, London. This unit is highly specialised and specifically designed for this purpose, staffed by expert clinical teams.</p>\n\n<p>Dr Renu Bindra, Deputy Director All Hazards Public Health Response at UKHSA, said:</p>\n\n<blockquote>\n  <p>UKHSA and the NHS have well-established and robust infection prevention and control protocols to limit the risk of onward transmission, and the risk to the wider public remains low.</p>\n</blockquote>\n\n<p>Ebola does not spread through the air. It is passed on through direct contact with the bodily fluids of a person who has symptoms.</p>\n\n<p>The Royal Free Hospital isolation unit has strict isolation protocols in place to prevent the patient coming into contact with any members of the public, and all staff treating the patient are equipped with the necessary personal protective equipment alongside other measures to prevent transmission.</p>\n</div>",
+      "bodyText": "A UK medical doctor who was working on the Ebola epidemic in the Democratic Republic of the Congo (DRC) has returned to the UK for specialist treatment after testing positive for the disease.\n\nThe UK government worked with the DRC government and international health partners to bring the patient home safely on a medical evacuation flight. The journey followed established infection prevention and control procedures, which also apply to everyone involved in the individual’s care.\n\nThey are now being cared for in a high-level isolation unit at the Royal Free Hospital, London. This unit is highly specialised and specifically designed for this purpose, staffed by expert clinical teams.\n\nDr Renu Bindra, Deputy Director All Hazards Public Health Response at UKHSA, said:\n\n\n  UKHSA and the NHS have well-established and robust infection prevention and control protocols to limit the risk of onward transmission, and the risk to the wider public remains low.\n\n\nEbola does not spread through the air. It is passed on through direct contact with the bodily fluids of a person who has symptoms.\n\nThe Royal Free Hospital isolation unit has strict isolation protocols in place to prevent the patient coming into contact with any members of the public, and all staff treating the patient are equipped with the necessary personal protective equipment alongside other measures to prevent transmission.\n",
+      "bodyHash": "b4c574d99fc6042978144ace226f1b40cbb413c0a5dda1d19db2dcc41c99689f",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/uk-citizen-returned-from-drc-for-specialist-ebola-care",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Department of Health and Social Care"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-11-05T19:47:15+00:00",
+        "sourceVersion": "4cdf31ad-06c5-4187-992f-c85b0e95667c"
+      },
+      "firstSeenAt": "2026-11-05T21:56:42.958Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
+      "updatedAt": "2026-11-05T21:56:42.958Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "03be7df00120f9f8df3e9b84",
+      "title": "我国成功发射遥感五十一号 07-09 星，主要用于科学试验、电磁环境探测等领域",
+      "originalUrl": "https://www.ithome.com/1/023/028.htm",
+      "summary": "IT之家 11 月 6 日消息，据央视新闻报道，11 月 5 日 23 时 58 分，长征二号丙运载火箭在西昌卫星发射中心点火升空，随后成功将遥感五十一号 07-09 星送入预定轨道，发射任务取得圆满成功。 长二丙火箭由中国航天科技集团有限公司一院抓总研制，为两级常温液体运载火箭，具备一箭一星、一箭多星发射及星座部署能力。 IT之家查询获悉，该卫星主要用于科学试验、电磁环境探测等领域。另外，本次发射是长征系列运载火箭的第 675 次发射。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-05T18:39:04.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-05T21:56:42.958Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
+      "updatedAt": "2026-11-05T21:56:42.958Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "20cc7f7a741b008a2b890175",
+      "title": "新疆和田地区和康县发生4.8级地震 震源深度60千米",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/11-06/10726977.shtml",
+      "summary": "中国地震台网正式测定：11月06日00时56分在新疆和田地区和康县(北纬35.64度，东经78.14度)发生4.8级地震，震源深度60千米。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-05T17:20:38.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-05T21:56:42.958Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
+      "updatedAt": "2026-11-05T21:56:42.958Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "97e4b1be63c3fa4f4fd71c17",
+      "title": "新疆和田地区和康县附近发生5.1级左右地震",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/11-06/10726976.shtml",
+      "summary": "新华社快讯： 新疆和田地区和康县附近发生5.1级左右地震",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-05T17:15:40.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-05T21:56:42.958Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
+      "updatedAt": "2026-11-05T21:56:42.958Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "95aa92434f9ffc0d49138cf8",
+      "title": "我国成功发射遥感五十一号07-09星",
+      "originalUrl": "https://www.chinanews.com.cn/gn/2026/11-06/10726975.shtml",
+      "summary": "中新网北京11月5日电 (马帅莎 崔婉莹)北京时间11月5日23时58分，我国在西昌卫星发射中心使用长征二号丙运载火箭，成功将遥感五十一号07-09星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。该卫星主要用于科学试验、电磁环境探测等领域。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-05T16:38:20.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-05T21:56:42.958Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
+      "updatedAt": "2026-11-05T21:56:42.958Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1d99b940f25b8f6612e5f8f1",
+      "title": "Man who murdered Henry Nowak has sentence increased",
+      "originalUrl": "https://www.gov.uk/government/news/man-who-murdered-henry-nowak-has-sentence-increased",
+      "sourcePublishedAt": "2026-11-05T16:22:45+00:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "Vickrum Digwa, who stabbed Henry Nowak to death, had the minimum term of his life sentence increased by 4 years to 25 years, after Attorney General Ellie Reeves KC referred the case to the Court of Appeal under the Unduly Lenient Sentence s",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>Vickrum Digwa, who stabbed Henry Nowak to death, had the minimum term of his life sentence increased by 4 years to 25 years, after Attorney General Ellie Reeves KC referred the case to the Court of Appeal under the Unduly Lenient Sentence scheme.  </p>\n\n<p>The court heard that on the evening of 3 December 2025, Vickrum Digwa, 23, of St Denys, Southampton, was carrying a large Sikh dagger in a sheath over the outside of his clothing, when he encountered Henry Nowak, an 18-year-old first year student at Southampton University who was walking home.  </p>\n\n<p>Digwa and Nowak were entirely unknown to each other. Following a brief interaction, Digwa stabbed Nowak in the chest with the dagger, as well as several times to his legs and abdomen.   </p>\n\n<p>After the attack, Digwa then filmed the victim as he tried to get away from him and continued to film him as he lay dying. Digwa was also found to have instructed his mother to remove the murder weapon and repeatedly lied to attending police officers about what had happened.  </p>\n\n<p>In a Victim Impact Statement, Henry’s father described the devastating impact of his son’s death and the deep grief experienced by the family at losing him at such a young age.  </p>\n\n<p>The Attorney General Ellie Reeves KC MP said:  </p>\n\n<blockquote>\n  <p>The brutality and cruelty of this case horrified me, and I know that feeling is shared by the British public. I welcome the Court of Appeal’s decision to increase the minimum term of Digwa’s life sentence.  </p>\n\n  <p>My thoughts remain with Henry’s family and loved ones at this incredibly difficult time. No sentence can ever fill the void left by his loss, and I hope this outcome goes some way towards bringing them the justice they deserve.</p>\n</blockquote>\n\n<p>On 1 June 2026, at Southampton Crown Court, Digwa was sentenced to life imprisonment with a minimum term of 21 years for one count of murder and one count of having a bladed article.   </p>\n\n<p>On 5 November 2026, at the Court of Appeal, Digwa’s sentence was increased to a minimum term of 25 years.</p>\n</div>",
+      "bodyText": "Vickrum Digwa, who stabbed Henry Nowak to death, had the minimum term of his life sentence increased by 4 years to 25 years, after Attorney General Ellie Reeves KC referred the case to the Court of Appeal under the Unduly Lenient Sentence scheme.  \n\nThe court heard that on the evening of 3 December 2025, Vickrum Digwa, 23, of St Denys, Southampton, was carrying a large Sikh dagger in a sheath over the outside of his clothing, when he encountered Henry Nowak, an 18-year-old first year student at Southampton University who was walking home.  \n\nDigwa and Nowak were entirely unknown to each other. Following a brief interaction, Digwa stabbed Nowak in the chest with the dagger, as well as several times to his legs and abdomen.   \n\nAfter the attack, Digwa then filmed the victim as he tried to get away from him and continued to film him as he lay dying. Digwa was also found to have instructed his mother to remove the murder weapon and repeatedly lied to attending police officers about what had happened.  \n\nIn a Victim Impact Statement, Henry’s father described the devastating impact of his son’s death and the deep grief experienced by the family at losing him at such a young age.  \n\nThe Attorney General Ellie Reeves KC MP said:  \n\n\n  The brutality and cruelty of this case horrified me, and I know that feeling is shared by the British public. I welcome the Court of Appeal’s decision to increase the minimum term of Digwa’s life sentence.  \n\n  My thoughts remain with Henry’s family and loved ones at this incredibly difficult time. No sentence can ever fill the void left by his loss, and I hope this outcome goes some way towards bringing them the justice they deserve.\n\n\nOn 1 June 2026, at Southampton Crown Court, Digwa was sentenced to life imprisonment with a minimum term of 21 years for one count of murder and one count of having a bladed article.   \n\nOn 5 November 2026, at the Court of Appeal, Digwa’s sentence was increased to a minimum term of 25 years.\n",
+      "bodyHash": "c85ccafe279591a6659a9e7a370e4de7a36511fc11e8813f3b5cb69cd8259dec",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/man-who-murdered-henry-nowak-has-sentence-increased",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Attorney General's Office"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-11-05T16:22:45+00:00",
+        "sourceVersion": "c1b12fe5-3b48-46d6-851d-399665954af5"
+      },
+      "firstSeenAt": "2026-11-05T21:56:42.958Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
+      "updatedAt": "2026-11-05T21:56:42.958Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "db8621d80e0c1ac460e7598d",
+      "title": "Investigation over risk to multi-million pound charity property",
+      "originalUrl": "https://www.gov.uk/government/news/investigation-over-risk-to-multi-million-pound-charity-property",
+      "sourcePublishedAt": "2026-11-05T16:01:43+00:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "The House of St Barnabas was set up in 1862 to provide temporary relief and support to people experiencing homelessness and it entered liquidation in January 2024. Linked to this charity was The House of St Barnabas in Soho. As a result of ",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>The House of St Barnabas was set up in 1862 to provide temporary relief and support to people experiencing homelessness and it entered liquidation in January 2024. Linked to this charity was <a href=\"https://register-of-charities.charitycommission.gov.uk/en/about-the-register-of-charities/-/charity-details/4045561\">The House of St Barnabas in Soho</a>. As a result of the liquidation a new corporate trustee, The Explorers Club (Soho), was appointed to the charity, in place of The House of St Barnabas.  </p>\n\n<p>The Explorers Club (Soho) then entered into a licence in early 2026 with the private company The Explorers Club (London) Ltd (‘TEC(London)’) allowing TEC(London) to use the charity’s property located at 1 Greek Street, to run a private members club and collect members’ fees. The licence fee would generate income for the charity and allow it to continue operating.  </p>\n\n<p>Last month, the regulator received a serious incident report informing it that the charity has been a victim of fraud as it disputes a loan that has been secured against its property at 1 Greek Street. The loan appears not to have been repaid and, as a result, the creditor is taking steps to recover its loan. The Commission has concerns that the charity’s main asset – the 1 Greek Street property – is at serious risk. </p>\n\n<p>The regulator is launching this inquiry to establish the facts leading up to this point, to examine the financial arrangements and decision-making involving the charity. </p>\n\n<p><strong>Scope of the inquiry</strong></p>\n\n<p>The inquiry will examine the administration, governance and management of the charity and in particular:  </p>\n\n<ul>\n  <li>\n    <p>whether charitable property is at risk  </p>\n  </li>\n  <li>\n    <p>whether the governance arrangements are fit for purpose including the management and oversight of the licence agreement with The Explorer Club (London). </p>\n  </li>\n  <li>\n    <p>the decision making around the charity’s financial arrangements including loans. </p>\n  </li>\n</ul>\n\n<p>The  scope of the inquiry can be extended if additional regulatory issues emerge.  </p>\n\n<p>It is the Commission’s policy, after it has concluded an inquiry, to publish a report detailing the issues examined, any action taken, and the inquiry’s outcomes.  </p>\n\n<p>ENDS </p>\n\n<p><strong>Notes to editors:</strong></p>\n\n<ul>\n  <li>\n    <p>The Charity Commission is the independent, non-ministerial government department that registers and regulates charities in England and Wales. Its ambition is to be an expert regulator that is fair, balanced, and independent so that charity can thrive. This ambition will help to create and sustain an environment where charities further build public trust and ultimately fulfil their essential role in enhancing lives and strengthening society. Read <a href=\"https://www.gov.uk/government/organisations/charity-commission/about\">further information about what the Commission does</a>.  </p>\n  </li>\n  <li>\n    <p>On 29 October 2026 the Charity Commission (‘the Commission’) opened a statutory inquiry (‘the inquiry’) into the Charity under section 46 of the Charities Act 2011 as a result of its regulatory concerns that there is a significant risk to the charity’s assets. </p>\n  </li>\n  <li>\n    <p>A statutory inquiry is a legal power enabling the Commission to formally investigate matters of regulatory concern within a charity and to use protective powers for the benefit of the charity and its beneficiaries, assets, or reputation. <a href=\"https://www.gov.uk/government/collections/inquiry-reports-charity-commission\">Reports of previous inquiries</a> are available on GOV.UK.  </p>\n  </li>\n  <li>\n    <p>We also provide charities with <a href=\"https://www.gov.uk/government/publications/statutory-inquiries-into-charities-guidance-for-charities-cc46\">guidance on what happens when the Commission opens an inquiry</a>.</p>\n  </li>\n</ul>\n\n<div>\n    <p>Press office</p>\n\n\n    <div>\n        <p>\n          Email <a>pressenquiries@charitycommission.gov.uk</a>\n        </p>\n\n\n        <p>\n          Out of hours press office contact number:  07785 748787\n        </p>\n    </div>\n\n\n</div>\n</div>",
+      "bodyText": "The House of St Barnabas was set up in 1862 to provide temporary relief and support to people experiencing homelessness and it entered liquidation in January 2024. Linked to this charity was The House of St Barnabas in Soho. As a result of the liquidation a new corporate trustee, The Explorers Club (Soho), was appointed to the charity, in place of The House of St Barnabas.  \n\nThe Explorers Club (Soho) then entered into a licence in early 2026 with the private company The Explorers Club (London) Ltd (‘TEC(London)’) allowing TEC(London) to use the charity’s property located at 1 Greek Street, to run a private members club and collect members’ fees. The licence fee would generate income for the charity and allow it to continue operating.  \n\nLast month, the regulator received a serious incident report informing it that the charity has been a victim of fraud as it disputes a loan that has been secured against its property at 1 Greek Street. The loan appears not to have been repaid and, as a result, the creditor is taking steps to recover its loan. The Commission has concerns that the charity’s main asset – the 1 Greek Street property – is at serious risk. \n\nThe regulator is launching this inquiry to establish the facts leading up to this point, to examine the financial arrangements and decision-making involving the charity. \n\nScope of the inquiry\n\nThe inquiry will examine the administration, governance and management of the charity and in particular:  \n\n\n  \n    whether charitable property is at risk  \n  \n  \n    whether the governance arrangements are fit for purpose including the management and oversight of the licence agreement with The Explorer Club (London). \n  \n  \n    the decision making around the charity’s financial arrangements including loans. \n  \n\n\nThe  scope of the inquiry can be extended if additional regulatory issues emerge.  \n\nIt is the Commission’s policy, after it has concluded an inquiry, to publish a report detailing the issues examined, any action taken, and the inquiry’s outcomes.  \n\nENDS \n\nNotes to editors:\n\n\n  \n    The Charity Commission is the independent, non-ministerial government department that registers and regulates charities in England and Wales. Its ambition is to be an expert regulator that is fair, balanced, and independent so that charity can thrive. This ambition will help to create and sustain an environment where charities further build public trust and ultimately fulfil their essential role in enhancing lives and strengthening society. Read further information about what the Commission does.  \n  \n  \n    On 29 October 2026 the Charity Commission (‘the Commission’) opened a statutory inquiry (‘the inquiry’) into the Charity under section 46 of the Charities Act 2011 as a result of its regulatory concerns that there is a significant risk to the charity’s assets. \n  \n  \n    A statutory inquiry is a legal power enabling the Commission to formally investigate matters of regulatory concern within a charity and to use protective powers for the benefit of the charity and its beneficiaries, assets, or reputation. Reports of previous inquiries are available on GOV.UK.  \n  \n  \n    We also provide charities with guidance on what happens when the Commission opens an inquiry.\n  \n\n\n\n    Press office\n\n\n    \n        \n          Email pressenquiries@charitycommission.gov.uk\n        \n\n\n        \n          Out of hours press office contact number:  07785 748787\n        \n    \n\n\n\n",
+      "bodyHash": "45d5755bd0c738c1ddff8ca8789c8cc715607142a30cf009cdb4195df993734a",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/investigation-over-risk-to-multi-million-pound-charity-property",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "The Charity Commission"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-11-05T16:01:43+00:00",
+        "sourceVersion": "b758b70b-e52d-4cbc-84f9-bd27b0645f95"
+      },
+      "firstSeenAt": "2026-11-05T21:56:42.958Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
+      "updatedAt": "2026-11-05T21:56:42.958Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "bfa29a20a4baa05b13075fe8",
+      "title": "英国央行三年多来首度加息",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/11-06/10726974.shtml",
+      "summary": "中新社伦敦11月5日电 (记者 欧阳开宇)当地时间11月5日，英国央行宣布加息25个基点，基准利率由3.75%上调至4%。这是该行自2023年8月之后时隔三年多首次加息。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-05T16:01:00.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-05T21:56:42.958Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
+      "updatedAt": "2026-11-05T21:56:42.958Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "63b23f9d10e6f76ea33f2100",
+      "title": "Epic 喜加一：《浮游世界》游戏免费领取",
+      "originalUrl": "https://www.ithome.com/1/023/023.htm",
+      "summary": "IT之家 11 月 6 日消息，Epic 本周送出的游戏是《浮游世界》，下周送出的游戏是《斗阵骑士 Knightica》。 领取链接：《浮游世界》 IT之家附《浮游世界》游戏简介： 这是一款漂浮垃圾城生存游戏！从海洋表面尽可能搜集珍贵的垃圾，发展你的城市，同时努力在这个色彩斑斓的后末日世界中生存下去。 本作最初发售于 2025 年 12 月 5 日，Steam 售价 80 元。游戏兼容 XBOX / PlayStation 控制器，最低配置要求为酷睿 i5 处理器、8GB 内…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-05T16:00:08.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-05T21:56:42.958Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
+      "updatedAt": "2026-11-05T21:56:42.958Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "942f91a59e4840cc11ad6788",
+      "title": "MHRA sets out approach to strengthen patient and public involvement and engagement in medicines and medical device regulation ",
+      "originalUrl": "https://www.gov.uk/government/news/mhra-sets-out-approach-to-strengthen-patient-and-public-involvement-and-engagement-in-medicines-and-medical-device-regulation",
+      "sourcePublishedAt": "2026-11-05T16:00:04+00:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "Patients and the public will have a greater role in shaping medicines and medical device regulation under a new plan published today by the Medicines and Healthcare products Regulatory Agency (MHRA). The Patient and Public Involvement and E",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>Patients and the public will have a greater role in shaping medicines and medical device regulation under a new plan published today by the Medicines and Healthcare products Regulatory Agency (MHRA). </p>\n\n<p>The <a href=\"https://www.gov.uk/government/publications/patient-and-public-involvement-and-engagement-plan-2026-2030\">Patient and Public Involvement and Engagement Plan 2026–2030 (PPIE)</a>, a key tenet of the <a href=\"https://www.gov.uk/government/publications/mhra-strategy-2030\">MHRA’s Strategy 2030,</a> sets out how the agency will involve and engage people earlier, hear from a wider range of patient groups and communities and explain openly and clearly how patients’ experiences shape its work. </p>\n\n<p>Patients’ lived experience will help inform decisions at the MHRA, including the assessment of medicine benefits and risks, safety reviews, regulatory policy, patient information and the development of regulatory approaches for rare diseases, medical devices, future regulatory pathways, artificial intelligence (AI) and other emerging technologies. </p>\n\n<p>The plan supports the MHRA’s newly-published Strategy to 2030, builds on its Patient Involvement Strategy 2021–2025 and responds to feedback calling for more inclusive participation and information on how patient involvement shapes regulatory decisions. </p>\n\n<p><strong>Under the plan, the MHRA will:</strong> </p>\n\n<ul>\n  <li>\n    <p>Strengthen feedback, monitoring and reporting so people can see how their contributions have influenced the MHRA’s work. </p>\n  </li>\n  <li>\n    <p>Expand membership of its Patient and Public Community to better reflect the diversity of the UK population. </p>\n  </li>\n  <li>\n    <p>Use deliberative engagement to ensure patient and public perspectives shape how the benefits and risks of medicines are assessed. </p>\n  </li>\n  <li>\n    <p>Involve patients and the public in work to make medicines information clearer and more accessible. </p>\n  </li>\n  <li>\n    <p>Work with the National Institute for Health and Care Excellence (NICE) to reduce duplication in patient involvement evidence used for regulatory and health technology assessments. </p>\n  </li>\n</ul>\n\n<p><strong>Professor Anthony Harnden, Chair of the MHRA, said:</strong> </p>\n\n<blockquote>\n\n  <p>Our Patient and Public Involvement and Engagement Plan is a vital evolution in the way we connect and listen to patients and the public at a time when the dynamic landscape of medicines and medical devices regulation is changing rapidly.  </p>\n\n  <p>Bringing those who matter most into the heart of our regulatory and decision-making processes, patients and the public can tell us how treatments affect their everyday lives, what benefits they value most and where information needs to be clearer. That insight helps us ask better questions and make better-informed regulatory decisions. </p>\n\n  <p>Through this plan, we will involve people earlier, hear from a broader range of communities and patient demographics and explain how their contributions have influenced our work.</p>\n</blockquote>\n\n<p>Patient involvement has already helped shape the MHRA’s work on rare diseases. A dedicated advisory group of 23 patient representatives has contributed to the MHRA’s Rare Disease Consortium, helping identify priorities, informing draft guidance and spearheading medicines repurposing. </p>\n\n<p><strong>Mercy Jeyasingham MBE, MHRA Non-Executive Director and Chair of the People and Public Engagement Committee, said:</strong></p>\n\n<blockquote>\n\n  <p>This plan combines ambition with practical and achievable commitments to strengthen how we involve patients and the public in our work. </p>\n\n  <p>A consistent approach across the agency will help ensure that people’s experiences inform our work and that those contributing understand how their input has been used. The People and Public Engagement Committee will oversee progress, helping turn these commitments into meaningful and lasting improvements.</p>\n</blockquote>\n\n<p><strong>Professor Henrietta Hughes OBE, Patient Safety Commissioner for England, said:</strong>  </p>\n\n<blockquote>\n\n  <p>I welcome this plan and its commitment to putting patients’ voices at the heart of regulation. Patient experience should be central to regulatory decisions. </p>\n\n  <p>Listening to a diverse range of voices, particularly those that are under-represented, provides early insight into risks and inequalities. This insight is what strengthens patient safety and helps ensure regulation reflects what matters most to the people it serves.</p>\n</blockquote>\n\n<p><strong>Karen Titchener, Patient Safety Commissioner for Scotland, said:</strong> </p>\n\n<blockquote>\n\n  <p>People across Scotland have repeatedly told us how important it is that their experiences of healthcare are listened to and acted upon. Patients and families are experts in their own experiences, and their insights can help shape safer medicines, medical devices and healthcare systems. </p>\n\n  <p>I welcome the MHRA’s commitment to broadening participation and involving patients earlier in decision-making. Meaningful engagement helps ensure that regulatory decisions are informed not only by clinical evidence, but also by the realities of people’s lives.</p>\n</blockquote>\n\n<p><strong>Notes to editors</strong></p>\n\n<ol>\n  <li>\n    <p>The MHRA regulates medicines, medical devices and blood components for transfusion in the UK. </p>\n  </li>\n  <li>\n    <p>Read the <a href=\"https://www.gov.uk/government/publications/patient-and-public-involvement-and-engagement-plan-2026-2030\">Patient and Public Involvement and Engagement Plan 2026–2030</a></p>\n  </li>\n  <li>\n    <p>The MHRA’s People and Public Engagement Committee will review progress in delivering the plan.  </p>\n  </li>\n  <li>\n    <p>The <a href=\"https://www.gov.uk/guidance/opportunities-for-patients-and-the-public-to-be-involved-in-the-work-of-the-mhra\">Patient and Public Community</a> was established in October 2024. It brings together patients, patient organisations and charities to inform the MHRA’s work and policy development. </p>\n  </li>\n  <li>\n    <p>For media enquiries, please contact <a>newscentre@mhra.gov.uk</a> or call 020 3080 7651.  </p>\n  </li>\n</ol>\n\n<p>ENDS</p>\n</div>",
+      "bodyText": "Patients and the public will have a greater role in shaping medicines and medical device regulation under a new plan published today by the Medicines and Healthcare products Regulatory Agency (MHRA). \n\nThe Patient and Public Involvement and Engagement Plan 2026–2030 (PPIE), a key tenet of the MHRA’s Strategy 2030, sets out how the agency will involve and engage people earlier, hear from a wider range of patient groups and communities and explain openly and clearly how patients’ experiences shape its work. \n\nPatients’ lived experience will help inform decisions at the MHRA, including the assessment of medicine benefits and risks, safety reviews, regulatory policy, patient information and the development of regulatory approaches for rare diseases, medical devices, future regulatory pathways, artificial intelligence (AI) and other emerging technologies. \n\nThe plan supports the MHRA’s newly-published Strategy to 2030, builds on its Patient Involvement Strategy 2021–2025 and responds to feedback calling for more inclusive participation and information on how patient involvement shapes regulatory decisions. \n\nUnder the plan, the MHRA will: \n\n\n  \n    Strengthen feedback, monitoring and reporting so people can see how their contributions have influenced the MHRA’s work. \n  \n  \n    Expand membership of its Patient and Public Community to better reflect the diversity of the UK population. \n  \n  \n    Use deliberative engagement to ensure patient and public perspectives shape how the benefits and risks of medicines are assessed. \n  \n  \n    Involve patients and the public in work to make medicines information clearer and more accessible. \n  \n  \n    Work with the National Institute for Health and Care Excellence (NICE) to reduce duplication in patient involvement evidence used for regulatory and health technology assessments. \n  \n\n\nProfessor Anthony Harnden, Chair of the MHRA, said: \n\n\n\n  Our Patient and Public Involvement and Engagement Plan is a vital evolution in the way we connect and listen to patients and the public at a time when the dynamic landscape of medicines and medical devices regulation is changing rapidly.  \n\n  Bringing those who matter most into the heart of our regulatory and decision-making processes, patients and the public can tell us how treatments affect their everyday lives, what benefits they value most and where information needs to be clearer. That insight helps us ask better questions and make better-informed regulatory decisions. \n\n  Through this plan, we will involve people earlier, hear from a broader range of communities and patient demographics and explain how their contributions have influenced our work.\n\n\nPatient involvement has already helped shape the MHRA’s work on rare diseases. A dedicated advisory group of 23 patient representatives has contributed to the MHRA’s Rare Disease Consortium, helping identify priorities, informing draft guidance and spearheading medicines repurposing. \n\nMercy Jeyasingham MBE, MHRA Non-Executive Director and Chair of the People and Public Engagement Committee, said:\n\n\n\n  This plan combines ambition with practical and achievable commitments to strengthen how we involve patients and the public in our work. \n\n  A consistent approach across the agency will help ensure that people’s experiences inform our work and that those contributing understand how their input has been used. The People and Public Engagement Committee will oversee progress, helping turn these commitments into meaningful and lasting improvements.\n\n\nProfessor Henrietta Hughes OBE, Patient Safety Commissioner for England, said:  \n\n\n\n  I welcome this plan and its commitment to putting patients’ voices at the heart of regulation. Patient experience should be central to regulatory decisions. \n\n  Listening to a diverse range of voices, particularly those that are under-represented, provides early insight into risks and inequalities. This insight is what strengthens patient safety and helps ensure regulation reflects what matters most to the people it serves.\n\n\nKaren Titchener, Patient Safety Commissioner for Scotland, said: \n\n\n\n  People across Scotland have repeatedly told us how important it is that their experiences of healthcare are listened to and acted upon. Patients and families are experts in their own experiences, and their insights can help shape safer medicines, medical devices and healthcare systems. \n\n  I welcome the MHRA’s commitment to broadening participation and involving patients earlier in decision-making. Meaningful engagement helps ensure that regulatory decisions are informed not only by clinical evidence, but also by the realities of people’s lives.\n\n\nNotes to editors\n\n\n  \n    The MHRA regulates medicines, medical devices and blood components for transfusion in the UK. \n  \n  \n    Read the Patient and Public Involvement and Engagement Plan 2026–2030\n  \n  \n    The MHRA’s People and Public Engagement Committee will review progress in delivering the plan.  \n  \n  \n    The Patient and Public Community was established in October 2024. It brings together patients, patient organisations and charities to inform the MHRA’s work and policy development. \n  \n  \n    For media enquiries, please contact newscentre@mhra.gov.uk or call 020 3080 7651.  \n  \n\n\nENDS\n",
+      "bodyHash": "0fd7d0a0f54b89bae7b3fd97b108e481706d841da2e627a100c0cc8ef159c4a2",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/mhra-sets-out-approach-to-strengthen-patient-and-public-involvement-and-engagement-in-medicines-and-medical-device-regulation",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Medicines and Healthcare products Regulatory Agency"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-11-05T16:00:04+00:00",
+        "sourceVersion": "a56f3447-33ab-4bad-a059-0dd84ca4e7fc"
+      },
+      "firstSeenAt": "2026-11-05T21:56:42.958Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
+      "updatedAt": "2026-11-05T21:56:42.958Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "adc8bcbc36dd20b5df0805a5",
+      "title": "12499 元 / 15999 元起：苹果 M6 芯片款 iMac、MacBook Pro 开售",
+      "originalUrl": "https://www.ithome.com/1/023/022.htm",
+      "summary": "IT之家 11 月 6 日消息，苹果 M6 芯片款 iMac、MacBook Pro 今日正式开售，起售价分别为 12499 元 / 15999 元，国补后起售价约 10999 元 / 14499 元。如果您能使用教育优惠，叠加国补后起售价会进一步下探至 10599 元 / 13699 元。 京东 Apple iMac M6 12499 元直达链接京东 Apple MacBook Pro M6 14 英寸 15999 元直达链接 IT之家附两款新品详情如下： iMac 新款 …",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-05T16:00:02.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-05T21:56:42.958Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
+      "updatedAt": "2026-11-05T21:56:42.958Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "37d314904352f459460de2c8",
+      "title": "5499 元起：苹果 iPad mini 8 开售，A20 Pro 芯片（国补后到手价约 4999 元起）",
+      "originalUrl": "https://www.ithome.com/1/023/021.htm",
+      "summary": "IT之家 11 月 6 日消息，苹果 iPad mini（A20 Pro）今日正式开售，也就是大家俗称的“iPad mini 8”。新品起售价为 5499 元，国补后到手价约 4999 元。如果您可以使用教育优惠，国补后的到手价会进一步下探至 4599 元左右。 京东 Apple iPad mini (A20 Pro) 128GB5499 元直达链接 IT之家了解到，iPad mini（A20 Pro）提供午夜色、星光色两种配色。其机身相比上一代薄了 14%，轻了 13%。该…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-05T16:00:02.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-05T21:56:42.958Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
+      "updatedAt": "2026-11-05T21:56:42.958Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d408c290bf66ec62318f065d",
+      "title": "22999 元起：苹果首款触屏 MacBook Pro 正式开售，可选 M5 Pro/M5 Max 芯片",
+      "originalUrl": "https://www.ithome.com/1/023/020.htm",
+      "summary": "IT之家 11 月 6 日消息，苹果首款触控屏 MacBook Pro（配备 PROLED XDR 显示屏的 MacBook Pro）今日正式开售，定价 22,999 元起。基础配置为 M5 Pro 芯片（15 核 CPU/16 核 GPU）、24GB 内存、1TB 硬盘，支持在购买时按需升级配置。 京东 Apple MacBook Pro (PROLED XDR 显示屏) 22999 元直达链接 IT之家了解到，这款笔记本提供 14 英寸与 16 英寸两种机型，搭载双层串联…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-05T16:00:01.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-05T21:56:42.958Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
+      "updatedAt": "2026-11-05T21:56:42.958Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c5d7d013d40250bdc778aa19",
+      "title": "2026CFA中国之队·银川五人制足球国际邀请赛开赛",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/11-05/10726973.shtml",
+      "summary": "中新社银川11月5日电 (记者 杨迪)2026CFA中国之队·银川五人制足球国际邀请赛5日在银川体育馆开赛。中国队、中国香港队、韩国选拔队等7支五人制足球队齐聚宁夏，开启为期6天的国际足球交流赛事。在当晚的“焦点战”中，中国队4:0战胜中国香港队。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-05T15:48:29.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-05T21:56:42.958Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
+      "updatedAt": "2026-11-05T21:56:42.958Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d4ab92400ee7b748aaefe40e",
+      "title": "（第九届进博会）从“展示窗口”到“创新加速器”：进博会医疗创新孵化专区强力链接全球双循环",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/11-05/10726967.shtml",
+      "summary": "中新网上海11月5日电 (记者 陈静)第九届中国国际进口博览会(下称：进博会)5日启幕，医疗创新孵化专区(下称：专区)因大量“全球首发”与“中国首展”的硬核产品亮相而备受关注。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-05T15:48:25.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "health",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-05T21:56:42.958Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
+      "updatedAt": "2026-11-05T21:56:42.958Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "5d4c9d6cb06545f1cbedc51f",
+      "title": "让癌细胞“忙中出错”自我引爆 浙大团队成果登《自然》",
+      "originalUrl": "https://www.chinanews.com.cn/jk/2026/11-05/10726966.shtml",
+      "summary": "中新网杭州11月5日电(曹丹)癌细胞为增殖而高速运转，也会“忙中出错”。浙江大学医学院、良渚实验室研究员毛圆辉团队抓住这一破绽，设计出一种人工基因回路，让癌细胞亲手合成杀死自己的“炸弹”。相关成果于11月4日晚发表在《自然》。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-05T15:46:27.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-05T21:56:42.958Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
+      "updatedAt": "2026-11-05T21:56:42.958Z",
+      "version": 1,
+      "history": []
+    },
     {
       "id": "088cd6ca1c96fecd059b31db",
       "title": "荣耀 700 系列手机盲盒周边曝光：背屏设计确认，消息称标准版搭载骁龙 8s Gen4 处理器",
@@ -24,7 +503,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -43,13 +522,15 @@
       "sourcePublishedAt": "2026-11-05T15:43:07.000Z",
       "timeIssue": null,
       "channels": [
-        "local-life"
+        "local-life",
+        "finance"
       ],
       "sourceIds": [
-        "chinanews-scroll-news"
+        "chinanews-scroll-news",
+        "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -69,13 +550,15 @@
       "timeIssue": null,
       "channels": [
         "local-life",
-        "career"
+        "career",
+        "finance"
       ],
       "sourceIds": [
-        "chinanews-scroll-news"
+        "chinanews-scroll-news",
+        "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -101,7 +584,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -128,7 +611,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -154,7 +637,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -180,7 +663,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -206,7 +689,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -232,7 +715,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -257,7 +740,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -283,7 +766,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -308,7 +791,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -335,7 +818,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -360,7 +843,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -387,7 +870,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -413,7 +896,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -438,7 +921,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -464,7 +947,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -491,7 +974,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -517,7 +1000,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -542,7 +1025,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -569,7 +1052,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -596,7 +1079,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -621,7 +1104,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -647,7 +1130,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -672,7 +1155,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -699,7 +1182,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -724,7 +1207,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -750,7 +1233,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -762,8 +1245,8 @@
       "summary": "中新社上海11月5日电 (记者 郑莹莹)“金砖成员国之间把握机遇、深化合作仍然有相当大的空间。”联合国贸易和发展会议国际贸易与商品司司长卢斯·玛利亚·德拉莫拉(Luz Maria de la Mora)5日在上海说。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-11-05T15:00:38.000Z",
@@ -777,7 +1260,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -789,8 +1272,8 @@
       "summary": "中新网北京11月5日电 (记者 陈杭)5日，2026-2027赛季全国滑冰U系列中学校际联赛(短道速滑)第三站在北京市冰上项目训练基地正式开赛。本次赛事为期4天，将于11月8日完成全部竞赛赛程，来自全国各省市32支代表队共计262名青少年运动员齐聚“冬奥之城”延庆，在冰面上展开速度、技术与战术的综合比拼，上演一场高水平青少年短道速滑竞技盛宴。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-11-05T15:00:00.000Z",
@@ -804,7 +1287,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -829,16 +1312,16 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
     },
     {
       "id": "38a3f27c7d9e3568966ac810",
-      "title": "UK veteran support centre network to more than double",
+      "title": "New veteran support centre confirmed for Scotland",
       "originalUrl": "https://www.gov.uk/government/news/uk-veteran-support-centre-network-to-more-than-double",
-      "sourcePublishedAt": "2026-11-05T14:55:37+00:00",
+      "sourcePublishedAt": "2026-11-05T14:55:00+00:00",
       "timeIssue": null,
       "channels": [
         "local-life"
@@ -846,15 +1329,15 @@
       "sourceIds": [
         "govuk-fulltext"
       ],
-      "summary": "The award comes as UK Government Scotland Office Minister Melanie Ward this evening (Thursday) hosts a Remembrance Reception in Edinburgh to celebrate Scotland’s Armed Forces community, including veterans. An estimated one million veterans ",
+      "summary": "The funding comes as UK Government Scotland Office Minister Melanie Ward this evening (Thursday) hosts a Remembrance Reception in Edinburgh to celebrate Scotland’s Armed Forces community, including veterans. An estimated one million veteran",
       "summaryProvenance": {
         "type": "licensed_body_excerpt",
         "sourceId": "govuk-fulltext"
       },
       "contentMode": "fulltext",
-      "bodyHtml": "<div><p>The award comes as UK Government Scotland Office Minister Melanie Ward this evening (Thursday) hosts a Remembrance Reception in Edinburgh to celebrate Scotland’s Armed Forces community, including veterans.</p>\n\n<p>An estimated one million veterans and their families in the UK will benefit from easier access to local services, thanks to the VALOUR network expanding. </p>\n\n<p>Earlier this year, 14 organisations were awarded over £13m to launch the first wave of VALOUR-recognised centres, including SSAFA Scotland’s drop-in centre in Glasgow which was awarded up to £1 million. </p>\n\n<p>Now the Defence Medical Welfare Service (<a href=\"https://dmws.org.uk/scotland/\">DMWS</a>) charity in Dumfries and Galloway is receiving £859,281 as a further 21 organisations share more than £13.2m of funding to launch the second wave of VALOUR-recognised centres by the beginning of 2027.</p>\n\n<p>DMWS helps those who have and continue to serve on the frontline and their families with medical welfare and associated assistance. It is embedded within NHS Boards across Scotland, providing critical support at the bedside for Armed Forces patients (serving, reservists, veterans and their families).</p>\n\n<p>VALOUR has been designed to help the UK’s estimated two million veterans get the support they need through VALOUR-recognised centres, a helpline service or on <a href=\"http://gov.uk/\">GOV.UK</a>.  </p>\n\n<p>Prime Minister Andy Burnham said:</p>\n\n<blockquote>\n  <p>It is a privilege to be able to honour our veterans, not just as we mark Remembrance Day, but year-round as we remember the service and the sacrifice of those who fought for the lives we live today.</p>\n\n  <p>I’m incredibly proud to see the VALOUR network grow to provide support to more veterans and their families - those who have given so much to protect communities across the country.</p>\n</blockquote>\n\n<p>Scottish Secretary Douglas Alexander said:</p>\n\n<blockquote>\n  <p>Our veterans and serving troops have made huge sacrifices to keep us safe, and I’m immensely proud of each and every one of them. But our gratitude can’t stop at words, or end when they leave the forces. </p>\n</blockquote>\n\n<blockquote>\n  <p>This £859,000 UK Government funding will help the Defence Medical Welfare Service in Dumfries and Galloway be there for them and their families when they need it most. It’s a vital boost for our Armed Forces community in Scotland, and exactly what they deserve.</p>\n</blockquote>\n\n<p>Minister for Veterans and People Calvin Bailey MBE MP said:</p>\n\n<blockquote>\n  <p>Ahead of Remembrance Sunday, I’m pleased that we can pay tribute to the service and sacrifice of our armed forces community by giving veterans easier access to the support they need, regardless of where they are in the UK. </p>\n\n  <p>I’ve heard wonderful stories of how centres like Citizens Advice are making a real difference to people’s lives. Joining the VALOUR system will help them support even more veterans and their families.</p>\n</blockquote>\n\n<p>DMWS CEO Abby Dryden said:</p>\n\n<blockquote>\n  <p>DMWS is proud to be part of the VALOUR system and to help deliver a more joined-up approach to support for veterans, serving personnel and their families across South Scotland. By bringing organisations together and strengthening pathways into support, VALOUR will make it easier for people to access the right help at the right time, wherever they live.</p>\n\n  <p>This partnership reflects our shared commitment to ensuring that no member of the Armed Forces community has to face challenges alone. We are incredibly proud to work alongside our partners to build a stronger, more connected system of support for the Armed Forces Community and families and carers across South Scotland.</p>\n</blockquote>\n\n<p>VALOUR is overseen by a headquarters in the Office for Veterans’ Affairs (OVA) within the Ministry of Defence. It will bring together national oversight, regional coordination and local delivery to improve how services work together. </p>\n\n<p>VALOUR field officers are also working regionally to strengthen collaboration between partners such as councils, local public services and charities. </p>\n\n<p>The continued rollout of VALOUR demonstrates the UK Government’s delivery of the 10-year Veterans Strategy, which aims to celebrate, contribute to, and support those who serve and have served. Funding for VALOUR is included in the Defence Investment Plan. </p>\n\n<p> There are approximately 176,000 veterans living in Scotland.</p>\n\n<p>Scotland now has two VALOUR-recognised centres:</p>\n\n<ul>\n  <li>DMWS; and</li>\n  <li>SSAFA Scotland’s drop-in centre in Glasgow, which signposts veterans to local services. This service caters for around 76,000 veterans in Glasgow, Bute, East Dunbartonshire, East Renfrewshire, Edinburgh, Falkirk, Inverclyde, Midlothian, Renfrewshire, South Lanarkshire, North Lanarkshire, Stirling, West Dunbartonshire and West Lothian.</li>\n</ul>\n\n<p>This evening (Thursday) Minister Ward hosts a Remembrance Reception at the UK Government’s Queen Elizabeth House HQ in Edinburgh, bringing together Scotland’s Armed Forces community, including veteran organisations and military representatives, as well as Scottish MPs and other guests.</p>\n\n<p>ENDS</p>\n\n<p> Notes to editors </p>\n\n<ul>\n  <li>Over £26m of development funding for VALOUR-recognised centres has been allocated in two rounds of funding. </li>\n  <li>\n    <p>21 lead organisations are receiving £13,260,580 of development funding in round 2, with £26,516,357 million granted in total. They will join the first round of 14 organisations announced in March 2026, and are: </p>\n  </li>\n  <li>Defence Medical Welfare Service charity </li>\n  <li>The Poppy Factory </li>\n  <li>Sir Oswald Stoll Foundation </li>\n  <li>Age UK Waltham Forest </li>\n  <li>Mid Suffolk Citizens Advice Bureau   </li>\n  <li>Stevenage Borough Council </li>\n  <li>Veterans Support Northern Ireland </li>\n  <li>Adferiad </li>\n  <li>Monmouthshire County Council </li>\n  <li>City of York Council </li>\n  <li>Leeds City Council </li>\n  <li>Herefordshire Veterans Support Centre   </li>\n  <li>The Veterans Contact Point </li>\n  <li>Loughborough Wellbeing Centre </li>\n  <li>CVS Lincolnshire </li>\n  <li>Citizens Advice Rushmoor </li>\n  <li>The Lantern Trust (Weymouth) </li>\n  <li>Wiltshire Council </li>\n  <li>Westmorland &amp; Furness Council </li>\n  <li>Dover District Council </li>\n  <li>\n    <p>East Durham Veterans Trust – will receive additional funding in round 2 </p>\n  </li>\n  <li>Further information on VALOUR - and how to access support - can be found at <a href=\"https://www.gov.uk/valour\">www.gov.uk/valour</a>\n</li>\n</ul>\n</div>",
-      "bodyText": "The award comes as UK Government Scotland Office Minister Melanie Ward this evening (Thursday) hosts a Remembrance Reception in Edinburgh to celebrate Scotland’s Armed Forces community, including veterans.\n\nAn estimated one million veterans and their families in the UK will benefit from easier access to local services, thanks to the VALOUR network expanding. \n\nEarlier this year, 14 organisations were awarded over £13m to launch the first wave of VALOUR-recognised centres, including SSAFA Scotland’s drop-in centre in Glasgow which was awarded up to £1 million. \n\nNow the Defence Medical Welfare Service (DMWS) charity in Dumfries and Galloway is receiving £859,281 as a further 21 organisations share more than £13.2m of funding to launch the second wave of VALOUR-recognised centres by the beginning of 2027.\n\nDMWS helps those who have and continue to serve on the frontline and their families with medical welfare and associated assistance. It is embedded within NHS Boards across Scotland, providing critical support at the bedside for Armed Forces patients (serving, reservists, veterans and their families).\n\nVALOUR has been designed to help the UK’s estimated two million veterans get the support they need through VALOUR-recognised centres, a helpline service or on GOV.UK.  \n\nPrime Minister Andy Burnham said:\n\n\n  It is a privilege to be able to honour our veterans, not just as we mark Remembrance Day, but year-round as we remember the service and the sacrifice of those who fought for the lives we live today.\n\n  I’m incredibly proud to see the VALOUR network grow to provide support to more veterans and their families - those who have given so much to protect communities across the country.\n\n\nScottish Secretary Douglas Alexander said:\n\n\n  Our veterans and serving troops have made huge sacrifices to keep us safe, and I’m immensely proud of each and every one of them. But our gratitude can’t stop at words, or end when they leave the forces. \n\n\n\n  This £859,000 UK Government funding will help the Defence Medical Welfare Service in Dumfries and Galloway be there for them and their families when they need it most. It’s a vital boost for our Armed Forces community in Scotland, and exactly what they deserve.\n\n\nMinister for Veterans and People Calvin Bailey MBE MP said:\n\n\n  Ahead of Remembrance Sunday, I’m pleased that we can pay tribute to the service and sacrifice of our armed forces community by giving veterans easier access to the support they need, regardless of where they are in the UK. \n\n  I’ve heard wonderful stories of how centres like Citizens Advice are making a real difference to people’s lives. Joining the VALOUR system will help them support even more veterans and their families.\n\n\nDMWS CEO Abby Dryden said:\n\n\n  DMWS is proud to be part of the VALOUR system and to help deliver a more joined-up approach to support for veterans, serving personnel and their families across South Scotland. By bringing organisations together and strengthening pathways into support, VALOUR will make it easier for people to access the right help at the right time, wherever they live.\n\n  This partnership reflects our shared commitment to ensuring that no member of the Armed Forces community has to face challenges alone. We are incredibly proud to work alongside our partners to build a stronger, more connected system of support for the Armed Forces Community and families and carers across South Scotland.\n\n\nVALOUR is overseen by a headquarters in the Office for Veterans’ Affairs (OVA) within the Ministry of Defence. It will bring together national oversight, regional coordination and local delivery to improve how services work together. \n\nVALOUR field officers are also working regionally to strengthen collaboration between partners such as councils, local public services and charities. \n\nThe continued rollout of VALOUR demonstrates the UK Government’s delivery of the 10-year Veterans Strategy, which aims to celebrate, contribute to, and support those who serve and have served. Funding for VALOUR is included in the Defence Investment Plan. \n\n There are approximately 176,000 veterans living in Scotland.\n\nScotland now has two VALOUR-recognised centres:\n\n\n  DMWS; and\n  SSAFA Scotland’s drop-in centre in Glasgow, which signposts veterans to local services. This service caters for around 76,000 veterans in Glasgow, Bute, East Dunbartonshire, East Renfrewshire, Edinburgh, Falkirk, Inverclyde, Midlothian, Renfrewshire, South Lanarkshire, North Lanarkshire, Stirling, West Dunbartonshire and West Lothian.\n\n\nThis evening (Thursday) Minister Ward hosts a Remembrance Reception at the UK Government’s Queen Elizabeth House HQ in Edinburgh, bringing together Scotland’s Armed Forces community, including veteran organisations and military representatives, as well as Scottish MPs and other guests.\n\nENDS\n\n Notes to editors \n\n\n  Over £26m of development funding for VALOUR-recognised centres has been allocated in two rounds of funding. \n  \n    21 lead organisations are receiving £13,260,580 of development funding in round 2, with £26,516,357 million granted in total. They will join the first round of 14 organisations announced in March 2026, and are: \n  \n  Defence Medical Welfare Service charity \n  The Poppy Factory \n  Sir Oswald Stoll Foundation \n  Age UK Waltham Forest \n  Mid Suffolk Citizens Advice Bureau   \n  Stevenage Borough Council \n  Veterans Support Northern Ireland \n  Adferiad \n  Monmouthshire County Council \n  City of York Council \n  Leeds City Council \n  Herefordshire Veterans Support Centre   \n  The Veterans Contact Point \n  Loughborough Wellbeing Centre \n  CVS Lincolnshire \n  Citizens Advice Rushmoor \n  The Lantern Trust (Weymouth) \n  Wiltshire Council \n  Westmorland &amp; Furness Council \n  Dover District Council \n  \n    East Durham Veterans Trust – will receive additional funding in round 2 \n  \n  Further information on VALOUR - and how to access support - can be found at www.gov.uk/valour\n\n\n",
-      "bodyHash": "79d25dafedecca027a180235a6e20e00edbc9082660e0601afaba057c3258025",
+      "bodyHtml": "<div><p>The funding comes as UK Government Scotland Office Minister Melanie Ward this evening (Thursday) hosts a Remembrance Reception in Edinburgh to celebrate Scotland’s Armed Forces community, including veterans.</p>\n\n<p>An estimated one million veterans and their families in the UK will benefit from easier access to local services, thanks to the VALOUR network expanding. </p>\n\n<p>Earlier this year, 14 organisations were awarded over £13m to launch the first wave of VALOUR-recognised centres, including SSAFA Scotland’s drop-in centre in Glasgow which was awarded up to £1 million. </p>\n\n<p>Now the Defence Medical Welfare Service (<a href=\"https://dmws.org.uk/scotland/\">DMWS</a>) charity in Dumfries and Galloway is receiving £859,281 as a further 21 organisations share more than £13.2m of funding to launch the second wave of VALOUR-recognised centres by the beginning of 2027.</p>\n\n<p>DMWS helps those who have and continue to serve on the frontline and their families with medical welfare and associated assistance. It is embedded within NHS Boards across Scotland, providing critical support at the bedside for Armed Forces patients (serving, reservists, veterans and their families).</p>\n\n<p>VALOUR has been designed to help the UK’s estimated two million veterans get the support they need through VALOUR-recognised centres, a helpline service or on <a href=\"http://gov.uk/\">GOV.UK</a>.  </p>\n\n<p>Prime Minister Andy Burnham said:</p>\n\n<blockquote>\n  <p>It is a privilege to be able to honour our veterans, not just as we mark Remembrance Day, but year-round as we remember the service and the sacrifice of those who fought for the lives we live today.</p>\n\n  <p>I’m incredibly proud to see the VALOUR network grow to provide support to more veterans and their families - those who have given so much to protect communities across the country.</p>\n</blockquote>\n\n<p>Scottish Secretary Douglas Alexander said:</p>\n\n<blockquote>\n  <p>Our veterans and serving troops have made huge sacrifices to keep us safe, and I’m immensely proud of each and every one of them. But our gratitude can’t stop at words, or end when they leave the forces. </p>\n\n  <p>This £859,000 UK Government funding will help the Defence Medical Welfare Service in Dumfries and Galloway be there for them and their families when they need it most. It’s a vital boost for our Armed Forces community in Scotland, and exactly what they deserve.</p>\n</blockquote>\n\n<p>Minister for Veterans and People Calvin Bailey MBE MP said:</p>\n\n<blockquote>\n  <p>Ahead of Remembrance Sunday, I’m pleased that we can pay tribute to the service and sacrifice of our armed forces community by giving veterans easier access to the support they need, regardless of where they are in the UK. </p>\n\n  <p>I’ve heard wonderful stories of how centres like Citizens Advice are making a real difference to people’s lives. Joining the VALOUR system will help them support even more veterans and their families.</p>\n</blockquote>\n\n<p>DMWS CEO Abby Dryden said:</p>\n\n<blockquote>\n  <p>DMWS is proud to be part of the VALOUR system and to help deliver a more joined-up approach to support for veterans, serving personnel and their families across South Scotland. By bringing organisations together and strengthening pathways into support, VALOUR will make it easier for people to access the right help at the right time, wherever they live.</p>\n\n  <p>This partnership reflects our shared commitment to ensuring that no member of the Armed Forces community has to face challenges alone. We are incredibly proud to work alongside our partners to build a stronger, more connected system of support for the Armed Forces Community and families and carers across South Scotland.</p>\n</blockquote>\n\n<p>VALOUR is overseen by a headquarters in the Office for Veterans’ Affairs (OVA) within the Ministry of Defence. It will bring together national oversight, regional coordination and local delivery to improve how services work together. </p>\n\n<p>VALOUR field officers are also working regionally to strengthen collaboration between partners such as councils, local public services and charities. </p>\n\n<p>The continued rollout of VALOUR demonstrates the UK Government’s delivery of the 10-year Veterans Strategy, which aims to celebrate, contribute to, and support those who serve and have served. Funding for VALOUR is included in the Defence Investment Plan. </p>\n\n<p>There are approximately 176,000 veterans living in Scotland.</p>\n\n<p>Scotland now has two VALOUR-recognised centres:</p>\n\n<ul>\n  <li>DMWS; and</li>\n  <li>SSAFA Scotland’s drop-in centre in Glasgow, which signposts veterans to local services. This service caters for around 76,000 veterans in Glasgow, Bute, East Dunbartonshire, East Renfrewshire, Edinburgh, Falkirk, Inverclyde, Midlothian, Renfrewshire, South Lanarkshire, North Lanarkshire, Stirling, West Dunbartonshire and West Lothian.</li>\n</ul>\n\n<p>This evening (Thursday) Minister Ward hosts a Remembrance Reception at the UK Government’s Queen Elizabeth House HQ in Edinburgh, bringing together Scotland’s Armed Forces community, including veteran organisations and military representatives, as well as Scottish MPs and other guests.</p>\n\n<p>ENDS</p>\n\n<p> Notes to editors </p>\n\n<ul>\n  <li>Over £26m of development funding for VALOUR-recognised centres has been allocated in two rounds of funding. </li>\n  <li>\n    <p>21 lead organisations are receiving £13,260,580 of development funding in round 2, with £26,516,357 million granted in total. They will join the first round of 14 organisations announced in March 2026, and are: </p>\n  </li>\n  <li>Defence Medical Welfare Service charity </li>\n  <li>The Poppy Factory </li>\n  <li>Sir Oswald Stoll Foundation </li>\n  <li>Age UK Waltham Forest </li>\n  <li>Mid Suffolk Citizens Advice Bureau   </li>\n  <li>Stevenage Borough Council </li>\n  <li>Veterans Support Northern Ireland </li>\n  <li>Adferiad </li>\n  <li>Monmouthshire County Council </li>\n  <li>City of York Council </li>\n  <li>Leeds City Council </li>\n  <li>Herefordshire Veterans Support Centre   </li>\n  <li>The Veterans Contact Point </li>\n  <li>Loughborough Wellbeing Centre </li>\n  <li>CVS Lincolnshire </li>\n  <li>Citizens Advice Rushmoor </li>\n  <li>The Lantern Trust (Weymouth) </li>\n  <li>Wiltshire Council </li>\n  <li>Westmorland &amp; Furness Council </li>\n  <li>Dover District Council </li>\n  <li>\n    <p>East Durham Veterans Trust – will receive additional funding in round 2 </p>\n  </li>\n  <li>Further information on VALOUR - and how to access support - can be found at <a href=\"https://www.gov.uk/valour\">www.gov.uk/valour</a>\n</li>\n</ul>\n</div>",
+      "bodyText": "The funding comes as UK Government Scotland Office Minister Melanie Ward this evening (Thursday) hosts a Remembrance Reception in Edinburgh to celebrate Scotland’s Armed Forces community, including veterans.\n\nAn estimated one million veterans and their families in the UK will benefit from easier access to local services, thanks to the VALOUR network expanding. \n\nEarlier this year, 14 organisations were awarded over £13m to launch the first wave of VALOUR-recognised centres, including SSAFA Scotland’s drop-in centre in Glasgow which was awarded up to £1 million. \n\nNow the Defence Medical Welfare Service (DMWS) charity in Dumfries and Galloway is receiving £859,281 as a further 21 organisations share more than £13.2m of funding to launch the second wave of VALOUR-recognised centres by the beginning of 2027.\n\nDMWS helps those who have and continue to serve on the frontline and their families with medical welfare and associated assistance. It is embedded within NHS Boards across Scotland, providing critical support at the bedside for Armed Forces patients (serving, reservists, veterans and their families).\n\nVALOUR has been designed to help the UK’s estimated two million veterans get the support they need through VALOUR-recognised centres, a helpline service or on GOV.UK.  \n\nPrime Minister Andy Burnham said:\n\n\n  It is a privilege to be able to honour our veterans, not just as we mark Remembrance Day, but year-round as we remember the service and the sacrifice of those who fought for the lives we live today.\n\n  I’m incredibly proud to see the VALOUR network grow to provide support to more veterans and their families - those who have given so much to protect communities across the country.\n\n\nScottish Secretary Douglas Alexander said:\n\n\n  Our veterans and serving troops have made huge sacrifices to keep us safe, and I’m immensely proud of each and every one of them. But our gratitude can’t stop at words, or end when they leave the forces. \n\n  This £859,000 UK Government funding will help the Defence Medical Welfare Service in Dumfries and Galloway be there for them and their families when they need it most. It’s a vital boost for our Armed Forces community in Scotland, and exactly what they deserve.\n\n\nMinister for Veterans and People Calvin Bailey MBE MP said:\n\n\n  Ahead of Remembrance Sunday, I’m pleased that we can pay tribute to the service and sacrifice of our armed forces community by giving veterans easier access to the support they need, regardless of where they are in the UK. \n\n  I’ve heard wonderful stories of how centres like Citizens Advice are making a real difference to people’s lives. Joining the VALOUR system will help them support even more veterans and their families.\n\n\nDMWS CEO Abby Dryden said:\n\n\n  DMWS is proud to be part of the VALOUR system and to help deliver a more joined-up approach to support for veterans, serving personnel and their families across South Scotland. By bringing organisations together and strengthening pathways into support, VALOUR will make it easier for people to access the right help at the right time, wherever they live.\n\n  This partnership reflects our shared commitment to ensuring that no member of the Armed Forces community has to face challenges alone. We are incredibly proud to work alongside our partners to build a stronger, more connected system of support for the Armed Forces Community and families and carers across South Scotland.\n\n\nVALOUR is overseen by a headquarters in the Office for Veterans’ Affairs (OVA) within the Ministry of Defence. It will bring together national oversight, regional coordination and local delivery to improve how services work together. \n\nVALOUR field officers are also working regionally to strengthen collaboration between partners such as councils, local public services and charities. \n\nThe continued rollout of VALOUR demonstrates the UK Government’s delivery of the 10-year Veterans Strategy, which aims to celebrate, contribute to, and support those who serve and have served. Funding for VALOUR is included in the Defence Investment Plan. \n\nThere are approximately 176,000 veterans living in Scotland.\n\nScotland now has two VALOUR-recognised centres:\n\n\n  DMWS; and\n  SSAFA Scotland’s drop-in centre in Glasgow, which signposts veterans to local services. This service caters for around 76,000 veterans in Glasgow, Bute, East Dunbartonshire, East Renfrewshire, Edinburgh, Falkirk, Inverclyde, Midlothian, Renfrewshire, South Lanarkshire, North Lanarkshire, Stirling, West Dunbartonshire and West Lothian.\n\n\nThis evening (Thursday) Minister Ward hosts a Remembrance Reception at the UK Government’s Queen Elizabeth House HQ in Edinburgh, bringing together Scotland’s Armed Forces community, including veteran organisations and military representatives, as well as Scottish MPs and other guests.\n\nENDS\n\n Notes to editors \n\n\n  Over £26m of development funding for VALOUR-recognised centres has been allocated in two rounds of funding. \n  \n    21 lead organisations are receiving £13,260,580 of development funding in round 2, with £26,516,357 million granted in total. They will join the first round of 14 organisations announced in March 2026, and are: \n  \n  Defence Medical Welfare Service charity \n  The Poppy Factory \n  Sir Oswald Stoll Foundation \n  Age UK Waltham Forest \n  Mid Suffolk Citizens Advice Bureau   \n  Stevenage Borough Council \n  Veterans Support Northern Ireland \n  Adferiad \n  Monmouthshire County Council \n  City of York Council \n  Leeds City Council \n  Herefordshire Veterans Support Centre   \n  The Veterans Contact Point \n  Loughborough Wellbeing Centre \n  CVS Lincolnshire \n  Citizens Advice Rushmoor \n  The Lantern Trust (Weymouth) \n  Wiltshire Council \n  Westmorland &amp; Furness Council \n  Dover District Council \n  \n    East Durham Veterans Trust – will receive additional funding in round 2 \n  \n  Further information on VALOUR - and how to access support - can be found at www.gov.uk/valour\n\n\n",
+      "bodyHash": "30f1aad801d22d41f48caf5565ff5fb444a8239d9e920a4d4157c451554324fd",
       "language": "en",
       "republication": {
         "sourceId": "govuk-fulltext",
@@ -864,19 +1347,30 @@
         "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
         "authors": [
           "Scotland Office",
-          "Ministry of Defence",
           "Office for Veterans' Affairs"
         ],
         "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
         "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
-        "sourceUpdatedAt": "2026-11-05T14:55:37+00:00",
+        "sourceUpdatedAt": "2026-11-05T14:55:00+00:00",
         "sourceVersion": "2d2b4583-69c1-47ff-bfca-889a312149cb"
       },
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
-      "updatedAt": "2026-11-05T15:47:00.056Z",
-      "version": 1,
-      "history": []
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
+      "updatedAt": "2026-11-05T21:56:42.958Z",
+      "version": 2,
+      "history": [
+        {
+          "title": "UK veteran support centre network to more than double",
+          "summary": "The award comes as UK Government Scotland Office Minister Melanie Ward this evening (Thursday) hosts a Remembrance Reception in Edinburgh to celebrate Scotland’s Armed Forces community, including veterans. An estimated one million veterans ",
+          "summaryProvenance": {
+            "type": "licensed_body_excerpt",
+            "sourceId": "govuk-fulltext"
+          },
+          "sourcePublishedAt": "2026-11-05T14:55:37+00:00",
+          "version": 1,
+          "updatedAt": "2026-11-05T15:47:00.056Z"
+        }
+      ]
     },
     {
       "id": "eabb1832bc8110449c3fec09",
@@ -910,8 +1404,8 @@
       "summary": "中新网哈尔滨11月5日电 (记者 王琳)由黑龙江省人民政府新闻办公室举行的“2026—2027年黑龙江冬季冰雪旅游百日行动”新闻发布会于5日在哈尔滨发布消息：2026年1月—10月，黑龙江省接待入境游客180.5万人次，实现入境游客花费198.1亿元人民币，分别同比增长35.6%、36.7%。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-11-05T14:51:42.000Z",
@@ -925,7 +1419,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -950,7 +1444,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1027,7 +1521,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1053,7 +1547,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1105,7 +1599,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1130,7 +1624,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1155,7 +1649,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1180,7 +1674,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1205,7 +1699,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1230,7 +1724,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1256,7 +1750,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1281,7 +1775,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1307,7 +1801,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1332,7 +1826,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1358,7 +1852,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1383,7 +1877,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1408,7 +1902,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1433,7 +1927,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1458,7 +1952,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1483,7 +1977,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1508,7 +2002,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1534,7 +2028,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1560,7 +2054,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1587,7 +2081,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1613,7 +2107,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1638,7 +2132,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1664,7 +2158,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1690,7 +2184,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1715,7 +2209,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1740,7 +2234,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1766,7 +2260,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1791,7 +2285,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1817,7 +2311,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1859,7 +2353,7 @@
         "sourceVersion": "3cf69d7c-b010-4f79-af1d-b55572763c6a"
       },
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1884,7 +2378,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1909,7 +2403,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1934,7 +2428,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1959,7 +2453,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -1985,7 +2479,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2010,7 +2504,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2036,7 +2530,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2061,7 +2555,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2111,7 +2605,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2137,7 +2631,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2163,7 +2657,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2188,7 +2682,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2213,7 +2707,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2239,7 +2733,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2265,7 +2759,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2290,7 +2784,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2315,7 +2809,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2341,7 +2835,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2366,7 +2860,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2392,7 +2886,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2418,7 +2912,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2443,7 +2937,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2468,7 +2962,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2512,7 +3006,7 @@
         "sourceVersion": "eb587820-cef3-4a54-8249-61eb3f667953"
       },
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2537,7 +3031,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2613,7 +3107,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2665,7 +3159,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2691,7 +3185,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2716,7 +3210,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2741,7 +3235,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2766,7 +3260,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2792,7 +3286,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2817,7 +3311,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2867,7 +3361,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2892,7 +3386,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2918,7 +3412,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2943,7 +3437,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2969,7 +3463,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -2994,7 +3488,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3019,7 +3513,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3044,7 +3538,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3070,7 +3564,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3096,7 +3590,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3121,7 +3615,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3147,7 +3641,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3172,7 +3666,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3197,7 +3691,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3222,7 +3716,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3274,7 +3768,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3301,7 +3795,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3326,7 +3820,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3351,7 +3845,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3377,7 +3871,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3402,7 +3896,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3427,7 +3921,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3453,7 +3947,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3504,7 +3998,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3529,7 +4023,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3555,7 +4049,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3580,7 +4074,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3656,7 +4150,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3682,7 +4176,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3708,7 +4202,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3734,7 +4228,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3760,7 +4254,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3785,7 +4279,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3929,7 +4423,7 @@
         "sourceVersion": "f25e4bb3-790b-4150-80d5-6f1e8d07493c"
       },
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -3980,7 +4474,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -4005,7 +4499,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -4080,7 +4574,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -4105,7 +4599,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -4299,7 +4793,7 @@
         "sourceVersion": "b246ec14-91b8-4c2a-b3a2-5b9663d06fbf"
       },
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -4341,7 +4835,7 @@
         "sourceVersion": "18df4d5a-fa4a-4383-b985-8da5111c8baa"
       },
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -4383,7 +4877,7 @@
         "sourceVersion": "cbd6593a-e3e8-4276-838e-2188922775b0"
       },
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -4408,7 +4902,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -4434,7 +4928,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -4610,7 +5104,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -4686,7 +5180,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -5973,7 +6467,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-05T07:20:21.608Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T07:20:21.608Z",
       "version": 1,
       "history": []
@@ -6133,7 +6627,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-05T07:20:21.608Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T07:20:21.608Z",
       "version": 1,
       "history": []
@@ -7126,7 +7620,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-05T07:20:21.608Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T07:20:21.608Z",
       "version": 1,
       "history": []
@@ -7528,7 +8022,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-05T07:20:21.608Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T07:20:21.608Z",
       "version": 1,
       "history": []
@@ -7884,7 +8378,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-05T07:20:21.608Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T07:20:21.608Z",
       "version": 1,
       "history": []
@@ -8010,7 +8504,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-05T07:20:21.608Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T07:20:21.608Z",
       "version": 1,
       "history": []
@@ -8390,7 +8884,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-05T07:20:21.608Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T07:20:21.608Z",
       "version": 1,
       "history": []
@@ -8492,7 +8986,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-05T07:20:21.608Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T07:20:21.608Z",
       "version": 1,
       "history": []
@@ -8663,7 +9157,7 @@
         "sourceVersion": "ed8c677c-9192-4750-a350-c6247a146da4"
       },
       "firstSeenAt": "2026-11-05T00:19:50.331Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T00:19:50.331Z",
       "version": 1,
       "history": []
@@ -8705,7 +9199,7 @@
         "sourceVersion": "4ba7d9b0-2044-497b-af19-9075ceef483b"
       },
       "firstSeenAt": "2026-11-05T00:19:50.331Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 2,
       "history": [
@@ -8759,7 +9253,7 @@
         "sourceVersion": "54d8dd45-9f08-4e8a-bf2d-2a29c81762da"
       },
       "firstSeenAt": "2026-11-05T00:19:50.331Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 2,
       "history": [
@@ -8814,7 +9308,7 @@
         "sourceVersion": "b7766627-dd95-457e-9d6c-a005fb9e52e7"
       },
       "firstSeenAt": "2026-11-05T00:19:50.331Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 2,
       "history": [
@@ -8868,7 +9362,7 @@
         "sourceVersion": "db3d131f-b95b-4014-ac6e-54eb4576875f"
       },
       "firstSeenAt": "2026-11-05T00:19:50.331Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 2,
       "history": [
@@ -10188,7 +10682,7 @@
         "sourceVersion": "26300c32-2b2b-498a-b09b-9d91469e8e56"
       },
       "firstSeenAt": "2026-11-04T18:51:09.170Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 2,
       "history": [
@@ -10318,7 +10812,7 @@
         "sourceVersion": "31696531-655e-4940-9cb8-97e7eec7b42a"
       },
       "firstSeenAt": "2026-11-04T18:51:09.170Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-04T18:51:09.170Z",
       "version": 1,
       "history": []
@@ -10454,7 +10948,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-04T18:51:09.170Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-04T18:51:09.170Z",
       "version": 1,
       "history": []
@@ -11379,7 +11873,7 @@
         "sourceVersion": "7bdd8317-0fa4-457e-bb4e-cdd2a714eebc"
       },
       "firstSeenAt": "2026-11-04T18:51:09.170Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-04T18:51:09.170Z",
       "version": 1,
       "history": []
@@ -11734,7 +12228,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-04T18:51:09.170Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-04T18:51:09.170Z",
       "version": 1,
       "history": []
@@ -12602,7 +13096,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-04T18:51:09.170Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-04T18:51:09.170Z",
       "version": 1,
       "history": []
@@ -16833,7 +17327,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-04T11:30:41.859Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-04T11:30:41.859Z",
       "version": 1,
       "history": []
@@ -17135,7 +17629,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-04T11:30:41.859Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-04T11:30:41.859Z",
       "version": 1,
       "history": []
@@ -17160,7 +17654,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-04T11:30:41.859Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-04T11:30:41.859Z",
       "version": 1,
       "history": []
@@ -17285,7 +17779,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-04T11:30:41.859Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-04T11:30:41.859Z",
       "version": 1,
       "history": []
@@ -17310,7 +17804,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-04T11:30:41.859Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-04T11:30:41.859Z",
       "version": 1,
       "history": []
@@ -17795,7 +18289,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-04T11:30:41.859Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-04T11:30:41.859Z",
       "version": 1,
       "history": []
@@ -18414,7 +18908,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-04T03:12:08.470Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-04T03:12:08.470Z",
       "version": 1,
       "history": []
@@ -18718,7 +19212,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-04T03:12:08.470Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-04T03:12:08.470Z",
       "version": 1,
       "history": []
@@ -20050,7 +20544,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-04T03:12:08.470Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-04T03:12:08.470Z",
       "version": 1,
       "history": []
@@ -20458,7 +20952,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-03T23:14:48.371Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-03T23:14:48.371Z",
       "version": 1,
       "history": []
@@ -20538,7 +21032,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-03T23:14:48.371Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-03T23:14:48.371Z",
       "version": 1,
       "history": []
@@ -21553,7 +22047,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-03T17:45:59.321Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-03T17:45:59.321Z",
       "version": 1,
       "history": []
@@ -23085,7 +23579,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-03T17:45:59.321Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-03T17:45:59.321Z",
       "version": 1,
       "history": []
@@ -24971,7 +25465,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-03T17:45:59.321Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-03T17:45:59.321Z",
       "version": 1,
       "history": []
@@ -25200,7 +25694,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-03T17:45:59.321Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-03T17:45:59.321Z",
       "version": 1,
       "history": []
@@ -27184,7 +27678,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-03T09:59:44.992Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-03T09:59:44.992Z",
       "version": 1,
       "history": []
@@ -91736,7 +92230,7 @@
         "sourceVersion": "5ec3e88f-2342-4932-ab30-ed655617e5c3"
       },
       "firstSeenAt": "2026-10-28T13:29:33.122Z",
-      "lastSeenAt": "2026-11-05T15:47:00.056Z",
+      "lastSeenAt": "2026-11-05T21:56:42.958Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 2,
       "history": [
@@ -260081,453 +260575,6 @@
       "updatedAt": "2026-10-13T16:23:54.401Z",
       "version": 1,
       "history": []
-    },
-    {
-      "id": "ac15cbfb5d1dce920a0c483c",
-      "title": "平陆运河荣膺绿色设计界“奥斯卡” 生态优先理念获国际肯定",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-13/10714087.shtml",
-      "summary": "中新社桂林10月13日电 (杨陈 陈秋霞)2026年世界运河大会13日在广西桂林开幕。开幕式上，世界绿色设计组织向平陆运河项目颁发绿色设计国际大奖、绿色设计国际贡献奖，平陆运河首次在绿色生态领域获得国际大奖。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-13T14:29:25.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-14T00:35:06.763Z",
-      "updatedAt": "2026-10-13T16:23:54.401Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "f48bb00e2bb3cf532f272f94",
-      "title": "Steam 新一周游戏销量榜公布：《AION 2》继续领跑全球榜首",
-      "originalUrl": "https://www.ithome.com/1/012/580.htm",
-      "summary": "IT之家 10 月 13 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 10 月 6 日 - 2026 年 10 月 13 日，无免费游戏），《AION 2（〈永恒之塔 2〉国际服）》继续占据全球榜首，多款降价及新游戏上榜，《影之刃零》预购登顶国区榜单。 全球榜单： AION 2 《星球大战：银河赛车手™》 EA SPORTS FC™ 27 Gears of War: E-Day 《雨中冒险 2》 ARC Raiders 《雨中冒险 2：万象归衡》 …",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-13T14:26:02.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "entertainment"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-14T00:35:06.763Z",
-      "updatedAt": "2026-10-13T16:23:54.401Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "edfe70b4cf333410107efdcc",
-      "title": "内河航道国际组织主席：灵渠历经2000多年保存完好堪称典范",
-      "originalUrl": "https://www.chinanews.com.cn/gn/2026/10-13/10714084.shtml",
-      "summary": "中新网桂林10月13日电(周利朔 欧惠兰 邓竣缤)2026年世界运河大会10月13日在广西桂林开幕。内河航道国际组织(IWI)主席莎伦·莱顿在接受采访时表示，灵渠历经2000多年仍保存得如此完好，堪称典范。这一点可以通过内河航道国际组织以及其他水道或文化组织在全世界分享。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-13T14:22:54.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
-      "updatedAt": "2026-10-13T16:23:54.401Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "0b5724fd0d5ae3b4b1207e55",
-      "title": "苹果：HomePod 家庭影院环绕声功能仅支持新款 Apple TV 4K",
-      "originalUrl": "https://www.ithome.com/1/012/579.htm",
-      "summary": "IT之家 10 月 13 日消息，苹果今天推出一系列智能家居产品。其中第四代 Apple TV 4K 搭配 HomePod mini 2 使用时，将可以组成四扬声器环绕声。 苹果表示，家庭影院环绕声需要四台 HomePod mini 2 或第二代 HomePod，并按照前后方式组成两组配对设备，同时需要运行最新操作系统的 Apple TV 4K（第四代）。 IT之家注意到，HomePod mini 2 现已在国内苹果官网上架，售 1099 元，可选五种配色，采用全频驱动单元和…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-13T14:21:29.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-14T00:35:06.763Z",
-      "updatedAt": "2026-10-13T16:23:54.401Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "ad7e347aea4fb4a2058c0d9c",
-      "title": "2025年欧盟进口纯电动汽车逾四成来自中国",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/10-13/10714065.shtml",
-      "summary": "中新网布鲁塞尔10月13日电 (记者 德永健)欧盟统计局13日公布的数据显示，2025年欧盟纯电动汽车进口总值150亿欧元，逾四成进口纯电动汽车来自中国。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-13T14:12:58.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance",
-        "mobility",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-finance",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-14T00:35:06.763Z",
-      "updatedAt": "2026-10-13T16:23:54.401Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "e7b6f518fe7d53af661151dc",
-      "title": "赵乐际分别会见博茨瓦纳总统博科、多哥部长会议主席福雷",
-      "originalUrl": "https://www.chinanews.com.cn/gn/2026/10-13/10714075.shtml",
-      "summary": "中新社北京10月13日电 全国人大常委会委员长赵乐际10月13日下午在北京分别会见博茨瓦纳总统博科、多哥部长会议主席福雷。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-13T14:12:38.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
-      "updatedAt": "2026-10-13T16:23:54.401Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "b982781fb3bd88020cefed49",
-      "title": "习近平同博茨瓦纳总统博科会谈",
-      "originalUrl": "https://www.chinanews.com.cn/gn/2026/10-13/10714060.shtml",
-      "summary": "中新社北京10月13日电 10月13日下午，中国国家主席习近平在北京人民大会堂同来华进行国事访问的博茨瓦纳总统博科举行会谈。两国元首宣布将双边关系提升为全面战略合作伙伴关系。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-13T14:12:10.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T21:31:06.629Z",
-      "updatedAt": "2026-10-13T16:23:54.401Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "2a2845040c98ca6a7518ca8c",
-      "title": "成渝中线高铁动走线跨沙河特大桥顺利合龙",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/10-13/10714064.shtml",
-      "summary": "中新网成都10月13日电 (记者 刘忠俊)10月13日下午，随着最后一方混凝土浇筑完成，成渝中线高铁动走线跨沙河特大桥顺利合龙。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-13T14:12:02.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-finance",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-14T00:35:06.763Z",
-      "updatedAt": "2026-10-13T16:23:54.401Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "81ba386324b73ec9d2e415cc",
-      "title": "习近平会见多哥部长会议主席福雷",
-      "originalUrl": "https://www.chinanews.com.cn/gn/2026/10-13/10714061.shtml",
-      "summary": "中新社北京10月13日电 10月13日下午，中国国家主席习近平在北京人民大会堂会见来华进行正式访问的多哥部长会议主席福雷。两国领导人宣布将双边关系定位提升为新时代中多命运共同体。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-13T14:12:00.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
-      "updatedAt": "2026-10-13T16:23:54.401Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "1481d5f7fc3666b7a5254fa8",
-      "title": "秋千、蚂𧊅抓害虫、高脚竞速 广西少数民族传统体育运动会精彩纷呈",
-      "originalUrl": "https://www.chinanews.com.cn/tp/2026/10-13/10714072.shtml",
-      "summary": "10月13日，广西壮族自治区第十六届少数民族传统体育运动会在柳州市举行。图为高脚竞速比赛现场。林馨 摄 10月13日，广西壮族自治区第十六届少数民族传统体育运动会在柳州市举行。图为秋千比赛现场。林馨 摄 10月13日，广西壮族自治区第十六届少数民族传统体育运动会在柳州市举行。图为秋千比赛现场。林馨 摄 10月13日，广西壮族自治区第十六届少数民族传统体育运动会在柳州市举行。图为秋千比赛现场。林馨 摄 10月13日，广西壮族自治区第十六届少数民族传统体育运动会在柳州市举行。图为…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-13T14:09:18.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "sports"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-13T16:23:54.401Z",
-      "updatedAt": "2026-10-13T16:23:54.401Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "a766d8fc4d80025c051daa56",
-      "title": "Businesses set to be protected from Argentinian economic coercion",
-      "originalUrl": "https://www.gov.uk/government/news/businesses-set-to-be-protected-from-argentinian-economic-coercion",
-      "sourcePublishedAt": "2026-10-13T15:07:00+01:00",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "govuk-fulltext"
-      ],
-      "summary": "UK Government to introduce new protective measures in response to Argentine domestic measures targeting activity linked to the Falkland Islands New measures will protect UK businesses and individuals from extraterritorial Argentine domestic",
-      "summaryProvenance": {
-        "type": "licensed_body_excerpt",
-        "sourceId": "govuk-fulltext"
-      },
-      "contentMode": "fulltext",
-      "bodyHtml": "<div><div>\n  <ul>\n    <li>UK Government to introduce new protective measures in response to Argentine domestic measures targeting activity linked to the Falkland Islands</li>\n    <li>New measures will protect UK businesses and individuals from extraterritorial Argentine domestic measures</li>\n    <li>UK reaffirms support for the Falkland Islanders’ right to self-determination and economic development</li>\n  </ul>\n</div>\n\n<p>Businesses investing in the Falklands Islands are set to be protected from Argentinian domestic measures targeting companies and individuals involved in lawful economic activity.</p>\n\n<p>It comes as the government is preparing measures under Protection of Trading Interests (PTI) legislation underlining that the UK won’t hesitate to protect UK businesses and individuals.</p>\n\n<p>The measures will protect businesses from pressure to comply with Argentine domestic measures and ensure that UK persons and companies engaged in lawful activity around the Falkland Islands can and will continue to make commercial decisions in accordance with UK law.  </p>\n\n<p>The purpose of these measures is not to restrict lawful commercial activity by UK or UK-based companies with Argentina, but to protect them from being compelled to comply with extraterritorial measures targeting lawful activity connected to the Falkland Islands.</p>\n\n<p>The Government is engaging closely with affected businesses to offer support.</p>\n\n<p>The UK supports the right of the Falkland Islanders to develop their natural resources for their own economic benefit. Decisions on economic development in the Falkland Islands are matters for the Falkland Islands Government and the companies involved.</p>\n\n<h3>Secretary of State for Business and Trade Jonathan Reynolds said:</h3>\n\n<blockquote>\n  <p>This makes it clear in no uncertain terms - that this Government will act where Argentina seeks to impede lawful UK commercial activity.</p>\n\n  <p>We will introduce measures under the Protection of Trading Interests (PTI) legislation to protect UK interests and continue to engage closely with affected businesses.</p>\n\n  <p>These steps send a clear signal that we will not stand by while Argentina seeks to apply their domestic legislation to impede legitimate commercial interests in the Falkland Islands.</p>\n</blockquote>\n\n<h3>Foreign Secretary Ed Miliband said:</h3>\n\n<blockquote>\n  <p>The UK’s support for the Falkland Islands is steadfast.</p>\n\n  <p>Argentina’s attempts to intimidate businesses and individuals engaged in legitimate commercial activity are unacceptable. Companies should be free to make lawful commercial decisions without the threat of political coercion.</p>\n\n  <p>We will always stand up for the Falkland Islanders, their right to determine their own future, and their right to pursue legitimate economic development.</p>\n</blockquote>\n\n<p>Today’s announcement demonstrates that the UK Government is prepared to take concrete action in response to attempts by Argentina to coerce businesses engaged in lawful activity.</p>\n\n<p>This Government will continue to stand shoulder-to-shoulder with the Falkland Islands Government and the Falkland Islanders, and to engage with affected businesses. It will continue to consider all available options to protect UK interests and support the Falkland Islanders.</p>\n\n<h3>Notes to Editors</h3>\n<ul>\n  <li>Protection of Trading Interests legislation prevents UK persons from complying with specific extraterritorial sanctions measures.</li>\n  <li>The government will bring forward secondary legislation as quickly as possible, with the aim to bring it into force before the end of the year.</li>\n  <li>These measures will target only Argentinian extraterritorial measures affecting the Falkland Islands.</li>\n</ul>\n</div>",
-      "bodyText": "\n  \n    UK Government to introduce new protective measures in response to Argentine domestic measures targeting activity linked to the Falkland Islands\n    New measures will protect UK businesses and individuals from extraterritorial Argentine domestic measures\n    UK reaffirms support for the Falkland Islanders’ right to self-determination and economic development\n  \n\n\nBusinesses investing in the Falklands Islands are set to be protected from Argentinian domestic measures targeting companies and individuals involved in lawful economic activity.\n\nIt comes as the government is preparing measures under Protection of Trading Interests (PTI) legislation underlining that the UK won’t hesitate to protect UK businesses and individuals.\n\nThe measures will protect businesses from pressure to comply with Argentine domestic measures and ensure that UK persons and companies engaged in lawful activity around the Falkland Islands can and will continue to make commercial decisions in accordance with UK law.  \n\nThe purpose of these measures is not to restrict lawful commercial activity by UK or UK-based companies with Argentina, but to protect them from being compelled to comply with extraterritorial measures targeting lawful activity connected to the Falkland Islands.\n\nThe Government is engaging closely with affected businesses to offer support.\n\nThe UK supports the right of the Falkland Islanders to develop their natural resources for their own economic benefit. Decisions on economic development in the Falkland Islands are matters for the Falkland Islands Government and the companies involved.\n\nSecretary of State for Business and Trade Jonathan Reynolds said:\n\n\n  This makes it clear in no uncertain terms - that this Government will act where Argentina seeks to impede lawful UK commercial activity.\n\n  We will introduce measures under the Protection of Trading Interests (PTI) legislation to protect UK interests and continue to engage closely with affected businesses.\n\n  These steps send a clear signal that we will not stand by while Argentina seeks to apply their domestic legislation to impede legitimate commercial interests in the Falkland Islands.\n\n\nForeign Secretary Ed Miliband said:\n\n\n  The UK’s support for the Falkland Islands is steadfast.\n\n  Argentina’s attempts to intimidate businesses and individuals engaged in legitimate commercial activity are unacceptable. Companies should be free to make lawful commercial decisions without the threat of political coercion.\n\n  We will always stand up for the Falkland Islanders, their right to determine their own future, and their right to pursue legitimate economic development.\n\n\nToday’s announcement demonstrates that the UK Government is prepared to take concrete action in response to attempts by Argentina to coerce businesses engaged in lawful activity.\n\nThis Government will continue to stand shoulder-to-shoulder with the Falkland Islands Government and the Falkland Islanders, and to engage with affected businesses. It will continue to consider all available options to protect UK interests and support the Falkland Islanders.\n\nNotes to Editors\n\n  Protection of Trading Interests legislation prevents UK persons from complying with specific extraterritorial sanctions measures.\n  The government will bring forward secondary legislation as quickly as possible, with the aim to bring it into force before the end of the year.\n  These measures will target only Argentinian extraterritorial measures affecting the Falkland Islands.\n\n",
-      "bodyHash": "73a00252224da3eede210225b872e92023efc381a6e530edb03ee14d80c1797d",
-      "language": "en",
-      "republication": {
-        "sourceId": "govuk-fulltext",
-        "sourceUrl": "https://www.gov.uk/government/news/businesses-set-to-be-protected-from-argentinian-economic-coercion",
-        "license": "Open Government Licence v3.0",
-        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
-        "authors": [
-          "Department for Business, Innovation, Science and Trade",
-          "Foreign, Commonwealth & Development Office"
-        ],
-        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
-        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
-        "sourceUpdatedAt": "2026-10-13T15:07:00+01:00",
-        "sourceVersion": "ec769feb-0dbe-4cf6-ab60-3aa74f6a747e"
-      },
-      "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-14T15:27:43.898Z",
-      "updatedAt": "2026-10-13T16:23:54.401Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "ef8b99105f76f20387117a21",
-      "title": "《GTA 6》PC 版被曝 2027 年第一季度发售，Rockstar 旗下双平台游戏最短间隔",
-      "originalUrl": "https://www.ithome.com/1/012/578.htm",
-      "summary": "IT之家 10 月 13 日消息，据 GamesBeat 刚刚报道，四名熟悉 Rockstar Games 计划的消息人士透露，Rockstar 计划在 2027 年第一季度三个月时间内推出《侠盗猎车手 VI》（GTA 6）的 PC 版。GamesBeat 称已确认这一时间窗口，Rockstar Games 方面暂未置评。 《GTA 6》的主机版本已确定于 2026 年 11 月 19 日登陆 PlayStation 5 和 Xbox Series X/S。 如果 Games…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-13T14:05:42.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "entertainment"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-14T00:35:06.763Z",
-      "updatedAt": "2026-10-13T16:23:54.401Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "34b789892dc6f9bd73fddb68",
-      "title": "小米员工透露智能家庭屏曾拟命名 HomeView，但最终仅路由器被冠以 Home 之名",
-      "originalUrl": "https://www.ithome.com/1/012/577.htm",
-      "summary": "IT之家 10 月 13 日消息，小米中国区智能硬件市场负责人 @Selen7 今日发文，称当年给智能硬件做命名，想了一套 Home 系列的名字，最终路由器用了 HomeWiFi。 他表示，智能音箱的 HomeView 只躺在了 21 年的历史文档里，上市时用的智能家庭屏。 IT之家注意到，小米在 2022 年的 Civi 1S 发布会上，发布了小米智能家庭屏 10，官方称这是“小米首款为全屋智能打造的旗舰新品，是连接家的智能中控，也是连接家人的内容中心”。 小米智能家庭屏 …",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-13T14:00:49.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-14T00:35:06.763Z",
-      "updatedAt": "2026-10-13T16:23:54.401Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "3c762a9e646bd7bdd2cca46b",
-      "title": "Rare chalk stream created to boost wildlife in Norfolk",
-      "originalUrl": "https://www.gov.uk/government/news/rare-chalk-stream-created-to-boost-wildlife-in-norfolk",
-      "sourcePublishedAt": "2026-10-13T15:00:26+01:00",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "govuk-fulltext"
-      ],
-      "summary": "Wildlife is returning to one of the world’s rarest river types. Wetlands created at Keswick Marsh in Norfolk are giving birds, amphibians, and plants a better chance to thrive on a threatened chalk stream. The River Yare is one of only 210 ",
-      "summaryProvenance": {
-        "type": "licensed_body_excerpt",
-        "sourceId": "govuk-fulltext"
-      },
-      "contentMode": "fulltext",
-      "bodyHtml": "<div><p>Wildlife is returning to one of the world’s rarest river types.</p>\n\n<p>Wetlands created at Keswick Marsh in Norfolk are giving birds, amphibians, and plants a better chance to thrive on a threatened chalk stream.</p>\n\n<p>The River Yare is one of only 210 chalk streams in the world, with 58 found in East Anglia. The Environment Agency, Norfolk Rivers Trust, and Water Resources East have worked together to reshape more than 7 hectares of riverbank and floodplain, reconnecting the river with surrounding land.</p>\n\n<p>New ponds, shallow pools, and reshaped ditches now allow water to spread naturally across the floodplain in winter and hold water for longer during dry periods. This restores the natural water cycle, reduces flood-risk downstream, and creates the varied, mixed habitat that many wetland species depend on.</p>\n\n<p>Amy Prendergast, catchment delivery manager at the Environment Agency in East Anglia, said:</p>\n\n<blockquote>\n  <p>It has been fantastic to work in partnership with Norfolk Rivers Trust to create new wetland features at Keswick Marsh, delivering vital habitat for wildlife on the outskirts of Norwich.</p>\n\n  <p>Our rivers are facing increasing pressures from pollution, low flows, and habitat loss. That is why we are investing through our Water Environment Improvement Fund to restore and enhance the water environment, supporting projects like this that will benefit both wildlife and local communities for years to come.</p>\n</blockquote>\n\n<p>Donna Dean, restoration and catchment development manager at Norfolk Rivers Trust, said:</p>\n\n<blockquote>\n  <p>The site is already piquing the curiosity of a range of wildlife. Egrets, coots, shelducks, newts, dragonflies, foxes and even a little ringed plover have been recorded visiting the works – some of them entirely new records for the site.</p>\n\n  <p>It’s really rewarding to see wildlife returning so quickly, and we look forward to watching the site continue to establish.</p>\n</blockquote>\n\n<p>The works deliberately create edge habitats, where open water meets land which support the greatest variety of species. Inland wetland birds, amphibians, and a range of wetland plants will benefit directly.</p>\n\n<div></div>\n<p>The Environment Agency is supporting projects like this one in Norfolk to benefit wildlife and local communities for years to come. Photo: Norfolk Rivers Trust</p>\n\n<p>Hannah Gray, programme manager at Water Resources East, said:</p>\n\n<blockquote>\n  <p>The Norfolk Water Strategy Programme (NWSP) was pleased to support this project through funding provided to the Norfolk Water Fund from the Royal Bank of Canada. NWSP is collaborating across Norfolk to scale up nature-based solutions for water security.</p>\n\n  <p>The work carried out by Norfolk Rivers Trust at Keswick on the Yare is one of many projects which is helping that shared vision become a reality.</p>\n</blockquote>\n\n<p>The 20-acre site was provided pro bono by Lady Dannatt, HM Lord-Lieutenant of Norfolk. Funding was provided by the Norfolk Water Strategy Programme, which is hosted by Water Resources East in partnership with Norfolk County Council, Anglian Water and the Nature Conservancy and by Anglian Water’s Get River Positive programme and the Environment Agency.</p>\n\n<p>Following a both wet winter and a historic summer drought - the driest July in nearly two centuries - the nation is now bracing for an intensified, wetter winter. The Environment Agency remains ready to respond to both ongoing drought conditions and any winter flooding incidents. </p>\n\n<ul>\n  <li>For media enquiries, please contact Norfolk Rivers Trust: <a>georgia@norfolkriverstrust.org</a> / 07944 443711 </li>\n  <li>Photos are available to download from WeTransfer: <a href=\"https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwe.tl%2Ft-Nn2LC6KiRzpPjRaK&amp;data=05%7C02%7CPeter.OConnor%40defra.gov.uk%7Cf3d7d58149084174103a08df2916a8a8%7C770a245002274c6290c74e38537f1102%7C0%7C0%7C639274849440159323%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=LShHym1gsVsRsWgXDO5ZaAPJiudYzyJtbzMxTeHfWj8%3D&amp;reserved=0\">https://we.tl/t-Nn2LC6KiRzpPjRaK</a>. Available for 3 working days.</li>\n  <li>The total project cost was £97,764, and it took 3 weeks to complete the on-ground delivery and species mitigation works. The feasibility work took place 2-3 years, including habitat and species surveys, consenting, peat core surveys, design work and securing blended funding sources.</li>\n  <li>The Norfolk Water Strategy Programme (NWSP) aims to improve how water is managed in the chalk catchments of Norfolk through scaling up investment in Nature-based Solutions (NbS). More information can be found <a href=\"https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwre.org.uk%2Fnorfolk-water-strategy-programme%2F&amp;data=05%7C02%7CPeter.OConnor%40defra.gov.uk%7Cf3d7d58149084174103a08df2916a8a8%7C770a245002274c6290c74e38537f1102%7C0%7C0%7C639274849440188190%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=69EOz2kd1dWp5hb8dRxqzrmyFMsiw9zc3zMcw6Os8DA%3D&amp;reserved=0\">here</a>.  </li>\n  <li>Norfolk Rivers Trust is an independent environmental charity dedicated to protecting and restoring Norfolk’s rivers, wetlands, and chalk streams for the benefit of wildlife and people. Find out more at <a href=\"https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fnorfolkriverstrust.org.uk%2F&amp;data=05%7C02%7CPeter.OConnor%40defra.gov.uk%7Cf3d7d58149084174103a08df2916a8a8%7C770a245002274c6290c74e38537f1102%7C0%7C0%7C639274849440208700%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=eprkmdyWqeHYt0EMDUhEB%2Bji2GVaQetlM3JKuyQs9BE%3D&amp;reserved=0\">norfolkriverstrust.org.uk</a>.</li>\n  <li>The Environment Agency launched Flood Action Week on 12 October to help protect the nation. The campaign aims to encourage people to prepare for flooding by taking proactive steps such as knowing their flood risk, preparing a flood plan, and getting flood warnings. Search “flooding” on https://www.gov.uk/ to find the risk to your home,  business  or neighbourhood.</li>\n</ul>\n</div>",
-      "bodyText": "Wildlife is returning to one of the world’s rarest river types.\n\nWetlands created at Keswick Marsh in Norfolk are giving birds, amphibians, and plants a better chance to thrive on a threatened chalk stream.\n\nThe River Yare is one of only 210 chalk streams in the world, with 58 found in East Anglia. The Environment Agency, Norfolk Rivers Trust, and Water Resources East have worked together to reshape more than 7 hectares of riverbank and floodplain, reconnecting the river with surrounding land.\n\nNew ponds, shallow pools, and reshaped ditches now allow water to spread naturally across the floodplain in winter and hold water for longer during dry periods. This restores the natural water cycle, reduces flood-risk downstream, and creates the varied, mixed habitat that many wetland species depend on.\n\nAmy Prendergast, catchment delivery manager at the Environment Agency in East Anglia, said:\n\n\n  It has been fantastic to work in partnership with Norfolk Rivers Trust to create new wetland features at Keswick Marsh, delivering vital habitat for wildlife on the outskirts of Norwich.\n\n  Our rivers are facing increasing pressures from pollution, low flows, and habitat loss. That is why we are investing through our Water Environment Improvement Fund to restore and enhance the water environment, supporting projects like this that will benefit both wildlife and local communities for years to come.\n\n\nDonna Dean, restoration and catchment development manager at Norfolk Rivers Trust, said:\n\n\n  The site is already piquing the curiosity of a range of wildlife. Egrets, coots, shelducks, newts, dragonflies, foxes and even a little ringed plover have been recorded visiting the works – some of them entirely new records for the site.\n\n  It’s really rewarding to see wildlife returning so quickly, and we look forward to watching the site continue to establish.\n\n\nThe works deliberately create edge habitats, where open water meets land which support the greatest variety of species. Inland wetland birds, amphibians, and a range of wetland plants will benefit directly.\n\n\nThe Environment Agency is supporting projects like this one in Norfolk to benefit wildlife and local communities for years to come. Photo: Norfolk Rivers Trust\n\nHannah Gray, programme manager at Water Resources East, said:\n\n\n  The Norfolk Water Strategy Programme (NWSP) was pleased to support this project through funding provided to the Norfolk Water Fund from the Royal Bank of Canada. NWSP is collaborating across Norfolk to scale up nature-based solutions for water security.\n\n  The work carried out by Norfolk Rivers Trust at Keswick on the Yare is one of many projects which is helping that shared vision become a reality.\n\n\nThe 20-acre site was provided pro bono by Lady Dannatt, HM Lord-Lieutenant of Norfolk. Funding was provided by the Norfolk Water Strategy Programme, which is hosted by Water Resources East in partnership with Norfolk County Council, Anglian Water and the Nature Conservancy and by Anglian Water’s Get River Positive programme and the Environment Agency.\n\nFollowing a both wet winter and a historic summer drought - the driest July in nearly two centuries - the nation is now bracing for an intensified, wetter winter. The Environment Agency remains ready to respond to both ongoing drought conditions and any winter flooding incidents. \n\n\n  For media enquiries, please contact Norfolk Rivers Trust: georgia@norfolkriverstrust.org / 07944 443711 \n  Photos are available to download from WeTransfer: https://we.tl/t-Nn2LC6KiRzpPjRaK. Available for 3 working days.\n  The total project cost was £97,764, and it took 3 weeks to complete the on-ground delivery and species mitigation works. The feasibility work took place 2-3 years, including habitat and species surveys, consenting, peat core surveys, design work and securing blended funding sources.\n  The Norfolk Water Strategy Programme (NWSP) aims to improve how water is managed in the chalk catchments of Norfolk through scaling up investment in Nature-based Solutions (NbS). More information can be found here.  \n  Norfolk Rivers Trust is an independent environmental charity dedicated to protecting and restoring Norfolk’s rivers, wetlands, and chalk streams for the benefit of wildlife and people. Find out more at norfolkriverstrust.org.uk.\n  The Environment Agency launched Flood Action Week on 12 October to help protect the nation. The campaign aims to encourage people to prepare for flooding by taking proactive steps such as knowing their flood risk, preparing a flood plan, and getting flood warnings. Search “flooding” on https://www.gov.uk/ to find the risk to your home,  business  or neighbourhood.\n\n",
-      "bodyHash": "f1b06b09bdc591d9c8291b4044472006270bcff9488632a091b806fad456e5da",
-      "language": "en",
-      "republication": {
-        "sourceId": "govuk-fulltext",
-        "sourceUrl": "https://www.gov.uk/government/news/rare-chalk-stream-created-to-boost-wildlife-in-norfolk",
-        "license": "Open Government Licence v3.0",
-        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
-        "authors": [
-          "Environment Agency"
-        ],
-        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
-        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
-        "sourceUpdatedAt": "2026-10-13T15:00:26+01:00",
-        "sourceVersion": "d0924e12-7e85-46d4-9f46-dd2b116cec29"
-      },
-      "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-14T15:27:43.898Z",
-      "updatedAt": "2026-10-13T16:23:54.401Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "abfe34d6036b6341d8b15d93",
-      "title": "美国俄勒冈州临时众议长：天津港经验值得借鉴",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/10-13/10714057.shtml",
-      "summary": "中新社天津10月13日电 (记者 夏宾 周亚强)美国俄勒冈州临时众议长大卫·冈伯格13日在天津接受中新社专访时表示，该州正考虑在海岸新建深水港，希望未来天津货物能直达该州港口，使其成为通往美国其他地区的门户。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-13T13:59:59.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance"
-      ],
-      "sourceIds": [
-        "chinanews-finance"
-      ],
-      "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-14T00:35:06.763Z",
-      "updatedAt": "2026-10-13T16:23:54.401Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "713c19ed99f68b13b0b30897",
-      "title": "全球首个标准垂域大模型“同道”宣布升级",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/10-13/10714056.shtml",
-      "summary": "中新网北京10月13日电 (记者 刘亮)10月13日，在2026世界标准日到来之际，2026新产业标准化领航论坛在北京开幕。论坛上，全球首个标准垂域大模型“同道”宣布升级。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-finance",
-        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-13T13:57:45.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance",
-        "technology"
-      ],
-      "sourceIds": [
-        "chinanews-finance"
-      ],
-      "firstSeenAt": "2026-10-13T16:23:54.401Z",
-      "lastSeenAt": "2026-10-14T00:35:06.763Z",
-      "updatedAt": "2026-10-13T16:23:54.401Z",
-      "version": 1,
-      "history": []
     }
   ],
   "sourceStatus": {
@@ -260535,8 +260582,8 @@
       "id": "ithome",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-05T15:47:00.056Z",
-      "lastSuccessAt": "2026-11-05T15:47:00.056Z",
+      "checkedAt": "2026-11-05T21:56:42.958Z",
+      "lastSuccessAt": "2026-11-05T21:56:42.958Z",
       "etag": null,
       "lastModified": null,
       "discovered": 60,
@@ -260547,8 +260594,8 @@
       "id": "sspai",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-05T15:47:00.056Z",
-      "lastSuccessAt": "2026-11-05T15:47:00.056Z",
+      "checkedAt": "2026-11-05T21:56:42.958Z",
+      "lastSuccessAt": "2026-11-05T21:56:42.958Z",
       "etag": null,
       "lastModified": null,
       "discovered": 10,
@@ -260559,10 +260606,10 @@
       "id": "chinanews-society",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-05T15:47:00.056Z",
-      "lastSuccessAt": "2026-11-05T15:47:00.056Z",
-      "etag": "\"6aeca193-3f4a\"",
-      "lastModified": "Thu, 05 Nov 2026 15:32:35 GMT",
+      "checkedAt": "2026-11-05T21:56:42.958Z",
+      "lastSuccessAt": "2026-11-05T21:56:42.958Z",
+      "etag": "\"6aecbaf1-3ecf\"",
+      "lastModified": "Thu, 05 Nov 2026 17:20:49 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -260571,10 +260618,10 @@
       "id": "chinanews-finance",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-05T15:47:00.056Z",
-      "lastSuccessAt": "2026-11-05T15:47:00.056Z",
-      "etag": "\"6aec9f65-413d\"",
-      "lastModified": "Thu, 05 Nov 2026 15:23:17 GMT",
+      "checkedAt": "2026-11-05T21:56:42.958Z",
+      "lastSuccessAt": "2026-11-05T21:56:42.958Z",
+      "etag": "\"6aeca562-41f0\"",
+      "lastModified": "Thu, 05 Nov 2026 15:48:50 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -260583,8 +260630,8 @@
       "id": "chinanews-life",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-05T15:47:00.056Z",
-      "lastSuccessAt": "2026-11-05T15:47:00.056Z",
+      "checkedAt": "2026-11-05T21:56:42.958Z",
+      "lastSuccessAt": "2026-11-05T21:56:42.958Z",
       "etag": "\"6aec23bc-28bf\"",
       "lastModified": "Thu, 05 Nov 2026 06:35:40 GMT",
       "discovered": 0,
@@ -260595,8 +260642,8 @@
       "id": "chinanews-jk",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-05T15:47:00.056Z",
-      "lastSuccessAt": "2026-11-05T15:47:00.056Z",
+      "checkedAt": "2026-11-05T21:56:42.958Z",
+      "lastSuccessAt": "2026-11-05T21:56:42.958Z",
       "etag": "\"69aa3e2a-2832\"",
       "lastModified": "Fri, 06 Mar 2026 02:38:34 GMT",
       "discovered": 0,
@@ -260607,11 +260654,11 @@
       "id": "chinanews-culture",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-05T15:47:00.056Z",
-      "lastSuccessAt": "2026-11-05T15:47:00.056Z",
+      "checkedAt": "2026-11-05T21:56:42.958Z",
+      "lastSuccessAt": "2026-11-05T21:56:42.958Z",
       "etag": "\"6aec9ede-3ea9\"",
       "lastModified": "Thu, 05 Nov 2026 15:21:02 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -260619,11 +260666,11 @@
       "id": "chinanews-edu",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-05T15:47:00.056Z",
-      "lastSuccessAt": "2026-11-05T15:47:00.056Z",
+      "checkedAt": "2026-11-05T21:56:42.958Z",
+      "lastSuccessAt": "2026-11-05T21:56:42.958Z",
       "etag": "\"6aec7b7d-410b\"",
       "lastModified": "Thu, 05 Nov 2026 12:50:05 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -260631,10 +260678,10 @@
       "id": "chinanews-sports",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-05T15:47:00.056Z",
-      "lastSuccessAt": "2026-11-05T15:47:00.056Z",
-      "etag": "\"6aeca1f7-3e8e\"",
-      "lastModified": "Thu, 05 Nov 2026 15:34:15 GMT",
+      "checkedAt": "2026-11-05T21:56:42.958Z",
+      "lastSuccessAt": "2026-11-05T21:56:42.958Z",
+      "etag": "\"6aeca55a-3f3e\"",
+      "lastModified": "Thu, 05 Nov 2026 15:48:42 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -260643,10 +260690,10 @@
       "id": "chinanews-scroll-news",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-05T15:47:00.056Z",
-      "lastSuccessAt": "2026-11-05T15:47:00.056Z",
-      "etag": "\"6aeca415-47c8\"",
-      "lastModified": "Thu, 05 Nov 2026 15:43:17 GMT",
+      "checkedAt": "2026-11-05T21:56:42.958Z",
+      "lastSuccessAt": "2026-11-05T21:56:42.958Z",
+      "etag": "\"6aecbaf0-3e1c\"",
+      "lastModified": "Thu, 05 Nov 2026 17:20:48 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -260654,8 +260701,8 @@
     "govuk-fulltext": {
       "id": "govuk-fulltext",
       "status": "ok",
-      "checkedAt": "2026-11-05T15:47:00.056Z",
-      "lastSuccessAt": "2026-11-05T15:47:00.056Z",
+      "checkedAt": "2026-11-05T21:56:42.958Z",
+      "lastSuccessAt": "2026-11-05T21:56:42.958Z",
       "discovered": 20,
       "rejected": 0,
       "contentSchema": 3,
