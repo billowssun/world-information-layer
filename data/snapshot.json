@@ -1,8 +1,615 @@
 {
   "schemaVersion": "1",
-  "collectedAt": "2026-11-07T20:10:21.783Z",
-  "lastSuccessfulCollectionAt": "2026-11-07T20:10:21.783Z",
+  "collectedAt": "2026-11-07T23:55:17.135Z",
+  "lastSuccessfulCollectionAt": "2026-11-07T23:55:17.135Z",
   "items": [
+    {
+      "id": "8ff32dc45cc42b7176ec4f7b",
+      "title": "埃森哲报告被曝存在虚假引用案例，公司否认系 AI 幻觉所致",
+      "originalUrl": "https://www.ithome.com/1/023/845.htm",
+      "summary": "IT之家 11 月 8 日消息，埃森哲（Accenture）被指发布了一份充斥人工智能“幻觉”的研究报告，其中不仅包含大量虚假信息，还出现了多处疑似捏造的研究案例。 据 GPTZero 最新分析，这家咨询巨头发布的一份报告涉嫌包含 15 条虚假引用，以及完全虚构的案例研究，因此正受到外界审查。 这份名为《跨越式发展》（Leapfrogging Development）的报告由埃森哲与马德里 IE 大学的研究人员合作发布，旨在探讨人工智能如何提高非洲农业产业的生产力。 埃森哲否…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T23:51:36.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "90e7937c47063c727dd9c402",
+      "title": "神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周",
+      "originalUrl": "https://www.ithome.com/1/023/844.htm",
+      "summary": "IT之家 11 月 8 日消息，据央视新闻报道，按照计划，神舟二十四号乘组将于本月飞往中国空间站与神舟二十三号乘组太空会师，然后进行乘组轮换。这意味着，神舟二十三号乘组中，将有一名航天员会在太空再执行半年左右的空间站任务，乘组将进行全新编队。 据介绍，2025 年 2 月，中国和巴基斯坦在伊斯兰堡签署《关于选拔、训练巴基斯坦航天员并参与中国空间站飞行任务的合作协议》，正式启动巴基斯坦航天员选拔工作。经过初选、复选、定选三个阶段的严格筛选和评定，选拔出 2 名巴基斯坦预备航天员…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T23:44:20.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1ce878abc7b5865e485283c7",
+      "title": "育碧被曝正开发两款《刺客信条》新作，一款以古罗马为背景",
+      "originalUrl": "https://www.ithome.com/1/023/843.htm",
+      "summary": "IT之家 11 月 8 日消息，据报道，育碧正在开发两款全新的《刺客信条》游戏，其中一款将以古罗马为背景。 IT之家注意到，这一消息来自 YouTube 博主 Xj0nathan。他透露，以古罗马为背景的游戏代号为“Mars”。他声称，有两名能够访问育碧后台系统的消息人士证实了这一信息，而游戏的故事背景可能还会与即将推出的《刺客信条》真人剧集产生联系。 另一款游戏的代号为“Pocket”，据称是一款以耶路撒冷为背景的手机游戏。Xj0nathan 表示，这款游戏的玩法有些类似《…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T23:43:10.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1d131bd4bc6ba0eda90fb685",
+      "title": "索尼 PS Plus 推出新福利：订阅可获得 YouTube Premium 试用资格或硬件产品折扣，玩家并不买账",
+      "originalUrl": "https://www.ithome.com/1/023/842.htm",
+      "summary": "IT之家 11 月 8 日消息，索尼近期为 PlayStation Plus 订阅服务推出新福利，包含 YouTube Premium 试用资格或硬件产品折扣等。部分玩家对此并不热情，因为领取福利有许多限制。 IT之家了解到，这项优惠已在德国、法国和英国开启，三个档位的 PS Plus 均能享受，具体包括免费试用 YouTube Premium 三个月/免费试用 Calm Premium 两个月，以及 Sony Pictures Core 电影消费额度或部分硬件产品折扣，购买…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T23:40:01.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1027239ed34f82d7495fedf2",
+      "title": "《塞尔达传说：时之笛》重制版刚发售，就已可在越狱版 PS5 和 iPhone 上运行",
+      "originalUrl": "https://www.ithome.com/1/023/841.htm",
+      "summary": "IT之家 11 月 8 日消息，任天堂《塞尔达传说：时之笛》重制版于 11 月 5 日登陆了 Switch 2，但游戏发售后没过多久，就已经有人成功让其在越狱版 PlayStation 5 和 iPhone 上运行。 在 PS5 方面，开发者 Vampinity 在 GitHub 上的 EglantinePS5 项目仓库中公布了测试结果。EglantinePS5 是一款移植到 PS5 平台的 Switch 模拟器，基于 Eden 模拟器开发。 IT之家注意到，测试显示，在 P…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T23:36:39.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6f20fb444b46782c6a1ab885",
+      "title": "PS5 版《GTA 6》实体版包装盒曝光：仅含兑换码，无游戏光盘",
+      "originalUrl": "https://www.ithome.com/1/023/840.htm",
+      "summary": "IT之家 11 月 8 日消息，距离《侠盗猎车手 6》（GTA 6）正式发售越来越近，玩家很快就会发现，商店货架上摆放的实体游戏盒里竟然没有游戏光盘。PS5 版《GTA 6》的实体包装盒已经提前出流出，不过零售商要到 11 月 12 日才能正式向消费者出售。 今天早些时候，Reddit 论坛 GTA6unmoderated 板块出现了一组照片，展示了一份已经完成塑封的 PS5 版《GTA 6》实体包装盒。据称，照片由一名德国零售店员工发布。 从照片来看，包装盒与普通游戏盒并无…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T23:29:22.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e7d3d9df0148fba1a698d952",
+      "title": "Backglow 应用上线：可让新款 MacBook Pro 发光苹果 Logo 随音乐律动",
+      "originalUrl": "https://www.ithome.com/1/023/839.htm",
+      "summary": "IT之家 11 月 8 日消息，由设计师胡安 · 布伊斯（Juan Buis）开发的一款名为“Backglow”的新应用，允许用户自定义新款 MacBook Pro 笔记本电脑顶盖上的发光苹果 Logo。 该应用的免费版本允许用户手动调节苹果 Logo 的亮度，而且不受 MacBook Pro 屏幕亮度设置的影响。用户也可以一键彻底关闭 Logo 灯光，无需通过终端（Terminal）执行命令。 免费版本还提供一种名为“Breathe”的呼吸模式，可以让苹果 Logo 的灯光…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T23:25:12.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "2afa3c44c264577a5ea524a3",
+      "title": "微软 Outlook 邮箱出 Bug：邮件无故丢失，部分认证配置正确的发件人也遭拦截",
+      "originalUrl": "https://www.ithome.com/1/023/838.htm",
+      "summary": "IT之家 11 月 8 日消息，据科技媒体 Windows Latest 今天报道，部分 Outlook.com 和 Hotmail 邮箱用户近期发现，他们无法正常接收邮件。发件人侧收到的提示是，邮件未能通过身份验证检查。 据报道，该问题最初出现于 11 月 5 日，今天仍然能成功复现。在大多数情况下，用户很难直接察觉究竟发生了什么。但如果进一步查看日志，就会发现邮件无法发送的原因是身份验证检查错误。 不过部分发件人表示，即使他们的邮件域名已经配置了有效的身份验证记录，依然会…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T23:17:19.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "82539e6bc926ccc314cf522a",
+      "title": "千公里仅 3.43 毫秒，空芯光纤未来有望替代实芯光纤",
+      "originalUrl": "https://www.ithome.com/1/023/837.htm",
+      "summary": "IT之家 11 月 8 日消息，据央视新闻报道，近日，我国完成全球首个千公里空芯光纤双向实时传输验证。这意味着我国在新一代通信网关键技术领域取得新的突破。 技术人员告诉记者，这次试验在 1007.48 公里的光纤线路上，首次实现了双向各 64Tb 每秒的信号同步传输，相当于支持每秒 160 部 4K 电影的上传和下载（每部按 50GB 计算），千公里信号单程传输只需 3.43 毫秒，创造了空芯光纤实时传输距离的新纪录。据了解，这种技术比当前性能最好的实芯光纤传输容量提升一倍，…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T23:14:24.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6d6b73466187ff8dafa70b1a",
+      "title": "买棉服别踩坑！名字带棉不一定是棉花，重点看吊牌",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/11-08/10728201.shtml",
+      "summary": "真相来了丨买棉服别踩坑！名字带棉不一定是棉花，重点看吊牌",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T23:14:19.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "90ac4b55afc8ee59abfdb39b",
+      "title": "谷歌高管哈里森辞去 SpaceX 董事会职务，任职已超十年",
+      "originalUrl": "https://www.ithome.com/1/023/836.htm",
+      "summary": "IT之家 11 月 8 日消息，SpaceX 当地时间周五披露，谷歌高管唐纳德 · 哈里森（Donald Harrison）已辞去该公司董事会职务，其在该职位任职已超过十年。 哈里森于 11 月 4 日通知 SpaceX 自己的辞职决定，并立即生效。 由埃隆 · 马斯克（Elon Musk）领导的 SpaceX 表示，哈里森辞职并非因为他与公司在运营、政策或实践相关事务上存在任何分歧。 哈里森是谷歌的资深高管，目前担任全球合作与企业发展总裁。伦敦证券交易所集团（LSEG）的数…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T23:07:49.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "dca4d90a8d15b883cd9af02f",
+      "title": "11月8日新闻早报",
+      "originalUrl": "https://www.chinanews.com.cn/iframe/2026/11-08/10728200.shtml",
+      "summary": null,
+      "summaryProvenance": null,
+      "sourcePublishedAt": "2026-11-07T23:04:24.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "73ea411a38c3feabf2506cea",
+      "title": "Adobe 向初创企业抛出橄榄枝：免费使用 Firefly 和 Acrobat 等软件，最长 1 年",
+      "originalUrl": "https://www.ithome.com/1/023/835.htm",
+      "summary": "IT之家 11 月 8 日消息，Adobe 公司最近针对初创企业推出 Adobe for Startups 计划，入选企业可免费使用 Firefly Pro Plus、Acrobat Studio（包含 Adobe Express Premium）以及 Semrush 等软件，期限为 12 个月。 据介绍，Adobe for Startups 计划面向成立时间不超过 5 年，且融资总额低于 1,500 万美元（IT之家注：现汇率约合 1 亿元人民币）的企业。在免费使用的软件中…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T23:02:43.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "finance"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1ec22c386846abadeac8eae3",
+      "title": "全球最大、发展最快：我国可再生能源技术占据全球主导地位",
+      "originalUrl": "https://www.ithome.com/1/023/834.htm",
+      "summary": "IT之家 11 月 8 日消息，据央视新闻报道，11 月 7 日，中国企业改革与发展研究会发布了《全球能源转型报告（2026）》，数据显示，我国已构建起全球最大、发展最快的可再生能源体系。 报告指出，目前，化石能源活动仍是全球碳排放的最大来源。2025 年，全球与能源相关的二氧化碳排放总量同比增长 0.4%，达 384 亿吨，是 2021 年以来最低增幅。其中，中国碳排放量下降 0.5%，美国碳排放量增长 2.4%，成为全球碳排放增长的最大来源。 中国企业改革与发展研究会会长…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T22:56:24.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1fcbfe4d73063e4c1b9bfb5d",
+      "title": "马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单",
+      "originalUrl": "https://www.ithome.com/1/023/833.htm",
+      "summary": "IT之家 11 月 8 日消息，特斯拉 CEO 埃隆 · 马斯克（Elon Musk）当地时间周六表示，为了在明年拆除生产线、转而扩大 Cybercab 产能之前完成现有 Cybertruck 订单，特斯拉将为 Cybertruck 增加一个额外生产班次。 马斯克在社交平台 X 上发文称：“目前 Cybertruck 的积压订单量远超特斯拉在明年 6 月至 7 月左右拆除生产线、为 Cybercab 扩产之前所能完成的数量。” 他补充说：“我们将增加一个额外班次，尽可能确保按…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T22:56:15.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "bfe2c9c50a92a249a7cac45a",
+      "title": "胡塞武装称沙特空袭萨那周边 已致27人死亡",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/11-08/10728199.shtml",
+      "summary": "也门胡塞武装卫生部门7日晚间发布消息称，沙特主导的联军当天针对也门萨那省巴尼哈希什地区的空袭已造成27人死亡、36人受伤。伤亡者中包括妇女儿童和民防救援人员。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T22:53:16.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1c776a20fa104b0e048ffff4",
+      "title": "B 社陶德回应《上古卷轴 6：哨兵》是否独占 XBOX：现在评论还为时过早",
+      "originalUrl": "https://www.ithome.com/1/023/832.htm",
+      "summary": "IT之家 11 月 8 日消息，贝塞斯达（Bethesda）最近终于公布了《上古卷轴 6：哨兵》游戏，至少公布了副标题。但玩家们如今仍然好奇：这款游戏是否会成为微软 XBOX 独占？ 最近几年，XBOX 的独占游戏政策发生了猛烈变革，先是菲尔 · 斯宾塞将 XBOX 的独占属性几乎消除，《极限竞速：地平线》和《光环》等游戏相继登陆 PlayStation 平台；阿莎 · 夏尔马上位后重新强调了独占策略，让《战争机器：事变日》成为主机端 XBOX 独占。 因此，《上古卷轴 6：…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T22:51:09.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "93bbfc4c31149f761d74cb64",
+      "title": "伊朗解除导弹射程限制 美军组特遣部队防伊“跨境运武”",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/11-08/10728198.shtml",
+      "summary": "伊朗伊斯兰革命卫队发言人7日说，伊朗已解除导弹射程限制，将打击敌人预想不到的地点。并警告称，如果美国再次出现误判，伊朗下一次的打击将更加沉重。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T22:49:32.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "55274ab0c78e367b37431d39",
+      "title": "AI生成负面动漫等 一批违法违规涉军“自媒体”账号被关闭",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/11-08/10728197.shtml",
+      "summary": "真相来了丨AI生成负面动漫等 一批违法违规涉军“自媒体”账号被关闭",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T22:46:31.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "technology",
+        "entertainment"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d2c5cb6bcd12787c638d058a",
+      "title": "欧洲多地爆发抗议，民众走上街头要求暂停数据中心建设",
+      "originalUrl": "https://www.ithome.com/1/023/831.htm",
+      "summary": "IT之家 11 月 8 日消息，据彭博社报道，当地时间周六，欧洲多地继续爆发反对数据中心建设的抗议活动。民众走上街头，表达对数据中心扩张可能带来的社会和环境影响的担忧。 据爱尔兰国家广播电视台（RTÉ）报道，约有 2000 人在都柏林举行游行。芬兰广播公司 Yle 报道称，约有 1300 人聚集在赫尔辛基，芬兰多个规模较小的城镇也举行了示威活动。 由当地民主运动组织和气候抗议团体组成的联盟“停止肮脏数据中心”（Stop Dirty Data Centres）表示，此次行动旨在…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T22:46:04.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ea98ccd9be7232e6a4158ade",
+      "title": "从“追顶流”到“追古流”，年轻人为何爱上“访古”",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/11-08/10728196.shtml",
+      "summary": "从“追顶流”到“追古流”，访古追迹成为时下热门——",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T22:42:29.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4cd7c1cf7bbe92374a0c9af8",
+      "title": "大风+寒潮双预警！15省份部分地区降温超10°C",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/11-08/10728195.shtml",
+      "summary": "中央气象台11月8日6时继续发布大风蓝色预警和寒潮蓝色预警，详情如下：",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T22:38:53.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d5e078a044e0291b577880f6",
+      "title": "俄外交部：欧洲多国军演挑动局势升级 在乌部署外国军事力量不可接受",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/11-08/10728193.shtml",
+      "summary": "中新社莫斯科11月7日电 俄罗斯外交部发言人扎哈罗娃7日表示，欧洲多国部队举行演习将挑动局势升级，在乌克兰部署任何外国军事力量都是不可接受的，并将成为俄方合法打击目标。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T22:35:15.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "fc67f922a77ad9d6c8a3b97c",
+      "title": "伊朗南部多地接连传出类似爆炸巨响",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/11-08/10728194.shtml",
+      "summary": "总台记者自伊朗方面获悉，当地时间7日晚，该国格什姆岛、锡里克、贾斯克和阿巴斯港等地均听到类似爆炸的巨响。巨响的原因尚不清楚。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-07T22:34:31.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-07T23:55:17.135Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
+      "updatedAt": "2026-11-07T23:55:17.135Z",
+      "version": 1,
+      "history": []
+    },
     {
       "id": "f3328da97132423026ecd458",
       "title": "No one who has served our country should sleep rough on our streets",
@@ -40,7 +647,7 @@
         "sourceVersion": "c7004301-93f2-49db-87d7-2ad27781a208"
       },
       "firstSeenAt": "2026-11-07T20:10:21.783Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T20:10:21.783Z",
       "version": 1,
       "history": []
@@ -66,7 +673,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T20:10:21.783Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T20:10:21.783Z",
       "version": 1,
       "history": []
@@ -92,7 +699,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T20:10:21.783Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T20:10:21.783Z",
       "version": 1,
       "history": []
@@ -117,7 +724,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -143,7 +750,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -170,7 +777,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -196,7 +803,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -222,7 +829,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -248,7 +855,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -274,7 +881,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -301,7 +908,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -328,7 +935,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -355,7 +962,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -381,7 +988,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -406,7 +1013,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -431,7 +1038,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -457,7 +1064,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -482,7 +1089,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -508,7 +1115,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -534,7 +1141,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -559,7 +1166,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -585,7 +1192,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -610,7 +1217,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -635,7 +1242,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -661,7 +1268,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -686,7 +1293,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -711,7 +1318,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -736,7 +1343,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -761,7 +1368,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -788,7 +1395,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -813,7 +1420,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -839,7 +1446,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -865,7 +1472,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -891,7 +1498,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -918,7 +1525,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -944,7 +1551,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -971,7 +1578,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -998,7 +1605,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -1025,7 +1632,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -1050,7 +1657,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -1077,7 +1684,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -1248,8 +1855,8 @@
       "summary": "中新网贵阳11月7日电 (记者 周燕玲)7日，来自英国、美国、澳大利亚、新西兰等国的旅行商走进多彩贵州城，正式开启贵州旅游踩线考察活动。当天活动中，他们体验拦门酒、竹竿舞，并在非遗体验中心近距离感受贵州多彩的民族文化。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-11-07T13:22:18.000Z",
@@ -1263,7 +1870,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -1330,8 +1937,8 @@
       "summary": "中新网新疆哈密11月7日电 (吴昕妮)“挖芒硝、治盐碱，戈壁滩上建花园，军垦战士意志坚，劳动号子冲破天……”",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-society",
+        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-11-07T13:21:06.000Z",
@@ -1344,7 +1951,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -1394,7 +2001,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -1444,7 +2051,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -1495,7 +2102,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -1546,7 +2153,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -1597,7 +2204,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -1673,7 +2280,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -1698,7 +2305,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -1725,7 +2332,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -1751,7 +2358,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -1777,7 +2384,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -1802,7 +2409,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -1827,7 +2434,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -1853,7 +2460,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2030,7 +2637,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2080,7 +2687,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2105,7 +2712,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2130,7 +2737,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2156,7 +2763,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2181,7 +2788,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2206,7 +2813,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2232,7 +2839,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2258,7 +2865,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2284,7 +2891,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2309,7 +2916,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2334,7 +2941,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2411,7 +3018,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2462,7 +3069,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2537,7 +3144,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2588,7 +3195,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2613,7 +3220,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T15:53:45.710Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2843,7 +3450,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2869,7 +3476,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2895,7 +3502,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2947,7 +3554,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2972,7 +3579,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -2998,7 +3605,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -3024,7 +3631,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -3050,7 +3657,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -3075,7 +3682,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -3101,7 +3708,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -3127,7 +3734,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -3153,7 +3760,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -3179,7 +3786,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -3229,7 +3836,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -3330,7 +3937,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -3356,7 +3963,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-07T09:12:07.558Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T09:12:07.558Z",
       "version": 1,
       "history": []
@@ -3432,7 +4039,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -8576,7 +9183,7 @@
         "sourceVersion": "9854d7da-162c-4a01-9b22-ec1db99f9f41"
       },
       "firstSeenAt": "2026-11-07T02:19:43.031Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T02:19:43.031Z",
       "version": 1,
       "history": []
@@ -8618,7 +9225,7 @@
         "sourceVersion": "a75955db-f319-43bb-a3c5-2aef47cb5eae"
       },
       "firstSeenAt": "2026-11-07T02:19:43.031Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-07T02:19:43.031Z",
       "version": 1,
       "history": []
@@ -9659,7 +10266,7 @@
         "sourceVersion": "a2b077d4-2459-4f51-966a-14104445924d"
       },
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-06T22:21:07.626Z",
       "version": 2,
       "history": [
@@ -9875,7 +10482,7 @@
         "sourceVersion": "387e821b-c0aa-478e-a1eb-8c4061cc7148"
       },
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -10659,7 +11266,7 @@
         "sourceVersion": "d0559913-38cd-483e-a68d-dca0a764add9"
       },
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -11590,7 +12197,7 @@
         "sourceVersion": "733a3fe3-8348-4b09-bcdf-3bd457643e6e"
       },
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -12682,7 +13289,7 @@
         "sourceVersion": "49f9f7c0-8a05-422d-b3e6-acda791748e7"
       },
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -12931,7 +13538,7 @@
         "sourceVersion": "3b6ec19a-5627-44f2-b018-305101e08052"
       },
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -13545,7 +14152,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -16477,7 +17084,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-06T09:49:19.620Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-06T09:49:19.620Z",
       "version": 1,
       "history": []
@@ -17060,7 +17667,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-06T09:49:19.620Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-06T09:49:19.620Z",
       "version": 1,
       "history": []
@@ -19085,7 +19692,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-06T02:18:52.398Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-06T02:18:52.398Z",
       "version": 1,
       "history": []
@@ -19941,7 +20548,7 @@
         "sourceVersion": "c3a61245-5443-4373-a842-8ceb4fb9bc02"
       },
       "firstSeenAt": "2026-11-06T02:18:52.398Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-06T02:18:52.398Z",
       "version": 1,
       "history": []
@@ -20008,7 +20615,7 @@
         "sourceVersion": "4cdf31ad-06c5-4187-992f-c85b0e95667c"
       },
       "firstSeenAt": "2026-11-05T21:56:42.958Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 2,
       "history": [
@@ -20164,7 +20771,7 @@
         "sourceVersion": "c1b12fe5-3b48-46d6-851d-399665954af5"
       },
       "firstSeenAt": "2026-11-05T21:56:42.958Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-05T21:56:42.958Z",
       "version": 1,
       "history": []
@@ -20206,7 +20813,7 @@
         "sourceVersion": "b758b70b-e52d-4cbc-84f9-bd27b0645f95"
       },
       "firstSeenAt": "2026-11-05T21:56:42.958Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-05T21:56:42.958Z",
       "version": 1,
       "history": []
@@ -20299,7 +20906,7 @@
         "sourceVersion": "a56f3447-33ab-4bad-a059-0dd84ca4e7fc"
       },
       "firstSeenAt": "2026-11-05T21:56:42.958Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-05T21:56:42.958Z",
       "version": 1,
       "history": []
@@ -21335,7 +21942,7 @@
         "sourceVersion": "2d2b4583-69c1-47ff-bfca-889a312149cb"
       },
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 3,
       "history": [
@@ -22200,7 +22807,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -22344,7 +22951,7 @@
         "sourceVersion": "3cf69d7c-b010-4f79-af1d-b55572763c6a"
       },
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -22997,7 +23604,7 @@
         "sourceVersion": "eb587820-cef3-4a54-8249-61eb3f667953"
       },
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -24414,7 +25021,7 @@
         "sourceVersion": "f25e4bb3-790b-4150-80d5-6f1e8d07493c"
       },
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -24784,7 +25391,7 @@
         "sourceVersion": "b246ec14-91b8-4c2a-b3a2-5b9663d06fbf"
       },
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -24893,7 +25500,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -25171,7 +25778,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -28369,7 +28976,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-05T07:20:21.608Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-05T07:20:21.608Z",
       "version": 1,
       "history": []
@@ -28977,7 +29584,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-05T07:20:21.608Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-05T07:20:21.608Z",
       "version": 1,
       "history": []
@@ -112246,7 +112853,7 @@
         "sourceVersion": "5ec3e88f-2342-4932-ab30-ed655617e5c3"
       },
       "firstSeenAt": "2026-10-28T13:29:33.122Z",
-      "lastSeenAt": "2026-11-07T20:10:21.783Z",
+      "lastSeenAt": "2026-11-07T23:55:17.135Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 2,
       "history": [
@@ -259639,666 +260246,6 @@
       "updatedAt": "2026-10-15T12:50:34.712Z",
       "version": 1,
       "history": []
-    },
-    {
-      "id": "cf2ba7043ef249a6545a4271",
-      "title": "Anthropic 在新加坡设立办事处，与新加坡政府达成合作",
-      "originalUrl": "https://www.ithome.com/1/013/479.htm",
-      "summary": "IT之家 10 月 15 日消息，美国人工智能公司 Anthropic 昨日宣布在新加坡设立办事处，并与新加坡数字发展及新闻部签署谅解备忘录。 IT之家从官方新闻稿获悉，新加坡是 Anthropic 全球最活跃市场之一，新加坡数百万人及许多企业、政府已经在使用 Claude。本次合作方包括新加坡政府科技局、Grab 和星展银行。随着本地团队不断壮大，Anthropic 将凭借强大 AI 技术帮助上述机构保持领先地位。 同时，Anthropic 将与新加坡合作评估 AI 安全、…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T08:55:29.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-15T12:50:34.712Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "4afe472151cb5d1f366b4f3a",
-      "title": "四川绵遂资内铁路罗家湾特大桥连续梁合龙",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-15/10715141.shtml",
-      "summary": "中新网成都10月15日电 (记者 刘忠俊)10月15日，四川绵阳至遂宁至资阳至内江铁路(以下简称“绵遂资内铁路”)罗家湾特大桥连续梁顺利合龙，为后续架梁施工创造了条件。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T08:52:04.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "mobility"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-15T12:50:34.712Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "eb67c5f2309a86767dd992ee",
-      "title": "库克：苹果智能 Apple Intelligence 月底在华发布测试版本，但不包括 Siri AI",
-      "originalUrl": "https://www.ithome.com/1/013/478.htm",
-      "summary": "IT之家 10 月 15 日消息，苹果董事会执行主席蒂姆 · 库克今日在上海接受澎湃新闻、界面新闻等媒体采访时确认，苹果智能（Apple Intelligence）及相关阿里千问大模型已获得批准，将于 10 月晚些时候面向中国用户发布测试版本。 库克表示，首批功能包括实时翻译、书写工具、照片清除工具等，但 Siri AI 不在此次发布范围之内。“我们很高兴，首批核心的苹果智能功能是可以慢慢上线了。”库克说道。 IT之家此前报道，此次获批涉及的阿里系模型包括通义千问和通义万相，…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T08:51:20.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-15T12:50:34.712Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "88c44631e8409ec3ad35978e",
-      "title": "最长单车行驶里程破万：小米澎程系列汽车上市一个月，累计行驶里程超过 1600 万公里",
-      "originalUrl": "https://www.ithome.com/1/013/477.htm",
-      "summary": "IT之家 10 月 15 日消息，小米澎程官方微博今日宣布，小米澎程上市一个月，澎程车主跨越山川湖海，累计行驶里程超过 1600 万公里，最长单车行驶超过 10000 公里。 据IT之家此前报道，小米汽车官微在本月初宣布，2026 年 9 月，小米汽车交付量超过 40,000 台。小米创办人、董事长兼 CEO 雷军透露，其中小米澎程首月交付超过 10,000 台。 小米汽车的全新系列 —— 澎程两款新车 N90 Max / Max 探索版、N70 Pro / Max 今年 9…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T08:49:25.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech",
-        "mobility"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-15T12:50:34.712Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "8fc7f3709f4afc9f23332557",
-      "title": "OpenCode 宣布 DeepSeek V4.1 Flash 免费提供，但仅支持 200K 上下文",
-      "originalUrl": "https://www.ithome.com/1/013/475.htm",
-      "summary": "IT之家 10 月 15 日消息，OpenCode 刚刚宣布，DeepSeek V4.1 Flash 现已免费提供，免费版实测支持 200K 上下文窗口，相比 1M 上下文版本有所降低。 此次免费开放是在此前“Operation Cheepseek”计划基础上的进一步动作。今年 9 月，OpenCode 曾将 DeepSeek V4.1 Flash 在 OpenCode Go 套餐中的使用额度从 15 美元临时提升至 60 美元，随后于 10 月 12 日将该额度调整为 80…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T08:47:02.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-15T12:50:34.712Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "511fee4eff235f613d480155",
-      "title": "从稻田到油茶林 多地迎来秋收好“丰”景",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-15/10715140.shtml",
-      "summary": "这段时间，安徽的水稻迎来了丰收。虽然当地的水稻在生长期先后遭遇了高温、阴雨和病虫害等多重不利因素的考验，但得益于科学化田管，有效保障了水稻的稳健长势。目前，当地正抢抓晴好天气组织机械全力抢收。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T08:47:02.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-15T12:50:34.712Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "1dce9d636712eb409de4211d",
-      "title": "磁极即将倒转吗？丨中新真探",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-15/10715123.shtml",
-      "summary": "中新网10月15日电 磁极倒转在地质历史上确曾多次发生，最近一次完整倒转约在78万年前。但它是极其缓慢的过程，通常需数千年至上万年，绝非一夜之间南北颠倒。古地磁研究显示，倒转期间地磁场会减弱，可能影响卫星通信、导航和电网，但这些是可监测、可预警的工程问题。主流研究对比过去280万年古气候记录与磁场偏移事件，未发现磁极变化对气候产生显著影响；也没有可靠证据表明倒转会直接导致物种大灭绝。(来源：@科学辟谣 中国新闻网微博)",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T08:43:04.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-15T12:50:34.712Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "75e95db3ca8b4704d66aaa32",
-      "title": "任天堂公布《火焰之纹章万缕千丝》游戏首款 DLC，219 港元含 3 组内容",
-      "originalUrl": "https://www.ithome.com/1/013/474.htm",
-      "summary": "IT之家 10 月 15 日消息，任天堂现已公布《火焰之纹章万缕千丝》游戏的首个扩充票，售价 219 港元（IT之家注：现汇率约合 187.1 元人民币），含 3 组内容，将在今日、12 月 31 日、2027 年 12 月 31 日分别发布。 IT之家了解到，第 1 弹扩充内容将在今天发布，通关第 1 部的特定任务后，便可获得仿造《Fire Emblem 风花雪月》中登场的「英雄遗产」武器。 同时，第 2 弹内容预定于 2026 年 12 月 31 日前发布，满足特定条件后…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T08:39:42.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "entertainment"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-15T12:50:34.712Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "032c89e2484441b2938fcd66",
-      "title": "集齐三大奖项 《我是刑警》与现实刑侦题材的创作突围",
-      "originalUrl": "https://www.chinanews.com.cn/cul/2026/10-15/10715125.shtml",
-      "summary": "中新网北京10月15日电 (记者 高凯)随着第35届飞天奖优秀电视剧奖花落《我是刑警》，这部作品已集齐中国电视剧三大顶级荣誉：第35届飞天奖优秀电视剧奖、第33届金鹰奖优秀电视剧奖、第30届上海电视节白玉兰奖评委会大奖与最佳编剧(原创)奖。奖项背后，这部作品在该领域的创作方式与其所呈现的特色或值得观察。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-culture",
-        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T08:33:13.000Z",
-      "timeIssue": null,
-      "channels": [
-        "entertainment"
-      ],
-      "sourceIds": [
-        "chinanews-culture"
-      ],
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-16T09:15:32.883Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "ce6713623168695ea25f4346",
-      "title": "MHRA introduces new safeguards to strengthen antidepressant safety information following major review",
-      "originalUrl": "https://www.gov.uk/government/news/mhra-introduces-new-safeguards-to-strengthen-antidepressant-safety-information-following-major-review",
-      "sourcePublishedAt": "2026-10-15T09:30:26+01:00",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "govuk-fulltext"
-      ],
-      "summary": "The Medicines and Healthcare products Regulatory Agency (MHRA) is introducing a series of new measures to strengthen how key risks associated with antidepressant medicines are communicated to patients, carers and healthcare professionals. T",
-      "summaryProvenance": {
-        "type": "licensed_body_excerpt",
-        "sourceId": "govuk-fulltext"
-      },
-      "contentMode": "fulltext",
-      "bodyHtml": "<div><p>The Medicines and Healthcare products Regulatory Agency (MHRA) is introducing a series of new measures to strengthen how key risks associated with antidepressant medicines are communicated to patients, carers and healthcare professionals.  </p>\n\n<p>The changes follow an extensive review initiated by the Commission on Human Medicines (CHM), in response to concerns raised by both patients and families about how information on two key areas is communicated in patient information leaflets. These are suicidal thoughts and behaviours, and sexual dysfunction that continues after treatment is stopped. </p>\n\n<p>Throughout the review we engaged directly with patients and families and considered the latest available evidence and expert clinical advice.  </p>\n\n<h3>Dr Alison Cave, MHRA Chief Safety Officer, said: </h3>\n\n<p>“Patients need clear and accessible information about the benefits and risks of medicines so they can make informed decisions.  </p>\n\n<p>“We are incredibly grateful for the valuable contributions of patients, families, clinicians and experts to this review.  </p>\n\n<p>“These measures will help ensure patients, carers and healthcare professionals can have more informed conversations about the benefits and risks associated with antidepressant medicines, and better support people throughout their treatment.” </p>\n\n<p>“Antidepressants are effective medicines for the treatment of depression and other conditions. When used appropriately and under clinical supervision, for the vast majority of individuals, the benefits outweigh the risks. The aim is not to discourage use, but to improve the prominence and clarity of the existing warnings.  </p>\n\n<p>“It’s imperative that patients do not stop taking these medicines without first speaking to their healthcare professional.” </p>\n\n<p>As a result of this review, patient information leaflets for antidepressants will be updated, including a new boxed warning signposting to information on suicidal thoughts and behaviours, making information easier to find. The expectation is that a new patient card will be included in or on the medicine box to reinforce key safety messaging and help patients and carers understand how and when to get further support. </p>\n\n<p>Patient information leaflets for certain antidepressants will be updated to include the term ‘Post SSRI Sexual Dysfunction’ (PSSD), to explain the risk of symptoms continuing after stopping treatment. This update aims to better reflect patient experiences and existing safety information.  </p>\n\n<p>Finally, a supporting safety (ancillary) leaflet is being developed by the MHRA with the wider healthcare system, which will be given to patients at their first appointment discussing antidepressants. It will describe the key risks and benefits to support informed decision making about their treatment. This safety leaflet will also be given to patients who are already receiving antidepressants. This will be available in 2027.  </p>\n\n<h3>Chris Bird, programme manager for patient safety at NICE, said:  </h3>\n\n<p>“This review will ensure patients and healthcare professionals have the most up to date information to help them make crucial decisions on treatment and support. </p>\n\n<p>“We are grateful to have collaborated with the MHRA on the review, with NICE colleagues joining its expert working group. </p>\n\n<p>“As with all new safety advice issued from the MHRA, we will consider the implications of this advice on published NICE guidance and review our recommendations if required.” </p>\n\n<p>We will continue to work with partners across the healthcare system to support more consistent communication of risks associated with antidepressant medicines. This includes updates to prescribing resources, clinical guidance and patient information materials to better meet the needs of those who use these medicines. </p>\n\n<p>A detailed <a href=\"https://www.gov.uk/government/publications/antidepressants-updated-safety-communications\">Public Assessment Report</a> has been published alongside the updated safety information for patients and healthcare professionals.  </p>\n\n<h3>Notes to Editors </h3>\n\n<ul>\n  <li>\n    <p>The full Drug Safety Update can be accessed <a href=\"https://www.gov.uk/drug-safety-update/antidepressants-new-safety-measures-for-all-patients-to-improve-communication-of-the-risk-of-suicidal-thoughts-and-behaviours-and-persistent-sexual-dysfunction\">here</a>. </p>\n  </li>\n  <li>\n    <p>The MHRA continuously monitors the safety of these medicines, including side effects and emerging evidence. Anyone who suspects they are having a side effect are encouraged to talk to their trusted healthcare professional and report it directly to the <a href=\"https://yellowcard.mhra.gov.uk/idaps\">Yellow Card scheme</a>.  </p>\n  </li>\n  <li>\n    <p>The Medicines and Healthcare products Regulatory Agency (MHRA) is responsible for regulating all medicines and medical devices in the UK by ensuring they work and are acceptably safe. All our work is underpinned by robust and fact-based judgements to ensure that the benefits justify any risks.   </p>\n  </li>\n  <li>\n    <p>The MHRA is an executive agency of the Department of Health and Social Care.   </p>\n  </li>\n  <li>\n    <p>For media enquiries, please contact the <a>newscentre@mhra.gov.uk</a>, or call on 020 3080 7651.</p>\n  </li>\n</ul>\n</div>",
-      "bodyText": "The Medicines and Healthcare products Regulatory Agency (MHRA) is introducing a series of new measures to strengthen how key risks associated with antidepressant medicines are communicated to patients, carers and healthcare professionals.  \n\nThe changes follow an extensive review initiated by the Commission on Human Medicines (CHM), in response to concerns raised by both patients and families about how information on two key areas is communicated in patient information leaflets. These are suicidal thoughts and behaviours, and sexual dysfunction that continues after treatment is stopped. \n\nThroughout the review we engaged directly with patients and families and considered the latest available evidence and expert clinical advice.  \n\nDr Alison Cave, MHRA Chief Safety Officer, said: \n\n“Patients need clear and accessible information about the benefits and risks of medicines so they can make informed decisions.  \n\n“We are incredibly grateful for the valuable contributions of patients, families, clinicians and experts to this review.  \n\n“These measures will help ensure patients, carers and healthcare professionals can have more informed conversations about the benefits and risks associated with antidepressant medicines, and better support people throughout their treatment.” \n\n“Antidepressants are effective medicines for the treatment of depression and other conditions. When used appropriately and under clinical supervision, for the vast majority of individuals, the benefits outweigh the risks. The aim is not to discourage use, but to improve the prominence and clarity of the existing warnings.  \n\n“It’s imperative that patients do not stop taking these medicines without first speaking to their healthcare professional.” \n\nAs a result of this review, patient information leaflets for antidepressants will be updated, including a new boxed warning signposting to information on suicidal thoughts and behaviours, making information easier to find. The expectation is that a new patient card will be included in or on the medicine box to reinforce key safety messaging and help patients and carers understand how and when to get further support. \n\nPatient information leaflets for certain antidepressants will be updated to include the term ‘Post SSRI Sexual Dysfunction’ (PSSD), to explain the risk of symptoms continuing after stopping treatment. This update aims to better reflect patient experiences and existing safety information.  \n\nFinally, a supporting safety (ancillary) leaflet is being developed by the MHRA with the wider healthcare system, which will be given to patients at their first appointment discussing antidepressants. It will describe the key risks and benefits to support informed decision making about their treatment. This safety leaflet will also be given to patients who are already receiving antidepressants. This will be available in 2027.  \n\nChris Bird, programme manager for patient safety at NICE, said:  \n\n“This review will ensure patients and healthcare professionals have the most up to date information to help them make crucial decisions on treatment and support. \n\n“We are grateful to have collaborated with the MHRA on the review, with NICE colleagues joining its expert working group. \n\n“As with all new safety advice issued from the MHRA, we will consider the implications of this advice on published NICE guidance and review our recommendations if required.” \n\nWe will continue to work with partners across the healthcare system to support more consistent communication of risks associated with antidepressant medicines. This includes updates to prescribing resources, clinical guidance and patient information materials to better meet the needs of those who use these medicines. \n\nA detailed Public Assessment Report has been published alongside the updated safety information for patients and healthcare professionals.  \n\nNotes to Editors \n\n\n  \n    The full Drug Safety Update can be accessed here. \n  \n  \n    The MHRA continuously monitors the safety of these medicines, including side effects and emerging evidence. Anyone who suspects they are having a side effect are encouraged to talk to their trusted healthcare professional and report it directly to the Yellow Card scheme.  \n  \n  \n    The Medicines and Healthcare products Regulatory Agency (MHRA) is responsible for regulating all medicines and medical devices in the UK by ensuring they work and are acceptably safe. All our work is underpinned by robust and fact-based judgements to ensure that the benefits justify any risks.   \n  \n  \n    The MHRA is an executive agency of the Department of Health and Social Care.   \n  \n  \n    For media enquiries, please contact the newscentre@mhra.gov.uk, or call on 020 3080 7651.\n  \n\n",
-      "bodyHash": "c41e5581093353a06628cec362a556aa041f5046c180cfa5858c9380d41c64a0",
-      "language": "en",
-      "republication": {
-        "sourceId": "govuk-fulltext",
-        "sourceUrl": "https://www.gov.uk/government/news/mhra-introduces-new-safeguards-to-strengthen-antidepressant-safety-information-following-major-review",
-        "license": "Open Government Licence v3.0",
-        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
-        "authors": [
-          "Medicines and Healthcare products Regulatory Agency"
-        ],
-        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
-        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
-        "sourceUpdatedAt": "2026-10-15T09:30:26+01:00",
-        "sourceVersion": "f123b8a3-bfba-4ab9-a707-f7b5b2c99792"
-      },
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-16T09:15:32.883Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "8c00991203a1da323d81b387",
-      "title": "RSH takes enforcement action against Concept Housing Association",
-      "originalUrl": "https://www.gov.uk/government/news/rsh-takes-enforcement-action-against-concept-housing-association",
-      "sourcePublishedAt": "2026-10-15T09:30:03+01:00",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "govuk-fulltext"
-      ],
-      "summary": "The Regulator of Social Housing has today announced that it is taking enforcement action against Concept Housing Association. This follows a sustained period in which Concept has failed to address serious failings in the way it is run. Its ",
-      "summaryProvenance": {
-        "type": "licensed_body_excerpt",
-        "sourceId": "govuk-fulltext"
-      },
-      "contentMode": "fulltext",
-      "bodyHtml": "<div><p>The Regulator of Social Housing has today announced that it is <a href=\"https://www.gov.uk/government/publications/regulatory-judgement-concept-housing-association-cic\">taking enforcement action</a> against Concept Housing Association.</p>\n\n<p>This follows a sustained period in which Concept has failed to address serious failings in the way it is run.</p>\n\n<p>Its approach to business planning is weak and the way it manages risk is inadequate. Social  landlords must act in the best interests of tenants – not those of external organisations. But Concept cannot demonstrate that its arrangements with external organisations are appropriate.</p>\n\n<p>Concept has not managed its affairs effectively. RSH does not have confidence in Concept’s long-term viability or its ability to protect tenants’ homes from undue risk, with a significant financial deterioration in recent months. Its financial statements remain overdue to RSH by over a year.</p>\n\n<p>RSH has pushed Concept to address these issues, but it has repeatedly failed to do so. As a result, RSH is using its powers to make Concept:</p>\n\n<ul>\n  <li>Commission a third-party insolvency expert to develop a wind-down plan. This will outline the steps that Concept would need to take to protect tenants in the event of further deterioration of its financial position.</li>\n  <li>Get an independent review of board and executive skills, to identify the gaps that need addressing, and produce a plan rapidly afterwards to address them.</li>\n  <li>Give RSH evidence and independent assurance that it is meeting health and safety obligations for all its social homes – and that a plan is in place to address any issues.</li>\n  <li>Use these independent reviews to produce a credible improvement plan that demonstrates a clear route to compliance.</li>\n</ul>\n\n<p>Should Concept fail to comply, RSH will take further action.</p>\n\n<p>RSH Chief Executive Jonathan Walters said:</p>\n\n<p>“Our standards set vital protections for social housing. Landlords need to be well run and financially viable, so they can ensure tenants’ homes stay in the social housing sector.</p>\n\n<p>“Concept has failed to address our concerns and hasn’t put things right despite our intensive engagement.</p>\n\n<p>“We will not accept this. So today we are using our powers to make Concept address its widespread failings.”</p>\n\n<p>In addition, RSH has announced that it is currently investigating matters which may indicate serious failings in Hexagon Housing Association delivering the outcomes of the Governance and Financial Viability Standard.</p>\n\n<p>Hexagon has been added to RSH’s <a href=\"https://www.gov.uk/guidance/gradings-under-review-list\">gradings under review list</a> and the outcome of the investigation will be confirmed in a regulatory judgement, once completed.</p>\n\n<p>Ends</p>\n\n<h2>Notes to editors</h2>\n\n<ol>\n  <li>A registered provider is responsible for ensuring that it manages itself effectively, achieves the standards set by RSH, and engages positively with its regulatory framework. Where a failure against a standard or other problem has been identified, RSH expects providers to respond in a prompt and effective manner. It may be necessary for RSH to step in and exercise its powers under the Housing and Regeneration Act 2008 as amended (the Act) when a provider fails to do so. The regulator has published <a href=\"https://www.gov.uk/guidance/statutory-guidance-under-s215-of-the-hra-2008\">guidance</a> on how the regulator uses and intends to use its statutory regulatory and enforcement powers.</li>\n  <li>Sections 219 to 225 of the Act allow the regulator to require a registered provider to take specified action to resolve a specified failure or other problem.  Sections 251 to 252 of the Act allow the regulator to require a registered provider to appoint a manager to manage the entirety of their affairs relating to social housing or specific aspects of social housing. Section 269 of the Act enables the regulator to appoint one or more persons as an officer of a private registered provider.</li>\n  <li>\nRSH promotes a viable, efficient and well-governed social housing sector able to deliver more and better social homes. It does this by setting standards and carrying out robust regulation focusing on driving improvement in social landlords, including local authorities, and ensuring that housing associations are well-governed, financially viable and offer value for money. It takes appropriate action if the outcomes of the standards are not being delivered.</li>\n  <li>If RSH is investigating a landlord due to suspected serious failings, it may place them on the gradings under review list. This is likely to be where engagement is ongoing and RSH thinks it is appropriate to alert stakeholders to the fact that it has serious concerns about that landlord’s delivery of the standards outcomes, which it is investigating. More information about the gradings under review list and RSH’s approach is available on its <a href=\"https://www.gov.uk/guidance/how-we-approach-regulatory-judgements-and-gradings#judgements-and-gradings-under-review\">How we approach regulatory judgements and gradings</a> page.</li>\n  <li>For media enquiries please contact <a>Vicky.Moore@rsh.gov.uk</a> or <a>Christian.Cosby@rsh.gov.uk</a>. For general enquiries email <a>enquiries@rsh.gov.uk</a>\n</li>\n</ol>\n\n</div>",
-      "bodyText": "The Regulator of Social Housing has today announced that it is taking enforcement action against Concept Housing Association.\n\nThis follows a sustained period in which Concept has failed to address serious failings in the way it is run.\n\nIts approach to business planning is weak and the way it manages risk is inadequate. Social  landlords must act in the best interests of tenants – not those of external organisations. But Concept cannot demonstrate that its arrangements with external organisations are appropriate.\n\nConcept has not managed its affairs effectively. RSH does not have confidence in Concept’s long-term viability or its ability to protect tenants’ homes from undue risk, with a significant financial deterioration in recent months. Its financial statements remain overdue to RSH by over a year.\n\nRSH has pushed Concept to address these issues, but it has repeatedly failed to do so. As a result, RSH is using its powers to make Concept:\n\n\n  Commission a third-party insolvency expert to develop a wind-down plan. This will outline the steps that Concept would need to take to protect tenants in the event of further deterioration of its financial position.\n  Get an independent review of board and executive skills, to identify the gaps that need addressing, and produce a plan rapidly afterwards to address them.\n  Give RSH evidence and independent assurance that it is meeting health and safety obligations for all its social homes – and that a plan is in place to address any issues.\n  Use these independent reviews to produce a credible improvement plan that demonstrates a clear route to compliance.\n\n\nShould Concept fail to comply, RSH will take further action.\n\nRSH Chief Executive Jonathan Walters said:\n\n“Our standards set vital protections for social housing. Landlords need to be well run and financially viable, so they can ensure tenants’ homes stay in the social housing sector.\n\n“Concept has failed to address our concerns and hasn’t put things right despite our intensive engagement.\n\n“We will not accept this. So today we are using our powers to make Concept address its widespread failings.”\n\nIn addition, RSH has announced that it is currently investigating matters which may indicate serious failings in Hexagon Housing Association delivering the outcomes of the Governance and Financial Viability Standard.\n\nHexagon has been added to RSH’s gradings under review list and the outcome of the investigation will be confirmed in a regulatory judgement, once completed.\n\nEnds\n\nNotes to editors\n\n\n  A registered provider is responsible for ensuring that it manages itself effectively, achieves the standards set by RSH, and engages positively with its regulatory framework. Where a failure against a standard or other problem has been identified, RSH expects providers to respond in a prompt and effective manner. It may be necessary for RSH to step in and exercise its powers under the Housing and Regeneration Act 2008 as amended (the Act) when a provider fails to do so. The regulator has published guidance on how the regulator uses and intends to use its statutory regulatory and enforcement powers.\n  Sections 219 to 225 of the Act allow the regulator to require a registered provider to take specified action to resolve a specified failure or other problem.  Sections 251 to 252 of the Act allow the regulator to require a registered provider to appoint a manager to manage the entirety of their affairs relating to social housing or specific aspects of social housing. Section 269 of the Act enables the regulator to appoint one or more persons as an officer of a private registered provider.\n  \nRSH promotes a viable, efficient and well-governed social housing sector able to deliver more and better social homes. It does this by setting standards and carrying out robust regulation focusing on driving improvement in social landlords, including local authorities, and ensuring that housing associations are well-governed, financially viable and offer value for money. It takes appropriate action if the outcomes of the standards are not being delivered.\n  If RSH is investigating a landlord due to suspected serious failings, it may place them on the gradings under review list. This is likely to be where engagement is ongoing and RSH thinks it is appropriate to alert stakeholders to the fact that it has serious concerns about that landlord’s delivery of the standards outcomes, which it is investigating. More information about the gradings under review list and RSH’s approach is available on its How we approach regulatory judgements and gradings page.\n  For media enquiries please contact Vicky.Moore@rsh.gov.uk or Christian.Cosby@rsh.gov.uk. For general enquiries email enquiries@rsh.gov.uk\n\n\n\n",
-      "bodyHash": "fd167febfd20ae240510d15401d4ce88cb3ad9c36a78dfbbbb82e91a87eea53b",
-      "language": "en",
-      "republication": {
-        "sourceId": "govuk-fulltext",
-        "sourceUrl": "https://www.gov.uk/government/news/rsh-takes-enforcement-action-against-concept-housing-association",
-        "license": "Open Government Licence v3.0",
-        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
-        "authors": [
-          "Regulator of Social Housing"
-        ],
-        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
-        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
-        "sourceUpdatedAt": "2026-10-15T09:30:03+01:00",
-        "sourceVersion": "6e442102-88ae-44c7-a2a4-35367d21f6a6"
-      },
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-16T09:15:32.883Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "300cd17897937223db757bd2",
-      "title": "第二期贵州省文艺名家工作室揭牌",
-      "originalUrl": "https://www.chinanews.com.cn/cul/2026/10-15/10715108.shtml",
-      "summary": "中新网贵阳10月15日电 (记者 张伟)由中共贵州省委宣传部指导，贵州省文学艺术界联合会、贵州师范大学主办的第二期贵州省文艺名家工作室揭牌仪式15日在贵州师范大学举行。领衔名家王华祥、饶俊、杨淑仪的工作室在贵州师范大学正式启用。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-culture",
-        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T08:22:14.000Z",
-      "timeIssue": null,
-      "channels": [
-        "entertainment"
-      ],
-      "sourceIds": [
-        "chinanews-culture"
-      ],
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-16T09:15:32.883Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "434fc0de601764fffcf13feb",
-      "title": "老舍经典与北京曲剧结合 《方珍珠》再展京味文化",
-      "originalUrl": "https://www.chinanews.com.cn/cul/2026/10-15/10715064.shtml",
-      "summary": "中新网北京10月15日电 (记者 高凯)作为2026年“‘京’彩文化青春绽放”行动计划“文艺行”——“戏聚高校 佳作有约——精品演出进高校”活动的重要组成部分，北京曲剧《方珍珠》近期于天桥艺术中心·中剧场上演。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-culture",
-        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T08:17:32.000Z",
-      "timeIssue": null,
-      "channels": [
-        "entertainment"
-      ],
-      "sourceIds": [
-        "chinanews-culture"
-      ],
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-16T09:15:32.883Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "036c34c45ffb21980e540b48",
-      "title": "顺应变化，重申标准：《少数派创作手册》修订说明",
-      "originalUrl": "https://sspai.com/post/116181",
-      "summary": "四年前，我们发布了《少数派创作手册》（manual.sspai.com），旨在让作者更快捷地获得创作过程中所需的信息，以及更一致地传达对于内容选编的标准和主张。四年来，《创作手册》获得了作者们的广泛查 ...",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "sspai",
-        "feedUrl": "https://sspai.com/feed",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T08:09:12.000Z",
-      "timeIssue": null,
-      "channels": [
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "sspai"
-      ],
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-19T00:10:31.022Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "16b40f3aa59fdabe10dc4dc9",
-      "title": "2026第五届“白塔杯”文化创意大赛让北京西城“活遗产”变成“活日常”",
-      "originalUrl": "https://www.chinanews.com.cn/cul/2026/10-15/10715050.shtml",
-      "summary": "中新网北京10月15日电 西城有白塔寺、宣南文化、大运河记忆、各种老字号、茶馆与马连道茶产业等，如何把这些文化符号进行二创活化，是2026第五届“白塔杯”文化创意大赛的主旨。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-culture",
-        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T08:08:52.000Z",
-      "timeIssue": null,
-      "channels": [
-        "entertainment"
-      ],
-      "sourceIds": [
-        "chinanews-culture"
-      ],
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-16T09:15:32.883Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "fbd2ce7bcb3408e29df618fe",
-      "title": "聚焦“考古学的历史与未来” 第五届中国考古学大会在山西运城举行",
-      "originalUrl": "https://www.chinanews.com.cn/cul/2026/10-15/10715049.shtml",
-      "summary": "中新网山西运城10月15日电 (记者 孙自法)第五届中国考古学大会10月15日在山西运城开幕，围绕“考古学的历史与未来”主题，中国全国各地及来自美国、加拿大、英国、日本、韩国等国家的数百名考古专家学者代表，在“大河之东、好运之城”相聚一堂，通过成果分享、分组研讨、实地调研等多种形式进行深度交流。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-culture",
-        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T08:08:02.000Z",
-      "timeIssue": null,
-      "channels": [
-        "entertainment"
-      ],
-      "sourceIds": [
-        "chinanews-culture"
-      ],
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-16T09:15:32.883Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "b78441abf1957692ec0df9ab",
-      "title": "牙膏迎来官方分类！如何挑选适合自己的牙膏？一图带你看明白",
-      "originalUrl": "https://www.chinanews.com.cn/life/2026/10-15/10715084.shtml",
-      "summary": "口袋百科丨新规来了！买牙膏避坑，这份目录必看",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-life",
-        "feedUrl": "https://www.chinanews.com.cn/rss/life.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T07:48:22.000Z",
-      "timeIssue": null,
-      "channels": [
-        "home"
-      ],
-      "sourceIds": [
-        "chinanews-life"
-      ],
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-19T11:12:38.441Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "8fa11f2cf828b4b11590cad8",
-      "title": "UK statement on escalating tensions between Ethiopia and Eritrea: 15 October",
-      "originalUrl": "https://www.gov.uk/government/news/uk-statement-on-escalating-tensions-between-ethiopia-and-eritrea-15-october",
-      "sourcePublishedAt": "2026-10-15T08:46:02+01:00",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "govuk-fulltext"
-      ],
-      "summary": "A UK government spokesperson said: “We have noted with great concern the worsening security situation in the Horn of Africa. “We call on all parties to respect the sovereignty, independence and territorial integrity of all countries in the ",
-      "summaryProvenance": {
-        "type": "licensed_body_excerpt",
-        "sourceId": "govuk-fulltext"
-      },
-      "contentMode": "fulltext",
-      "bodyHtml": "<div><h3>A UK government spokesperson said:</h3>\n\n<p>“We have noted with great concern the worsening security situation in the Horn of Africa.</p>\n\n<p>“We call on all parties to respect the sovereignty, independence and territorial integrity of all countries in the region; and to avoid any actions which could escalate tensions further.</p>\n\n<p>“The UK opposes action by any party which breaches the border of its neighbouring states.</p>\n\n<p>“We urgently call for de-escalation and a return to dialogue. We reiterate our support for the African Union’s role in facilitating this.</p>\n\n<p>“Safe and unhindered humanitarian access is essential. All parties must protect civilians, including women and girls, and comply with their obligations under international humanitarian law.”</p>\n</div>",
-      "bodyText": "A UK government spokesperson said:\n\n“We have noted with great concern the worsening security situation in the Horn of Africa.\n\n“We call on all parties to respect the sovereignty, independence and territorial integrity of all countries in the region; and to avoid any actions which could escalate tensions further.\n\n“The UK opposes action by any party which breaches the border of its neighbouring states.\n\n“We urgently call for de-escalation and a return to dialogue. We reiterate our support for the African Union’s role in facilitating this.\n\n“Safe and unhindered humanitarian access is essential. All parties must protect civilians, including women and girls, and comply with their obligations under international humanitarian law.”\n",
-      "bodyHash": "42f4d645efe263ae14fdbd625b1d9803793ee88c63e467d6220835a829dd0dca",
-      "language": "en",
-      "republication": {
-        "sourceId": "govuk-fulltext",
-        "sourceUrl": "https://www.gov.uk/government/news/uk-statement-on-escalating-tensions-between-ethiopia-and-eritrea-15-october",
-        "license": "Open Government Licence v3.0",
-        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
-        "authors": [
-          "Foreign, Commonwealth & Development Office"
-        ],
-        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
-        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
-        "sourceUpdatedAt": "2026-10-15T08:46:02+01:00",
-        "sourceVersion": "e76865c3-c6d2-4956-9647-428dae47e93e"
-      },
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-16T09:15:32.883Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "b6b99d04d50447306696ee79",
-      "title": "半米高，2公斤重！新发现的霸王滇菌怎么长到如此巨大的？",
-      "originalUrl": "https://www.chinanews.com.cn/life/2026/10-15/10715053.shtml",
-      "summary": "半米高，2公斤重！新发现的霸王滇菌能吃吗？",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-life",
-        "feedUrl": "https://www.chinanews.com.cn/rss/life.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T07:34:22.000Z",
-      "timeIssue": null,
-      "channels": [
-        "home"
-      ],
-      "sourceIds": [
-        "chinanews-life"
-      ],
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-19T11:12:38.441Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "654e38ba97dc0673ff92e49c",
-      "title": "国家图书馆“谁知盘中餐”中餐主题纪录片征集活动评审启动",
-      "originalUrl": "https://www.chinanews.com.cn/cul/2026/10-15/10715031.shtml",
-      "summary": "中新网北京10月15日电 (记者 应妮)“谁知盘中餐——国家图书馆中餐主题纪录片征集活动”评审筹备活动日前在京举行。活动将遴选10部以内“典藏作品”、50部以内“优选作品”入藏国家图书馆。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-culture",
-        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T07:30:36.000Z",
-      "timeIssue": null,
-      "channels": [
-        "entertainment"
-      ],
-      "sourceIds": [
-        "chinanews-culture"
-      ],
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-16T09:15:32.883Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "f732b365f714a36e080e36dd",
-      "title": "陈星灿：多学科交叉融合已成为中国考古成熟范式",
-      "originalUrl": "https://www.chinanews.com.cn/cul/2026/10-15/10715037.shtml",
-      "summary": "中新网山西运城10月15日电 (记者 孙自法)中国考古学会理事长、中国社会科学院学部委员陈星灿研究员10月15日指出，近年来，中国考古事业多点突破，中国考古学科体系更加完善，多学科交叉融合已经成为中国考古的成熟范式。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-culture",
-        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T07:27:05.000Z",
-      "timeIssue": null,
-      "channels": [
-        "entertainment"
-      ],
-      "sourceIds": [
-        "chinanews-culture"
-      ],
-      "firstSeenAt": "2026-10-15T12:50:34.712Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-15T12:50:34.712Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "89fcbce740018e6857fd1337",
-      "title": "《明日方舟：终末地》游戏登陆 Steam，锁国区",
-      "originalUrl": "https://www.ithome.com/1/013/433.htm",
-      "summary": "IT之家 10 月 15 日消息，《明日方舟：终末地》游戏今日登陆 Steam 平台，可免费游玩，支持全平台账号数据互通，但是锁国区（商店页链接：https://store.steampowered.com/app/4732690/_/?l=schinese）。 据IT之家了解，本作支持简体中文字幕、界面和完全音频，需要第三方账户 GRYPHLINE Account，且使用内核级反作弊 ACE，部分支持 XBOX 控制器、DualSense 控制器。 同时，本作最低配置要求为…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T07:14:37.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "entertainment"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-15T07:21:05.504Z",
-      "lastSeenAt": "2026-10-15T07:21:05.504Z",
-      "updatedAt": "2026-10-15T07:21:05.504Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "45706d93e774189375ed5109",
-      "title": "与 Android / iOS 端功能一致：腾讯个人 AI 管家 Marvis（马维斯）正式登陆华为鸿蒙应用市场",
-      "originalUrl": "https://www.ithome.com/1/013/432.htm",
-      "summary": "IT之家 10 月 15 日消息，腾讯公司公关总监张军今日宣布，腾讯个人 AI 管家 Marvis（马维斯）正式登陆华为鸿蒙应用市场。 据介绍，Marvis 鸿蒙版与 Android、iOS 移动端功能保持一致，支持自然语言操控电脑、跨端远控电脑、定时任务、文件智能处理等核心能力。 同时，鸿蒙版 Marvis 还新增了微信和 QQ 登录。张军表示，无论通过哪种入口登录，用户的历史对话、积分资产均可继承，老用户可在鸿蒙设备上无缝继续使用。 IT之家查询获悉，这款腾讯 AI 助手…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T07:13:34.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-15T07:21:05.504Z",
-      "lastSeenAt": "2026-10-15T07:21:05.504Z",
-      "updatedAt": "2026-10-15T07:21:05.504Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "9162e0da8a3c78b58e918d48",
-      "title": "商务部：中方将与欧方一道促进双方两用物项贸易发展",
-      "originalUrl": "https://www.chinanews.com.cn/cj/2026/10-15/10715032.shtml",
-      "summary": "新华社北京10月15日电(记者黄韬铭、谢希瑶)商务部发言人何亚东15日在例行发布会上回应对欧稀土出口许可的相关提问时表示，中方愿继续为对欧稀土出口许可审批提供便利，也希望欧方为对等解决两用领域对华重点许可个案提供便利。中方将与欧方一道，继续发挥出口管制对话机制作用，促进双方两用物项贸易发展。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T07:12:29.000Z",
-      "timeIssue": null,
-      "channels": [
-        "finance",
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-finance",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-15T07:21:05.504Z",
-      "lastSeenAt": "2026-10-15T07:21:05.504Z",
-      "updatedAt": "2026-10-15T07:21:05.504Z",
-      "version": 1,
-      "history": []
     }
   ],
   "sourceStatus": {
@@ -260306,8 +260253,8 @@
       "id": "ithome",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-07T20:10:21.783Z",
-      "lastSuccessAt": "2026-11-07T20:10:21.783Z",
+      "checkedAt": "2026-11-07T23:55:17.135Z",
+      "lastSuccessAt": "2026-11-07T23:55:17.135Z",
       "etag": null,
       "lastModified": null,
       "discovered": 60,
@@ -260318,8 +260265,8 @@
       "id": "sspai",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-07T20:10:21.783Z",
-      "lastSuccessAt": "2026-11-07T20:10:21.783Z",
+      "checkedAt": "2026-11-07T23:55:17.135Z",
+      "lastSuccessAt": "2026-11-07T23:55:17.135Z",
       "etag": null,
       "lastModified": null,
       "discovered": 10,
@@ -260330,11 +260277,11 @@
       "id": "chinanews-society",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-07T20:10:21.783Z",
-      "lastSuccessAt": "2026-11-07T20:10:21.783Z",
-      "etag": "\"6aef4663-41c3\"",
-      "lastModified": "Sat, 07 Nov 2026 15:40:19 GMT",
-      "discovered": 0,
+      "checkedAt": "2026-11-07T23:55:17.135Z",
+      "lastSuccessAt": "2026-11-07T23:55:17.135Z",
+      "etag": "\"6aefb0d7-3edc\"",
+      "lastModified": "Sat, 07 Nov 2026 23:14:31 GMT",
+      "discovered": 30,
       "failures": 0,
       "error": null
     },
@@ -260342,11 +260289,11 @@
       "id": "chinanews-finance",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-07T20:10:21.783Z",
-      "lastSuccessAt": "2026-11-07T20:10:21.783Z",
+      "checkedAt": "2026-11-07T23:55:17.135Z",
+      "lastSuccessAt": "2026-11-07T23:55:17.135Z",
       "etag": "\"6aef3d37-4554\"",
       "lastModified": "Sat, 07 Nov 2026 15:01:11 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -260354,8 +260301,8 @@
       "id": "chinanews-life",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-07T20:10:21.783Z",
-      "lastSuccessAt": "2026-11-07T20:10:21.783Z",
+      "checkedAt": "2026-11-07T23:55:17.135Z",
+      "lastSuccessAt": "2026-11-07T23:55:17.135Z",
       "etag": "\"6aed49c9-1e60\"",
       "lastModified": "Fri, 06 Nov 2026 03:30:17 GMT",
       "discovered": 0,
@@ -260366,8 +260313,8 @@
       "id": "chinanews-jk",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-07T20:10:21.783Z",
-      "lastSuccessAt": "2026-11-07T20:10:21.783Z",
+      "checkedAt": "2026-11-07T23:55:17.135Z",
+      "lastSuccessAt": "2026-11-07T23:55:17.135Z",
       "etag": "\"69aa3e2a-2832\"",
       "lastModified": "Fri, 06 Mar 2026 02:38:34 GMT",
       "discovered": 0,
@@ -260378,8 +260325,8 @@
       "id": "chinanews-culture",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-07T20:10:21.783Z",
-      "lastSuccessAt": "2026-11-07T20:10:21.783Z",
+      "checkedAt": "2026-11-07T23:55:17.135Z",
+      "lastSuccessAt": "2026-11-07T23:55:17.135Z",
       "etag": "\"6aef3db8-42df\"",
       "lastModified": "Sat, 07 Nov 2026 15:03:20 GMT",
       "discovered": 0,
@@ -260390,8 +260337,8 @@
       "id": "chinanews-edu",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-07T20:10:21.783Z",
-      "lastSuccessAt": "2026-11-07T20:10:21.783Z",
+      "checkedAt": "2026-11-07T23:55:17.135Z",
+      "lastSuccessAt": "2026-11-07T23:55:17.135Z",
       "etag": "\"6aedf4ec-3b0c\"",
       "lastModified": "Fri, 06 Nov 2026 15:40:28 GMT",
       "discovered": 0,
@@ -260402,8 +260349,8 @@
       "id": "chinanews-sports",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-07T20:10:21.783Z",
-      "lastSuccessAt": "2026-11-07T20:10:21.783Z",
+      "checkedAt": "2026-11-07T23:55:17.135Z",
+      "lastSuccessAt": "2026-11-07T23:55:17.135Z",
       "etag": "\"6aef33d4-3f7e\"",
       "lastModified": "Sat, 07 Nov 2026 14:21:08 GMT",
       "discovered": 0,
@@ -260414,10 +260361,10 @@
       "id": "chinanews-scroll-news",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-07T20:10:21.783Z",
-      "lastSuccessAt": "2026-11-07T20:10:21.783Z",
-      "etag": "\"6aef493b-3ea6\"",
-      "lastModified": "Sat, 07 Nov 2026 15:52:27 GMT",
+      "checkedAt": "2026-11-07T23:55:17.135Z",
+      "lastSuccessAt": "2026-11-07T23:55:17.135Z",
+      "etag": "\"6aefb215-3880\"",
+      "lastModified": "Sat, 07 Nov 2026 23:19:49 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -260425,8 +260372,8 @@
     "govuk-fulltext": {
       "id": "govuk-fulltext",
       "status": "ok",
-      "checkedAt": "2026-11-07T20:10:21.783Z",
-      "lastSuccessAt": "2026-11-07T20:10:21.783Z",
+      "checkedAt": "2026-11-07T23:55:17.135Z",
+      "lastSuccessAt": "2026-11-07T23:55:17.135Z",
       "discovered": 20,
       "rejected": 0,
       "contentSchema": 3,
