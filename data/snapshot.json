@@ -1,8 +1,252 @@
 {
   "schemaVersion": "1",
-  "collectedAt": "2026-11-08T18:28:54.104Z",
-  "lastSuccessfulCollectionAt": "2026-11-08T18:28:54.104Z",
+  "collectedAt": "2026-11-08T22:26:36.322Z",
+  "lastSuccessfulCollectionAt": "2026-11-08T22:26:36.322Z",
   "items": [
+    {
+      "id": "9407164c418965127c7e283e",
+      "title": "美国一大学校园发生两起枪击事件 致1死3伤",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/11-09/10728580.shtml",
+      "summary": "据美国方面当地时间8日消息，美国北卡罗来纳州温斯顿-塞勒姆州立大学校园内7日晚间发生两起枪击事件，造成1人死亡、3人受伤。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T22:05:37.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "education"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T22:26:36.322Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
+      "updatedAt": "2026-11-08T22:26:36.322Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a914d0adf4b8959bfb3c3b1e",
+      "title": "埃及列车脱轨事故已致7死112伤",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/11-09/10728579.shtml",
+      "summary": "当地时间11月8日，根据埃及卫生部的最新通报，当天发生在吉萨省阿亚特地区的列车脱轨事故，已造成7人死亡、112人受伤。其中45名伤者经治疗后情况好转，已出院。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T21:54:59.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T22:26:36.322Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
+      "updatedAt": "2026-11-08T22:26:36.322Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6f1650cec71b7288f77f0d5d",
+      "title": "南非地方选举计票结束 非国大保住第一大党地位",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/11-09/10728578.shtml",
+      "summary": "南非独立选举委员会8日公布计票结果，非洲人国民大会(非国大)在地方政府选举中保住第一大政党地位，得票率为30.76%，较2021年地方政府选举下跌约15个百分点。民主联盟得票率为24.64%。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T21:54:07.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T22:26:36.322Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
+      "updatedAt": "2026-11-08T22:26:36.322Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6c139c34a54dc05500e10b40",
+      "title": "土伊重申合作终结库尔德工人党在辛贾尔地区的存在",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/11-09/10728577.shtml",
+      "summary": "土耳其和伊拉克8日发表联合声明，重申将继续合作，推动在伊拉克北部尼尼微省辛贾尔地区建立中央政府权威，终结库尔德工人党在当地的存在。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T21:53:11.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T22:26:36.322Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
+      "updatedAt": "2026-11-08T22:26:36.322Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "2497b0e371ccd06f2b106e07",
+      "title": "飞行数据显示两架美军机同日分别在黑海和俄边境附近活动",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/11-09/10728576.shtml",
+      "summary": "据俄罗斯方面8日消息，飞行数据显示，一架美军巡逻机当天在黑海上空活动，另一架美国侦察机沿俄罗斯边境飞行超过4小时。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T21:51:35.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "mobility"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T22:26:36.322Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
+      "updatedAt": "2026-11-08T22:26:36.322Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "fbf08370ee2cc23c6d0e6713",
+      "title": "伊拉克库尔德自治区天然气田遭不明来源无人机袭击",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/11-09/10728575.shtml",
+      "summary": "当地时间8日晚，伊拉克库尔德自治区(库区)安全部门消息人士称，位于伊库区苏莱曼尼亚省的豪尔穆尔天然气田当天遭不明来源的无人机袭击，气田遭袭后已停止生产。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T21:50:11.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T22:26:36.322Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
+      "updatedAt": "2026-11-08T22:26:36.322Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4d41c68cd42fd9a21882bb9c",
+      "title": "加沙中部流离失所者营地发生沙土塌方 已致5人死亡",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/11-09/10728574.shtml",
+      "summary": "据巴勒斯坦方面消息，当地时间8日晚间，在加沙地带中部代尔拜拉赫，一个流离失所民众帐篷营地附近的沙土塌方，导致多个帐篷被掩埋。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T21:48:55.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T22:26:36.322Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
+      "updatedAt": "2026-11-08T22:26:36.322Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a1d5a2b415420612806f14db",
+      "title": "特朗普称“铁门”特遣行动正全面展开 几乎没有物资能进出伊朗",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/11-09/10728573.shtml",
+      "summary": "当地时间11月8日，美国总统特朗普在社交媒体“真实社交”上发文表示，针对伊朗的“铁门”特遣行动正在全面展开。再加上他所称的“历史上规模最大的海上封锁”，目前几乎没有物资能够进出伊朗。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T21:47:12.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T22:26:36.322Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
+      "updatedAt": "2026-11-08T22:26:36.322Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0d35fcd3f4238e34f047c94d",
+      "title": "PM call with President Stubb of Finland: 8 November 2026",
+      "originalUrl": "https://www.gov.uk/government/news/pm-call-with-president-stubb-of-finland-8-november-2026",
+      "sourcePublishedAt": "2026-11-08T20:53:40+00:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "The Prime Minister spoke to the President of Finland, Alexander Stubb, this afternoon. The leaders began by discussing the latest on Ukraine, including the Brussels peace talks last week. It was vital that work towards a just and lasting pe",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>The Prime Minister spoke to the President of Finland, Alexander Stubb, this afternoon.</p>\n\n<p>The leaders began by discussing the latest on Ukraine, including the Brussels peace talks last week.</p>\n\n<p>It was vital that work towards a just and lasting peace in Ukraine was prioritised and continued at pace, the leaders agreed, before a wider discussion on European security.</p>\n\n<p>Putin had consistently failed to show he was serious about negotiations, underlining the importance of Ukraine’s partners piling on further pressure on Russia to force the Kremlin to engage seriously, the Prime Minister added.</p>\n\n<p>Finally, both discussed the future of the UK-EU relationship. Leading up to the summit later this month, the Prime Minister said he was focused on a deal that delivered for all parties, and ensured a modern relationship that could be built on.</p>\n\n<p>They looked forward to speaking again soon.</p>\n</div>",
+      "bodyText": "The Prime Minister spoke to the President of Finland, Alexander Stubb, this afternoon.\n\nThe leaders began by discussing the latest on Ukraine, including the Brussels peace talks last week.\n\nIt was vital that work towards a just and lasting peace in Ukraine was prioritised and continued at pace, the leaders agreed, before a wider discussion on European security.\n\nPutin had consistently failed to show he was serious about negotiations, underlining the importance of Ukraine’s partners piling on further pressure on Russia to force the Kremlin to engage seriously, the Prime Minister added.\n\nFinally, both discussed the future of the UK-EU relationship. Leading up to the summit later this month, the Prime Minister said he was focused on a deal that delivered for all parties, and ensured a modern relationship that could be built on.\n\nThey looked forward to speaking again soon.\n",
+      "bodyHash": "0213414ba4fe609b122b85476ca56a1ee07fe9886dc312f21c56e54063f6ded0",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/pm-call-with-president-stubb-of-finland-8-november-2026",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Prime Minister's Office, 10 Downing Street"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-11-08T20:53:40+00:00",
+        "sourceVersion": "4aa478f9-9ea7-4309-8fe9-184a1c92c1df"
+      },
+      "firstSeenAt": "2026-11-08T22:26:36.322Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
+      "updatedAt": "2026-11-08T22:26:36.322Z",
+      "version": 1,
+      "history": []
+    },
     {
       "id": "2364bda1f49ddbfdf2c31cc0",
       "title": "古尔曼称苹果 Siri AI 团队或迎大调整，工程副总裁罗克韦尔考虑明年走人",
@@ -24,7 +268,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -50,7 +294,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -77,7 +321,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -102,7 +346,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -129,7 +373,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -155,7 +399,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -185,7 +429,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -211,7 +455,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -236,7 +480,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -261,7 +505,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -289,7 +533,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -315,7 +559,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -341,7 +585,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -368,7 +612,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -395,7 +639,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -420,7 +664,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -462,7 +706,7 @@
         "sourceVersion": "64ed4e7d-c577-4c7d-9434-3a434f1d883c"
       },
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -487,7 +731,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -512,7 +756,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -537,7 +781,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -564,7 +808,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -589,7 +833,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -616,7 +860,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -643,7 +887,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -669,7 +913,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -696,7 +940,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -721,7 +965,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -746,7 +990,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T18:28:54.104Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 1,
       "history": []
@@ -773,7 +1017,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -799,7 +1043,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -824,7 +1068,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -849,7 +1093,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -874,7 +1118,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -899,7 +1143,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -924,7 +1168,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -949,7 +1193,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -974,7 +1218,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1001,7 +1245,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1240,7 +1484,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1577,7 +1821,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1660,7 +1904,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1685,7 +1929,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1710,7 +1954,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1811,7 +2055,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1861,7 +2105,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2061,7 +2305,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2237,7 +2481,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2313,7 +2557,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2364,7 +2608,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2415,7 +2659,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2440,7 +2684,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2482,7 +2726,7 @@
         "sourceVersion": "4e6754d1-27fc-4813-be7d-343c96297f73"
       },
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T18:28:54.104Z",
       "version": 2,
       "history": [
@@ -2520,7 +2764,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2699,7 +2943,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2725,7 +2969,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2750,7 +2994,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3002,7 +3246,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3028,7 +3272,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3078,7 +3322,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3103,7 +3347,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3154,7 +3398,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3230,7 +3474,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3282,7 +3526,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3307,7 +3551,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3332,7 +3576,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3358,7 +3602,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3384,7 +3628,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3410,7 +3654,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3462,7 +3706,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3513,7 +3757,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3539,7 +3783,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3589,7 +3833,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3615,7 +3859,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3741,7 +3985,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3816,7 +4060,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3917,7 +4161,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -4043,7 +4287,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -4068,7 +4312,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -4119,7 +4363,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -4170,7 +4414,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -4195,7 +4439,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -4220,7 +4464,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -4246,7 +4490,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -4271,7 +4515,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -5834,7 +6078,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -7397,7 +7641,7 @@
         "sourceVersion": "f1b82a70-4490-4eb8-a399-2451fee4a290"
       },
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -8122,7 +8366,7 @@
         "sourceVersion": "c7004301-93f2-49db-87d7-2ad27781a208"
       },
       "firstSeenAt": "2026-11-07T20:10:21.783Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-07T20:10:21.783Z",
       "version": 1,
       "history": []
@@ -11514,7 +11758,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -16658,7 +16902,7 @@
         "sourceVersion": "9854d7da-162c-4a01-9b22-ec1db99f9f41"
       },
       "firstSeenAt": "2026-11-07T02:19:43.031Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-07T02:19:43.031Z",
       "version": 1,
       "history": []
@@ -16700,7 +16944,7 @@
         "sourceVersion": "a75955db-f319-43bb-a3c5-2aef47cb5eae"
       },
       "firstSeenAt": "2026-11-07T02:19:43.031Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-07T02:19:43.031Z",
       "version": 1,
       "history": []
@@ -17741,7 +17985,7 @@
         "sourceVersion": "a2b077d4-2459-4f51-966a-14104445924d"
       },
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-06T22:21:07.626Z",
       "version": 2,
       "history": [
@@ -17957,7 +18201,7 @@
         "sourceVersion": "387e821b-c0aa-478e-a1eb-8c4061cc7148"
       },
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -18741,7 +18985,7 @@
         "sourceVersion": "d0559913-38cd-483e-a68d-dca0a764add9"
       },
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -19672,7 +19916,7 @@
         "sourceVersion": "733a3fe3-8348-4b09-bcdf-3bd457643e6e"
       },
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -20764,7 +21008,7 @@
         "sourceVersion": "49f9f7c0-8a05-422d-b3e6-acda791748e7"
       },
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -21013,7 +21257,7 @@
         "sourceVersion": "3b6ec19a-5627-44f2-b018-305101e08052"
       },
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -21627,7 +21871,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -24559,7 +24803,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-06T09:49:19.620Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-06T09:49:19.620Z",
       "version": 1,
       "history": []
@@ -25142,7 +25386,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-06T09:49:19.620Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-06T09:49:19.620Z",
       "version": 1,
       "history": []
@@ -27167,7 +27411,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-06T02:18:52.398Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-06T02:18:52.398Z",
       "version": 1,
       "history": []
@@ -28023,7 +28267,7 @@
         "sourceVersion": "c3a61245-5443-4373-a842-8ceb4fb9bc02"
       },
       "firstSeenAt": "2026-11-06T02:18:52.398Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-06T02:18:52.398Z",
       "version": 1,
       "history": []
@@ -28090,7 +28334,7 @@
         "sourceVersion": "4cdf31ad-06c5-4187-992f-c85b0e95667c"
       },
       "firstSeenAt": "2026-11-05T21:56:42.958Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 2,
       "history": [
@@ -28246,7 +28490,7 @@
         "sourceVersion": "c1b12fe5-3b48-46d6-851d-399665954af5"
       },
       "firstSeenAt": "2026-11-05T21:56:42.958Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-05T21:56:42.958Z",
       "version": 1,
       "history": []
@@ -28288,7 +28532,7 @@
         "sourceVersion": "b758b70b-e52d-4cbc-84f9-bd27b0645f95"
       },
       "firstSeenAt": "2026-11-05T21:56:42.958Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-05T21:56:42.958Z",
       "version": 1,
       "history": []
@@ -28381,7 +28625,7 @@
         "sourceVersion": "a56f3447-33ab-4bad-a059-0dd84ca4e7fc"
       },
       "firstSeenAt": "2026-11-05T21:56:42.958Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-05T21:56:42.958Z",
       "version": 1,
       "history": []
@@ -29417,7 +29661,7 @@
         "sourceVersion": "2d2b4583-69c1-47ff-bfca-889a312149cb"
       },
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 3,
       "history": [
@@ -30282,7 +30526,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -30426,7 +30670,7 @@
         "sourceVersion": "3cf69d7c-b010-4f79-af1d-b55572763c6a"
       },
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -32975,7 +33219,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -33253,7 +33497,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -36451,7 +36695,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-05T07:20:21.608Z",
-      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T22:26:36.322Z",
       "updatedAt": "2026-11-05T07:20:21.608Z",
       "version": 1,
       "history": []
@@ -259811,236 +260055,6 @@
       "updatedAt": "2026-10-16T04:23:20.158Z",
       "version": 1,
       "history": []
-    },
-    {
-      "id": "b3b527955362c231acc055f8",
-      "title": "苹果首款智能家居中枢 HomeView 细节：同时显示九路监控、可当数码相框等",
-      "originalUrl": "https://www.ithome.com/1/013/738.htm",
-      "summary": "IT之家 10 月 16 日消息，科技媒体 AppleInsider 昨日（10 月 15 日）发布博文，在发布会现场深入体验 HomeView 后，分享了关于苹果首款智能家居中枢的更多实用细节，包括九路监控、共享相册等。 IT之家附上相关现场测试视频如下： 安防方面，HomeView 的“Home Camera”界面可同时显示最多 9 路实时摄像头画面，用户无需逐一切换，就能查看房间、门口或室外区域。 该媒体称在现场演示中，视频响应较快，也没有非常明显的延迟情况出现，不过实…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T01:31:51.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech",
-        "home"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "b012f1cdaee66a8c6fc96fe4",
-      "title": "施劲松：世界各地古代文明共性与差异相互交织",
-      "originalUrl": "https://www.chinanews.com.cn/cul/2026/10-16/10715431.shtml",
-      "summary": "中新网山西运城10月16日电 (记者 孙自法)“放眼整个世界，各地的古代文明都呈现出共性与差异相互交织的图景。”",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-culture",
-        "feedUrl": "https://www.chinanews.com.cn/rss/culture.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T01:25:10.000Z",
-      "timeIssue": null,
-      "channels": [
-        "entertainment"
-      ],
-      "sourceIds": [
-        "chinanews-culture"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-17T04:56:36.262Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "994294f6bcfa53f9d0dfc88e",
-      "title": "Meta 首席 AI 官汪滔：不会开源最强模型，但会继续发布优秀开源模型",
-      "originalUrl": "https://www.ithome.com/1/013/736.htm",
-      "summary": "IT之家 10 月 16 日消息，当地时间 10 月 15 日，Meta 发布了开放权重 AI 模型 Muse Spark Open。Meta 官方宣称这是迄今为止能力最强的美国开放权重模型。 据 The Next Web 报道，Meta 表示，Muse Spark Open 性能低于周一刚发布的前沿模型 Muse Wonder。 Meta 曾在周一宣布 Muse Wonder 已达到前沿模型水准，但并未对外公布任何基准测试成绩，该模型目前依然保持闭源。 Meta 首席 AI…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T01:25:04.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "45ed9fa1565da19e7a5439d9",
-      "title": "元太发布 Kaleido 4 彩色电子纸，支持 18FPS 视频播放",
-      "originalUrl": "https://www.ithome.com/1/013/735.htm",
-      "summary": "IT之家 10 月 16 日消息，元太科技 (E Ink) 昨日正式推出新一代彩色电子纸技术 E Ink Kaleido 4。该面板在延续低功耗、类纸阅读核心优势的同时，进一步提升彩色显示的色彩表现、亮度、对比度与动态显示能力。 Kaleido 4 色域容积提升 2 倍至 40K 以上，白画面的反射率提升 15%，对比度提升 50%，更能清楚呈现图片、图表、简报与影音内容，减少画面颗粒感。 其导入全新 Oxide TFT 背板，支持更高驱动电压，提升画面刷新速率；结合新算法，…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T01:24:41.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "a75c847bec8d75d914b00fd9",
-      "title": "这次能飞了！特斯拉第二代 Roadster 跑车正式亮相",
-      "originalUrl": "https://www.ithome.com/1/013/734.htm",
-      "summary": "IT之家 10 月 16 日消息，在今天（16 日）上午的特别活动中，特斯拉第二代 Roadster 正式亮相，官方称其为“最后一辆最佳驾驶者之车”。 根据介绍，2008 年的 Roadster 只有一个目标：证明电动汽车可以速度飞快、外形性感、引人期待，而今天发布的第二代 Roadster，则展现了历史上的一个新时刻：最后几辆人类驾驶汽车之中的佼佼者。 新车配备姿态控制推进器和车尾主推进器，不仅能像火箭一样离地升空，还能在空中翻滚。 据IT之家了解，第二代 Roadster…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T01:23:43.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "mobility"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "c37a16afc11a0744814ca279",
-      "title": "这8所学校“零近视”，做对了什么",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-16/10715432.shtml",
-      "summary": "这8所学校“零近视”，做对了什么(健康焦点)",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T01:23:24.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "education"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "f6fe43c4de76d2227984aedd",
-      "title": "（长征胜利90周年）从延安来，守护“另一条路”",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-16/10715423.shtml",
-      "summary": "中新网甘肃白银10月16日电 (戴文昌)2026年是中国工农红军长征胜利90周年。长征的烽火早已远去，但奋斗之路代代相传。在甘肃省白银市平川区红会车站，调车长丁昊每天清晨八时准时到岗接班，紧盯煤炭装车外运，在铁道线上守护新时代的“另一条路”。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T01:22:48.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "08675ac54ca0bfb19735a1b8",
-      "title": "（长征胜利90周年）大山里的“铁公交”",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-16/10715420.shtml",
-      "summary": "中新网甘肃白银10月16日电 (戴文昌)2026年是中国工农红军长征胜利90周年。在甘肃省白银市革命老区群山之间，7515/6次公益性慢火车常年穿梭往来，停靠乡村小站、串联山间村落，成为沿线民众求学赶集、走亲访友、物资流通的“铁公交”，在黄土高原上跑出最暖的民生速度。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T01:20:26.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "mobility"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "3a43a575f961a458acc398b7",
-      "title": "京东红包今日 10:00 再加码，猜拳至高赢 5 元",
-      "originalUrl": "https://www.ithome.com/1/013/733.htm",
-      "summary": "今日 10 点京东猜拳有机会赢至高 5 元加码红包，建议先领完日常红包再来参与：点此抽取。 猜拳红包玩法：活动会在不同的时间节点，开启“猜拳抢红包”玩法，请随时关注活动提示。 活动期间用户可参与猜拳玩法，每人最多 3 次机会，单次机会用户选择石头、剪刀、布任意一个，任意获胜 1 局（石头赢剪刀，剪刀赢布，布赢石头）即可获得领取额外奖励的机会，可随机获得京东红包、品类东券或店铺券等奖励。 奖励限量，发完即止，建议用户在活动节点整点，准时参与活动。 蚊子肉也是肉，小伙伴可每天都领…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T01:20:18.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
     }
   ],
   "sourceStatus": {
@@ -260048,8 +260062,8 @@
       "id": "ithome",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T18:28:54.104Z",
-      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
+      "checkedAt": "2026-11-08T22:26:36.322Z",
+      "lastSuccessAt": "2026-11-08T22:26:36.322Z",
       "etag": null,
       "lastModified": null,
       "discovered": 60,
@@ -260060,8 +260074,8 @@
       "id": "sspai",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T18:28:54.104Z",
-      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
+      "checkedAt": "2026-11-08T22:26:36.322Z",
+      "lastSuccessAt": "2026-11-08T22:26:36.322Z",
       "etag": null,
       "lastModified": null,
       "discovered": 10,
@@ -260072,11 +260086,11 @@
       "id": "chinanews-society",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T18:28:54.104Z",
-      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
+      "checkedAt": "2026-11-08T22:26:36.322Z",
+      "lastSuccessAt": "2026-11-08T22:26:36.322Z",
       "etag": "\"6af08e4e-3d84\"",
       "lastModified": "Sun, 08 Nov 2026 14:59:26 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -260084,11 +260098,11 @@
       "id": "chinanews-finance",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T18:28:54.104Z",
-      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
+      "checkedAt": "2026-11-08T22:26:36.322Z",
+      "lastSuccessAt": "2026-11-08T22:26:36.322Z",
       "etag": "\"6af08d1a-4335\"",
       "lastModified": "Sun, 08 Nov 2026 14:54:18 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -260096,8 +260110,8 @@
       "id": "chinanews-life",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T18:28:54.104Z",
-      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
+      "checkedAt": "2026-11-08T22:26:36.322Z",
+      "lastSuccessAt": "2026-11-08T22:26:36.322Z",
       "etag": "\"6af04cff-12e9\"",
       "lastModified": "Sun, 08 Nov 2026 10:20:47 GMT",
       "discovered": 0,
@@ -260108,8 +260122,8 @@
       "id": "chinanews-jk",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T18:28:54.104Z",
-      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
+      "checkedAt": "2026-11-08T22:26:36.322Z",
+      "lastSuccessAt": "2026-11-08T22:26:36.322Z",
       "etag": "\"69aa3e2a-2832\"",
       "lastModified": "Fri, 06 Mar 2026 02:38:34 GMT",
       "discovered": 0,
@@ -260120,11 +260134,11 @@
       "id": "chinanews-culture",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T18:28:54.104Z",
-      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
+      "checkedAt": "2026-11-08T22:26:36.322Z",
+      "lastSuccessAt": "2026-11-08T22:26:36.322Z",
       "etag": "\"6af07c9e-41ac\"",
       "lastModified": "Sun, 08 Nov 2026 13:43:58 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -260132,8 +260146,8 @@
       "id": "chinanews-edu",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T18:28:54.104Z",
-      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
+      "checkedAt": "2026-11-08T22:26:36.322Z",
+      "lastSuccessAt": "2026-11-08T22:26:36.322Z",
       "etag": "\"6af00b15-3305\"",
       "lastModified": "Sun, 08 Nov 2026 05:39:33 GMT",
       "discovered": 0,
@@ -260144,11 +260158,11 @@
       "id": "chinanews-sports",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T18:28:54.104Z",
-      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
+      "checkedAt": "2026-11-08T22:26:36.322Z",
+      "lastSuccessAt": "2026-11-08T22:26:36.322Z",
       "etag": "\"6af095b0-3f58\"",
       "lastModified": "Sun, 08 Nov 2026 15:30:56 GMT",
-      "discovered": 30,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -260156,10 +260170,10 @@
       "id": "chinanews-scroll-news",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T18:28:54.104Z",
-      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
-      "etag": "\"6af095af-458d\"",
-      "lastModified": "Sun, 08 Nov 2026 15:30:55 GMT",
+      "checkedAt": "2026-11-08T22:26:36.322Z",
+      "lastSuccessAt": "2026-11-08T22:26:36.322Z",
+      "etag": "\"6af0f23c-3a58\"",
+      "lastModified": "Sun, 08 Nov 2026 22:05:48 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -260167,8 +260181,8 @@
     "govuk-fulltext": {
       "id": "govuk-fulltext",
       "status": "ok",
-      "checkedAt": "2026-11-08T18:28:54.104Z",
-      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
+      "checkedAt": "2026-11-08T22:26:36.322Z",
+      "lastSuccessAt": "2026-11-08T22:26:36.322Z",
       "discovered": 20,
       "rejected": 0,
       "contentSchema": 3,
