@@ -1,8 +1,756 @@
 {
   "schemaVersion": "1",
-  "collectedAt": "2026-11-08T13:14:49.996Z",
-  "lastSuccessfulCollectionAt": "2026-11-08T13:14:49.996Z",
+  "collectedAt": "2026-11-08T18:28:54.104Z",
+  "lastSuccessfulCollectionAt": "2026-11-08T18:28:54.104Z",
   "items": [
+    {
+      "id": "2364bda1f49ddbfdf2c31cc0",
+      "title": "古尔曼称苹果 Siri AI 团队或迎大调整，工程副总裁罗克韦尔考虑明年走人",
+      "originalUrl": "https://www.ithome.com/1/024/014.htm",
+      "summary": "IT之家 11 月 8 日消息，彭博社记者马克 · 古尔曼在今晚更新的《Power On》时事通讯中爆料，曾主导 Vision Pro 头显开发、同时负责新版 Siri AI 项目的迈克 · 罗克韦尔，仍在认真考虑离开现有岗位。 古尔曼披露，罗克韦尔或将于明年卸任 Siri 工程副总裁，甚至彻底离开苹果。新版 Siri 跳票了两年才得以上市，考虑到罗克韦尔在其中发挥的作用，他的离开将给苹果造成重大损失。 IT之家获悉，如果罗克韦尔最终离职，或在苹果内部转任其他岗位，更多工作预…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T15:47:05.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "03949b40e85ba15429bae967",
+      "title": "古尔曼称苹果 CEO 特努斯“上任三把火”，敦促软件主管费德里吉大胆搞 AI",
+      "originalUrl": "https://www.ithome.com/1/024/013.htm",
+      "summary": "IT之家 11 月 8 日消息，彭博社记者马克 · 古尔曼在今天（8 日）晚间更新的《Power On》时事通讯中披露，苹果新任 CEO 约翰 · 特努斯敦促软件工程主管克雷格 · 费德里吉加快 AI 业务发展，采取更大胆的策略，目标是将 Siri 升级为能够自主替用户完成任务的 AI 智能体。 上周的财报电话会议上，特努斯对苹果的 AI 业务表现得相当乐观。谈及新版 Siri 时特努斯更是自信十足：苹果终于实现了多年来的设想，公司 AI 业务迎来了新篇章。“我们对收到的评价…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T15:36:53.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6cc8eebfb3b56cc13f78fdc7",
+      "title": "2026中超盘点：竞争格局下的奇迹上演与神话破灭",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/11-08/10728572.shtml",
+      "summary": "中新社北京11月8日电 题：2026中超盘点：竞争格局下的奇迹上演与神话破灭",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T15:30:40.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c11a8bc82c3f52a4ea3e8d9d",
+      "title": "亚马逊成立新团队专攻家用机器人，剑指“前所未有”的新产品",
+      "originalUrl": "https://www.ithome.com/1/024/012.htm",
+      "summary": "IT之家 11 月 8 日消息，美国 CNBC 分析亚马逊的招聘信息发现，过去几个月，亚马逊组建了一支新团队，准备开发一款前所未有的机器人产品。 亚马逊近期发布的一则工程师招聘信息写道：“机器人即将走出电影，进入我们的家中。”这条被撤掉的招聘信息透露，新产品能够适应不断变化的家庭环境，并在人类家庭成员身边自主活动。 亚马逊一向愿意押注长期项目，即便短期内不被外界理解，只要能够帮助公司抢占新市场的先机，就值得投入。此前的 Alexa 语音助手和 Kindle 电子书阅读器，都采…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T15:24:09.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "07dd98d86e79d334eedefa5c",
+      "title": "举重世锦赛落幕：中国队夺得17金10银6铜",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/11-08/10728569.shtml",
+      "summary": "中新社宁波11月8日电 (张煜欢 宣佳含)10月27日至11月8日，2026年世界举重锦标赛(下称举重世锦赛)在浙江宁波举行。主场作战的中国举重队满额16人出战，共获得17金10银6铜。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T15:16:05.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a9bc27c5c091423c0cfd50b5",
+      "title": "马斯克：特斯拉将进一步改进 Cybercab，提升能效、新增配色",
+      "originalUrl": "https://www.ithome.com/1/024/011.htm",
+      "summary": "IT之家 11 月 8 日消息，特斯拉计划对 Cybercab 进行多项重大升级，带来能效提升和新的车身配色。今天（8 日）凌晨，特斯拉 CEO 马斯克在 X 上透露，公司还将进一步改进 Cybercab。“我们会进一步提高能效，让 Cybercab 用上 40kWh 电池组。我们还会推出液态银色，免得车身颜色太单调。” 据IT之家了解，本周早些时候，特斯拉宣布将取消得州超级工厂的 Cybertruck 生产线，把产能腾出来生产更多 Cybercab。 能效更高的新款 Cyb…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T15:00:24.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "74f0a33c068f990efb41372b",
+      "title": "畅通教育科技人才良性循环 为新质生产力蓄势赋能",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/11-08/10728567.shtml",
+      "summary": "编者按： 发展新质生产力是推动高质量发展的内在要求和重要着力点。近日，中共中央、国务院印发《关于发展新质生产力的意见》，为加快发展新质生产力作出系统部署。三里河推出权威专家系列解读，阐释政策内涵、洞察发展大势。今日刊发国家发展改革委国际合作中心处长、研究员鲍淑君的署名文章《得打好这三张牌》。 发展新质生产力，关键靠什么？近日，中共中央、国务院印发的《关于发展新质生产力的意见》（以下简称《意见》）给出了明确回答，其中一项重要部署就是“统筹推进教育科技人才体制机制一体改革”。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T14:53:10.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "technology",
+        "education",
+        "career",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "35f39fc8e0e0e0db476b96ec",
+      "title": "山西太原一公寓发生火灾 致5人遇难",
+      "originalUrl": "https://www.chinanews.com.cn/sh/2026/11-08/10728568.shtml",
+      "summary": "中新网太原11月8日电 (记者 胡健)山西省太原市“迎泽发布”8日晚间发布通报称，当日发生在迎泽区的火灾致5人遇难。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T14:49:37.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-society",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1f7afa80699536847256a480",
+      "title": "蚂蚁集团：旗下 AI 助手灵光用户数量已突破 2000 万，2.0 版本上线一周已帮助用户管理超 116 万项事务",
+      "originalUrl": "https://www.ithome.com/1/024/010.htm",
+      "summary": "IT之家 11 月 8 日消息，蚂蚁集团旗下 AI 助手灵光宣布：自今年 10 月 27 日灵光 2.0 上线以来，一周内已帮助用户管理超 116 万项事务，执行超 360 万次任务。灵光用户已突破 2000 万。 参考IT之家先前报道，蚂蚁集团于 10 月 27 日发布灵光 2.0，其最大特性是 AI 介入任务的起点进一步前移。 过去，用户需要先发现问题、提出需求，再由 AI 执行；如今，在获得用户授权后，灵光能够结合已接入的信息与服务，主动识别潜在需求，并发起分析、监测和…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T14:47:23.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "32fb66a0c7de93c34c6f0df2",
+      "title": "当贝推出 H5 第二代电视盒子：升级全志 H626 处理器，469 元",
+      "originalUrl": "https://www.ithome.com/1/024/009.htm",
+      "summary": "IT之家 11 月 8 日消息，当贝现已在京东上架 H5 第二代电视盒子，该产品主要升级全志 H626 处理器，支持双频 Wi-Fi 6，定价为 469 元，部分地区国补后低至 399 元。 该产品尺寸为 98 x 98 x 21.5mm，采用白色配色，正面配备一条多彩呼吸灯，提供五种灯光效果模式。机身背部提供了一个 HDMI 2.1 接口、一个 USB-A 接口、一个 3.5mm 的复合音视频接口。 该机搭载了全志 H626 芯片，配备了 2GB RAM 以及 16GB 机…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T14:31:54.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "23fcff70d58155cfbd6cb1c8",
+      "title": "博世吴永桥：汽车不该拿来订咖啡、订机票，建议手机和车机划清边界",
+      "originalUrl": "https://www.ithome.com/1/024/008.htm",
+      "summary": "IT之家 11 月 8 日消息，据第一财经，在 5 日的 2026 世界互联网大会 · 乌镇咖荟 · 汽车夜话上，博世智能驾驶与控制系统事业部（XC）中国区总裁吴永桥发表观点认为，汽车不会成为“第三空间”，车机也不该重复手机已经做得很好的事。 吴永桥直言，当前很多人都认为汽车会成为第三空间，但自己认为“永远不会”。之所以如此判断，依据是自身的项目经验和实际使用数据。 其透露，博世为全球客户做了百余个座舱项目，涉及的功能就包括在车上订咖啡、订餐馆、订火锅店、订机票、订酒店，后来…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T14:28:03.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "consumer-tech",
+        "mobility",
+        "food"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "b6514ffa13cc9aae728c735f",
+      "title": "李云飞：比亚迪今年全年销量预计略有增长，海外增长更高",
+      "originalUrl": "https://www.ithome.com/1/024/007.htm",
+      "summary": "IT之家 11 月 8 日消息，据财联社报道，在比亚迪仰望鼎曜发布会后的媒体沟通会上，比亚迪品牌及公关处总经理李云飞表示，今年比亚迪全年销量相较去年会略有增长，其中一方面来自海外更高的增长。 他同时表示，在第二代刀片电池和闪充技术加持下，比亚迪国内市场整体情况好于国内大盘。 据IT之家此前报道，比亚迪 10 月产销快报显示：10 月新能源汽车销量约 49.02 万辆，同比增长 10.97%；前 10 个月累计销量约 362.17 万辆，同比下降 2.16%。 其中，纯电动汽车…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T14:27:11.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "0864e6e90b50a5119e9c7fe6",
+      "title": "WTA250香港公开赛收官 美国选手刘婧文击败菲律宾选手埃亚拉夺得女单冠军",
+      "originalUrl": "https://www.chinanews.com.cn/dwq/2026/11-08/10728566.shtml",
+      "summary": "中新社香港11月8日电 (记者 张语洽)WTA(女子网球协会)250香港公开赛8日在香港维多利亚公园网球场举行女单决赛，美国选手刘婧文(Claire Liu)2:0击败菲律宾选手埃亚拉(Alexandra Eala)，夺得冠军。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T14:25:50.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life",
+        "sports"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "6761f79a3262d859b3dd48d6",
+      "title": "风雪迎冠，荣光归城——大连英博加冕中超冠军侧记",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/11-08/10728563.shtml",
+      "summary": "中新社大连11月8日电 题：风雪迎冠，荣光归城——大连英博加冕中超冠军侧记",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T14:09:45.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "c43c8504ce9741e06a98edff",
+      "title": "中超末轮综述：英博大逆转夺冠 蓉城不敌泰山功亏一篑",
+      "originalUrl": "https://www.chinanews.com.cn/ty/2026/11-08/10728562.shtml",
+      "summary": "中新社北京11月8日电 (刘梦青)2026赛季中超联赛末轮比赛8日全部战罢。成都蓉城2:3不敌山东泰山，大连英博3:1轻取天津津门虎。两队最终同积52分，英博凭两回合双杀蓉城的相互战绩优势，夺得本赛季中超联赛冠军，蓉城屈居亚军。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T14:08:53.000Z",
+      "timeIssue": null,
+      "channels": [
+        "sports",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-sports",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "9ad78c463b58df1c6430bbff",
+      "title": "李书福称吉利完全认同换电模式，“车电不同寿”的矛盾还没集中爆发",
+      "originalUrl": "https://www.ithome.com/1/024/005.htm",
+      "summary": "IT之家 11 月 8 日消息，据观察者网报道，11 月 5 日，蔚来创始人、董事长兼 CEO 李斌与吉利控股集团董事长李书福，在 2026 世界互联网大会乌镇咖荟 · 汽车夜话进行对话。这是双方在 9 月 28 日蔚来与吉利达成充换电战略合作后的首次公开对话。 李书福表示，吉利完全认同换电模式，新能源车电池是会衰减损坏的，但一台车的使用周期不止七八九年，这个矛盾必须找到解决方案，“直接换一块全新电池包，太贵；拆解翻新修复电池，成本同样很高。所以换电，就是解决这个问题。” 据…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T14:01:34.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "4c02472c128972fead3b963f",
+      "title": "Scottish Secretary honours armed forces at Remembrance service",
+      "originalUrl": "https://www.gov.uk/government/news/scottish-secretary-honours-armed-forces-at-remembrance-service",
+      "sourcePublishedAt": "2026-11-08T13:59:42+00:00",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "govuk-fulltext"
+      ],
+      "summary": "Scottish Secretary Douglas Alexander laid a wreath on behalf of the UK Government at the Annual Service of Remembrance in Edinburgh today (Sunday 8 November 2026). He joined the Edinburgh Lord Provost’s Wreath Laying Party from 11am at the ",
+      "summaryProvenance": {
+        "type": "licensed_body_excerpt",
+        "sourceId": "govuk-fulltext"
+      },
+      "contentMode": "fulltext",
+      "bodyHtml": "<div><p>Scottish Secretary Douglas Alexander laid a wreath on behalf of the UK Government at the Annual Service of Remembrance in Edinburgh today (Sunday 8 November 2026). </p>\n\n<p>He joined the Edinburgh Lord Provost’s Wreath Laying Party from 11am at the Stone of Remembrance, Edinburgh City Chambers, alongside members of the military, veterans and community leaders, to honour the service and sacrifice of British Armed Forces personnel, veterans and their families, past and present.</p>\n\n<h3>Speaking ahead of the service, Scottish Secretary Douglas Alexander said:</h3>\n\n<blockquote>\n  <p>Remembrance Sunday is a moment for the whole country to pause and remember the men and women who gave their lives for our freedoms, and to give thanks to our veterans, our serving personnel, and the families who stand behind them. </p>\n\n  <p>In Edinburgh, I will be proud to stand alongside our veterans, members of our armed forces, and community leaders from across Scotland to honour their service and sacrifice.</p>\n\n  <p>We owe a debt to those who have served that can never be fully repaid, and we will continue to honour it, in Scotland and across the United Kingdom. The UK Government’s commitment to our armed forces is unwavering.</p>\n</blockquote>\n\n<p>Following the wreath laying, Mr Alexander joined  the procession to St Giles’ Cathedral, piped by a pupil from George Heriot’s School, for a special Remembrance Sunday service. He gave a reading of Psalm 120, ‘A Song of Ascents,’ before attending a reception at Edinburgh City Chambers. </p>\n\n<p>Meanwhile, John Grady MP, Parliamentary Private Secretary to HM Treasury laid a wreath on behalf of the UK Government at Glasgow’s Remembrance Sunday service in George Square.</p>\n\n<p>In London, the National Service of Remembrance was held at the Cenotaph on Whitehall, London, attended by the Prime Minister, senior members of the Cabinet and other political leaders.</p>\n</div>",
+      "bodyText": "Scottish Secretary Douglas Alexander laid a wreath on behalf of the UK Government at the Annual Service of Remembrance in Edinburgh today (Sunday 8 November 2026). \n\nHe joined the Edinburgh Lord Provost’s Wreath Laying Party from 11am at the Stone of Remembrance, Edinburgh City Chambers, alongside members of the military, veterans and community leaders, to honour the service and sacrifice of British Armed Forces personnel, veterans and their families, past and present.\n\nSpeaking ahead of the service, Scottish Secretary Douglas Alexander said:\n\n\n  Remembrance Sunday is a moment for the whole country to pause and remember the men and women who gave their lives for our freedoms, and to give thanks to our veterans, our serving personnel, and the families who stand behind them. \n\n  In Edinburgh, I will be proud to stand alongside our veterans, members of our armed forces, and community leaders from across Scotland to honour their service and sacrifice.\n\n  We owe a debt to those who have served that can never be fully repaid, and we will continue to honour it, in Scotland and across the United Kingdom. The UK Government’s commitment to our armed forces is unwavering.\n\n\nFollowing the wreath laying, Mr Alexander joined  the procession to St Giles’ Cathedral, piped by a pupil from George Heriot’s School, for a special Remembrance Sunday service. He gave a reading of Psalm 120, ‘A Song of Ascents,’ before attending a reception at Edinburgh City Chambers. \n\nMeanwhile, John Grady MP, Parliamentary Private Secretary to HM Treasury laid a wreath on behalf of the UK Government at Glasgow’s Remembrance Sunday service in George Square.\n\nIn London, the National Service of Remembrance was held at the Cenotaph on Whitehall, London, attended by the Prime Minister, senior members of the Cabinet and other political leaders.\n",
+      "bodyHash": "79b7381ddef000635df3d8bfc0698bcb0d0877a0642c9b0318608e7c61c8004a",
+      "language": "en",
+      "republication": {
+        "sourceId": "govuk-fulltext",
+        "sourceUrl": "https://www.gov.uk/government/news/scottish-secretary-honours-armed-forces-at-remembrance-service",
+        "license": "Open Government Licence v3.0",
+        "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "permissionUrl": "https://www.gov.uk/help/reuse-govuk-content",
+        "authors": [
+          "Scotland Office"
+        ],
+        "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+        "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
+        "sourceUpdatedAt": "2026-11-08T13:59:42+00:00",
+        "sourceVersion": "64ed4e7d-c577-4c7d-9434-3a434f1d883c"
+      },
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "a6c3d0fd226542c99694e41f",
+      "title": "保时捷多款车型车机性能升级：新一代通讯管理系统算力达前代 5 倍",
+      "originalUrl": "https://www.ithome.com/1/024/004.htm",
+      "summary": "IT之家 11 月 8 日消息，保时捷宣布，911、Taycan、Panamera 和卡宴都将迎来一次大幅“性能”升级。不过，此次提升的不是发动机动力，而是车机算力。 保时捷本周发布了新一代保时捷通讯管理系统（PCM），算力最高可达上一代的 5 倍。得益于全新硬件架构，车机启动和应用加载速度更快，同时运行多个应用时也更加流畅。 除了提升响应速度，新系统还增加了多项功能。保时捷把最早搭载于纯电卡宴的数字交互系统引入 911、Taycan、Panamera，以及燃油版、混动版卡宴…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T13:50:33.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d5a10e2c092927aa0c6a4461",
+      "title": "雷柏推出 VT2 RT V2 系列鼠标：类机械 / 光微动、电磁按键三种触感，499 元起",
+      "originalUrl": "https://www.ithome.com/1/024/003.htm",
+      "summary": "IT之家 11 月 8 日消息，雷柏现已推出 VT2 RT V2 系列鼠标，将于 11 月 10 日 20:00 开售，售价 499 元起： VT2 RT V2：售价 499 元 VT2 RT 大师版 V2 ：售价 599 元 该系列鼠标搭载雷柏自研 VTCS 可变触发控制系统，支持类机械微动、类光微动、电磁按键三种触感，可调 10 档触发行程、10 档 RT 行程、3 种点击触感、10 档点击反馈、10 种点击音效、10 档点击音量，左右按键可独立调节。 该系列鼠标搭载 N…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T13:48:27.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "ac6bb6639cb8f460ae7cbd00",
+      "title": "2026年红河流域中越合作周在河口开幕 边交会同步举办",
+      "originalUrl": "https://www.chinanews.com.cn/aseaninfo/2026/11-08/10728555.shtml",
+      "summary": "中新社云南红河11月8日电 (记者 缪超)2026年红河流域中越合作周8日在云南省红河哈尼族彝族自治州河口县开幕，2026年中越(红河)边境经济贸易旅游交易会同步举办。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T13:44:26.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "d2b125efa4c155406483dcb2",
+      "title": "民众齐唱《小白杨》送别词作家梁上泉",
+      "originalUrl": "https://www.chinanews.com.cn/cul/2026/11-08/10728554.shtml",
+      "summary": "中新社重庆11月8日电 (记者 钟旖)“一棵呀小白杨，长在哨所旁，根儿深，干儿壮，守望着北疆……”",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T13:43:46.000Z",
+      "timeIssue": null,
+      "channels": [
+        "entertainment",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-culture",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "03e325132efe18e2b6f1465e",
+      "title": "铸牢共同体 中华一家亲丨六星街：奏响多民族共居共乐的“最美和声”",
+      "originalUrl": "https://www.chinanews.com.cn/txy/2026/11-08/10728553.shtml",
+      "summary": "手风琴琴声悠悠，街巷烟火暖暖，坐落在新疆维吾尔自治区伊宁市解放路街道的六星街，各族群众在这里共居、共乐，用实实在在的幸福生活，生动诠释了铸牢中华民族共同体意识的深刻内涵，书写各民族和睦相处、共同繁荣发展的动人篇章。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T13:40:36.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "87711a1bbbca6dd0e48b0921",
+      "title": "专访美中贸易全国委员会会长：美企不希望看到贸易保护主义抬头",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/11-08/10728551.shtml",
+      "summary": "本届进博会，美国企业参展面积继续名列第一，美国农业、消费品、高端装备、汽车、医疗保健等多个领域的企业对进博会寄予厚望，希望能通过进博会，在中国开拓新的市场。在今年的虹桥国际论坛上，美中贸易全国委员会会长谭森接受了总台记者的采访。他表示，美国企业不希望看到贸易保护主义抬头。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T13:35:05.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "866a47d7599df33083d6a38f",
+      "title": "对接、洽谈、签约 进博会各项配套活动全面展开",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/11-08/10728550.shtml",
+      "summary": "本届进博会，供销合作社交易团与来自美国、法国、澳大利亚等国家的17家企业签署了农资和农产品采购与合作协议。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T13:31:25.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "1d5451a3ce41b260a93df48c",
+      "title": "奔驰要把屏幕“装”进车玻璃：后挡风能提醒注意路况，侧窗能告诉你汽车电量",
+      "originalUrl": "https://www.ithome.com/1/024/002.htm",
+      "summary": "IT之家 11 月 8 日消息，据外媒 Road&Track 报道，当地时间 3 日，奔驰展示了两项新技术，分别是 Intelligent Display in Glass 车窗智能显示技术和 Holographic Display 全息显示技术。 按照奔驰设想，后挡风玻璃可以显示各种警告标志和交通信息，提醒后方司机。相比能提醒后车减速的普通刹车灯，奔驰的方案还能告诉后车为什么要减速，提示前方发生交通事故、有人过马路等信息。 奔驰为此考虑了两种 LED 技术。Mini LED…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T13:28:29.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology",
+        "mobility"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "f4b9000ea9ad52d586f4a7b3",
+      "title": "以首发经济看进博：一场关于“未来”的剧透",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/11-08/10728549.shtml",
+      "summary": "原标题：第九届进博会丨以首发经济看进博：一场关于“未来”的剧透",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T13:26:35.000Z",
+      "timeIssue": null,
+      "channels": [
+        "finance",
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-finance",
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "e47963e18341dbc345374e86",
+      "title": "上海交大构建 AI 原生科学实验室 AutoDNA 装置：实现自主分子生物学实验操作，成果登《自然》",
+      "originalUrl": "https://www.ithome.com/1/024/001.htm",
+      "summary": "IT之家 11 月 8 日消息，上海交通大学计算机学院 IPADS 实验室陈海波、王肇国团队与化学化工学院、变革性分子前沿科学中心樊春海、王飞团队合作，依托张江高等研究院 DNA 存储研究中心开展研究，成果发表于《自然》（Nature）杂志，并获该刊官网首页头条重点报道。 研究团队构建了 AI 原生科学实验室 AutoDNA 装置（思源一号），实现了自主分子生物学实验操作，通过对模型、实验与仪器进行协同设计，解决了现有 AI 自主科学实验室向分子生物学实验拓展时，在复杂流程组…",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "ithome",
+        "feedUrl": "https://www.ithome.com/rss/",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T13:23:49.000Z",
+      "timeIssue": null,
+      "channels": [
+        "technology"
+      ],
+      "sourceIds": [
+        "ithome"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
+    {
+      "id": "8f4527a8d3b9aa5861bff906",
+      "title": "埃及列车脱轨事故致司机死亡 64人受伤",
+      "originalUrl": "https://www.chinanews.com.cn/gj/2026/11-08/10728548.shtml",
+      "summary": "据埃及方面8日消息，一列由埃及首都开罗开往该国南部阿斯旺的列车在埃及吉萨省境内发生脱轨事故，4节车厢脱轨。事故导致列车司机死亡。埃及卫生部长称事故还导致64人受伤。",
+      "summaryProvenance": {
+        "type": "publisher_feed_excerpt",
+        "sourceId": "chinanews-scroll-news",
+        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "maxCharacters": 240
+      },
+      "sourcePublishedAt": "2026-11-08T13:20:13.000Z",
+      "timeIssue": null,
+      "channels": [
+        "local-life"
+      ],
+      "sourceIds": [
+        "chinanews-scroll-news"
+      ],
+      "firstSeenAt": "2026-11-08T18:28:54.104Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 1,
+      "history": []
+    },
     {
       "id": "7c3079fc481bfc8abe43cc4b",
       "title": "“人民创生·美美共融——中国社区公共艺术创新成果展”首展在渝启幕",
@@ -25,7 +773,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -51,7 +799,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -76,7 +824,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -101,7 +849,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -126,7 +874,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -151,7 +899,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -176,7 +924,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -201,7 +949,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -226,7 +974,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -253,7 +1001,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -281,7 +1029,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -308,7 +1056,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -334,7 +1082,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -362,7 +1110,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -387,7 +1135,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -412,7 +1160,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -439,7 +1187,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -467,7 +1215,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -492,7 +1240,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -504,8 +1252,8 @@
       "summary": "中新网上海11月8日电 (记者 缪璐)第九届中国国际进口博览会正在上海举办。进博会期间，上海市税务部门启用8个国家会展中心(上海)及周边的离境退税服务点位，为境外参展观展人员提供购物开单和“即买即退”服务，覆盖中心广场、新闻中心、洲际酒店、各大展馆在内的多个场景。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-11-08T12:41:08.000Z",
@@ -519,7 +1267,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -633,8 +1381,8 @@
       "summary": "中新社大连11月8日电 (记者 杨毅)2026赛季中国足球超级联赛8日迎来收官之战，大连英博主场以3比1战胜天津津门虎，成都蓉城客场2比3不敌山东泰山。最终，大连英博与成都蓉城同积52分，前者凭借相互战绩优势夺得中超冠军。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-11-08T12:38:38.000Z",
@@ -648,7 +1396,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -737,8 +1485,8 @@
       "summary": "中新社上海11月8日电 题：寻“味”进博：海味鲜 侨味浓",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-11-08T12:34:20.000Z",
@@ -752,7 +1500,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -789,8 +1537,8 @@
       "summary": "中新网乌鲁木齐11月8日电 (记者 孙亭文)11月8日10时，“相约喀什·畅游古城”2026喀什马拉松在新疆喀什市人民广场鸣笛开跑。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-sports",
+        "feedUrl": "https://www.chinanews.com.cn/rss/sports.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-11-08T12:32:24.000Z",
@@ -804,7 +1552,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -829,7 +1577,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -841,8 +1589,8 @@
       "summary": "中新网贺州11月8日电 (张广权 韦佳秀)11月8日，2026年广西文化旅游发展大会在贺州市举行。会上宣布，2028年广西文化旅游发展大会将由钦州市承办。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-11-08T12:31:38.000Z",
@@ -858,7 +1606,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -870,8 +1618,8 @@
       "summary": "中新网贺州11月8日电 (张广权 韦佳秀)2026年广西文化旅游产业招商推介会8日在广西贺州市举行。现场集中签约21个项目，涵盖休闲观光旅游、文化体验与文创、温泉度假、酒店住宿、农文旅融合、微短剧与数字视听、动漫科技等类型。",
       "summaryProvenance": {
         "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+        "sourceId": "chinanews-finance",
+        "feedUrl": "https://www.chinanews.com.cn/rss/finance.xml",
         "maxCharacters": 240
       },
       "sourcePublishedAt": "2026-11-08T12:31:04.000Z",
@@ -887,7 +1635,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -912,7 +1660,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -937,7 +1685,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -962,7 +1710,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -987,7 +1735,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1012,7 +1760,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1037,7 +1785,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1063,7 +1811,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1088,7 +1836,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1113,7 +1861,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1138,7 +1886,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1163,7 +1911,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1188,7 +1936,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1213,7 +1961,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1238,7 +1986,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1263,7 +2011,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1288,7 +2036,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1313,7 +2061,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1338,7 +2086,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1363,7 +2111,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1388,7 +2136,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1413,7 +2161,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1439,7 +2187,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1464,7 +2212,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1489,7 +2237,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1514,7 +2262,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1539,7 +2287,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1565,7 +2313,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1590,7 +2338,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1616,7 +2364,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1641,7 +2389,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1667,7 +2415,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1692,7 +2440,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1701,7 +2449,7 @@
       "id": "996ed5d3a439014a3235020e",
       "title": "Curriculum overhaul to re-engage pupils in vital early secondary years",
       "originalUrl": "https://www.gov.uk/government/news/curriculum-overhaul-to-re-engage-pupils-in-vital-early-secondary-years",
-      "sourcePublishedAt": "2026-11-08T10:29:31+00:00",
+      "sourcePublishedAt": "2026-11-08T10:29:00+00:00",
       "timeIssue": null,
       "channels": [
         "local-life"
@@ -1715,9 +2463,9 @@
         "sourceId": "govuk-fulltext"
       },
       "contentMode": "fulltext",
-      "bodyHtml": "<div><p>In response to growing evidence, the Milburn Review, the White Working Class Education Inquiry and the Becky Francis Curriculum and Assessment Review, the government is announcing a distinct focus on the first years of secondary school, as part of their major review of the National Curriculum.</p>\n\n<p>Too many children are switching off from school in their early teens – affecting their attendance, attainment and life outcomes.  And many others are increasingly missing out on the rich and specialist education they should expect at secondary school or are being rushed through content before they have grasped the fundamentals.</p>\n\n<p>As part of its wide-ranging plans to tackle disengagement, the disadvantage gap and the rising number of young people not in education, employment or training, the government will make the first three years of secondary school count, by restoring Key Stage 3 as a distinct three-year phase.</p>\n\n<p>The new National Curriculum, due to be published in full later this year, which has been developed by subject experts, will see over-crowded content slimmed down and better sequenced across all school stages to create more space for deeper understanding and richer experiences that ignite a love of learning, ensure more children are stretched and make progress.</p>\n\n<p>This will come with higher expectations on core knowledge and skills needed for the future, like oracy and confident speaking, reading fluently and reading for pleasure, and numeracy. There will also be a more engaging offer in subjects like drama, PE, music, and modern foreign languages, alongside technical and digital skills.</p>\n\n<p>It also comes with new expectations on schools to stop the increasingly widespread practice of encroaching on Key Stage 3 with an ever earlier focus on GCSEs. Exams and assessments are a vital part of school life, but the pressure to prepare for GCSEs early is growing. More than half of teachers say GCSE courses are dominating the first three years of secondary school, despite this content not being intended to begin until Year 10, with some schools starting GCSE teaching as early as Year 7.</p>\n\n<p>The case for change is particularly important for white working-class pupils. The first Independent Inquiry into White Working-Class Educational Outcomes found that the transition into secondary school is a critical point, with disengagement in their early teens affecting their attendance, attainment and ultimately, their life chances.</p>\n\n<p>Too many children are becoming disengaged at precisely the point when school should be opening new opportunities to them. The proportion of pupils persistently absent from school is almost doubling between Years 7 and 9 to one in four children. Persistent absence is one of the strongest predictors for a young person becoming NEET, and for white working-class children, persistent absence rates are 75% higher in secondary than in primary.</p>\n\n<p>Lucy Powell, Education Secretary said:</p>\n\n<blockquote>\n  <p>The early years of secondary school should be a time when children are excited to go to school and engage in the specialist and much broader teaching on offer, and where they find their passion and develop a love of learning.</p>\n\n  <p>Instead, we’ve seen worrying trends of disengagement and high levels of persistent absence, with the disadvantage gap stubbornly large and too many leaving school without the knowledge and skills they need to thrive.  That’s what our exciting and engaging new National Curriculum aims to address as part of our wider education reforms.</p>\n\n  <p>What’s more, the pressures of GCSEs and an overcrowded curriculum are resulting in too many children receiving a narrower offer during Key Stage 3 and being rushed towards exams without grasping the fundamentals or developing deeper understanding. I’m putting a stop to that.</p>\n\n  <p>The new curriculum and focus for these vital early teen years, will mean more children are excited to learn and more teachers are excited to teach. There will be more time to develop deeper understanding, as well as a richer experience that will engage more young people in their passions and prepare them better for the fast-changing world they will grow up in.</p>\n</blockquote>\n\n<p>The new curriculum will say schools should not start GCSE specifications early for large cohorts or see children routinely required to narrow their options earlier or entered earlier for exams, teachers will still retain the flexibility to stretch high-achieving pupils or groups who are ready to go further without narrowing their options.</p>\n\n<p>Sir Hamid Patel, co-chair of the Independent Inquiry into White Working Class Educational Outcomes and chief executive of Star Academies, said: </p>\n\n<blockquote>\n  <p>Throughout our research for the Independent Inquiry into White Working Class Educational Outcomes, we found huge challenges in KS3.</p>\n\n  <p>It is a time when a love of learning should be developed and when young people should experience a broad and balanced curriculum that exposes them to new ideas and new experiences - but instead too many white working class children are switching off and opting out. It is to be welcomed that the government is showing real commitment to renewing this important phase.</p>\n</blockquote>\n\n<p>Baroness Estelle Morris, co-chair of the Independent Inquiry into White Working Class Educational Outcomes, said:</p>\n\n<blockquote>\n  <p>Our report highlighted the problems for children at points of transition, including the move from Primary to Secondary school - it also demonstrated how white working class young people and their families disengage from the education system through the Key Stage 3 years. This is why I welcome the government’s commitment to begin to address these issues.</p>\n\n  <p>The work of the inquiry is not yet over and we will soon come forward with fresh plans to drive change for white working class you people in the education system. Together, we should be relentless in our focus on changing the opportunities available for this group of children and families.</p>\n</blockquote>\n\n<p>The renewed focus on Key Stage 3 goes alongside a new enrichment framework to help schools make more space for richer experiences that inspire young people – from practical experiments to debate.</p>\n\n<p>This learning beyond the classroom is central to making school a place where all children want to be, helping tackle the sharp drop-off in engagement and attendance during the early secondary years.</p>\n\n<p>Becks Boomer-Clark, chief executive of Lift Schools and co-chair of the KS3 Alliance, said:</p>\n\n<blockquote>\n  <p>The first three years of secondary school are a critical phase in their own right, yet for too long they have been treated as little more than a preparation ground for GCSEs.</p>\n\n  <p>The government’s commitment to protecting these years is a welcome move. This is not about lowering academic expectations, quite the opposite; it’s about giving young people the time to build really secure foundations in knowledge, while also having the space to explore, discover new interests and develop confidence in what they can achieve.</p>\n\n  <p>Getting this right has the potential to transform young people’s educational trajectories, particularly those who are at greatest risk of becoming disengaged from school.</p>\n</blockquote>\n\n<div>\n    <p>DfE media enquiries</p>\n\n\n    <div>\n\n\n        <p>\n          Central newsdesk - for journalists 0203 371 4832\n        </p>\n    </div>\n\n\n</div>\n</div>",
-      "bodyText": "In response to growing evidence, the Milburn Review, the White Working Class Education Inquiry and the Becky Francis Curriculum and Assessment Review, the government is announcing a distinct focus on the first years of secondary school, as part of their major review of the National Curriculum.\n\nToo many children are switching off from school in their early teens – affecting their attendance, attainment and life outcomes.  And many others are increasingly missing out on the rich and specialist education they should expect at secondary school or are being rushed through content before they have grasped the fundamentals.\n\nAs part of its wide-ranging plans to tackle disengagement, the disadvantage gap and the rising number of young people not in education, employment or training, the government will make the first three years of secondary school count, by restoring Key Stage 3 as a distinct three-year phase.\n\nThe new National Curriculum, due to be published in full later this year, which has been developed by subject experts, will see over-crowded content slimmed down and better sequenced across all school stages to create more space for deeper understanding and richer experiences that ignite a love of learning, ensure more children are stretched and make progress.\n\nThis will come with higher expectations on core knowledge and skills needed for the future, like oracy and confident speaking, reading fluently and reading for pleasure, and numeracy. There will also be a more engaging offer in subjects like drama, PE, music, and modern foreign languages, alongside technical and digital skills.\n\nIt also comes with new expectations on schools to stop the increasingly widespread practice of encroaching on Key Stage 3 with an ever earlier focus on GCSEs. Exams and assessments are a vital part of school life, but the pressure to prepare for GCSEs early is growing. More than half of teachers say GCSE courses are dominating the first three years of secondary school, despite this content not being intended to begin until Year 10, with some schools starting GCSE teaching as early as Year 7.\n\nThe case for change is particularly important for white working-class pupils. The first Independent Inquiry into White Working-Class Educational Outcomes found that the transition into secondary school is a critical point, with disengagement in their early teens affecting their attendance, attainment and ultimately, their life chances.\n\nToo many children are becoming disengaged at precisely the point when school should be opening new opportunities to them. The proportion of pupils persistently absent from school is almost doubling between Years 7 and 9 to one in four children. Persistent absence is one of the strongest predictors for a young person becoming NEET, and for white working-class children, persistent absence rates are 75% higher in secondary than in primary.\n\nLucy Powell, Education Secretary said:\n\n\n  The early years of secondary school should be a time when children are excited to go to school and engage in the specialist and much broader teaching on offer, and where they find their passion and develop a love of learning.\n\n  Instead, we’ve seen worrying trends of disengagement and high levels of persistent absence, with the disadvantage gap stubbornly large and too many leaving school without the knowledge and skills they need to thrive.  That’s what our exciting and engaging new National Curriculum aims to address as part of our wider education reforms.\n\n  What’s more, the pressures of GCSEs and an overcrowded curriculum are resulting in too many children receiving a narrower offer during Key Stage 3 and being rushed towards exams without grasping the fundamentals or developing deeper understanding. I’m putting a stop to that.\n\n  The new curriculum and focus for these vital early teen years, will mean more children are excited to learn and more teachers are excited to teach. There will be more time to develop deeper understanding, as well as a richer experience that will engage more young people in their passions and prepare them better for the fast-changing world they will grow up in.\n\n\nThe new curriculum will say schools should not start GCSE specifications early for large cohorts or see children routinely required to narrow their options earlier or entered earlier for exams, teachers will still retain the flexibility to stretch high-achieving pupils or groups who are ready to go further without narrowing their options.\n\nSir Hamid Patel, co-chair of the Independent Inquiry into White Working Class Educational Outcomes and chief executive of Star Academies, said: \n\n\n  Throughout our research for the Independent Inquiry into White Working Class Educational Outcomes, we found huge challenges in KS3.\n\n  It is a time when a love of learning should be developed and when young people should experience a broad and balanced curriculum that exposes them to new ideas and new experiences - but instead too many white working class children are switching off and opting out. It is to be welcomed that the government is showing real commitment to renewing this important phase.\n\n\nBaroness Estelle Morris, co-chair of the Independent Inquiry into White Working Class Educational Outcomes, said:\n\n\n  Our report highlighted the problems for children at points of transition, including the move from Primary to Secondary school - it also demonstrated how white working class young people and their families disengage from the education system through the Key Stage 3 years. This is why I welcome the government’s commitment to begin to address these issues.\n\n  The work of the inquiry is not yet over and we will soon come forward with fresh plans to drive change for white working class you people in the education system. Together, we should be relentless in our focus on changing the opportunities available for this group of children and families.\n\n\nThe renewed focus on Key Stage 3 goes alongside a new enrichment framework to help schools make more space for richer experiences that inspire young people – from practical experiments to debate.\n\nThis learning beyond the classroom is central to making school a place where all children want to be, helping tackle the sharp drop-off in engagement and attendance during the early secondary years.\n\nBecks Boomer-Clark, chief executive of Lift Schools and co-chair of the KS3 Alliance, said:\n\n\n  The first three years of secondary school are a critical phase in their own right, yet for too long they have been treated as little more than a preparation ground for GCSEs.\n\n  The government’s commitment to protecting these years is a welcome move. This is not about lowering academic expectations, quite the opposite; it’s about giving young people the time to build really secure foundations in knowledge, while also having the space to explore, discover new interests and develop confidence in what they can achieve.\n\n  Getting this right has the potential to transform young people’s educational trajectories, particularly those who are at greatest risk of becoming disengaged from school.\n\n\n\n    DfE media enquiries\n\n\n    \n\n\n        \n          Central newsdesk - for journalists 0203 371 4832\n        \n    \n\n\n\n",
-      "bodyHash": "6ab917a29ae5a5ee4856aad6f34f180ea726a006f43061ad55329ffb64d29e1b",
+      "bodyHtml": "<div><p>In response to growing evidence, the Milburn Review, the White Working Class Education Inquiry and the Becky Francis Curriculum and Assessment Review, the government is announcing a distinct focus on the first years of secondary school, as part of their major review of the National Curriculum.</p>\n\n<p>Too many children are switching off from school in their early teens – affecting their attendance, attainment and life outcomes.  And many others are increasingly missing out on the rich and specialist education they should expect at secondary school or are being rushed through content before they have grasped the fundamentals.</p>\n\n<p>As part of its wide-ranging plans to tackle disengagement, the disadvantage gap and the rising number of young people not in education, employment or training, the government will make the first three years of secondary school count, by restoring Key Stage 3 as a distinct three-year phase.</p>\n\n<p>The new National Curriculum, due to be published in full later this year, which has been developed by subject experts, will see over-crowded content slimmed down and better sequenced across all school stages to create more space for deeper understanding and richer experiences that ignite a love of learning, ensure more children are stretched and make progress.</p>\n\n<p>This will come with higher expectations on core knowledge and skills needed for the future, like oracy and confident speaking, reading fluently and reading for pleasure, and numeracy. There will also be a more engaging offer in subjects like drama, PE, music, and modern foreign languages, alongside technical and digital skills.</p>\n\n<p>It also comes with new expectations on schools to stop the increasingly widespread practice of encroaching on Key Stage 3 with an ever earlier focus on GCSEs. Exams and assessments are a vital part of school life, but the pressure to prepare for GCSEs early is growing. Public First Global for the International Baccalaureate found that more than half of teachers say GCSE courses are dominating the first three years of secondary school, despite this content not being intended to begin until Year 10, with some schools starting GCSE teaching as early as Year 7.</p>\n\n<p>The case for change is particularly important for white working-class pupils. The first Independent Inquiry into White Working-Class Educational Outcomes found that the transition into secondary school is a critical point, with disengagement in their early teens affecting their attendance, attainment and ultimately, their life chances.</p>\n\n<p>Too many children are becoming disengaged at precisely the point when school should be opening new opportunities to them. The proportion of pupils persistently absent from school is almost doubling between Years 7 and 9 to one in four children. Persistent absence is one of the strongest predictors for a young person becoming NEET, and for white working-class children, persistent absence rates are 75% higher in secondary than in primary.</p>\n\n<p>Lucy Powell, Education Secretary said:</p>\n\n<blockquote>\n  <p>The early years of secondary school should be a time when children are excited to go to school and engage in the specialist and much broader teaching on offer, and where they find their passion and develop a love of learning.</p>\n\n  <p>Instead, we’ve seen worrying trends of disengagement and high levels of persistent absence, with the disadvantage gap stubbornly large and too many leaving school without the knowledge and skills they need to thrive.  That’s what our exciting and engaging new National Curriculum aims to address as part of our wider education reforms.</p>\n\n  <p>What’s more, the pressures of GCSEs and an overcrowded curriculum are resulting in too many children receiving a narrower offer during Key Stage 3 and being rushed towards exams without grasping the fundamentals or developing deeper understanding. I’m putting a stop to that.</p>\n\n  <p>The new curriculum and focus for these vital early teen years, will mean more children are excited to learn and more teachers are excited to teach. There will be more time to develop deeper understanding, as well as a richer experience that will engage more young people in their passions and prepare them better for the fast-changing world they will grow up in.</p>\n</blockquote>\n\n<p>The new curriculum will say schools should not start GCSE specifications early for large cohorts or see children routinely required to narrow their options earlier or entered earlier for exams, teachers will still retain the flexibility to stretch high-achieving pupils or groups who are ready to go further without narrowing their options.</p>\n\n<p>Sir Hamid Patel, co-chair of the Independent Inquiry into White Working Class Educational Outcomes and chief executive of Star Academies, said: </p>\n\n<blockquote>\n  <p>Throughout our research for the Independent Inquiry into White Working Class Educational Outcomes, we found huge challenges in KS3.</p>\n\n  <p>It is a time when a love of learning should be developed and when young people should experience a broad and balanced curriculum that exposes them to new ideas and new experiences - but instead too many white working class children are switching off and opting out. It is to be welcomed that the government is showing real commitment to renewing this important phase.</p>\n</blockquote>\n\n<p>Baroness Estelle Morris, co-chair of the Independent Inquiry into White Working Class Educational Outcomes, said:</p>\n\n<blockquote>\n  <p>Our report highlighted the problems for children at points of transition, including the move from Primary to Secondary school - it also demonstrated how white working class young people and their families disengage from the education system through the Key Stage 3 years. This is why I welcome the government’s commitment to begin to address these issues.</p>\n\n  <p>The work of the inquiry is not yet over and we will soon come forward with fresh plans to drive change for white working class you people in the education system. Together, we should be relentless in our focus on changing the opportunities available for this group of children and families.</p>\n</blockquote>\n\n<p>The renewed focus on Key Stage 3 goes alongside a new enrichment framework to help schools make more space for richer experiences that inspire young people – from practical experiments to debate.</p>\n\n<p>This learning beyond the classroom is central to making school a place where all children want to be, helping tackle the sharp drop-off in engagement and attendance during the early secondary years.</p>\n\n<p>Becks Boomer-Clark, chief executive of Lift Schools and co-chair of the KS3 Alliance, said:</p>\n\n<blockquote>\n  <p>The first three years of secondary school are a critical phase in their own right, yet for too long they have been treated as little more than a preparation ground for GCSEs.</p>\n\n  <p>The government’s commitment to protecting these years is a welcome move. This is not about lowering academic expectations, quite the opposite; it’s about giving young people the time to build really secure foundations in knowledge, while also having the space to explore, discover new interests and develop confidence in what they can achieve.</p>\n\n  <p>Getting this right has the potential to transform young people’s educational trajectories, particularly those who are at greatest risk of becoming disengaged from school.</p>\n</blockquote>\n\n<div>\n    <p>DfE media enquiries</p>\n\n\n    <div>\n\n\n        <p>\n          Central newsdesk - for journalists 0203 371 4832\n        </p>\n    </div>\n\n\n</div>\n</div>",
+      "bodyText": "In response to growing evidence, the Milburn Review, the White Working Class Education Inquiry and the Becky Francis Curriculum and Assessment Review, the government is announcing a distinct focus on the first years of secondary school, as part of their major review of the National Curriculum.\n\nToo many children are switching off from school in their early teens – affecting their attendance, attainment and life outcomes.  And many others are increasingly missing out on the rich and specialist education they should expect at secondary school or are being rushed through content before they have grasped the fundamentals.\n\nAs part of its wide-ranging plans to tackle disengagement, the disadvantage gap and the rising number of young people not in education, employment or training, the government will make the first three years of secondary school count, by restoring Key Stage 3 as a distinct three-year phase.\n\nThe new National Curriculum, due to be published in full later this year, which has been developed by subject experts, will see over-crowded content slimmed down and better sequenced across all school stages to create more space for deeper understanding and richer experiences that ignite a love of learning, ensure more children are stretched and make progress.\n\nThis will come with higher expectations on core knowledge and skills needed for the future, like oracy and confident speaking, reading fluently and reading for pleasure, and numeracy. There will also be a more engaging offer in subjects like drama, PE, music, and modern foreign languages, alongside technical and digital skills.\n\nIt also comes with new expectations on schools to stop the increasingly widespread practice of encroaching on Key Stage 3 with an ever earlier focus on GCSEs. Exams and assessments are a vital part of school life, but the pressure to prepare for GCSEs early is growing. Public First Global for the International Baccalaureate found that more than half of teachers say GCSE courses are dominating the first three years of secondary school, despite this content not being intended to begin until Year 10, with some schools starting GCSE teaching as early as Year 7.\n\nThe case for change is particularly important for white working-class pupils. The first Independent Inquiry into White Working-Class Educational Outcomes found that the transition into secondary school is a critical point, with disengagement in their early teens affecting their attendance, attainment and ultimately, their life chances.\n\nToo many children are becoming disengaged at precisely the point when school should be opening new opportunities to them. The proportion of pupils persistently absent from school is almost doubling between Years 7 and 9 to one in four children. Persistent absence is one of the strongest predictors for a young person becoming NEET, and for white working-class children, persistent absence rates are 75% higher in secondary than in primary.\n\nLucy Powell, Education Secretary said:\n\n\n  The early years of secondary school should be a time when children are excited to go to school and engage in the specialist and much broader teaching on offer, and where they find their passion and develop a love of learning.\n\n  Instead, we’ve seen worrying trends of disengagement and high levels of persistent absence, with the disadvantage gap stubbornly large and too many leaving school without the knowledge and skills they need to thrive.  That’s what our exciting and engaging new National Curriculum aims to address as part of our wider education reforms.\n\n  What’s more, the pressures of GCSEs and an overcrowded curriculum are resulting in too many children receiving a narrower offer during Key Stage 3 and being rushed towards exams without grasping the fundamentals or developing deeper understanding. I’m putting a stop to that.\n\n  The new curriculum and focus for these vital early teen years, will mean more children are excited to learn and more teachers are excited to teach. There will be more time to develop deeper understanding, as well as a richer experience that will engage more young people in their passions and prepare them better for the fast-changing world they will grow up in.\n\n\nThe new curriculum will say schools should not start GCSE specifications early for large cohorts or see children routinely required to narrow their options earlier or entered earlier for exams, teachers will still retain the flexibility to stretch high-achieving pupils or groups who are ready to go further without narrowing their options.\n\nSir Hamid Patel, co-chair of the Independent Inquiry into White Working Class Educational Outcomes and chief executive of Star Academies, said: \n\n\n  Throughout our research for the Independent Inquiry into White Working Class Educational Outcomes, we found huge challenges in KS3.\n\n  It is a time when a love of learning should be developed and when young people should experience a broad and balanced curriculum that exposes them to new ideas and new experiences - but instead too many white working class children are switching off and opting out. It is to be welcomed that the government is showing real commitment to renewing this important phase.\n\n\nBaroness Estelle Morris, co-chair of the Independent Inquiry into White Working Class Educational Outcomes, said:\n\n\n  Our report highlighted the problems for children at points of transition, including the move from Primary to Secondary school - it also demonstrated how white working class young people and their families disengage from the education system through the Key Stage 3 years. This is why I welcome the government’s commitment to begin to address these issues.\n\n  The work of the inquiry is not yet over and we will soon come forward with fresh plans to drive change for white working class you people in the education system. Together, we should be relentless in our focus on changing the opportunities available for this group of children and families.\n\n\nThe renewed focus on Key Stage 3 goes alongside a new enrichment framework to help schools make more space for richer experiences that inspire young people – from practical experiments to debate.\n\nThis learning beyond the classroom is central to making school a place where all children want to be, helping tackle the sharp drop-off in engagement and attendance during the early secondary years.\n\nBecks Boomer-Clark, chief executive of Lift Schools and co-chair of the KS3 Alliance, said:\n\n\n  The first three years of secondary school are a critical phase in their own right, yet for too long they have been treated as little more than a preparation ground for GCSEs.\n\n  The government’s commitment to protecting these years is a welcome move. This is not about lowering academic expectations, quite the opposite; it’s about giving young people the time to build really secure foundations in knowledge, while also having the space to explore, discover new interests and develop confidence in what they can achieve.\n\n  Getting this right has the potential to transform young people’s educational trajectories, particularly those who are at greatest risk of becoming disengaged from school.\n\n\n\n    DfE media enquiries\n\n\n    \n\n\n        \n          Central newsdesk - for journalists 0203 371 4832\n        \n    \n\n\n\n",
+      "bodyHash": "f41e65891857b64128ab87192eca6db4d303826f6a876c022215e2d3d4da04c6",
       "language": "en",
       "republication": {
         "sourceId": "govuk-fulltext",
@@ -1730,14 +2478,26 @@
         ],
         "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
         "modifications": "保留完整文字正文；移除图片、附件与页面控件，清理HTML，不翻译。",
-        "sourceUpdatedAt": "2026-11-08T10:29:31+00:00",
+        "sourceUpdatedAt": "2026-11-08T13:34:08+00:00",
         "sourceVersion": "4e6754d1-27fc-4813-be7d-343c96297f73"
       },
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
-      "updatedAt": "2026-11-08T13:14:49.996Z",
-      "version": 1,
-      "history": []
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
+      "updatedAt": "2026-11-08T18:28:54.104Z",
+      "version": 2,
+      "history": [
+        {
+          "title": "Curriculum overhaul to re-engage pupils in vital early secondary years",
+          "summary": "In response to growing evidence, the Milburn Review, the White Working Class Education Inquiry and the Becky Francis Curriculum and Assessment Review, the government is announcing a distinct focus on the first years of secondary school, as ",
+          "summaryProvenance": {
+            "type": "licensed_body_excerpt",
+            "sourceId": "govuk-fulltext"
+          },
+          "sourcePublishedAt": "2026-11-08T10:29:31+00:00",
+          "version": 1,
+          "updatedAt": "2026-11-08T13:14:49.996Z"
+        }
+      ]
     },
     {
       "id": "63fd1d16d5f01baa47fba13f",
@@ -1760,7 +2520,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1785,7 +2545,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1810,7 +2570,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1835,7 +2595,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1887,7 +2647,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1913,7 +2673,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1939,7 +2699,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1965,7 +2725,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -1990,7 +2750,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2015,7 +2775,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2040,7 +2800,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2065,7 +2825,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2090,7 +2850,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2115,7 +2875,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2140,7 +2900,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2165,7 +2925,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2190,7 +2950,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2216,7 +2976,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2242,7 +3002,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2268,7 +3028,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2293,7 +3053,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2318,7 +3078,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2343,7 +3103,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2368,7 +3128,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2394,7 +3154,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2419,7 +3179,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2444,7 +3204,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2470,7 +3230,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2495,7 +3255,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2522,7 +3282,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2547,7 +3307,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2572,7 +3332,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2598,7 +3358,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2624,7 +3384,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2650,7 +3410,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2675,7 +3435,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2702,7 +3462,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2753,7 +3513,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2779,7 +3539,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2804,7 +3564,7 @@
         "chinanews-finance"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2829,7 +3589,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2855,7 +3615,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2880,7 +3640,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2905,7 +3665,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2930,7 +3690,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2956,7 +3716,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -2981,7 +3741,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3006,7 +3766,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3056,7 +3816,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3081,7 +3841,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3131,7 +3891,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3157,7 +3917,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3182,7 +3942,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3207,7 +3967,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3283,7 +4043,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3308,7 +4068,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3334,7 +4094,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3359,7 +4119,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3384,7 +4144,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3410,7 +4170,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3435,7 +4195,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3460,7 +4220,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3486,7 +4246,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3511,7 +4271,7 @@
         "ithome"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3613,7 +4373,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3763,7 +4523,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3865,7 +4625,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3916,7 +4676,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3941,7 +4701,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3966,7 +4726,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T13:14:49.996Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T13:14:49.996Z",
       "version": 1,
       "history": []
@@ -3991,7 +4751,7 @@
         "chinanews-society"
       ],
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -4067,7 +4827,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -4148,7 +4908,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -4175,7 +4935,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -4276,7 +5036,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -4404,7 +5164,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -4864,7 +5624,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -5074,7 +5834,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -5278,7 +6038,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -5430,7 +6190,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -5607,7 +6367,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -5632,7 +6392,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -5657,7 +6417,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -5733,7 +6493,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -6140,7 +6900,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -6418,7 +7178,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -6468,7 +7228,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -6637,7 +7397,7 @@
         "sourceVersion": "f1b82a70-4490-4eb8-a399-2451fee4a290"
       },
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -6713,7 +7473,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-08T05:52:47.651Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-08T05:52:47.651Z",
       "version": 1,
       "history": []
@@ -7362,7 +8122,7 @@
         "sourceVersion": "c7004301-93f2-49db-87d7-2ad27781a208"
       },
       "firstSeenAt": "2026-11-07T20:10:21.783Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-07T20:10:21.783Z",
       "version": 1,
       "history": []
@@ -7623,7 +8383,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -8293,7 +9053,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -8320,7 +9080,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -8478,7 +9238,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -8533,7 +9293,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -8741,7 +9501,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -8842,7 +9602,7 @@
         "chinanews-sports"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -10526,7 +11286,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -10754,7 +11514,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-07T15:53:45.710Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-07T15:53:45.710Z",
       "version": 1,
       "history": []
@@ -10832,7 +11592,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-07T09:12:07.558Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-07T09:12:07.558Z",
       "version": 1,
       "history": []
@@ -12801,7 +13561,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-07T09:12:07.558Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-07T09:12:07.558Z",
       "version": 1,
       "history": []
@@ -13945,7 +14705,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-07T09:12:07.558Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-07T09:12:07.558Z",
       "version": 1,
       "history": []
@@ -15898,7 +16658,7 @@
         "sourceVersion": "9854d7da-162c-4a01-9b22-ec1db99f9f41"
       },
       "firstSeenAt": "2026-11-07T02:19:43.031Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-07T02:19:43.031Z",
       "version": 1,
       "history": []
@@ -15940,7 +16700,7 @@
         "sourceVersion": "a75955db-f319-43bb-a3c5-2aef47cb5eae"
       },
       "firstSeenAt": "2026-11-07T02:19:43.031Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-07T02:19:43.031Z",
       "version": 1,
       "history": []
@@ -16673,7 +17433,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -16981,7 +17741,7 @@
         "sourceVersion": "a2b077d4-2459-4f51-966a-14104445924d"
       },
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T22:21:07.626Z",
       "version": 2,
       "history": [
@@ -17155,7 +17915,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -17197,7 +17957,7 @@
         "sourceVersion": "387e821b-c0aa-478e-a1eb-8c4061cc7148"
       },
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -17407,7 +18167,7 @@
         "chinanews-scroll-news"
       ],
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -17533,7 +18293,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -17737,7 +18497,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -17762,7 +18522,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -17981,7 +18741,7 @@
         "sourceVersion": "d0559913-38cd-483e-a68d-dca0a764add9"
       },
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -18134,7 +18894,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -18260,7 +19020,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -18413,7 +19173,7 @@
         "chinanews-culture"
       ],
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -18912,7 +19672,7 @@
         "sourceVersion": "733a3fe3-8348-4b09-bcdf-3bd457643e6e"
       },
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -20004,7 +20764,7 @@
         "sourceVersion": "49f9f7c0-8a05-422d-b3e6-acda791748e7"
       },
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -20253,7 +21013,7 @@
         "sourceVersion": "3b6ec19a-5627-44f2-b018-305101e08052"
       },
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -20867,7 +21627,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-06T17:25:56.894Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 1,
       "history": []
@@ -23799,7 +24559,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-06T09:49:19.620Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T09:49:19.620Z",
       "version": 1,
       "history": []
@@ -24382,7 +25142,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-06T09:49:19.620Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T09:49:19.620Z",
       "version": 1,
       "history": []
@@ -26407,7 +27167,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-06T02:18:52.398Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T02:18:52.398Z",
       "version": 1,
       "history": []
@@ -27263,7 +28023,7 @@
         "sourceVersion": "c3a61245-5443-4373-a842-8ceb4fb9bc02"
       },
       "firstSeenAt": "2026-11-06T02:18:52.398Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T02:18:52.398Z",
       "version": 1,
       "history": []
@@ -27330,7 +28090,7 @@
         "sourceVersion": "4cdf31ad-06c5-4187-992f-c85b0e95667c"
       },
       "firstSeenAt": "2026-11-05T21:56:42.958Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 2,
       "history": [
@@ -27486,7 +28246,7 @@
         "sourceVersion": "c1b12fe5-3b48-46d6-851d-399665954af5"
       },
       "firstSeenAt": "2026-11-05T21:56:42.958Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-05T21:56:42.958Z",
       "version": 1,
       "history": []
@@ -27528,7 +28288,7 @@
         "sourceVersion": "b758b70b-e52d-4cbc-84f9-bd27b0645f95"
       },
       "firstSeenAt": "2026-11-05T21:56:42.958Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-05T21:56:42.958Z",
       "version": 1,
       "history": []
@@ -27621,7 +28381,7 @@
         "sourceVersion": "a56f3447-33ab-4bad-a059-0dd84ca4e7fc"
       },
       "firstSeenAt": "2026-11-05T21:56:42.958Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-05T21:56:42.958Z",
       "version": 1,
       "history": []
@@ -28657,7 +29417,7 @@
         "sourceVersion": "2d2b4583-69c1-47ff-bfca-889a312149cb"
       },
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-06T17:25:56.894Z",
       "version": 3,
       "history": [
@@ -29522,7 +30282,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -29666,7 +30426,7 @@
         "sourceVersion": "3cf69d7c-b010-4f79-af1d-b55572763c6a"
       },
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -30319,7 +31079,7 @@
         "sourceVersion": "eb587820-cef3-4a54-8249-61eb3f667953"
       },
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -32215,7 +32975,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -32493,7 +33253,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-05T15:47:00.056Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-05T15:47:00.056Z",
       "version": 1,
       "history": []
@@ -35691,7 +36451,7 @@
         "sspai"
       ],
       "firstSeenAt": "2026-11-05T07:20:21.608Z",
-      "lastSeenAt": "2026-11-08T13:14:49.996Z",
+      "lastSeenAt": "2026-11-08T18:28:54.104Z",
       "updatedAt": "2026-11-05T07:20:21.608Z",
       "version": 1,
       "history": []
@@ -259281,734 +260041,6 @@
       "updatedAt": "2026-10-16T04:23:20.158Z",
       "version": 1,
       "history": []
-    },
-    {
-      "id": "c49c70a640e2305fc7a970b8",
-      "title": "高通与传音续签专利许可协议至 2031 年底，涵盖 4G 和 5G 移动设备",
-      "originalUrl": "https://www.ithome.com/1/013/732.htm",
-      "summary": "IT之家 10 月 16 日消息，高通公司今日宣布，已与传音控股签订全球专利许可的长期续期，涵盖 4G 和 5G 移动设备，期限至 2031 年底。 高通技术许可（QTL）执行副总裁兼总经理 John Han 表示：“我们很高兴能够提前续签传音控股的 4G 和 5G 许可证，并将现有的 4G 和 5G 协议合并为单一的长期协议。” IT之家注意到，高通近期密集与多家移动设备大厂签订了专利许可协议。 9 月 24 日，高通宣布与苹果（Apple）续签全球专利许可协议，新协议将于…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T01:18:49.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "6b74744aada2f9ac96c71ffd",
-      "title": "“智慧”深耕一方塬土 果香溢泾川",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-16/10715418.shtml",
-      "summary": "中新网兰州10月16日电 (谢正民)金秋十月，陇东黄土高原的塬面上，连片苹果园里红果盈枝，果农们忙着采摘、分拣、装箱。作为甘肃重要的苹果产区之一，甘肃省平凉市泾川县苹果种植面积稳定在18.15万亩。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T01:18:14.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "101e2ac38c0d5d189ae4b172",
-      "title": "千年窑火遇上非遗味道 河北峰峰一道“窑工饭”激活古镇新经济",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-16/10715417.shtml",
-      "summary": "中新网邯郸10月16日电 题：千年窑火遇上非遗味道 河北峰峰一道“窑工饭”激活古镇新经济",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T01:16:50.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "finance"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "adcdcb100c6ac2b63374851d",
-      "title": "今年势头最猛的国产旗舰：消息称华为 Pura X View 阔直板手机出货量超 71 万，实销均价在 7000 元左右",
-      "originalUrl": "https://www.ithome.com/1/013/731.htm",
-      "summary": "IT之家 10 月 16 日消息，博主 @数码闲聊站 今日爆料，渠道数据显示，华为阔直板（Pura X View）出货量已超 71 万，实销均价在 7000 元左右，其中约 30％用户来自苹果用户。 博主称（Pura X View）鉴定为今年势头最猛的国产旗舰，该机前期还大面积缺货，如果不缺货估计更猛。此外，华为大阔折和小阔折出货量已超 315 万。 据IT之家了解，华为 Pura X View 搭载麒麟 9030S 处理器，售价 5999 元起： 12GB + 256GB：…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T01:16:14.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "675a9c74069df583731b3856",
-      "title": "苹果 Minions 研究：闲置 Mac GPU 组队，几分钟就能完成 10 小时 AI 任务",
-      "originalUrl": "https://www.ithome.com/1/013/730.htm",
-      "summary": "IT之家 10 月 16 日消息，科技媒体 AppleInsider 昨日（10 月 15 日）发布博文，报道称苹果研究团队公布了一项名为 Minions 的系统研究，尝试聚合闲置 Mac GPU，形成一个可动态调度的“虚拟 GPU 云”，用于运行大规模机器学习推理任务。 IT之家援引博文介绍，传统 AI 推理通常依赖集中式 GPU 集群，面临成本高、扩容慢、排队时间长等问题；而 Mac 在日常办公、浏览和创作场景中，GPU 常常长期空闲。 苹果公司在论文中阐述了 Minio…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T01:14:02.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "e6a65adb325a43fbd5885d01",
-      "title": "雷蛇公布宝可梦 Pixel Art 款联名外设，包括鼠标、鼠标垫、键盘、座椅",
-      "originalUrl": "https://www.ithome.com/1/013/729.htm",
-      "summary": "IT之家 10 月 16 日消息，Razer（雷蛇）昨日公布了宝可梦 Pixel Art 主题系列外设。此次的联名型号包含无线游戏鼠标、鼠标垫、无线机械键盘、游戏座椅，统一采用类金属漆面外观，装饰以初代经典宝可梦在三代时期的像素形象。 天猫雷蛇 | 宝可梦 Pixel Art 主题系列外设 套装 4099 / 6799 元直达链接 IT之家了解到，Razer | 宝可梦 Pixel Art 款外设定价情况如下： 联名无线游戏鼠标：1,399 元； 联名鼠标垫：299 元； 联…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T01:11:40.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "e412b0ec7936e7ef85c2521f",
-      "title": "小米 REDMI K100 手机官宣本月见，号称“重塑旗舰新基线”",
-      "originalUrl": "https://www.ithome.com/1/013/728.htm",
-      "summary": "IT之家 10 月 16 日消息，小米 REDMI 红米手机官方今日宣布，K100 来了，本月见。 全新标准版，重塑旗舰新基线 超大电量，游戏性能体验看齐 Pro 据IT之家此前报道，博主 @数码闲聊站 此前爆料，小米 REDMI K100 标准版手机堆了米系最大电池、独显芯片、相对大马达、Bose 双扬，属于配置不搞花活的类型。 据悉，小米 REDMI K100 标准版手机搭载骁龙 8 至尊版处理器，属于“3.5K 档量大管饱的产品”。 相关阅读： 《小米 REDMI K1…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T01:07:48.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "18ce2c5116b96d8989384648",
-      "title": "美科技股上演“惊天大逆转”：三大指数携手收涨，纳指收盘前一跃翻红",
-      "originalUrl": "https://www.ithome.com/1/013/726.htm",
-      "summary": "IT之家 10 月 16 日消息，当地时间 10 月 15 日，美股上演逆转行情。 科技股开盘再度遭遇抛售重压，纳指一度跌逾 1.4%，随后在日内反攻中收复全部失地，最终三大指数携手收涨。 ▲ 纳斯达克 IT之家查询获悉，截至当地时间 10 月 15 日收盘： 标普 500 指数涨 0.33%，报 7744.06 点； 纳斯达克综合指数涨 0.08%，报 26713.03 点； 道琼斯工业平均指数涨 1.08%，报 52177.69 点。 据财联社报道，随着科技股展开反攻，纳…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T01:04:17.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "90fca004a629ffa7f83e0758",
-      "title": "微软 Win11 照片应用史诗级重构：一站式管理本地 / iCloud 照片，编辑器加载提速 25%",
-      "originalUrl": "https://www.ithome.com/1/013/725.htm",
-      "summary": "IT之家 10 月 16 日消息，微软昨日（10 月 15 日）发布博文，宣布重构 Windows 11 系统自带“照片”（Photos）应用，并邀请 Windows Insider 项目成员测试，预估今年晚些时候面向所有 Windows 11 用户开放。 界面方面，微软本次重新设计“图库”（Gallery）。用户无需来回切换多个应用，可以在同一个界面浏览本地电脑、OneDrive 以及 Apple iCloud 中的照片和视频。 应用还支持按日期、人物、收藏等维度整理图片，…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T01:04:01.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "33fa16c8025927f4f99267d0",
-      "title": "北方大范围降温 多地做好供暖保障工作",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-16/10715404.shtml",
-      "summary": "近期，北方迎来大范围降温，多地及时做好供暖工作，从热源方式、运维方式等方面进行技术创新，赋能智慧供暖，全力保障群众温暖过冬。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T00:58:05.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "33324d418cfc218afe816ee9",
-      "title": "曝宁德时代乘用车业务换帅，将加快推进换电",
-      "originalUrl": "https://www.ithome.com/1/013/724.htm",
-      "summary": "IT之家 10 月 16 日消息，据 36 氪 10 月 15 日晚报道，宁德时代乘用车体系迎来重磅调整，宁德时代换电业务负责人、时代电服 CEO 杨峻将接替韩伟，兼任市场体系联席总裁，原市场体系联席总裁韩伟将回归商用车业务。 报道称，国内乘用车业务副总裁王慧也随之调整。知情人士透露，王慧所负责业务将由宁德时代乘用车 CTO 高焕接棒，而王慧也同样回归商用车业务。 报道认为，杨峻的接任，意味着宁德时代有望进一步打通乘用车电池销售与换电业务。过去几年，杨峻最重要的工作，就是推动…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T00:54:14.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "6fa5737d2a5467a742518ce8",
-      "title": "营收增长放缓，消息称投资者降低 Anthropic IPO 估值预期",
-      "originalUrl": "https://www.ithome.com/1/013/723.htm",
-      "summary": "IT之家 10 月 16 日消息，北京时间今天（16 日）凌晨，路透社援引四名知情人士消息称，随着 AI 融资成本持续攀升引发市场担忧，Anthropic 公布最新财务数据后，部分现有投资者和准备参与 IPO 的投资者开始考虑下调对 Anthropic 的估值。 其中三名知情人士称，部分投资者参加了 Anthropic 在旧金山举办的投资者日活动，并讨论了约 1.5 万亿美元（IT之家注：现汇率约合 10.05 万亿元人民币）的估值。此前，投资者预计 Anthropic 在 …",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T00:54:07.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "finance"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "b14db2e2a0303ae9506cfbe7",
-      "title": "红魔 5K MiniLED 显示器公布：首发 5184 分区，6499 元，12 月上市",
-      "originalUrl": "https://www.ithome.com/1/013/722.htm",
-      "summary": "IT之家 10 月 16 日消息，红魔 (REDMAGIC) 在昨日的红魔 12 PRO+ 智能手机发布会上公布了红魔 5K MiniLED 显示器。这一型号首发 5,184 分区背光，官方售价 6,499 元，2026 年 12 月正式上市。 红魔 5K MiniLED 显示器支持 5K 180Hz / 2K 330Hz，HDR 峰值亮度达 1400nits，色域典型值达 95% BT，支持“独家”逐行背光扫描动态清晰画面技术。 此外，其采用超薄全铝机身，纯平背板，拥有渐变…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T00:50:44.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "bccf38b0965eeca309c24bc3",
-      "title": "英伟达黄仁勋称 AI 芯片需求持续超过供应能力：几乎每天都有新订单涌入",
-      "originalUrl": "https://www.ithome.com/1/013/721.htm",
-      "summary": "IT之家 10 月 16 日消息，英伟达首席执行官黄仁勋表示，客户对人工智能芯片的订购量持续超过公司的供货能力；即便当前科技股遭遇大幅抛售，引发了市场对采购方如何为该行业巨额扩张筹措资金的质疑，强劲的需求势头依然未减。 在周四播出的 BG2 播客专访中，黄仁勋透露，新订单“几乎每周、每天都在持续涌入”。 我们一直在不断提升供给，但未交付的订单量仍在持续走高。 头部云服务商、新兴 AI 云算力运营商以及硬件设备制造商均已下达了巨额订单。黄仁勋称，客户的需求预测普遍提前至少一年，…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T00:47:12.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "f4b786eb1baeccf542226fe6",
-      "title": "官方回应“iPhone Duo 使用现成屏幕”：从零开始研发，苹果定规格、三星帮量产",
-      "originalUrl": "https://www.ithome.com/1/013/720.htm",
-      "summary": "IT之家 10 月 16 日消息，科技媒体 9to5Mac 昨日（10 月 15 日）发布博文，报道称针对围绕 iPhone Duo 折叠屏是否“直接采用三星现成屏幕”的争议，苹果回应称该公司主导定义体验与规格，并与三星等伙伴从零共同开发并量产，其屏幕是高度定制部件。 在接受 YouTube 频道 MrMobile 采访（9 月 10 日采访，相关视频 10 月 15 日发布）时，苹果硬件工程副总裁 Rich Dinh 与 iPhone 显示技术高级总监 JP Guillou…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T00:44:41.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "5b08ed26f3e9dc66890fce86",
-      "title": "冷空气发威北方大部气温将创新低 大范围雨雪明起进入最强时段",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-16/10715396.shtml",
-      "summary": "中国天气网讯 今天(10月16日)至19日，冷空气将自西向东影响长江中下游及其以北大部地区，西北地区东部、华北、黄淮等多地最高气温将刷新今年下半年来新低。降温的同时，大范围降水也将登场，北方多地将出现同期少见的强降雨。明天将是本轮降水过程的最强时段，大到暴雨范围明显扩大。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T00:31:47.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "eb9cfa59db119a83b8540d01",
-      "title": "我国大部地区有降水过程 较强冷空气将自西向东影响我国大部地区",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-16/10715388.shtml",
-      "summary": "中新网10月16日电 据中央气象台网站消息，昨日，湖南、江西等地出现较强降雨，新疆等地出现强降雪和大风降温。预计16日至19日，冷空气将继续影响我国大部地区，带来大风、降温和雨雪天气，注意防范对交通运输、农业、城市运行等的影响，并做好森林草原和城乡防火工作。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T00:25:37.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "ebf4b359802fee1d33052322",
-      "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
-      "originalUrl": "https://sspai.com/post/116355",
-      "summary": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "sspai",
-        "feedUrl": "https://sspai.com/feed",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T00:23:12.000Z",
-      "timeIssue": null,
-      "channels": [
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "sspai"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-19T05:15:36.857Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "4e67ac8fc4de4bc2058dc6e1",
-      "title": "求职简历上层层设防的个人信息，是怎么被批量“解锁”的？",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-16/10715385.shtml",
-      "summary": "姓名、电话、身份证号……一份求职简历填写的个人信息，本应只流向招聘方。但在一些人手里，这些信息被批量“开盒”、打包出售。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-16T00:02:50.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life",
-        "career"
-      ],
-      "sourceIds": [
-        "chinanews-society"
-      ],
-      "firstSeenAt": "2026-10-16T04:23:20.158Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "43df5ca18bbf52b35003a129",
-      "title": "谷歌宣布安卓地震预警累计推送超 10 亿次，覆盖范围扩展至全球 200 多个国家和地区",
-      "originalUrl": "https://www.ithome.com/1/013/708.htm",
-      "summary": "IT之家 10 月 16 日消息，当地时间 10 月 15 日，谷歌宣布累计推送的安卓地震预警已超过 10 亿次。 自 2021 年推出以来，该系统已累计推送超过 10 亿次警报，帮助用户在剧烈晃动到来前及时避险。谷歌当日还宣布将该系统的覆盖范围从 98 个国家和地区扩展至 200 多个。 谷歌同时升级了最新的“防范警报”，以便在数秒内向用户提供更充实的信息。在已启用预警服务的地区，一旦发生地震，安卓用户将接收到以下三种级别警报之一： 注意 (Be Aware)：适用于预估轻…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T23:46:56.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-15T23:49:19.606Z",
-      "lastSeenAt": "2026-10-15T23:49:19.606Z",
-      "updatedAt": "2026-10-15T23:49:19.606Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "0fbe1e7d2b37f612c3be15aa",
-      "title": "也门官员：胡塞武装袭击亚丁总统府 致5死16伤",
-      "originalUrl": "https://www.chinanews.com.cn/gj/2026/10-16/10715382.shtml",
-      "summary": "中新网10月16日电 综合外媒报道，也门政府官员表示，胡塞武装15日向位于也门南部临时首都亚丁的总统府发射了导弹，造成5人死亡、16人受伤。伤亡人员包括安保人员和政府工作人员。一名也门官员表示，袭击发生后，也门总理及内阁成员均安然无恙。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-scroll-news",
-        "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T23:41:47.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-15T23:49:19.606Z",
-      "lastSeenAt": "2026-10-15T23:49:19.606Z",
-      "updatedAt": "2026-10-15T23:49:19.606Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "054448761b196a0c3a264e36",
-      "title": "英伟达 CEO 黄仁勋自述：当年为了联系台积电，我打了好几次电话都没人回",
-      "originalUrl": "https://www.ithome.com/1/013/707.htm",
-      "summary": "IT之家 10 月 16 日消息，据《商业内幕》15 日报道，在英伟达成为 AI 巨头之前，CEO 黄仁勋曾为联系台积电费尽周折：接连打电话，却始终没人回电。 在 14 日发布的一段播客访谈中，黄仁勋讲述了自己最初如何联系上台积电创始人张忠谋。上世纪 90 年代末，英伟达需要寻找代工厂生产图形芯片。当时芯片代工产能紧张，部分厂商甚至要求客户提供技术授权，才肯接下订单。 黄仁勋听说过台积电。那时台积电的规模远不及今天，于是决定试着联系。黄仁勋从黄页电话簿中找到台积电美国办事处的…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T23:37:52.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-15T23:49:19.606Z",
-      "lastSeenAt": "2026-10-15T23:49:19.606Z",
-      "updatedAt": "2026-10-15T23:49:19.606Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "bb966c133dee21ad62e32ba8",
-      "title": "宣称“美国最强开源 AI 模型”：Meta 发布 Muse Spark Open",
-      "originalUrl": "https://www.ithome.com/1/013/706.htm",
-      "summary": "IT之家 10 月 16 日消息，当地时间 10 月 15 日，Meta 发布了开放权重 AI 模型 Muse Spark Open。Meta 官方宣称，Muse Spark Open 是迄今为止能力最强的美国开放权重模型。 Muse Spark Open 采用原生多模态架构，总参数量达 816B（其中激活参数 42B），支持 1M token 的上下文窗口。该模型专为代码构建与智能体协作设计，在处理长程任务、复杂软件工程以及多步推理等方面展现出卓越性能。 得益于最新的 ML…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T23:36:51.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-15T23:49:19.606Z",
-      "lastSeenAt": "2026-10-15T23:49:19.606Z",
-      "updatedAt": "2026-10-15T23:49:19.606Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "88930d17332bbb2f7a8ff6a6",
-      "title": "灵动岛添新技能：苹果 Sports 升级，赛事中场休息自动触发“核心数据”",
-      "originalUrl": "https://www.ithome.com/1/013/705.htm",
-      "summary": "IT之家 10 月 16 日消息，苹果公司今天（10 月 16 日）更新体育（Apple Sports）应用，最新 4.5 版本大幅优化了 “实时活动”（Live Activities） 功能，当用户关注的赛事进入中场休息或暂停阶段后，iPhone 的锁定屏幕和灵动岛将自动呈现最关键的“核心数据统计”（Key Stats）。 IT之家附上 Apple Sports 4.5 版本官方更新日志如下： 实时活动的新更新，助你一览即可更贴近比赛。现在你可以在各联赛比赛暂停期间查看关键…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T23:35:55.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech",
-        "sports"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-15T23:49:19.606Z",
-      "lastSeenAt": "2026-10-15T23:49:19.606Z",
-      "updatedAt": "2026-10-15T23:49:19.606Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "c448b8ea4a814be501498005",
-      "title": "上门服务赛道持续拓展 “新饭碗”如何端得更稳？",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-16/10715381.shtml",
-      "summary": "代扔垃圾、上门助浴、上门做饭成为灵活就业新选择",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T23:27:04.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-15T23:49:19.606Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-16T04:23:20.158Z",
-      "version": 2,
-      "history": [
-        {
-          "title": "上门服务赛道持续拓展，“新饭碗”如何端得更稳？",
-          "summary": "代扔垃圾、上门助浴、上门做饭成为灵活就业新选择",
-          "summaryProvenance": {
-            "type": "publisher_feed_excerpt",
-            "sourceId": "chinanews-scroll-news",
-            "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-            "maxCharacters": 240
-          },
-          "sourcePublishedAt": "2026-10-15T23:27:04.000Z",
-          "version": 1,
-          "updatedAt": "2026-10-15T23:49:19.606Z"
-        }
-      ]
-    },
-    {
-      "id": "b60651e4717fab1f62b75cfe",
-      "title": "iPad mini 8 悬念再起，苹果已测试 60Hz 与 120Hz 两种 OLED 屏幕",
-      "originalUrl": "https://www.ithome.com/1/013/704.htm",
-      "summary": "IT之家 10 月 16 日消息，在最新一期 Power On 播客节目中，针对 iPad mini 8 屏幕刷新率爆料差别，彭博社的马克 · 古尔曼（Mark Gurman）表示，苹果公司内部测试了 60Hz 和 120Hz 两种 ProMotion 显示屏。 关于 iPad mini 8 屏幕的刷新率，目前爆料存在两种说法，一种是升级到 120Hz，而另一种由消息人士 yeux1122 爆料，称这款平板将配备一块 8.4 英寸的 LTPS 混合 OLED 面板，刷新率为 …",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T23:25:04.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology",
-        "consumer-tech"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-15T23:49:19.606Z",
-      "lastSeenAt": "2026-10-15T23:49:19.606Z",
-      "updatedAt": "2026-10-15T23:49:19.606Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "9d22f684e1268bd90080edbb",
-      "title": "OpenAI 智能体 dots 负责人：有了 AI，人们可以选择更努力工作，也可以选择少干点活",
-      "originalUrl": "https://www.ithome.com/1/013/703.htm",
-      "summary": "IT之家 10 月 16 日消息，据《商业内幕》报道，AI 领域的激烈竞争让科技从业者加班加点，但 OpenAI 企业产品负责人、旗下新款 AI 智能体 dots 负责人亚历山大 · 恩比里科斯认为，AI 也可以帮助人们大幅减少工作时间。 当地时间 15 日，恩比里科斯在 TechCrunch Disrupt 大会上指出，随着 AI 能力不断提升，人们可以选择更加努力地工作，也可以把部分工作交给 AI，让自己轻松一些。“我们有了更多选择。” 此前，一名记者问他，AI 究竟什么…",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "ithome",
-        "feedUrl": "https://www.ithome.com/rss/",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T23:24:50.000Z",
-      "timeIssue": null,
-      "channels": [
-        "technology"
-      ],
-      "sourceIds": [
-        "ithome"
-      ],
-      "firstSeenAt": "2026-10-15T23:49:19.606Z",
-      "lastSeenAt": "2026-10-15T23:49:19.606Z",
-      "updatedAt": "2026-10-15T23:49:19.606Z",
-      "version": 1,
-      "history": []
-    },
-    {
-      "id": "c99b25c48de007ffe1c07e98",
-      "title": "“鱼腹藏金”即将寄出！新型理财骗局绕开转账、盯上实物黄金",
-      "originalUrl": "https://www.chinanews.com.cn/sh/2026/10-16/10715380.shtml",
-      "summary": "说到理财骗局，很多人先想到的是诱导转账、线上汇款、虚假平台……但现在还有一种操作：诱导、承诺受害人把黄金藏进鱼肚子里，寄到指定地点，就能拿到高额回报。这样看似离奇的操作背后，是一种新型诈骗方式。它让当事人不但不觉得被骗，反而坚信自己抓住了“内部投资渠道”。",
-      "summaryProvenance": {
-        "type": "publisher_feed_excerpt",
-        "sourceId": "chinanews-society",
-        "feedUrl": "https://www.chinanews.com.cn/rss/society.xml",
-        "maxCharacters": 240
-      },
-      "sourcePublishedAt": "2026-10-15T23:23:02.000Z",
-      "timeIssue": null,
-      "channels": [
-        "local-life"
-      ],
-      "sourceIds": [
-        "chinanews-society",
-        "chinanews-scroll-news"
-      ],
-      "firstSeenAt": "2026-10-15T23:49:19.606Z",
-      "lastSeenAt": "2026-10-16T04:23:20.158Z",
-      "updatedAt": "2026-10-15T23:49:19.606Z",
-      "version": 1,
-      "history": []
     }
   ],
   "sourceStatus": {
@@ -260016,8 +260048,8 @@
       "id": "ithome",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T13:14:49.996Z",
-      "lastSuccessAt": "2026-11-08T13:14:49.996Z",
+      "checkedAt": "2026-11-08T18:28:54.104Z",
+      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
       "etag": null,
       "lastModified": null,
       "discovered": 60,
@@ -260028,8 +260060,8 @@
       "id": "sspai",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T13:14:49.996Z",
-      "lastSuccessAt": "2026-11-08T13:14:49.996Z",
+      "checkedAt": "2026-11-08T18:28:54.104Z",
+      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
       "etag": null,
       "lastModified": null,
       "discovered": 10,
@@ -260040,10 +260072,10 @@
       "id": "chinanews-society",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T13:14:49.996Z",
-      "lastSuccessAt": "2026-11-08T13:14:49.996Z",
-      "etag": "\"6af0737f-3e0c\"",
-      "lastModified": "Sun, 08 Nov 2026 13:05:03 GMT",
+      "checkedAt": "2026-11-08T18:28:54.104Z",
+      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
+      "etag": "\"6af08e4e-3d84\"",
+      "lastModified": "Sun, 08 Nov 2026 14:59:26 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -260052,10 +260084,10 @@
       "id": "chinanews-finance",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T13:14:49.996Z",
-      "lastSuccessAt": "2026-11-08T13:14:49.996Z",
-      "etag": "\"6af072d3-41d4\"",
-      "lastModified": "Sun, 08 Nov 2026 13:02:11 GMT",
+      "checkedAt": "2026-11-08T18:28:54.104Z",
+      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
+      "etag": "\"6af08d1a-4335\"",
+      "lastModified": "Sun, 08 Nov 2026 14:54:18 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -260064,11 +260096,11 @@
       "id": "chinanews-life",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T13:14:49.996Z",
-      "lastSuccessAt": "2026-11-08T13:14:49.996Z",
+      "checkedAt": "2026-11-08T18:28:54.104Z",
+      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
       "etag": "\"6af04cff-12e9\"",
       "lastModified": "Sun, 08 Nov 2026 10:20:47 GMT",
-      "discovered": 10,
+      "discovered": 0,
       "failures": 0,
       "error": null
     },
@@ -260076,8 +260108,8 @@
       "id": "chinanews-jk",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T13:14:49.996Z",
-      "lastSuccessAt": "2026-11-08T13:14:49.996Z",
+      "checkedAt": "2026-11-08T18:28:54.104Z",
+      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
       "etag": "\"69aa3e2a-2832\"",
       "lastModified": "Fri, 06 Mar 2026 02:38:34 GMT",
       "discovered": 0,
@@ -260088,10 +260120,10 @@
       "id": "chinanews-culture",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T13:14:49.996Z",
-      "lastSuccessAt": "2026-11-08T13:14:49.996Z",
-      "etag": "\"6af06e77-4346\"",
-      "lastModified": "Sun, 08 Nov 2026 12:43:35 GMT",
+      "checkedAt": "2026-11-08T18:28:54.104Z",
+      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
+      "etag": "\"6af07c9e-41ac\"",
+      "lastModified": "Sun, 08 Nov 2026 13:43:58 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -260100,8 +260132,8 @@
       "id": "chinanews-edu",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T13:14:49.996Z",
-      "lastSuccessAt": "2026-11-08T13:14:49.996Z",
+      "checkedAt": "2026-11-08T18:28:54.104Z",
+      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
       "etag": "\"6af00b15-3305\"",
       "lastModified": "Sun, 08 Nov 2026 05:39:33 GMT",
       "discovered": 0,
@@ -260112,10 +260144,10 @@
       "id": "chinanews-sports",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T13:14:49.996Z",
-      "lastSuccessAt": "2026-11-08T13:14:49.996Z",
-      "etag": "\"6af07184-3fc8\"",
-      "lastModified": "Sun, 08 Nov 2026 12:56:36 GMT",
+      "checkedAt": "2026-11-08T18:28:54.104Z",
+      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
+      "etag": "\"6af095b0-3f58\"",
+      "lastModified": "Sun, 08 Nov 2026 15:30:56 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -260124,10 +260156,10 @@
       "id": "chinanews-scroll-news",
       "contentSchema": 2,
       "status": "ok",
-      "checkedAt": "2026-11-08T13:14:49.996Z",
-      "lastSuccessAt": "2026-11-08T13:14:49.996Z",
-      "etag": "\"6af07410-447d\"",
-      "lastModified": "Sun, 08 Nov 2026 13:07:28 GMT",
+      "checkedAt": "2026-11-08T18:28:54.104Z",
+      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
+      "etag": "\"6af095af-458d\"",
+      "lastModified": "Sun, 08 Nov 2026 15:30:55 GMT",
       "discovered": 30,
       "failures": 0,
       "error": null
@@ -260135,8 +260167,8 @@
     "govuk-fulltext": {
       "id": "govuk-fulltext",
       "status": "ok",
-      "checkedAt": "2026-11-08T13:14:49.996Z",
-      "lastSuccessAt": "2026-11-08T13:14:49.996Z",
+      "checkedAt": "2026-11-08T18:28:54.104Z",
+      "lastSuccessAt": "2026-11-08T18:28:54.104Z",
       "discovered": 20,
       "rejected": 0,
       "contentSchema": 3,
